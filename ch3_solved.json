@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 137,
+    "orig_no": "137",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Chứng từ quan trọng nhất trong bộ chứng từ xuất khẩu chứng minh quyền sở hữu đối với hàng hóa đi đường biển là:",
+    "options": {
+      "A": "Vận đơn đường biển (Bill of Lading - B/L)",
+      "B": "Hóa đơn thương mại (Commercial Invoice)",
+      "C": "Phiếu đóng gói hàng hóa (Packing List)",
+      "D": "Giấy chứng nhận xuất xứ (C/O)"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 27 Luật Thương mại 2005, mua bán hàng hóa quốc tế phải được thực hiện trên cơ sở hợp đồng bằng văn bản hoặc các hình thức khác có giá trị pháp lý tương đương (điện báo, telex, fax, thông điệp dữ liệu điện tử)."
+  },
+  {
+    "id": 138,
+    "orig_no": "138",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty A (tại Việt Nam) ký hợp đồng nhượng quyền thương mại với Tập đoàn nước giải khát B. Theo thỏa thuận, Tập đoàn B chuyển giao quy trình công nghệ và yêu cầu Công ty A phải tiến hành sản xuất, đóng chai sản phẩm đúng theo các chỉ dẫn và tiêu chuẩn kỹ thuật nghiêm ngặt do Tập đoàn B đưa ra trước khi bán ra thị trường dưới nhãn hiệu của B. Dựa vào nội dung từ hình ảnh trên, ví dụ thực tế của Công ty A thuộc loại hợp đồng nhượng quyền thương mại nào?",
+    "options": {
+      "A": "Hợp đồng sản xuất sản phẩm theo hướng dẫn của bên giao quyền thương mại",
+      "B": "Hợp đồng theo đó bên nhận quyền tự do tổ chức sản xuất rồi bán sản phẩm dưới nhãn hiệu của bên giao quyền thương mại",
+      "C": "Hợp đồng phân phối sản phẩm theo đó bên nhận quyền tự giới hạn việc bán các sản phẩm nhất định trong các cửa hàng mang nhãn hiệu của bên giao quyền thương mại",
+      "D": "Hợp đồng ủy thác xuất nhập khẩu sản phẩm độc quyền"
+    },
+    "answer": "A",
+    "explanation": "Phán quyết của Trọng tài thương mại quốc tế có giá trị chung thẩm (final and binding), không thể kháng cáo lên cấp cao hơn và được công nhận, thi hành tại hơn 160 quốc gia theo Công ước New York 1958 về công nhận và thi hành phán quyết trọng tài nước ngoài."
+  },
+  {
+    "id": 139,
+    "orig_no": "139",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty Nông sản Z (Việt Nam) xuất khẩu lô hàng cà phê cho Công ty M (Đức). Khi hàng cập cảng Hamburg, bên mua phát hiện độ ẩm của cà phê vượt quá mức thỏa thuận trong hợp đồng. Công ty M lập tức nộp đơn kiện Công ty Z ra Trung tâm Trọng tài Quốc tế mà không trao đổi hay liên hệ trước. Hành động của Công ty M có đúng với quy trình giải quyết tranh chấp thông thường trong giao dịch ngoại thương không?",
+    "options": {
+      "A": "Sai, vì trước hết các bên phải gặp gỡ, thương lượng để giải quyết; nếu không thành công mới kiện ra Trọng tài hoặc Tòa án.",
+      "B": "Sai, vì bắt buộc phải nộp đơn lên Tòa án quốc tế trước khi đưa ra Trọng tài.",
+      "C": "Đúng, vì khi phát hiện vi phạm thì bên mua có quyền khởi kiện ngay lập tức.",
+      "D": "Đúng, vì Trọng tài quốc tế là cơ quan duy nhất có thẩm quyền xử lý tranh chấp ngoại thương"
+    },
+    "answer": "A",
+    "explanation": "Nghiệp vụ hàng đổi hàng (Barter) là hình thức mua bán đối lưu cổ điển nhất, trong đó hai bên trao đổi trực tiếp lượng hàng hóa có giá trị tương đương nhau mà không sử dụng tiền mặt để thanh toán."
+  },
+  {
+    "id": 140,
+    "orig_no": "140",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty X (Việt Nam) ký hợp đồng xuất khẩu nông sản cho Công ty Y (Hàn Quốc) vào tháng 1/2026. Hợp đồng quy định: \"Thời hạn giao hàng từ tháng 2/2026 đến tháng 7/2026, thời điểm giao hàng cụ thể sẽ do Bên mua thông báo trước 15 ngày\". Điều khoản này thể hiện cách xác định thời hạn giao hàng nào?",
+    "options": {
+      "A": "Thời hạn giao hàng có định kỳ (bằng một khoảng thời gian nhất định tùy theo sự lựa chọn của người mua)",
+      "B": "Thời hạn giao hàng không định kỳ",
+      "C": "Thời hạn giao hàng ngay",
+      "D": "Thời hạn giao hàng không xác định"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản thời hạn giao hàng theo quyền lựa chọn của người mua quy định người mua có quyền chọn ngày giao hàng cụ thể trong một khoảng thời gian nhất định và phải thông báo trước cho người bán một thời gian hợp lý."
+  },
+  {
+    "id": 141,
+    "orig_no": "141",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Đặc điểm về chủ thể tham gia hợp đồng ngoại thương là:",
+    "options": {
+      "A": "Các bên có quốc tịch khác nhau và có trụ sở ở các nước khác nhau",
+      "B": "Các bên có cùng quốc tịch nhưng trụ sở nằm ở hai tỉnh khác nhau",
+      "C": "Chỉ gồm các tổ chức chính phủ của các quốc gia",
+      "D": "Bắt buộc một trong hai bên phải là công ty đa quốc gia"
+    },
+    "answer": "A",
+    "explanation": "Theo Công ước Viên 1980 (CISG - Điều 1) và thông lệ thương mại quốc tế, đặc điểm cơ bản nhất xác định tính chất quốc tế của hợp đồng ngoại thương là các bên tham gia có trụ sở thương mại (place of business) đặt tại các quốc gia khác nhau."
+  },
+  {
+    "id": 142,
+    "orig_no": "142",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Để giảm thiểu rủi ro chôn vốn, bất đồng bộ chứng từ và bảo đảm điều kiện miễn/hoàn thuế Hải quan trong kinh doanh tạm nhập - tái xuất, doanh nghiệp trung gian CẦN quy định rõ điều khoản thanh toán nào sau đây trong các hợp đồng?",
+    "options": {
+      "A": "Sử dụng L/C giáp lưng, đồng thời thu xếp sao cho việc trả tiền hợp đồng nhập khẩu chậm hơn so với thời hạn thanh toán trong hợp đồng xuất khẩu và bắt buộc thanh toán qua ngân hàng thương mại hợp lệ.",
+      "B": "Quy định hợp đồng tạm nhập thanh toán 100% bằng T/T trả trước, còn hợp đồng tái xuất cho phép người mua trả chậm bằng phương thức D/A (Chấp nhận thanh toán trao chứng từ).",
+      "C": "Thỏa thuận cho phép bên mua tái xuất thanh toán tiền trực tiếp cho bên bán tạm nhập để tiết kiệm chi phí giao dịch ngân hàng quốc tế.",
+      "D": "Cho phép thanh toán bằng tiền mặt qua biên giới hoặc bù trừ công nợ trực tiếp giữa ba bên mà không cần qua tài khoản ngân hàng."
+    },
+    "answer": "A",
+    "explanation": "Trong kinh doanh tạm nhập - tái xuất, để tránh chôn vốn và bảo đảm đồng bộ, doanh nghiệp trung gian thường sử dụng L/C giáp lưng (Back-to-Back L/C), thu xếp thời hạn thanh toán tiền nhập khẩu chậm hơn tiền xuất khẩu và bắt buộc thanh toán qua ngân hàng để đáp ứng quy định hoàn thuế của Hải quan."
+  },
+  {
+    "id": 143,
+    "orig_no": "143",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Điều khoản Bất khả kháng (Force Majeure) giải thoát trách nhiệm thực hiện hợp đồng cho các bên khi:",
+    "options": {
+      "A": "Xảy ra sự kiện khách quan, không thể lường trước và không thể khắc phục dù đã cố gắng.",
+      "B": "Biến động tỷ giá hối đoái làm hợp đồng bị thua lỗ",
+      "C": "Giá nguyên vật liệu đầu vào tăng cao đột biến",
+      "D": "Đối tác cung ứng của người bán bị phá sản"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản Bất khả kháng (Force Majeure) giải phóng nghĩa vụ thực hiện hợp đồng khi xảy ra sự kiện hội đủ 3 điều kiện: mang tính khách quan, không thể lường trước được tại thời điểm ký kết và không thể khắc phục được dù đã áp dụng mọi biện pháp cần thiết."
+  },
+  {
+    "id": 144,
+    "orig_no": "144",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Điều khoản Dung sai số lượng trong hợp đồng có ý nghĩa gì?",
+    "options": {
+      "A": "Cho phép giao chênh lệch tăng/giảm một tỷ lệ % nhất định so với số lượng hợp đồng.",
+      "B": "Bắt buộc người bán giao đúng chính xác 100% không lệch một gram",
+      "C": "Người mua có quyền trả lại toàn bộ hàng nếu giao thừa 0.5%",
+      "D": "Tỷ lệ giao do bên vận chuyển tùy ý quyết định"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản dung sai số lượng (More or less clause / Tolerance clause) cho phép người bán giao hàng thừa hoặc thiếu một tỷ lệ phần trăm nhất định (thường +/- 5% hoặc 10%) so với số lượng quy định trong hợp đồng để phù hợp với đặc thù vận chuyển hàng rời hoặc phương tiện chuyên chở."
+  },
+  {
+    "id": 145,
+    "orig_no": "145",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Điều khoản Tên hàng (Commodity) trong hợp đồng ngoại thương thường KHÔNG sử dụng phương pháp mô tả nào?",
+    "options": {
+      "A": "Nêu họ tên người đại diện pháp luật bên bán",
+      "B": "Nêu nhãn hiệu hoặc thương hiệu đăng ký",
+      "C": "Nêu Mã HS (HS Code) của hàng hóa",
+      "D": "Nêu tên thương mại kèm tên khoa học"
+    },
+    "answer": "A",
+    "explanation": "Tên hàng (Commodity) trong hợp đồng thương mại mô tả đặc tính của sản phẩm (tên thương mại, tên khoa học, nhãn hiệu thương hiệu, mã HS, quy cách phẩm chất), tuyệt đối không nêu họ tên cá nhân người đại diện pháp luật của bên bán."
+  },
+  {
+    "id": 146,
+    "orig_no": "146",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Điều kiện để một thương nhân Việt Nam ký kết hợp đồng xuất nhập khẩu hàng hóa thông thường là:",
+    "options": {
+      "A": "Được đăng ký kinh doanh hợp pháp theo quy định pháp luật",
+      "B": "Phải có giấy phép xuất nhập khẩu do Bộ Công Thương cấp riêng",
+      "C": "Bắt buộc phải là doanh nghiệp nhà nước",
+      "D": "Phải có vốn điều lệ tối thiểu 10 tỷ đồng"
+    },
+    "answer": "A",
+    "explanation": "Theo Nghị định 69/2018/NĐ-CP hướng dẫn Luật Quản lý ngoại thương, mọi thương nhân Việt Nam có đăng ký kinh doanh hợp pháp đều có quyền kinh doanh xuất nhập khẩu các mặt hàng thông thường mà không cần phải xin giấy phép xuất nhập khẩu riêng."
+  },
+  {
+    "id": 147,
+    "orig_no": "147",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Đối với Hợp đồng nhượng quyền, phí nhượng quyền ban đầu (Initial Franchise Fee) khác với Phí quyền kinh doanh hàng tháng (Royalty Fee) ở điểm nào?",
+    "options": {
+      "A": "Phí nhượng quyền ban đầu (Initial Fee) trả 1 lần khi ký hợp đồng để mua quyền sử dụng thương hiệu và nhận chuyển giao ban đầu; Phí quyền kinh doanh hàng tháng (Royalty Fee) trả định kỳ để duy trì quyền sử dụng và sự hỗ trợ liên tục.",
+      "B": "Cả hai khoản phí này đều phải được hoàn trả lại cho Bên nhận nhượng quyền khi kết thúc hợp đồng.",
+      "C": "Phí nhượng quyền ban đầu (Initial Fee) tính theo % doanh thu hàng tháng; phí quyền kinh doanh hàng tháng (Royalty Fee) là khoản tiền cố định trả 1 lần.",
+      "D": "Phí quyền kinh doanh hàng tháng (Royalty Fee) do cơ quan Thuế thu; phí nhượng quyền ban đầu (Initial Fee) do Bên nhượng quyền thu."
+    },
+    "answer": "A",
+    "explanation": "Trong hợp đồng nhượng quyền thương mại (Franchising), Phí nhượng quyền ban đầu (Initial Fee) trả 1 lần để mua quyền kinh doanh và công nghệ ban đầu; còn Phí quyền kinh doanh hàng tháng (Royalty Fee) là khoản phí định kỳ (thường theo % doanh thu) để duy trì quyền sử dụng thương hiệu và nhận hỗ trợ liên tục."
+  },
+  {
+    "id": 148,
+    "orig_no": "148",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Đối với phương thức thanh toán của hợp đồng mua bán hàng hóa quốc tế, “phương thức thanh toán kèm chứng từ” là:",
+    "options": {
+      "A": "Thư tín dụng (L/C)",
+      "B": "Chuyển tiền bằng điện (T/T)",
+      "C": "Nhờ thu hối phiếu trơn (Clean Collection)",
+      "D": "Tất cả các đáp án đều đúng"
+    },
+    "answer": "A",
+    "explanation": "Thư tín dụng (L/C - Letter of Credit) là phương thức thanh toán kèm chứng từ chặt chẽ nhất, trong đó ngân hàng phát hành cam kết thanh toán vô điều kiện cho người bán khi nhận được bộ chứng từ hoàn toàn phù hợp với các điều kiện của L/C."
+  },
+  {
+    "id": 149,
+    "orig_no": "149",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Đơn vị đo lường nào dưới đây KHÔNG thuộc hệ đo lường Anh – Mỹ:",
+    "options": {
+      "A": "Mét",
+      "B": "Pound",
+      "C": "Inch",
+      "D": "Ounce"
+    },
+    "answer": "A",
+    "explanation": "Mét (meter) thuộc hệ đo lường thập phân quốc tế (Hệ SI/Metric system). Pound, Inch, Ounce thuộc hệ đo lường Anh - Mỹ (Imperial / US Customary system)."
+  },
+  {
+    "id": 150,
+    "orig_no": "150",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Giấy chứng nhận xuất xứ hàng hóa (Certificate of Origin - C/O) có vai trò chính là:",
+    "options": {
+      "A": "Xác định nguồn gốc xuất xứ để hưởng ưu đãi thuế quan (FTA) hoặc quản lý ngạch",
+      "B": "Chứng nhận chất lượng sản phẩm đạt ISO",
+      "C": "Thay thế cho vận đơn đường biển",
+      "D": "Xác định trọng lượng tịnh của lô hàng"
+    },
+    "answer": "A",
+    "explanation": "Giấy chứng nhận xuất xứ hàng hóa (C/O) là chứng từ quan trọng xác định quốc gia xuất xứ của sản phẩm, làm căn cứ áp dụng thuế quan ưu đãi đặc biệt theo các hiệp định thương mại tự do (FTA) hoặc kiểm soát hạn ngạch nhập khẩu."
+  },
+  {
+    "id": 151,
+    "orig_no": "151",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Hợp đồng lưu kho trong thương mại quốc tế là văn bản thỏa thuận được ký kết giữa các bên nào sau đây?",
+    "options": {
+      "A": "Giữa chủ hàng và công ty kinh doanh kho hàng",
+      "B": "Giữa người xuất khẩu và cơ quan quản lý hải quan",
+      "C": "Giữa chủ hàng và công ty vận tải đường biển",
+      "D": "Giữa đơn vị bảo hiểm và bên cho thuê kho"
+    },
+    "answer": "A",
+    "explanation": "Hợp đồng lưu kho (Warehousing contract) là thỏa thuận pháp lý giữa chủ sở hữu hàng hóa (chủ hàng) và doanh nghiệp cung cấp dịch vụ kho bãi, quy định điều kiện gửi giữ, bảo quản và trả lại hàng hóa."
+  },
+  {
+    "id": 152,
+    "orig_no": "152",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Ký mã hiệu hàng hóa (Shipping Marks) ghi ngoài bao bì nhằm mục đích chính là gì?",
+    "options": {
+      "A": "Dễ nhận dạng lô hàng, hướng dẫn bảo quản hàng hóa, phân biệt và hướng dẫn thao tác bốc xếp, vận chuyển",
+      "B": "Trang trí tính thẩm mỹ ngoài thùng",
+      "C": "Quảng cáo sản phẩm cho người xuất khẩu",
+      "D": "Giảm mức thuế xuất nhập khẩu"
+    },
+    "answer": "A",
+    "explanation": "Ký mã hiệu hàng hóa (Shipping marks) ghi ngoài bao bì nhằm mục đích giúp các bên dễ dàng nhận biết, phân loại kiện hàng, hướng dẫn công nhân cảng bốc dỡ an toàn và điều kiện bảo quản trong quá trình vận chuyển."
+  },
+  {
+    "id": 153,
+    "orig_no": "153",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Một xưởng cơ khí tại Hải Phòng tiếp nhận 1 động cơ tàu biển bị hỏng từ Singapore theo hình thức tạm nhập tái xuất để sửa chữa. Sau khi sửa xong, doanh nghiệp muốn giữ lại bán tại Việt Nam thì phải làm gì?",
+    "options": {
+      "A": "Khai báo hải quan chuyển mục đích sử dụng sang tiêu thụ nội địa và nộp đủ thuế",
+      "B": "Tự động xuất hóa đơn bán hàng vì động cơ đã được gia công sửa chữa tại Việt Nam",
+      "C": "Tự thanh lý hàng hóa và chuyển tiền thu được cho đối tác nước ngoài",
+      "D": "Tiêu hủy ngay động cơ và báo cáo tổn thất cho cơ quan hải quan quản lý."
+    },
+    "answer": "A",
+    "explanation": "Hàng hóa tạm nhập tái xuất để sửa chữa thuộc diện chịu sự giám sát hải quan và tạm miễn thuế; nếu muốn giữ lại tiêu thụ nội địa, doanh nghiệp bắt buộc phải đăng ký tờ khai chuyển đổi mục đích sử dụng với cơ quan Hải quan và nộp đầy đủ các loại thuế phát sinh."
+  },
+  {
+    "id": 154,
+    "orig_no": "154",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Mục đích của việc quy định tên hàng theo mã HS (Harmonized System Code) trong hợp đồng ngoại thương là:",
+    "options": {
+      "A": "Bảng phân loại và mã hóa hàng hóa giúp chuẩn hóa tên gọi và phục vụ khai báo hải quan",
+      "B": "Để xác định giá thị trường thế giới",
+      "C": "Để xác định đơn vị vận tải",
+      "D": "Để xác định nguồn gốc xuất xứ hàng hóa"
+    },
+    "answer": "A",
+    "explanation": "Mã HS (Harmonized Commodity Description and Coding System) do WCO ban hành là hệ thống phân loại và mã hóa hàng hóa quốc tế chuẩn hóa, giúp cơ quan hải quan các nước áp mã số thống nhất để tính thuế và quản lý chuyên ngành."
+  },
+  {
+    "id": 155,
+    "orig_no": "155",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Nguồn luật điều chỉnh hợp đồng ngoại thương KHÔNG bao gồm nguồn nào sau đây:",
+    "options": {
+      "A": "Quyết định nội bộ đơn phương của người bán hoặc người mua",
+      "B": "Điều ước quốc tế, công ước, hiệp định quốc tế",
+      "C": "Luật quốc gia (luật cơ bản hoặc văn kiện dưới luật)",
+      "D": "Tập quán thương mại (như Incoterms, UCP 600) và Án lệ"
+    },
+    "answer": "A",
+    "explanation": "Nguồn luật điều chỉnh hợp đồng thương mại quốc tế gồm: Điều ước quốc tế (CISG), Luật quốc gia, Tập quán thương mại quốc tế (Incoterms, UCP) và Tiền lệ án lệ. Quyết định nội bộ đơn phương của một bên không có giá trị pháp lý làm nguồn luật điều chỉnh hợp đồng."
+  },
+  {
+    "id": 156,
+    "orig_no": "156",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Nhận định nào sau đây là ĐÚNG khi đề cập tới quy định về việc giao nhận số lượng và chất lượng hàng hóa trong Hợp đồng mua bán hàng hóa quốc tế?",
+    "options": {
+      "A": "Giao nhận về số lượng xác định số lượng thực tế bằng các phương pháp cân, đo, đong, đếm; còn kiểm tra chất lượng có thể tiến hành bằng phương pháp cảm quan hoặc phân tích.",
+      "B": "Giao nhận về số lượng là việc kiểm tra tính năng, công dụng, hiệu suất và hình dáng của hàng hóa.",
+      "C": "Kiểm tra chất lượng hàng hóa bắt buộc phải tiến hành trên 100% toàn bộ lô hàng, không chấp nhận phương pháp kiểm tra điển hình.",
+      "D": "Phương pháp cảm quan chỉ áp dụng cho việc giao nhận về số lượng hàng hóa."
+    },
+    "answer": "A",
+    "explanation": "Mẫu hợp đồng Gencon (Uniform General Charter) do BIMCO ban hành là mẫu hợp đồng thuê tàu chuyến (Voyage Charter Party) phổ biến và chuẩn mực nhất trên thế giới."
+  },
+  {
+    "id": 157,
+    "orig_no": "157",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Nhận định nào sau đây là ĐÚNG về Hợp đồng đại lý thủ tục hải quan:",
+    "options": {
+      "A": "Bên ủy thác có nghĩa vụ cung cấp các thông tin giấy tờ cần thiết, bảo vệ quyền lợi của đại lý và không vi phạm quyền sở hữu trí tuệ.",
+      "B": "Thù lao của đại lý được cơ quan Hải quan ấn định cố định, không phụ thuộc vào uy tín hay tính chất hàng hóa.",
+      "C": "Người đại lý không có quyền tạm ngưng hoặc đơn phương chấm dứt hợp đồng trong bất kỳ trường hợp nào.",
+      "D": "Người đại lý có thể tiết lộ thông tin lô hàng của bên ủy thác cho các đối thủ cạnh tranh nếu nhận được chi phí bổ sung."
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 15 CISG 1980: Người chào hàng có quyền rút lại (thu hồi) chào hàng nếu thông báo rút lại đến tay người được chào hàng trước hoặc cùng thời điểm với bức chào hàng."
+  },
+  {
+    "id": 158,
+    "orig_no": "158",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Nội dung nào sau đây KHÔNG quy định bắt buộc trên Vận đơn đường biển:",
+    "options": {
+      "A": "Đơn giá hàng hóa",
+      "B": "Tên người nhận hàng",
+      "C": "Tên cảng xếp hàng",
+      "D": "Khối lượng hàng hóa"
+    },
+    "answer": "B",
+    "explanation": "Đơn giá CFR = Giá xuất kho (3,000 USD) + Chi phí vận tải nội địa (10 USD) + Cước vận tải quốc tế (150 USD) = 3,160.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020."
+  },
+  {
+    "id": 159,
+    "orig_no": "159",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Sự kiện nào sau đây thường được công nhận là sự kiện Bất khả kháng?",
+    "options": {
+      "A": "Thiên tai, động đất, sóng thần, chiến tranh, dịch bệnh bị phong tỏa hoàn toàn",
+      "B": "Lãi suất ngân hàng gia tăng đột biến",
+      "C": "Công nhân đình công tại nhà máy bên bán do chậm lương",
+      "D": "Đơn vị thầu phụ của bên bán giao hàng chậm trễ dẫn đến chậm lịch giao hàng"
+    },
+    "answer": "A",
+    "explanation": "Để hạn chế rủi ro người bán chậm giao hàng hoặc người mua chậm thanh toán, hợp đồng ngoại thương thường quy định rõ Điều khoản phạt vi phạm hợp đồng (Penalty / Liquidated damages) với mức phạt theo tỷ lệ % giá trị vi phạm cho mỗi ngày/tuần chậm trễ."
+  },
+  {
+    "id": 160,
+    "orig_no": "160",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Theo Công ước La Haye năm 1964, hợp đồng mua bán ngoại thương là hợp đồng mua bán mà trong đó:",
+    "options": {
+      "A": "Các bên ký kết có trụ sở thương mại ở các nước khác nhau và hàng hóa được chuyển từ nước này sang nước khác, hoăc việc trao đổi ý chí được lập ở các nước khác nhau.",
+      "B": "Hàng hóa bắt buộc phải vận chuyển bằng đường biển",
+      "C": "Đồng tiền thanh toán bắt buộc phải là Đô la Mỹ (USD)",
+      "D": "Cả hai bên đều là cơ quan nhà nước ở hai quốc gia khác nhau"
+    },
+    "answer": "A",
+    "explanation": "Rủi ro lớn nhất của phương pháp Giá cố định (Fixed price) là khi giá thị trường thế giới biến động mạnh trong thời gian thực hiện hợp đồng, bên chịu biến động bất lợi sẽ bị thua lỗ nặng nề."
+  },
+  {
+    "id": 161,
+    "orig_no": "161",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Theo Điểm 15 Điều 3 Luật Thương mại 2005, hình thức nào sau đây có giá trị tương đương văn bản:",
+    "options": {
+      "A": "Điện báo, telex, fax, thông điệp dữ liệu",
+      "B": "Lời nói trực tiếp",
+      "C": "Thỏa thuận ngầm",
+      "D": "Bắt tay giao kết"
+    },
+    "answer": "A",
+    "explanation": "Thời hạn khiếu nại (Claim period) là khoảng thời gian thỏa thuận trong hợp đồng mà bên mua có quyền thông báo cho bên bán về các khiếm khuyết, sai lệch của hàng hóa kèm theo các biên bản giám định chứng cứ hợp lệ."
+  },
+  {
+    "id": 162,
+    "orig_no": "162",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Theo Phương pháp xác định số lượng trong Hợp đồng mua bán hàng hóa quốc tế, phương pháp tính khối lượng cả bì (Gross weight) được áp dụng trong trường hợp nào sau đây?",
+    "options": {
+      "A": "Khi giá 1 đơn vị bao bì tương đương với giá 1 đơn vị hàng hóa, hoặc khối lượng bao bì không đáng kể so với khối lượng hàng.",
+      "B": "Khi giá trị của bao bì cao hơn rất nhiều so với bản thân hàng hóa và trọng lượng bao bì chiếm tỷ trọng lớn.",
+      "C": "Khi người mua yêu cầu trừ hoàn toàn trọng lượng vỏ bao (tare) ra khỏi tổng khối lượng để chỉ tính giá tiền trị giá hàng thực tế.",
+      "D": "Khi pháp luật quốc tế bắt buộc áp dụng cho tất cả các loại hàng hóa xuất nhập khẩu đóng công-ten-nơ (container)"
+    },
+    "answer": "A",
+    "explanation": "Theo pháp luật thuế và hải quan Việt Nam, nguyên liệu và vật tư nhập khẩu để thực hiện hợp đồng gia công cho thương nhân nước ngoài được miễn thuế nhập khẩu và được miễn thuế xuất khẩu đối với sản phẩm gia công xuất khẩu."
+  },
+  {
+    "id": 163,
+    "orig_no": "163",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Theo quy định của Luật Thương mại Việt Nam, bên nào có nghĩa vụ chịu trách nhiệm về tính hợp pháp của quyền sở hữu trí tuệ/sở hữu công nghiệp đối với hàng hóa, nhãn hiệu, kiểu dáng hoặc công nghệ được sử dụng trong hợp đồng gia công?",
+    "options": {
+      "A": "Bên giao gia công (chịu trách nhiệm về tính hợp pháp của quyền Sở hữu trí tuệ đối với hàng hóa gia công, máy móc, nhãn hiệu cung cấp).",
+      "B": "Bên nhận gia công (do là đơn vị trực tiếp sản xuất hàng hóa).",
+      "C": "Cơ quan Hải quan tại cửa khẩu làm thủ tục thông quan.",
+      "D": "Cả hai bên cùng chịu trách nhiệm liên đới bình đẳng trước pháp luật trong mọi trường hợp."
+    },
+    "answer": "A",
+    "explanation": "Cảng chuyển tải/thông qua (Transhipment port) là cảng trung gian nơi hàng hóa được dỡ xuống từ phương tiện vận tải chặng trước để xếp lên phương tiện vận tải chặng tiếp theo trong hành trình đa chặng."
+  },
+  {
+    "id": 164,
+    "orig_no": "164",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Theo quy định tại Điều 3 về trách nhiệm các bên trong Hợp đồng thuê kho, nghĩa vụ nào sau đây thuộc về Bên cho thuê kho?",
+    "options": {
+      "A": "Hoàn thành thủ tục nhận hàng, bảo quản hàng hóa, bồi thường nếu hỏng hóc, mất mát.",
+      "B": "Thực hiện đầy đủ nội dung trong giấy yêu cầu lưu kho.",
+      "C": "Cung cấp chứng từ cần thiết trước khi hàng tới kho.",
+      "D": "Chịu trách nhiệm khi hàng lưu kho quá lâu bị biến đổi phẩm chất."
+    },
+    "answer": "A",
+    "explanation": "Phương pháp xác định số lượng theo trọng lượng thương mại (Commercial weight) được áp dụng riêng cho các mặt hàng có độ co giãn ẩm lớn (như bông, tơ tằm, sợi, len), tính bằng công thức: Trọng lượng thực tế x (100 + Độ ẩm tiêu chuẩn) / (100 + Độ ẩm thực tế)."
+  },
+  {
+    "id": 165,
+    "orig_no": "165",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Theo quy định về trách nhiệm của các bên trong hợp đồng ủy thác giao nhận hàng hóa quốc tế, công việc nào sau đây thuộc trách nhiệm của Bên ủy thác?",
+    "options": {
+      "A": "Chịu trách nhiệm về tính pháp lý của lô hàng, chuẩn bị kho bãi và mua bảo hiểm hàng hóa",
+      "B": "Chịu trách nhiệm về thủ tục hải quan và bồi thường thiệt hại nếu có",
+      "C": "Giao nhận hàng hóa đúng quy định",
+      "D": "Thực hiện bốc dỡ và lưu xe tại cảng"
+    },
+    "answer": "A",
+    "explanation": "Xác định phẩm chất theo mẫu hàng (Sale by sample) đòi hỏi hàng thực giao phải hoàn toàn phù hợp và giống hệt với mẫu đã được hai bên đối chiếu, niêm phong và lưu giữ."
+  },
+  {
+    "id": 166,
+    "orig_no": "166",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Thỏa thuận đóng gói \"Export Standard Packaging\" trong hợp đồng được hiểu là:",
+    "options": {
+      "A": "Đóng gói theo tiêu chuẩn xuất khẩu thông thường phù hợp với phương thức vận tải",
+      "B": "Đóng gói theo chuẩn riêng của hải quan nước nhập khẩu",
+      "C": "Đóng gói bằng thùng gỗ bọc thép bảo vệ",
+      "D": "Hàng để trần không bao bì"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản bảo hành (Warranty clause) quy định cam kết của người bán về việc bảo đảm chất lượng hoạt động của máy móc thiết bị trong một thời hạn nhất định, cam kết sửa chữa hoặc thay thế miễn phí linh kiện nếu lỗi thuộc về nhà sản xuất."
+  },
+  {
+    "id": 167,
+    "orig_no": "167",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong các hợp đồng mua bán hàng hóa quốc tế, điều khoản thanh toán trả trước (Advance Payment / Prepayment) thường được người bán đề xuất và quy định trong trường hợp nào sau đây?",
+    "options": {
+      "A": "Lô hàng được sản xuất/gia công theo đơn đặt hàng riêng (hàng đặc thù khó bán cho bên thứ ba), người mua là đối tác mới chưa có lịch sử tín dụng rõ ràng, hoặc thị trường nước người mua có rủi ro cao về tài chính/chính trị.",
+      "B": "Lô hàng có giá trị lớn, người mua nắm thế chủ động đàm phán (thị trường thuộc về bên mua) và yêu cầu người bán phải chia sẻ rủi ro tài chính.",
+      "C": "Khi hai bên hợp tác lâu năm, có mức độ tin tưởng tuyệt đối và muốn tối giản hóa tối đa các thủ tục chứng từ ngân hàng.",
+      "D": "Quy định bắt buộc về điều khoản thanh toán áp dụng cho tất cả các hợp đồng xuất nhập khẩu giao hàng bằng đường biển."
+    },
+    "answer": "A",
+    "explanation": "Hợp đồng đại lý ngoại thương quy định phạm vi ủy quyền, quyền và nghĩa vụ của bên đại lý nhân danh chính mình hoặc nhân danh người ủy thác thực hiện việc mua bán hàng hóa cho bên giao đại lý để hưởng thù lao."
+  },
+  {
+    "id": 168,
+    "orig_no": "168",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong hợp đồng mua bán hàng hóa quốc tế, định nghĩa “Giá linh hoạt (Flexible price)” là:",
+    "options": {
+      "A": "Giá đã được xác định trong lúc ký hợp đồng, nhưng có thể được xem xét lại nếu sau này, vào lúc giao hàng, giá thị trường của hàng hóa đó có sự biến động với một mức nhất định.",
+      "B": "Giá được khẳng định lúc ký kết hợp đồng và không thay đổi trong quá trình thực hiện hợp đồng.",
+      "C": "Giá được xác định sau khi ký hợp đồng hoặc bằng cách đàm phán, thỏa thuận trong một thời gian nào đó, hoặc bằng cách dựa vào giá thế giới ở một ngày nào đó trước hay trong khi giao hàng.",
+      "D": "Giá được tính toán dứt khoát vào lúc thực hiện hợp đồng trên cơ sở giá cả qui định ban đầu, có đề cập tới những biến động về chi phí sản xuất trong thời kỳ thực hiện hợp đồng."
+    },
+    "answer": "A",
+    "explanation": "Vận đơn hoàn hảo (Clean Bill of Lading) là vận đơn không có bất kỳ ghi chú xấu nào của thuyền trưởng về tình trạng khuyết tật của hàng hóa hoặc bao bì đóng gói bên ngoài."
+  },
+  {
+    "id": 169,
+    "orig_no": "169",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong phương thức nhờ thu kèm chứng từ theo điều kiện D/P (Documents against Payment), ngân hàng thu hộ (Collecting Bank) chỉ được phép giao bộ chứng từ thương mại cho người nhập khẩu khi nào?",
+    "options": {
+      "A": "Người nhập khẩu đã hoàn tất việc thanh toán cho lô hàng",
+      "B": "Người nhận khẩu đã hoàn tất thủ tục kiểm tra chất lượng hàng hóa tại cảng đến",
+      "C": "Người nhập khẩu đã ký chấp nhận thanh toán trên hối phiếu trả chậm",
+      "D": "Người nhập khẩu phát hành thư cam kết thanh toán đến ngân hàng thu hộ"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản trọng tài (Arbitration clause) chuẩn mực phải quy định rõ: Tổ chức trọng tài giải quyết tranh chấp (như VIAC, SIAC, ICC), địa điểm xét xử trọng tài, quy tắc tố tụng áp dụng, luật nội dung điều chỉnh và ngôn ngữ dùng trong tố tụng."
+  },
+  {
+    "id": 170,
+    "orig_no": "170",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong thương mại quốc tế, Giấy chứng nhận bảo hiểm (Insurance Certificate) được đơn vị bảo hiểm cấp cho người được bảo hiểm trong trường hợp nào?",
+    "options": {
+      "A": "Cấp theo hợp đồng bảo hiểm dài hạn",
+      "B": "Khi giao dịch thực hiện theo phương thức thanh toán L/C trả trước",
+      "C": "Khi người xuất khẩu không mua bảo hiểm cho lô hàng",
+      "D": "Do ngân hàng phát hành thay cho công ty bảo hiểm"
+    },
+    "answer": "A",
+    "explanation": "Thư tín dụng không thể hủy ngang (Irrevocable L/C - theo UCP 600) là cam kết chắc chắn của ngân hàng phát hành, không thể bị hủy bỏ hoặc sửa đổi nếu không có sự đồng ý bằng văn bản của cả ngân hàng phát hành, ngân hàng xác nhận (nếu có) và người thụ hưởng (người bán)."
+  },
+  {
+    "id": 171,
+    "orig_no": "171",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong thương mại quốc tế, mối quan hệ giữa giá đàm phán trên hợp đồng và giá tính thuế hải quan được quy định như thế nào?",
+    "options": {
+      "A": "Doanh nghiệp được tự do thỏa thuận giá mua bán, nhưng mức giá tính thuế sẽ được tính toán trên cơ sở trị giá hải quan phù hợp với Hiệp định trị giá hải quan.",
+      "B": "Cơ quan Hải quan bắt buộc phải chấp nhận mọi mức giá do doanh nghiệp đàm phán và thỏa thuận trong hợp đồng.",
+      "C": "Giá trên hợp đồng thương mại không có giá trị pháp lý, Hải quan luôn tự ấn định giá cho mọi lô hàng.",
+      "D": "Doanh nghiệp chỉ cần nộp thuế theo giá thỏa thuận nếu hợp đồng có chứng thực của Phòng Thương mại."
+    },
+    "answer": "A",
+    "explanation": "Hối phiếu thương mại (Bill of Exchange) là một chứng từ có giá, thể hiện lệnh đòi tiền vô điều kiện của người ký phát (người bán) gửi cho người bị ký phát (người mua hoặc ngân hàng mở L/C) yêu cầu trả một số tiền nhất định cho người thụ hưởng."
+  },
+  {
+    "id": 172,
+    "orig_no": "172",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty A (Bên bán tại Việt Nam) soạn thảo hợp đồng xuất khẩu nông sản và đã ký tên, đóng dấu, sau đó gửi bản mềm (PDF) qua email cho Công ty B (Bên mua tại Hàn Quốc). Do bận rộn, Giám đốc Công ty B chưa ký lại hợp đồng. Tuy nhiên, căn cứ theo thông tin tài khoản trên bản hợp đồng dự thảo đó, Công ty B đã chuyển khoản 20.000 USD tiền đặt cọc (tương đương 20% giá trị hợp đồng) cho Công ty A. Công ty A đã nhận tiền cọc và tiến hành gom hàng.2 tuần sau, giá nông sản trên thị trường thế giới đột ngột giảm mạnh. Công ty B gửi thông báo hủy đơn hàng và yêu cầu Công ty A hoàn trả 100% tiền cọc với lý do: \"Hợp đồng thương mại chưa từng có hiệu lực pháp lý do Công ty B chưa đặt bút ký vào hợp đồng.\" Theo Luật Thương mại, Bộ luật Dân sự Việt Nam và Công ước Viên 1980 (CISG), lập luận của Công ty B là ĐÚNG hay SAI, và hợp đồng đã phát sinh hiệu lực chưa?",
+    "options": {
+      "A": "Sai. Hợp đồng đã xác lập và có hiệu lực ràng buộc hai bên, vì hành vi chuyển tiền cọc của Công ty B được tính là hành vi chấp nhận đề nghị giao kết hợp đồng.",
+      "B": "Đúng. Hợp đồng thương mại bắt buộc phải có chữ ký đầy đủ của hai bên mới phát sinh hiệu lực pháp lý.",
+      "C": "Sai. Hợp đồng tự động có hiệu lực ngay từ thời điểm Công ty A ký tên và gửi đi qua email mà không phụ thuộc vào phản ứng của Công ty B.",
+      "D": "Đúng. Việc chuyển tiền chỉ mang tính chất giao dịch tạm ứng, không thể thay thế cho chữ ký chính thức trên hợp đồng văn bản."
+    },
+    "answer": "A",
+    "explanation": "Hóa đơn thương mại (Commercial Invoice) là chứng từ kế toán cơ bản do người bán phát hành, thể hiện số tiền người mua phải thanh toán, chi tiết đơn giá, tổng trị giá, điều kiện giao hàng và phương thức thanh toán của lô hàng."
+  },
+  {
+    "id": 173,
+    "orig_no": "173",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty A (Bên nhận gia công tại Việt Nam) ký hợp đồng gia công sản phẩm cơ khí xuất khẩu cho Công ty B (Bên đặt gia công tại Nhật Bản). Trong hợp đồng, hai bên thỏa thuận điều khoản định mức tiêu hao nhiên liệu/nguyên liệu là 1,05kg thép/sản phẩm (đã bao gồm tỷ lệ hao hụt cho phép là 5%). Trong quá trình sản xuất thực tế, do tay nghề công nhân chưa cao và máy móc gặp sự cố kĩ thuật, lượng tiêu hao thực tế bị vọt lên 1,12 kg thép/sản phẩm (vượt 0,07 kg so với định mức hợp đồng). Đến kỳ quyết toán hợp đồng gia công với cơ quan Hải quan và đối tác B, Công ty A giải trình rằng đây là tổn thất kỹ thuật tự nhiên và đề nghị Công ty B chấp nhận bù đắp phần thép tiêu hao vượt định mức này. Theo quy định pháp luật về gia công thương mại và quản lý hải quan, khẳng định nào sau đây là ĐÚNG?",
+    "options": {
+      "A": "Công ty A phải tự chịu chi phí đền bù lượng nguyên liệu/nhiên liệu vượt định mức cho Công ty B, đồng thời phải kê khai nộp thuế nhập khẩu và phạt vi phạm (nếu có) cho phần vượt định mức này đối với cơ quan Hải quan.",
+      "B": "Công ty A được quyền tự động điều chỉnh tăng định mức khi báo cáo quyết toán hải quan nếu chứng minh được lượng nhiên liệu/nguyên liệu đó đã thực sự dùng vào quá trình sản xuất.",
+      "C": "Công ty B bắt buộc phải cung cấp bổ sung miễn phí lượng nhiên liệu/nguyên liệu bị thiếu hụt vì rủi ro trong quá trình gia công luôn do bên đặt gia công gánh chịu.",
+      "D": "Cơ quan Hải quan sẽ tự động miễn thuế cho toàn bộ 1,12 kg thép/sản phẩm miễn là số lượng sản phẩm hoàn chỉnh xuất khẩu đủ theo đúng số lượng trong hợp đồng."
+    },
+    "answer": "A",
+    "explanation": "Phiếu đóng gói (Packing List) là bảng kê chi tiết nội dung đóng gói của lô hàng, thể hiện số lượng kiện hàng, phương thức đóng gói, kích thước, trọng lượng tịnh (Net Weight) và trọng lượng cả bì (Gross Weight) của từng kiện."
+  },
+  {
+    "id": 174,
+    "orig_no": "174",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty A (Việt Nam) ký hợp đồng trao đổi hàng hóa với Công ty B (Nhật Bản): A xuất khẩu 1.000 tấn nông sản cho B, đổi lấy B xuất khẩu 50 máy cơ khí cho A. Hai bên quy định ngân hàng đứng ra làm nhiệm vụ bù trừ và đưa vào điều khoản phạt khi giao hàng thiếu hoặc giao hàng chậm. Đến hạn giao hàng, công ty A đã giao đủ 100% lượng nông sản đúng thời hạn, còn công ty B giao máy cơ khí trễ 20 ngày và thiếu 10% số lượng máy (5 máy) so với thỏa thuận hợp đồng. Theo các nguyên tắc về điều khoản thanh toán và đảm bảo thực hiện hợp đồng trao đổi hàng hóa, ngân hàng bù trừ và hai bên sẽ xử lý tài chính như thế nào?",
+    "options": {
+      "A": "Ngân hàng thực hiện bù trừ giá trị tương đương giữa 100% nông sản của A và 90% số máy thực giao của B, đồng thời tính toán khoản tiền phạt (giao chậm + giao thiếu) áp lên B để buộc B phải thanh toán chênh lệch bằng tiền cho A.",
+      "B": "Ngân hàng hủy bỏ toàn bộ hợp đồng trao đổi và yêu cầu Công ty B phải trả lại 100% lượng nông sản đã nhận từ Công ty A.",
+      "C": "Ngân hàng chỉ ghi nhận giá trị thực giao của hai bên và không được quyền can thiệp xử lý tiền phạt vì hợp đồng trao đổi hàng hóa không cho phép phạt tiền.",
+      "D": "Công ty A bắt buộc phải chờ Công ty B giao nốt 10% số máy còn lại rồi ngân hàng mới được tiến hành bất kỳ thủ tục bù trừ nào."
+    },
+    "answer": "A",
+    "explanation": "Trong hợp đồng trao đổi hàng hóa thanh toán qua tài khoản bù trừ ngân hàng (Clearing Account), khi một bên giao thiếu hoặc chậm, ngân hàng sẽ ghi nhận đối trừ phần giá trị thực giao và áp dụng điều khoản phạt vi phạm để thu phần chênh lệch bằng tiền từ bên vi phạm."
+  },
+  {
+    "id": 175,
+    "orig_no": "175",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty A (Việt Nam) ký hợp đồng xuất khẩu gạo sang Châu Âu. Trong điều khoản địa điểm giao hàng, hai bên ghi rõ: Cảng đi là cảng Cát Lái (Việt Nam), cảng đến là cảng Rotterdam (Hà Lan) và cảng thông qua (quá cảnh/trung chuyển) là cảng Singapore. Việc quy định rõ ràng cảng giao hàng, cảng đến và cảng thông qua trong hợp đồng đem lại lợi ích trực tiếp nào cho các bên ?",
+    "options": {
+      "A": "Giúp các bên chủ động trong việc kiểm tra, giám sát trong quá trình giao nhận hàng hóa",
+      "B": "Tự động chuyển toàn bộ rủi ro mất mát hàng hóa tại cảng thông qua cho bên vận tải.",
+      "C": "Giúp người bán được miễn trừ hoàn toàn thủ tục hải quan xuất nhập khẩu.",
+      "D": "Bắt buộc hãng tàu phải miễn toàn bộ chi phí lưu kho bãi (DEM/DET) tại cảng đến."
+    },
+    "answer": "A",
+    "explanation": "Quy định chi tiết cảng bốc, cảng dỡ và cảng chuyển tải giúp các bên chủ động theo dõi hải trình, phối hợp giám sát hàng hóa tại các điểm trung chuyển và kịp thời xử lý các tình huống rủi ro phát sinh trong quá trình vận tải."
+  },
+  {
+    "id": 176,
+    "orig_no": "176",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty A có trụ sở tại Tp. Hồ Chí Minh, chuyên xuất khẩu cà phê từ Việt Nam sang thị trường quốc tế. Công ty ABC gửi báo giá cho khách hàng với đơn giá: 3,000.00 USD/MT. Ngoài ra, doanh nghiệp đã tính toán được các chi phí sau: Chi phí vận tải nội địa từ kho đến cảng Cát Lái (Tp. Hồ Chí Minh) là: 10 USD/MT; Chi phí vận tải quốc tế từ cảng Cát Lái (Tp. Hồ Chí Minh) đến cảng Vancouver, Canada là: 150 USD/MT. Trường hợp khách hàng muốn giao hàng tới cảng Vancouver, Canada và yêu cầu gửi báo giá theo quy tắc CFR (Incoterms 2020), đơn giá của lô hàng là:",
+    "options": {
+      "A": "3,150.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020",
+      "B": "3,160.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020",
+      "C": "3,160.00 USD/MT CFR Cat Lai Port, Vietnam, Incoterms 2020",
+      "D": "3,010.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020"
+    },
+    "answer": "B",
+    "explanation": "Giá CFR Vancouver = Giá xuất khẩu cơ sở (3,000 USD) + Chi phí vận chuyển nội địa (10 USD) + Cước vận tải quốc tế (150 USD) = 3,160.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020."
+  },
+  {
+    "id": 177,
+    "orig_no": "177",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty A ký Hợp đồng thuê kho với Công ty B. Tại Điều 2, hai bên thỏa thuận thời hạn lưu kho cho lô hàng thực phẩm khô là 30 ngày (tính từ mốc ngày 01/10). Đến ngày 15/11 (vượt quá thời hạn lưu kho 15 ngày), Công ty A mới đến làm thủ tục nhận hàng và phát hiện hàng hóa bị ẩm mốc. Theo quy định về thời hạn và trách nhiệm trong hợp đồng thuê kho, nhận định nào sau đây là ĐÚNG?",
+    "options": {
+      "A": "Công ty A (chủ hàng) phải tự chịu trách nhiệm vì hàng hóa bị biến đổi phẩm chất do để lưu kho quá thời hạn thỏa thuận.",
+      "B": "Công ty B phải chịu trách nhiệm bồi thường vì thời hạn hiệu lực của hợp đồng (Điều 5) vẫn còn.",
+      "C": "Công ty B phải chịu 50% chi phí bồi thường do không gửi thông báo nhắc nhở khi hết thời hạn lưu kho.",
+      "D": "Công ty A được miễn toàn bộ phí lưu kho phát sinh trong 15 ngày quá hạn."
+    },
+    "answer": "A",
+    "explanation": "Theo quy tắc lưu kho, thời hạn thỏa thuận là 30 ngày (hết hạn ngày 31/10); Công ty A để hàng lưu kho quá hạn 15 ngày mới đến nhận mà không có thỏa thuận gia hạn, nên sự biến đổi phẩm chất (ẩm mốc) do lưu kho quá hạn thuộc trách nhiệm tự gánh chịu của chủ hàng A."
+  },
+  {
+    "id": 178,
+    "orig_no": "178",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty K (bên ủy thác) ký hợp đồng giao nhận hàng hóa với Công ty Forwarder H (bên nhận ủy thác) để nhập khẩu một lô hàng thiết bị. Trong quá trình thực hiện dịch vụ tại cảng, ngoài tiền cước vận chuyển, Công ty H sẽ cần ứng trước thanh toán các khoản chi phí thực tế phát sinh gồm: phí D/O (lệnh giao hàng), phí nâng hạ container và phí lưu xe do chờ làm thủ tục. Để tránh xảy ra tranh chấp giữa Công ty K (bên ủy thác) và Công ty Forwarder H (bên nhận ủy thác) liên quan đến các khoản chi phí ứng trước thực tế tại cảng (phí D/O, nâng hạ container, lưu xe...), Điều khoản Thanh toán trong Hợp đồng giao nhận hàng hóa CẦN được quy định như thế nào?",
+    "options": {
+      "A": "Quy định chi tiết danh mục các khoản chi phí phát sinh thực tế, đi kèm quy định về phương thức, đồng tiền và thời hạn thanh toán/hoàn trả cho bên nhận ủy thác.",
+      "B": "Mặc định ấn định tất cả phụ phí phát sinh đã nằm trọn gói trong cước phí vận chuyển, bên nhận ủy thác tự gánh chịu mọi chi phí phát sinh thêm tại cảng.",
+      "C": "Bỏ qua các phụ phí này trong hợp đồng chính và thỏa thuận bằng lời nói giữa hai bên sau khi lô hàng đã hoàn thành thủ tục thông quan.",
+      "D": "Quy định bên nhận ủy thác không được phép chi ứng trước bất kỳ khoản tiền nào, bắt buộc bên ủy thác phải trực tiếp thanh toán tiền mặt tại cảng cho hãng tàu."
+    },
+    "answer": "A",
+    "explanation": "Để tránh tranh chấp phụ phí cảng (D/O, THC, nâng hạ, lưu cont/xe), hợp đồng giao nhận dịch vụ cần liệt kê chi tiết danh mục các chi phí ứng trước thực tế có chứng từ hợp lệ, đồng thời quy định rõ thời hạn và đồng tiền bên ủy thác phải hoàn trả cho bên giao nhận."
+  },
+  {
+    "id": 179,
+    "orig_no": "179",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty M ký hợp đồng xuất khẩu may mặc cho Công ty N với điều khoản ghi đơn giản: \"Đơn giá: 15 USD/sản phẩm\". Trong quá trình sản xuất, giá sợi bông trên thị trường thế giới tăng vọt 40%, khiến chi phí sản xuất của M tăng cao. Công ty M gửi văn bản yêu cầu Công ty N tăng giá mua lên 18 USD/sản phẩm, nếu không sẽ dừng giao hàng. Theo quy định về phương pháp định giá trong thương mại quốc tế, yêu cầu của Công ty M có cơ sở pháp lý không?",
+    "options": {
+      "A": "Không có cơ sở, vì hợp đồng áp dụng Giá cố định (đã khẳng định lúc ký và không đổi trong suốt quá trình thực hiện), Công ty M phải tự chịu rủi ro chi phí.",
+      "B": "Có cơ sở, vì theo phương pháp Giá di động, khi chi phí sản xuất tăng thì giá hợp đồng tự động được điều chỉnh theo.",
+      "C": "Có cơ sở, vì theo phương pháp Giá linh hoạt, khi giá thị trường nguyên liệu biến động trên 10% thì bên bán có quyền yêu cầu xét lại giá.",
+      "D": "Có cơ sở, vì hai bên bắt buộc phải chuyển sang phương pháp Giá quy định sau khi thị trường có biến động lớn."
+    },
+    "answer": "A",
+    "explanation": "Hợp đồng ghi 'Đơn giá: 15 USD/sản phẩm' mà không kèm theo công thức trượt giá là Hợp đồng áp dụng Giá cố định (Fixed price). Người bán chịu rủi ro biến động giá nguyên vật liệu và không có quyền đơn phương đòi tăng giá hợp đồng."
+  },
+  {
+    "id": 180,
+    "orig_no": "180",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty M thuê kho bãi bến cảng của Công ty Logistics T để lưu giữ 100 kiện hàng linh kiện điện tử. Hai bên đã hoàn tất thủ tục bàn giao, đối soát số lượng kiện hàng đúng theo Điều 1 của hợp đồng. Trong thời gian lưu kho, do hàng rào bảo vệ của kho bị hỏng không được sửa chữa kịp thời, kẻ gian đã đột nhập lấy trộm 15 kiện hàng. Trách nhiệm bồi thường trong trường hợp này thuộc về ai?",
+    "options": {
+      "A": "Công ty Logistics T phải chịu trách nhiệm bồi thường vì để xảy ra hỏng hóc, mất mát trong quá trình bảo quản.",
+      "B": "Công ty M tự chịu rủi ro vì linh kiện điện tử là hàng hóa giá trị cao, dễ mất cắp.",
+      "C": "Cơ quan Hải quan cửa khẩu xuất nhập.",
+      "D": "Đơn vị vận tải đưa hàng đến kho."
+    },
+    "answer": "A",
+    "explanation": "Bên lưu kho (Logistics T) có nghĩa vụ bảo quản an toàn hàng hóa trong suốt thời gian gửi giữ; việc để hỏng hàng rào khiến kẻ gian đột nhập trộm cắp là lỗi bảo quản của bên lưu kho, do đó bên lưu kho phải chịu trách nhiệm bồi thường thiệt hại."
+  },
+  {
+    "id": 181,
+    "orig_no": "181",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty may mặc V nhập khẩu 10.000 mét vải theo hình thức Nhập nguyên liệu gia công cho đối tác Mỹ. Sau khi hoàn thành đơn hàng xuất khẩu, trong kho còn thừa 500 mét vải. Công ty V quyết định xé lẻ 500 mét vải này bán cho các tiệm may trong nước để thu hồi vốn mà không thông báo cho cơ quan Hải quan. Hành vi của Công ty V vi phạm quy định nào dưới đây?",
+    "options": {
+      "A": "Vi phạm do tự ý chuyển mục đích sử dụng (tiêu thụ nội địa) nguyên liệu được miễn thuế khi chưa đăng ký với Hải quan.",
+      "B": "Không vi phạm, vì đây là lượng vải dư thừa sau khi đã hoàn thành đủ số lượng sản phẩm xuất khẩu cho đối tác.",
+      "C": "Không vi phạm, chỉ cần Công ty V gộp số tiền bán vải vào doanh thu khi làm Báo cáo quyết toán cuối năm.",
+      "D": "Vi phạm quy định về bảo hộ thương hiệu sản phẩm của đối tác Mỹ."
+    },
+    "answer": "A",
+    "explanation": "Hàng nông sản tươi sống, dễ biến đổi phẩm chất thường áp dụng phương pháp xác định phẩm chất tại nơi gửi hàng theo hiện trạng thực tế (Tale quale) hoặc người mua trực tiếp xem hàng và chấp nhận trước khi bốc hàng."
+  },
+  {
+    "id": 182,
+    "orig_no": "182",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty May mặc X (Việt Nam) ký hợp đồng xuất khẩu lô hàng thời trang cho Công ty Y (Hàn Quốc). Trong quá trình đàm phán, hai bên nhất trí dùng đồng Euro (EUR) làm đồng tiền tính giá và thanh toán. Nhận định nào sau đây là đúng về thỏa thuận đồng tiền thanh toán này?",
+    "options": {
+      "A": "Hợp lệ vì đồng tiền tính giá và thanh toán trong hợp đồng ngoại thương có thể là ngoại tệ đối với cả hai bên.",
+      "B": "Không hợp lệ vì giao dịch giữa Việt Nam và Hàn Quốc bắt buộc phải dùng VND, KRW hoặc USD.",
+      "C": "Không hợp lệ vì đồng Euro (EUR) chỉ được sử dụng cho các quốc gia thuộc Liên minh Châu Âu (EU).",
+      "D": "Tất cả các đáp án đều sai."
+    },
+    "answer": "A",
+    "explanation": "Hao hụt tự nhiên là sự giảm sút khối lượng do tính chất lý hóa tự nhiên của hàng hóa (bay hơi, khô hao); hợp đồng thường quy định tỷ lệ hao hụt miễn trách (Franchise), người bán không phải bồi thường nếu mức hao hụt nằm trong giới hạn này."
+  },
+  {
+    "id": 183,
+    "orig_no": "183",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty Nông sản A tại Việt Nam dự kiến xuất khẩu 1.000 tấn Cà phê Robusta sau 3 tháng nữa. Để phòng ngừa rủi ro giá cà phê trên thị trường thế giới giảm xuống tại thời điểm bán hàng, Công ty A nên tham gia giao dịch nào trên Sở giao dịch hàng hóa (như ICE / London)?",
+    "options": {
+      "A": "Bán hợp đồng tương lai cà phê (Short Futures)",
+      "B": "Mua hợp đồng tương lai cà phê (Long Futures)",
+      "C": "Bán quyền chọn bán cà phê (Sell Put Option)",
+      "D": "Mua quyền chọn mua cà phê (Buy Call Option)"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản giám định hàng hóa quy định rõ địa điểm kiểm tra (tại xưởng, tại cảng bốc hoặc tại cảng đến) và cơ quan giám định độc lập (như SGS, Vinacontrol) có chứng thư giám định làm căn cứ quyết định."
+  },
+  {
+    "id": 184,
+    "orig_no": "184",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty Nông sản X (Việt Nam) ký hợp đồng xuất khẩu 500 tấn cà phê nhân sang thị trường Châu Âu, hàng được đóng gói trong các bao Jute tiêu chuẩn. Qua khảo sát, khối lượng vỏ bao Jute chỉ chiếm khoảng 0,5% tổng khối lượng của toàn bộ lô hàng. Để đơn giản hóa quy trình cân đo tại cảng, tiết kiệm thời gian, chi phí bóc tách kiểm tra vỏ bao mà vẫn đảm bảo tính chính xác và hợp lý về mặt thương mại. Điều khoản Số lượng (Quantity) trong hợp đồng mua bán giữa hai bên nên áp dụng quy định nào sau đây là phù hợp nhất với thực tế nghiệp vụ?",
+    "options": {
+      "A": "Quy định \"Cả bì coi như tịnh\" (Gross weight for net), chấp nhận lấy tổng khối lượng cả bì làm căn cứ tính giá trị thanh toán tiền hàng.",
+      "B": "Bắt buộc áp dụng \"Khối lượng tịnh\" (Net weight) và yêu cầu trút toàn bộ cà phê ra để cân riêng vỏ bao (tare weight) từng đợt nhằm trừ bớt khối lượng bao bì.",
+      "C": "Áp dụng \"Khối lượng lý thuyết\" (Theoretical weight) tính theo kích thước bao bì mà không cần thực hiện cân thực tế lô hàng tại cảng dỡ.",
+      "D": "Áp dụng \"Khối lượng cả bì\" (Gross weight) nhưng yêu cầu bên bán phải giảm giá 50% đơn giá hàng hóa cho phần trọng lượng tương ứng với vỏ bao."
+    },
+    "answer": "A",
+    "explanation": "Trong thương mại quốc tế, quyền sở hữu hàng hóa thường được chuyển giao đồng thời với việc chuyển giao chứng từ sở hữu hàng hóa (vận đơn đường biển gốc B/L có thể chuyển nhượng) sau khi người mua đã thanh toán hoặc chấp nhận thanh toán."
+  },
+  {
+    "id": 185,
+    "orig_no": "185",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty Nước ngoài X ký Hợp đồng gia công với Công ty Việt Nam Y để sản xuất 50.000 đôi giày mang nhãn hiệu \"SUN\". Công ty X cam kết bằng văn bản rằng nhãn hiệu \"SUN\" thuộc quyền sở hữu hợp pháp của mình. Tuy nhiên, khi hàng đang sản xuất, Công ty Z (một doanh nghiệp khác tại Việt Nam đã đăng ký bảo hộ độc quyền nhãn hiệu \"SUN\" trước đó) phát hiện và gửi đơn kiện Công ty Y lên cơ quan quản lý thị trường, yêu cầu tịch thu toàn bộ lô hàng và xử phạt Công ty Y về hành vi sản xuất hàng xâm phạm nhãn hiệu. Căn cứ quy định pháp luật thương mại, trách nhiệm bồi thường và xử lý phát sinh thuộc về ai?",
+    "options": {
+      "A": "Công ty Y có quyền yêu cầu Công ty X (bên giao gia công) bồi toàn bộ thiệt hại và chi phí xử lý phát sinh do Công ty X vi phạm cam kết về tính hợp pháp của quyền Sở hữu trí tuệ.",
+      "B": "Công ty Y phải chịu toàn bộ tiền phạt và thiệt hại vì là đơn vị trực tiếp sản xuất hàng vi phạm tại Việt Nam.",
+      "C": "Cơ quan nhà nước sẽ tịch thu máy móc của Công ty Y và cấm Công ty X kinh doanh tại Việt Nam.",
+      "D": "Công ty Z bắt buộc phải chuyển nhượng lại nhãn hiệu cho Công ty X với giá rẻ."
+    },
+    "answer": "C",
+    "explanation": "Giá di động (Sliding scale price) là phương pháp xác định giá dựa trên công thức toán học tính toán lại giá tại thời điểm giao hàng dựa trên sự biến động của các chỉ số chi phí nguyên liệu và chi phí nhân công theo thống kê chính thức."
+  },
+  {
+    "id": 186,
+    "orig_no": "186",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty thương mại A (tại Việt Nam) thực hiện giao dịch tạm nhập - tái xuất 500 tấn hạt điều: mua từ Công ty B (tại Bờ Biển Ngà) theo hình thức Chuyển tiền T/T trả trước 100%, và bán cho Công ty C (tại Trung Quốc) theo hình thức Thư tín dụng L/C trả chậm 30 ngày. Nhận định nào sau đây là ĐÚNG NHẤT về rủi ro thương mại của Công ty A trong giao dịch này?",
+    "options": {
+      "A": "Công ty A đối mặt với rủi ro kép rất lớn: vừa bị chôn vốn/đứt gãy dòng tiền, vừa chịu rủi ro bị B giao hàng kém chất lượng/trễ hạn (khi đã trả tiền trước) và rủi ro bị từ chối thanh toán L/C nếu bộ chứng từ xuất trình cho C có bất hợp lệ.",
+      "B": "Công ty A hoàn toàn không gặp rủi ro vì phương thức L/C trả chậm của Công ty C được ngân hàng cam kết thanh toán vô điều kiện, đảm bảo bù đắp khoản tiền đã T/T cho Công ty B.",
+      "C": "Công ty A chỉ gặp rủi ro duy nhất về biến động tỷ giá hối đoái, còn rủi ro về thanh toán và chất lượng hàng hóa đã được cam kết L/C loại bỏ hoàn toàn.",
+      "D": "Công ty A chỉ chịu rủi ro từ Công ty C do cho trả chậm 30 ngày, còn đối với Công ty B thì việc T/T trả trước giúp A hoàn toàn khống chế được nghĩa vụ giao hàng của B."
+    },
+    "answer": "A",
+    "explanation": "Hợp đồng mua bán hàng hóa quốc tế có hiệu lực pháp lý kể từ thời điểm các bên có thẩm quyền ký kết vào văn bản hợp đồng hoặc vào thời điểm xác định được ghi rõ trong điều khoản hiệu lực của hợp đồng."
+  },
+  {
+    "id": 187,
+    "orig_no": "187",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty X (Việt Nam) xuất khẩu hàng hóa sang đối tác Y (Châu Âu) đã giao dịch uy tín 3 năm. Công ty X muốn tiết kiệm chi phí ngân hàng so với L/C, đồng thời muốn giữ quyền khống chế chứng từ gốc cho đến khi người mua thanh toán tiền trước khi lấy hàng. Phương thức nào tối ưu nhất?",
+    "options": {
+      "A": "Nhờ thu kèm chứng từ trả ngay (D/P)",
+      "B": "Nhờ thu kèm chứng từ trả chậm (D/A)",
+      "C": "Phương thức nghi sổ / Giao chứng từ trả tiền sau (Open Account)",
+      "D": "Các đáp án đều sai"
+    },
+    "answer": "A",
+    "explanation": "Khi hợp đồng ngoại thương được soạn thảo bằng nhiều thứ tiếng (ví dụ tiếng Việt và tiếng Anh), điều khoản ngôn ngữ bắt buộc phải xác định bản ngôn ngữ nào có giá trị ưu tiên áp dụng (prevailing language) khi phát sinh sự khác biệt về giải thích câu chữ."
+  },
+  {
+    "id": 188,
+    "orig_no": "188",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty X ký hợp đồng xuất khẩu quy định thời hạn giao hàng muộn nhất là 15/10. Tuy nhiên, L/C do ngân hàng mở lại ghi ngày giao hàng muộn nhất là 10/10. Công ty X hoàn thành giao hàng ngày 12/10 và xuất trình vận đơn ghi ngày 12/10. Ngân hàng sẽ xử lý như thế nào?",
+    "options": {
+      "A": "Ngân hàng từ chối thanh toán bộ chứng từ",
+      "B": "Ngân hàng chấp nhận thanh toán bộ chứng từ",
+      "C": "Ngân hàng tự động gia hạn thời hạn L/C",
+      "D": "Ngân hàng phạt tiền doanh nghiệp xuất khẩu"
+    },
+    "answer": "A",
+    "explanation": "Mọi sửa đổi, bổ sung đối với hợp đồng ngoại thương chỉ có hiệu lực pháp lý khi được các bên thỏa thuận thống nhất và lập thành văn bản phụ lục hợp đồng (Addendum / Amendment) có chữ ký của người đại diện có thẩm quyền."
+  },
+  {
+    "id": 189,
+    "orig_no": "189",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Công ty xuất khẩu nông sản A dự kiến sẽ bán 100 tấn cà phê Arabica sau 3 tháng nữa. Để phòng ngừa rủi ro giá cà phê giảm trên thị trường, Công ty A quyết định mua Hợp đồng quyền chọn Bán (Put Option) trên Sở giao dịch hàng hóa với các thông số sau: Giá thực hiện (Strike Price): 3.000 USD/tấn; và Phí quyền chọn (Option Premium): 100 USD/tấn. Sau 3 tháng, tại thời điểm đáo hạn hợp đồng, giá cà phê Arabica trên Sở giao dịch giảm xuống còn 2.500 USD/tấn. Nhận định nào sau đây là ĐÚNG về quyết định của Công ty A và hiệu quả tài chính thu được từ giao dịch này (chưa tính chi phí môi giới)?",
+    "options": {
+      "A": "Công ty A sẽ thực hiện quyền chọn Bán; giá thực nhận cuối cùng là 2.900 USD/tấn, giúp công ty bảo vệ được mức giá bán cao hơn 400 USD/tấn so với giá thị trường do đã phòng ngừa rủi ro thành công.",
+      "B": "Công ty A sẽ bỏ (không thực hiện) quyền chọn Bán và bán theo giá thị trường 2.500 USD/tấn để không bị mất khoản phí quyền chọn 100 USD/tấn.",
+      "C": "Công ty A sẽ thực hiện quyền chọn Bán; giá thực nhận cuối cùng là 3.000 USD/tấn vì phí quyền chọn sẽ được Sở giao dịch hoàn trả lại cho bên mua khi thực hiện hợp đồng.",
+      "D": "Công ty A bị bắt buộc phải bán theo giá thị trường 2.500 USD/tấn và chịu thêm khoản phạt vi phạm hợp đồng từ Sở giao dịch do không dự báo đúng xu hướng giá."
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 25 CISG 1980: Một sự vi phạm hợp đồng do một bên gây ra là vi phạm cơ bản nếu sự vi phạm đó làm cho bên kia bị thiệt hại mà tước đoạt đáng kể những gì mà bên kia có quyền kỳ vọng từ hợp đồng."
+  },
+  {
+    "id": 190,
+    "orig_no": "190",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Doanh nghiệp B tại Việt Nam mua 1.000 tấn nông sản từ Thái Lan, tạm nhập vào Việt Nam lưu giữ tại khu vực giám sát hải quan, sau đó tái xuất bán cho đối tác tại Trung Quốc. Về chính sách thuế xuất nhập khẩu tại Việt Nam, lô hàng này thuộc diện nào?",
+    "options": {
+      "A": "Thuộc diện không chịu thuế hoặc được miễn thuế nếu tuân thủ đúng giám sát hải quan",
+      "B": "Phải chịu thuế nhập khẩu như hàng hóa tiêu dùng nội địa thông thường",
+      "C": "Bị cấm áp dụng vì Việt Nam không cho phép mua bán chênh lệch giá",
+      "D": "Bắt buộc phải nộp bổ sung thuế giá trị gia tăng"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 77 CISG 1980: Bên yêu cầu bồi thường thiệt hại do đối tác vi phạm hợp đồng phải áp dụng các biện pháp hợp lý để hạn chế tổn thất; nếu không thực hiện nghĩa vụ giảm thiểu tổn thất thì bên vi phạm có quyền yêu cầu giảm bớt khoản tiền bồi thường."
+  },
+  {
+    "id": 191,
+    "orig_no": "191",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Doanh nghiệp xuất khẩu A (Việt Nam) chuẩn bị ký hợp đồng bán lô hàng nông sản trị giá 150.000 USD cho công ty B (Châu Âu). Đây là lần đầu tiên hai bên hợp tác. Công ty B không chấp nhận trả tiền trước vì sợ rủi ro không nhận được hàng. Ngược lại, doanh nghiệp A cũng lo ngại rủi ro giao hàng xong nhưng công ty B không thanh toán hoặc viện lý do thị trường rớt giá để ép giá. Phương thức nào dưới đây là cân bằng và phù hợp nhất cho cả hai bên?",
+    "options": {
+      "A": "Thanh toán bằng Thư tín dụng không hủy ngang trả ngay (Irrevocable L/C at sight)",
+      "B": "Thanh toán bằng điện (T/T) trả sau 100% trong vòng 30 ngày kể từ ngày nhận hàng",
+      "C": "Thanh toán bằng điện (T/T) trả trước 100% ngay sau khi ký hợp đồng",
+      "D": "Thanh toán Nhờ thu chấp nhận chứng từ trả chậm (D/A) 30 ngày"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 319 Luật Thương mại 2005: Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là 02 năm, kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm."
+  },
+  {
+    "id": 192,
+    "orig_no": "192",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Doanh nghiệp xuất khẩu A chọn thanh toán theo phương thức nhờ thu D/A (Documents against Acceptance) thời hạn 60 ngày. Rủi ro lớn nhất mà doanh nghiệp A phải đối mặt trong giao dịch này là gì?",
+    "options": {
+      "A": "Người nhập khẩu đã nhận hàng nhưng đến thời hạn 60 ngày không chịu thanh toán",
+      "B": "Người nhập khẩu từ chối ký chấp nhận hối phiếu và không nhận bộ chứng từ",
+      "C": "Ngân hàng thu hộ tự ý giữ lại chứng từ mà không giao cho người nhập khẩu",
+      "D": "Ngân hàng từ chối thanh toán do xuất hiện bất đồng chứng từ"
+    },
+    "answer": "A",
+    "explanation": "Theo tập quán UCP 600 và Incoterms, chứng từ bảo hiểm phải phát hành bằng đồng tiền của L/C/hợp đồng, ngày phát hành không muộn hơn ngày giao hàng và số tiền bảo hiểm tối thiểu phải bằng 110% giá trị CIF hoặc CIP của lô hàng."
+  },
+  {
+    "id": 193,
+    "orig_no": "193",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Hợp đồng mua bán hóa chất quy định giao hàng theo điều kiện CIF Hải Phòng (Incoterms 2020), phương thức thanh toán là Tín dụng thư không hủy ngang (Irrevocable L/C). Trên đường vận chuyển, tàu gặp bão khiến nước biển tràn vào hầm hàng làm hư hỏng 30% lô hàng. Khi hàng cập cảng Hải Phòng, Bên mua phát hiện thiệt hại nên đã yêu cầu Ngân hàng mở L/C từ chối thanh toán cho Bên bán với lý do \"Hàng hóa giao đến cảng không đúng chất lượng cam kết trong hợp đồng\". Quyết định từ chối thanh toán của Bên mua và Ngân hàng trong trường hợp này đúng hay sai?",
+    "options": {
+      "A": "Sai, vì trong điều kiện CIF, rủi ro tổn thất do bão trên biển đã chuyển sang Bên mua ngay khi hàng xếp xong lên tàu tại cảng đi; đồng thời thanh toán L/C độc lập với tình trạng thực tế của hàng hóa (chỉ căn cứ vào tính hợp lệ của bộ chứng từ).",
+      "B": "Đúng, vì Bên bán có nghĩa vụ đảm bảo chất lượng hàng hóa an toàn cho đến khi cập cảng Hải Phòng.",
+      "C": "Đúng, vì Bên bán là bên mua bảo hiểm nên Bên bán phải có trách nhiệm gánh chịu mọi thiệt hại thực tế trước khi đòi tiền.",
+      "D": "Sai, nhưng Ngân hàng phải đứng ra trả trước 70% giá trị hợp đồng, 30% còn lại chờ Công ty Bảo hiểm bồi thường."
+    },
+    "answer": "A",
+    "explanation": "Ưu điểm vượt trội của Trọng tài thương mại quốc tế so với Tòa án quốc gia: Tính bảo mật thông tin kinh doanh, các bên được quyền chọn trọng tài viên am hiểu chuyên môn, thủ tục nhanh gọn và phán quyết có hiệu lực thi hành toàn cầu theo Công ước New York 1958."
+  },
+  {
+    "id": 194,
+    "orig_no": "194",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Hợp đồng quy định: \"10,000 MT 5% more or less at seller's option\", có nghĩa là người bán được phép giao:",
+    "options": {
+      "A": "Trong khoảng từ 9,500 MT đến 10,500 MT",
+      "B": "Tối đa chỉ được giao 9,500 MT",
+      "C": "Tối thiểu phải giao 10,500 MT",
+      "D": "Bắt buộc đúng 10,000 MT"
+    },
+    "answer": "A",
+    "explanation": "Theo quy chuẩn hợp đồng gia công quốc tế, bên nhận gia công chỉ được phép chuyển giao một phần hoặc toàn bộ công việc gia công cho bên thứ ba (gia công lại / sub-contracting) nếu có sự đồng ý trước bằng văn bản của bên đặt gia công."
+  },
+  {
+    "id": 195,
+    "orig_no": "195",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Khi hợp đồng gia công kết thúc hoặc hết hiệu lực, hình thức nào sau đây KHÔNG phải là phương án xử lý hợp pháp đối với nguyên phụ liệu dư thừa, phế liệu, máy móc mượn?",
+    "options": {
+      "A": "Tự do phân phối, tiêu thụ ngay vào thị trường nội địa, không cần đăng ký hải quan.",
+      "B": "Tái xuất trả lại cho bên giao gia công ở nước ngoài.",
+      "C": "Chuyển sang thực hiện cho hợp đồng gia công khác tại Việt Nam.",
+      "D": "Tiêu hủy tại Việt Nam dưới sự giám sát của Hải quan và cơ quan môi trường."
+    },
+    "answer": "A",
+    "explanation": "Khi một bên chậm thanh toán tiền hàng, bên bán có quyền đòi tiền lãi trên số tiền chậm trả theo mức lãi suất nợ quá hạn bình quân trên thị trường hoặc theo mức lãi suất đã thỏa thuận cụ thể trong hợp đồng."
+  },
+  {
+    "id": 196,
+    "orig_no": "196",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Tại sao trong Hợp đồng gia công thương mại (đặc biệt là gia công quốc tế) bắt buộc phải quy định Điều khoản định mức tiêu hao nguyên vật liệu?",
+    "options": {
+      "A": "Để làm căn cứ kiểm soát việc sử dụng nguyên liệu, xác định tỷ lệ hao hụt hợp lý, làm cơ sở quyết toán vật tư dư thừa và thực hiện thủ tục Hải quan/thuế",
+      "B": "Để cho phép bên nhận gia công được tự do thanh lý hoặc bán ra thị trường nội địa phần nguyên liệu chưa sử dụng hết mà không cần báo cáo",
+      "C": "Để bên đặt gia công có thể tự động thay đổi giá thuê gia công tùy thuộc vào biến động giá nguyên vật liệu trên thị trường thế giới.",
+      "D": "Để chuyển toàn bộ nghĩa vụ và rủi ro bảo quản nguyên vật liệu trong suốt quá trình sản xuất cho đơn vị vận tải"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản Hoàn cảnh thay đổi cơ bản (Hardship clause) cho phép các bên yêu cầu đàm phán lại các điều kiện hợp đồng khi xảy ra những biến động kinh tế - chính trị nghiêm trọng làm thay đổi căn bản sự cân bằng ban đầu của hợp đồng, vượt ra ngoài sự dự liệu của các bên."
+  },
+  {
+    "id": 197,
+    "orig_no": "197",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Theo quy định quản lý hải quan, thời hạn chậm nhất để doanh nghiệp nộp Báo cáo quyết toán tình hình sử dụng nguyên liệu, vật tư gia công (Mẫu 15/BCQT) là bao lâu?",
+    "options": {
+      "A": "Chậm nhất ngày thứ 90 kể từ ngày kết thúc năm tài chính",
+      "B": "Chậm nhất ngày thứ 120 kể từ ngày kết thúc năm tài chính",
+      "C": "Chậm nhất ngày thứ 30 kể từ ngày kết thúc năm tài chính",
+      "D": "Chậm nhất ngày thứ 60 kể từ ngày kết thúc năm tài chính"
+    },
+    "answer": "A",
+    "explanation": "Theo Thông tư 39/2018/TT-BTC sửa đổi Thông tư 38/2015/TT-BTC của Bộ Tài chính, doanh nghiệp gia công xuất khẩu phải nộp báo cáo quyết toán tình hình sử dụng nguyên liệu, vật tư nhập khẩu cho cơ quan Hải quan chậm nhất là ngày thứ 90 kể từ ngày kết thúc năm tài chính."
+  },
+  {
+    "id": 198,
+    "orig_no": "198",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong giao dịch tái xuất hoặc chuyển khẩu, thương nhân trung gian đứng ở vị trí mua của bên sản xuất gốc và bán cho người tiêu dùng cuối cùng. Căn cứ theo nguyên tắc đồng bộ điều kiện hợp đồng, phát biểu nào sau đây phản ánh ĐÚNG NHẤT về yêu cầu quy định điều kiện hàng hóa (chất lượng, bao bì đóng gói) giữa Hợp đồng Nhập khẩu và Hợp đồng Xuất khẩu?",
+    "options": {
+      "A": "Các điều kiện về chất lượng, quy cách đóng gói trong Hợp đồng Xuất khẩu phải trùng khớp hoặc không được khắt khe hơn Hợp đồng Nhập khẩu.",
+      "B": "Hợp đồng Xuất khẩu bắt buộc phải quy định tiêu chuẩn chất lượng cao hơn Hợp đồng Nhập khẩu để khẳng định uy tín thương hiệu của bên trung gian.",
+      "C": "Thương nhân trung gian có thể tùy ý thay đổi quy cách đóng gói trên Hợp đồng Xuất khẩu mà không cần quan tâm đến các chứng từ liên quan và địa điểm giao hàng.",
+      "D": "Hợp đồng Nhập khẩu không cần quy định chi tiết về phẩm chất hàng hóa vì trách nhiệm kiểm tra chất lượng thuộc về cơ quan Hải quan nước tái xuất."
+    },
+    "answer": "A",
+    "explanation": "Trong kinh doanh tái xuất, nguyên tắc cốt lõi là các điều kiện về chất lượng, bao bì, nhãn mác trong hợp đồng bán ra (xuất khẩu) phải tương thích hoặc không được khắt khe hơn hợp đồng mua vào (nhập khẩu) để bảo đảm việc chuyển giao hàng hóa diễn ra suôn sẻ."
+  },
+  {
+    "id": 199,
+    "orig_no": "199",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong hoạt động thương mại quốc tế, Hợp đồng dịch vụ giám định (hoặc Giấy yêu cầu giám định) được ký kết giữa các chủ thể nào sau đây?",
+    "options": {
+      "A": "Cơ quan/tổ chức giám định chuyên môn độc lập và bên có nhu cầu giám định (người mua, người bán, người vận tải hoặc công ty bảo hiểm).",
+      "B": "Cơ quan quản lý nhà nước tự chỉ định và thực hiện giao kết hợp đồng với tổ chức giám định.",
+      "C": "Cơ quan/tổ chức giám định chuyên môn độc lập và Hãng tàu vận chuyển.",
+      "D": "Ký kết giữa ba bên bao gồm: Người mua, Người bán và Hãng tàu vận chuyển."
+    },
+    "answer": "A",
+    "explanation": "Hợp đồng dịch vụ giám định thương mại được ký kết giữa tổ chức giám định độc lập được cấp phép với tổ chức hoặc cá nhân có nhu cầu giám định (người mua, người bán, người thuê tàu, hoặc công ty bảo hiểm)."
+  },
+  {
+    "id": 200,
+    "orig_no": "200",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong hợp đồng mua bán hàng hóa quốc tế, khi thực hiện giao hàng bằng đường hàng không, điểm khác biệt pháp lý quan trọng nhất giữa Vận đơn hàng không (Air Waybill - AWB) và Vận đơn đường biển có thể chuyển nhượng (Negotiable Ocean Bill of Lading) ảnh hưởng trực tiếp đến quyền kiểm soát hàng hóa của người bán là gì?",
+    "options": {
+      "A": "AWB không phải là chứng từ sở hữu hàng hóa (non-negotiable document of title); người nhận hàng (Consignee) có tên trên AWB có thể nhận hàng từ hãng hàng không mà không nhất thiết phải xuất trình bản gốc AWB.",
+      "B": "AWB là chứng từ có giá chuyển nhượng bằng cách ký hậu (Endorsement), cho phép người bán nắm giữ bản gốc để khống chế quyền sở hữu hàng hóa cho đến khi người mua thanh toán xong.",
+      "C": "AWB là chứng từ sở hữu hàng hóa duy nhất chỉ cho phép chuyển nhượng khi được sự chấp thuận bằng văn bản của Ngân hàng mở L/C.",
+      "D": "AWB bắt buộc phải có chữ ký xác nhận của cơ quan Hải quan sân bay đi thì mới có giá trị làm chứng từ thanh toán quốc tế."
+    },
+    "answer": "A",
+    "explanation": "Vận đơn hàng không (Air Waybill - AWB) là biên lai nhận hàng và bằng chứng hợp đồng vận chuyển, không phải là chứng từ sở hữu hàng hóa (Non-negotiable). Hãng hàng không sẽ giao hàng cho đúng người nhận hàng (Consignee) có tên trên AWB khi đến nơi mà không cần người đó phải xuất trình AWB bản gốc."
+  },
+  {
+    "id": 201,
+    "orig_no": "201",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong hợp đồng mua bán hàng hóa quốc tế, phương thức thanh toán bằng Thư tín dụng (L/C - Letter of Credit) thường được các bên thỏa thuận áp dụng chủ yếu trong trường hợp nào sau đây?",
+    "options": {
+      "A": "Khi hai bên là đối tác mới hợp tác (chưa đủ độ tin cậy), hợp đồng có giá trị lớn và hai bên muốn có sự cam kết độc lập từ ngân hàng.",
+      "B": "Khi lô hàng có giá trị nhỏ, cần rút ngắn thời gian xử lý chứng từ và ưu tiên tiết kiệm tối đa chi phí giao dịch ngân hàng.",
+      "C": "Khi hai bên là công ty mẹ - công ty con, có quan hệ mật thiết và muốn ưu tiên thủ tục đơn giản.",
+      "D": "Khi hai bên là đối tác truyền thống lâu năm có mức độ tin tưởng tuyệt đối."
+    },
+    "answer": "A",
+    "explanation": "Phương thức thanh toán Thư tín dụng (L/C) được áp dụng tối ưu khi các bên là đối tác mới, chưa có bề dày quan hệ tin tưởng, giá trị hợp đồng lớn và cần sự cam kết bảo lãnh thanh toán độc lập từ phía ngân hàng."
+  },
+  {
+    "id": 202,
+    "orig_no": "202",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong Hợp đồng quyền chọn bán hàng hóa (Put Option), người mua quyền chọn (Option Buyer) có quyền và nghĩa vụ như thế nào?",
+    "options": {
+      "A": "Có quyền (nhưng không bắt buộc) bán hàng hóa tại giá thực hiện và phải trả phí quyền chọn (Option Premium).",
+      "B": "Có quyền bán hàng hóa miễn phí mà không cần trả bất kỳ khoản phí nào.",
+      "C": "Bắt buộc phải bán hàng hóa tại giá thực hiện (Strike Price).",
+      "D": "Bắt buộc phải mua hàng hóa tại giá thị trường."
+    },
+    "answer": "A",
+    "explanation": "Trong Hợp đồng quyền chọn bán (Put Option), người mua quyền chọn trả một khoản phí (Option Premium) để mua quyền (nhưng không bắt buộc) được bán một lượng hàng hóa xác định tại mức giá thực hiện (Strike Price) trước hoặc tại ngày đáo hạn."
+  },
+  {
+    "id": 203,
+    "orig_no": "203",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong quá trình thực hiện hợp đồng đại lý thủ tục hải quan, Công ty X (chủ hàng) đã gửi cho Công ty Logistics Y (đại lý hải quan) bộ chứng từ bị sai lệch thông tin về mã số HS và trị giá khai báo của lô hàng. Việc này khiến cơ quan Hải quan ra quyết định xử phạt vi phạm hành chính đối với tờ khai. Công ty Y có quyền xử lý như thế nào đối với lỗi này?",
+    "options": {
+      "A": "Từ chối trách nhiệm đối với lỗi do chủ hàng (Công ty X) cung cấp sai thông tin.",
+      "B": "Bắt buộc phải đứng ra nộp phạt toàn bộ thay cho Công ty X do Công ty Y là đơn vị trực tiếp đứng tên khai báo.",
+      "C": "Chia sẻ trách nhiệm nộp tiền phạt hành chính cùng với Công ty X để duy trì mối quan hệ hợp tác.",
+      "D": "Không được quyền khiếu nại hay từ chối trách nhiệm vì đại lý hải quan chịu trách nhiệm liên đới vô điều kiện."
+    },
+    "answer": "A",
+    "explanation": "Theo quy định pháp luật hải quan, đại lý làm thủ tục hải quan khai báo dựa trên chứng từ do chủ hàng cung cấp; nếu chủ hàng cung cấp sai thông tin dẫn đến vi phạm hành chính, đại lý hải quan có quyền từ chối trách nhiệm và yêu cầu chủ hàng chịu trách nhiệm trước pháp luật."
+  },
+  {
+    "id": 204,
+    "orig_no": "204",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Trong thủ tục trọng tài thương mại, trường hợp mỗi bên chọn 1 trọng tài viên nhưng giữa 2 trọng tài viên này xảy ra bất đồng quan điểm thì bước xử lý tiếp theo là gì?",
+    "options": {
+      "A": "Chọn 1 trọng tài thứ 3 làm chủ tịch trọng tài",
+      "B": "Chuyển toàn bộ vụ việc sang Tòa án nhân dân giải quyết",
+      "C": "Vụ việc tự động coi như chấm dứt và hai bên tự hòa giải",
+      "D": "Yêu cầu thay đổi toàn bộ 2 trọng tài viên ban đầu"
+    },
+    "answer": "A",
+    "explanation": "Theo Luật Trọng tài thương mại 2010 và quy tắc của các trung tâm trọng tài (VIAC, SIAC), trường hợp mỗi bên chọn 1 trọng tài viên, hai trọng tài viên này sẽ tiến hành bầu trọng tài viên thứ 3 để làm Chủ tịch Hội đồng trọng tài."
+  },
+  {
+    "id": 205,
+    "orig_no": "205",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Vào tháng 1, Công ty X ký hợp đồng mua 10.000 thùng dầu thô từ Công ty Y, giao hàng vào tháng 6. Do thị trường dầu mỏ biến động rất mạnh, tại thời điểm ký kết, hai bên không ghi bất kỳ con số giá cụ thể nào trong hợp đồng mà chỉ ghi: \"Giá của lô hàng sẽ được tính bằng giá trung bình của dầu thô Platts Singapore trong 5 ngày làm việc ngay trước ngày giao hàng\". Phương pháp qui định giá được sử dụng trong trường hợp này là gì?",
+    "options": {
+      "A": "Giá quy định sau",
+      "B": "Giá linh hoạt / Giá có thể xét lại",
+      "C": "Giá di động (Sliding scale price)",
+      "D": "Giá cố định"
+    },
+    "answer": "A",
+    "explanation": "Xác định giá dựa trên mức giá thị trường thực tế trong tương lai (giá Platts Singapore trung bình 5 ngày trước ngày giao hàng) là phương pháp Giá quy định sau (Deferred pricing / To be fixed price)."
+  },
+  {
+    "id": 206,
+    "orig_no": "206",
+    "chapter_id": 3,
+    "chapter": "Chương 3: Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu",
+    "question": "Việc xác định và quản lý định mức sử dụng nguyên liệu, vật tư thực tế (bao gồm cả tỷ lệ hao hụt) trong hợp đồng gia công được thực hiện theo nguyên tắc nào?",
+    "options": {
+      "A": "Doanh nghiệp tự xác định, quản lý, lưu giữ hồ sơ/chứng từ kỹ thuật và chịu trách nhiệm trước pháp luật khi Hải quan kiểm tra.",
+      "B": "Doanh nghiệp phải nộp bảng định mức cho Hải quan phê duyệt trước khi bắt đầu sản xuất.",
+      "C": "Áp dụng theo bảng định mức cố định do Bộ Công Thương ban hành cho từng mặt hàng.",
+      "D": "Áp dụng theo bảng định mức do bên giao gia công quy định bắt buộc mà không được thay đổi."
+    },
+    "answer": "A",
+    "explanation": "Theo quy định hải quan hiện hành (Nghị định 08/2015/NĐ-CP và Thông tư 39/2018/TT-BTC), doanh nghiệp gia công tự xây dựng định mức thực tế, tự quản lý, lưu giữ hồ sơ tài liệu kỹ thuật tại doanh nghiệp và chịu trách nhiệm giải trình chính xác khi cơ quan Hải quan kiểm tra sau thông quan."
+  }
+]

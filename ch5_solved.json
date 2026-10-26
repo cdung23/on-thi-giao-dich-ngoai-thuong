@@ -1,0 +1,812 @@
+[
+  {
+    "id": 247,
+    "orig_no": "247",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Chào hàng tự do khác với chào hàng cố định ở điểm nào?",
+    "options": {
+      "A": "Người chào hàng không bị ràng buộc trách nhiệm trong thời hạn nhất định như chào hàng cố định",
+      "B": "Chào hàng tự do luôn có giá trị pháp lý cao hơn",
+      "C": "Chào hàng tự do bắt buộc phải ký hợp đồng ngay",
+      "D": "Chào hàng cố định không liên quan đến giao dịch"
+    },
+    "answer": "A",
+    "explanation": "Chào hàng tự do (Free offer) là loại chào hàng không có thời hạn ràng buộc người phát ra chào hàng, người bán có quyền chào hàng cùng lúc cho nhiều người và có quyền từ chối giao kết hoặc điều chỉnh nội dung mà không chịu trách nhiệm pháp lý, khác với chào hàng cố định (Firm offer) bị ràng buộc nghĩa vụ pháp lý trong thời hạn hiệu lực."
+  },
+  {
+    "id": 248,
+    "orig_no": "248",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Điều khoản chất lượng trong hợp đồng nhập khẩu có ý nghĩa:",
+    "options": {
+      "A": "Là căn cứ kiểm tra và đánh giá sự phù hợp của hàng hóa",
+      "B": "Chỉ nhằm mục đích tham khảo",
+      "C": "Không liên quan đến tranh chấp",
+      "D": "Không cần thiết với hàng hóa quốc tế"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản chất lượng (Quality clause) quy định các chỉ tiêu kỹ thuật, phẩm chất hàng hóa làm cơ sở pháp lý để người mua kiểm tra, nghiệm thu và đánh giá sự phù hợp của hàng hóa khi nhận hàng, cũng như làm căn cứ pháp lý để khiếu nại nếu hàng không đạt chuẩn."
+  },
+  {
+    "id": 249,
+    "orig_no": "249",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Điều khoản số lượng trong hợp đồng nhập khẩu cần được quy định nhằm:",
+    "options": {
+      "A": "Xác định rõ khối lượng hoặc số lượng hàng hóa giao nhận",
+      "B": "Xác định trách nhiệm quảng cáo",
+      "C": "Xác định nhân sự doanh nghiệp",
+      "D": "Xác định thị trường tiêu thụ cuối cùng"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản số lượng (Quantity clause) xác định cụ thể khối lượng, số lượng hoặc số kiện hàng hóa giao nhận cùng đơn vị tính và dung sai cho phép (nếu có)."
+  },
+  {
+    "id": 250,
+    "orig_no": "250",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Hạn chế lớn của nhập khẩu qua trung gian là:",
+    "options": {
+      "A": "Mất mối quan hệ trực tiếp với thị trường nước ngoài",
+      "B": "Không phát sinh quan hệ thương mại",
+      "C": "Không thể nhập khẩu hàng hóa",
+      "D": "Không cần trả phí cho trung gian"
+    },
+    "answer": "A",
+    "explanation": "Nhập khẩu qua trung gian (đại lý, ủy thác, môi giới) khiến người mua bị ngăn cách thông tin với nhà sản xuất và thị trường nước ngoài, dễ bị phụ thuộc vào trung gian và mất đi mối liên kết kinh doanh trực tiếp."
+  },
+  {
+    "id": 251,
+    "orig_no": "251",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Hợp đồng nhập khẩu có vai trò quan trọng vì:",
+    "options": {
+      "A": "Là cơ sở pháp lý xác định quyền và nghĩa vụ của các bên tham gia",
+      "B": "Chỉ dùng để quảng bá sản phẩm",
+      "C": "Không liên quan đến tranh chấp thương mại",
+      "D": "Thay thế hoàn toàn thủ tục hải quan"
+    },
+    "answer": "A",
+    "explanation": "Hợp đồng nhập khẩu là văn bản pháp lý cao nhất ghi nhận sự thỏa thuận, xác định rõ quyền và nghĩa vụ ràng buộc của người mua và người bán trong toàn bộ quá trình giao dịch."
+  },
+  {
+    "id": 252,
+    "orig_no": "252",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Khi bên mua nhận được chào hàng nhưng đưa ra yêu cầu thay đổi giá hoặc điều kiện giao dịch thì được xem là:",
+    "options": {
+      "A": "Hoàn giá",
+      "B": "Chấp nhận hoàn toàn",
+      "C": "Xác nhận hợp đồng",
+      "D": "Hỏi hàng"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 19 CISG 1980 và Luật Thương mại 2005, phản hồi chào hàng có chứa các điểm sửa đổi, bổ sung về giá cả hoặc các điều kiện giao dịch cơ bản cấu thành việc từ chối chào hàng ban đầu và trở thành một chào hàng mới (gọi là Hoàn giá - Counter-offer)."
+  },
+  {
+    "id": 253,
+    "orig_no": "253",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Khi đàm phán hợp đồng nhập khẩu, doanh nghiệp cần ưu tiên xem xét điều khoản nào để hạn chế rủi ro?",
+    "options": {
+      "A": "Điều khoản hàng hóa, giá cả, giao hàng, thanh toán và giải quyết tranh chấp",
+      "B": "Điều khoản quảng cáo thương hiệu",
+      "C": "Điều khoản tuyển dụng nhân sự",
+      "D": "Điều khoản trang trí văn phòng"
+    },
+    "answer": "A",
+    "explanation": "Hàng hóa, giá cả, giao hàng, thanh toán và giải quyết tranh chấp là 5 điều khoản thương mại và pháp lý cốt lõi của hợp đồng ngoại thương, quyết định trực tiếp đến quyền lợi và hạn chế rủi ro cho doanh nghiệp."
+  },
+  {
+    "id": 254,
+    "orig_no": "254",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Khi đánh giá hiệu quả của một thương vụ nhập khẩu, doanh nghiệp cần xem xét:",
+    "options": {
+      "A": "Tổng thể chi phí, lợi ích, rủi ro và khả năng tiêu thụ hàng hóa",
+      "B": "Chỉ giá mua ban đầu",
+      "C": "Chỉ thời gian ký hợp đồng",
+      "D": "Chỉ quy mô của nhà cung cấp"
+    },
+    "answer": "A",
+    "explanation": "Đánh giá hiệu quả thương vụ nhập khẩu đòi hỏi xem xét tổng thể: tổng chi phí nhập khẩu (giá mua, cước vận chuyển, bảo hiểm, thuế, chi phí logistics kho bãi), doanh thu, biên lợi nhuận, khả năng tiêu thụ hàng hóa và các rủi ro phát sinh."
+  },
+  {
+    "id": 255,
+    "orig_no": "255",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Khi doanh nghiệp chưa có nhiều kinh nghiệm trên thị trường nước ngoài, phương thức nhập khẩu nào thường được cân nhắc sử dụng?",
+    "options": {
+      "A": "Nhập khẩu qua trung gian thương mại",
+      "B": "Nhập khẩu trực tiếp trong mọi trường hợp",
+      "C": "Không cần giao dịch với đối tác nước ngoài",
+      "D": "Chỉ mua hàng qua đấu giá"
+    },
+    "answer": "A",
+    "explanation": "Khi doanh nghiệp chưa có nhiều kinh nghiệm trên thị trường quốc tế, nhập khẩu qua trung gian thương mại (như ủy thác nhập khẩu hoặc đại lý) giúp doanh nghiệp tận dụng chuyên môn, giảm thiểu sai sót thủ tục pháp lý, hải quan và logistics."
+  },
+  {
+    "id": 256,
+    "orig_no": "256",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Khi doanh nghiệp nhập khẩu lựa chọn điều kiện giao hàng trong hợp đồng, mục đích quan trọng nhất là:",
+    "options": {
+      "A": "Xác định trách nhiệm, chi phí và rủi ro giữa người mua và người bán",
+      "B": "Xác định quyền sở hữu thương hiệu",
+      "C": "Xác định phương pháp quảng cáo sản phẩm",
+      "D": "Xác định cơ cấu tổ chức doanh nghiệp"
+    },
+    "answer": "A",
+    "explanation": "Mục đích cốt lõi của các điều kiện giao hàng (Incoterms) trong hợp đồng là phân định rõ ràng nghĩa vụ, phân chia chi phí và xác định điểm chuyển giao rủi ro mất mát hoặc hư hỏng hàng hóa giữa người bán và người mua."
+  },
+  {
+    "id": 257,
+    "orig_no": "257",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Khi doanh nghiệp nhập khẩu lựa chọn phương thức nhập khẩu trực tiếp, doanh nghiệp phải chủ động hơn trong:",
+    "options": {
+      "A": "Tìm kiếm đối tác, đàm phán và tổ chức thực hiện hợp đồng",
+      "B": "Chỉ quảng cáo sản phẩm",
+      "C": "Chỉ thuê kho hàng",
+      "D": "Chỉ kiểm tra thị trường trong nước"
+    },
+    "answer": "A",
+    "explanation": "Phương thức nhập khẩu trực tiếp đòi hỏi doanh nghiệp phải tự mình chủ động toàn bộ các khâu: nghiên cứu thị trường, tìm kiếm và thẩm định đối tác, đàm phán ký kết hợp đồng, mở L/C, thuê tàu, mua bảo hiểm và làm thủ tục thông quan nhận hàng."
+  },
+  {
+    "id": 258,
+    "orig_no": "258",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Khi doanh nghiệp nhập khẩu phát hiện hàng hóa không đúng với hợp đồng, bước xử lý phù hợp đầu tiên là:",
+    "options": {
+      "A": "Kiểm tra, lập chứng cứ và thông báo cho bên liên quan theo quy định hợp đồng",
+      "B": "Tự ý tiêu hủy hàng hóa",
+      "C": "Ngừng mọi giao dịch quốc tế",
+      "D": "Không cần thông báo cho người bán"
+    },
+    "answer": "A",
+    "explanation": "Khi phát hiện hàng hóa không phù hợp với hợp đồng, bước đầu tiên mang tính bắt buộc là kiểm tra, lập biên bản chứng cứ (mời cơ quan giám định độc lập lập Giám định thư) và gửi thông báo khiếu nại (Claim notice) kịp thời theo thời hạn quy định trong hợp đồng hoặc luật áp dụng."
+  },
+  {
+    "id": 259,
+    "orig_no": "259",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Một doanh nghiệp nhập khẩu lựa chọn đối tác chỉ dựa vào giá thấp nhưng không xem xét năng lực giao hàng. Rủi ro lớn nhất có thể xảy ra là:",
+    "options": {
+      "A": "Không đảm bảo tiến độ giao hàng và ảnh hưởng kế hoạch kinh doanh",
+      "B": "Giảm chi phí nhập khẩu",
+      "C": "Tăng khả năng kiểm soát thị trường",
+      "D": "Giảm nhu cầu nghiên cứu thị trường"
+    },
+    "answer": "A",
+    "explanation": "Nếu chỉ chọn nhà cung cấp giá rẻ mà bỏ qua năng lực sản xuất và logistics, rủi ro lớn nhất là đối tác giao hàng chậm trễ, giao thiếu hoặc hủy giao hàng, làm đình trệ hoạt động sản xuất kinh doanh của doanh nghiệp nhập khẩu."
+  },
+  {
+    "id": 260,
+    "orig_no": "260",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Một doanh nghiệp nhập khẩu lựa chọn nhà cung cấp có giá cao hơn nhưng có uy tín và chất lượng ổn định. Quyết định này thể hiện:",
+    "options": {
+      "A": "Đánh giá hiệu quả nhập khẩu không chỉ dựa trên giá mua",
+      "B": "Doanh nghiệp không quan tâm đến chi phí",
+      "C": "Doanh nghiệp không cần nghiên cứu thị trường",
+      "D": "Doanh nghiệp không cần hợp đồng"
+    },
+    "answer": "A",
+    "explanation": "Quyết định chọn nhà cung ứng giá cao hơn nhưng có uy tín và chất lượng ổn định thể hiện tư duy quản trị hiện đại: đánh giá hiệu quả thương vụ dựa trên tổng chi phí sở hữu (TCO) và mức độ an toàn chuỗi cung ứng, không mua hàng thuần túy theo giá rẻ."
+  },
+  {
+    "id": 261,
+    "orig_no": "261",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Một doanh nghiệp nhập khẩu muốn giảm rủi ro khi giao dịch với đối tác nước ngoài mới. Biện pháp phù hợp nhất là:",
+    "options": {
+      "A": "Tìm hiểu kỹ uy tín đối tác và khả năng thực hiện hợp đồng",
+      "B": "Chỉ lựa chọn đối tác có giá thấp nhất",
+      "C": "Không cần kiểm tra thông tin doanh nghiệp",
+      "D": "Không cần quy định điều khoản hợp đồng"
+    },
+    "answer": "A",
+    "explanation": "Với đối tác nước ngoài mới, biện pháp phòng ngừa rủi ro hàng đầu là tiến hành thẩm định kỹ lưỡng (Due Diligence) về tư cách pháp nhân, tình hình tài chính, uy tín thương mại và năng lực thực hiện hợp đồng."
+  },
+  {
+    "id": 262,
+    "orig_no": "262",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Một hợp đồng nhập khẩu có điều khoản giải quyết tranh chấp nhằm:",
+    "options": {
+      "A": "Xác định phương thức xử lý khi các bên phát sinh bất đồng",
+      "B": "Thay thế toàn bộ nội dung hợp đồng",
+      "C": "Không cần thực hiện nghĩa vụ hợp đồng",
+      "D": "Chỉ phục vụ mục đích quảng cáo"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản giải quyết tranh chấp (Dispute resolution clause) quy định cơ chế và trình tự xử lý (thương lượng, hòa giải, trọng tài thương mại hay tòa án) cùng luật áp dụng khi hai bên phát sinh mâu thuẫn trong quá trình thực hiện hợp đồng."
+  },
+  {
+    "id": 263,
+    "orig_no": "263",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Nếu doanh nghiệp nhập khẩu không kiểm tra kỹ chứng từ hàng hóa trước khi nhận hàng, rủi ro có thể phát sinh là:",
+    "options": {
+      "A": "Sai lệch về thông tin hàng hóa, số lượng hoặc điều kiện giao nhận",
+      "B": "Doanh nghiệp không cần thanh toán",
+      "C": "Hợp đồng tự động bị hủy",
+      "D": "Người bán mất quyền sở hữu hàng hóa"
+    },
+    "answer": "A",
+    "explanation": "Chứng từ hàng hóa (Hóa đơn, Vận đơn, Phiếu đóng gói, C/O...) đại diện cho hàng hóa và thông tin pháp lý; không kiểm tra kỹ sẽ dẫn đến sai lệch thông tin, gây ách tắc thủ tục hải quan hoặc nhận sai hàng hóa/số lượng."
+  },
+  {
+    "id": 264,
+    "orig_no": "264",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Nhập khẩu trực tiếp được hiểu là:",
+    "options": {
+      "A": "Doanh nghiệp trực tiếp tiến hành trao đổi hàng hóa với đối tác nước ngoài",
+      "B": "Doanh nghiệp bắt buộc phải thông qua đại lý",
+      "C": "Doanh nghiệp không cần nghiên cứu thị trường",
+      "D": "Doanh nghiệp chỉ mua hàng trong nước"
+    },
+    "answer": "A",
+    "explanation": "Nhập khẩu trực tiếp là phương thức giao dịch mà bên mua trong nước và bên bán nước ngoài trực tiếp thiết lập quan hệ, trao đổi, đàm phán và ký kết thực hiện hợp đồng mà không qua bên thứ ba trung gian."
+  },
+  {
+    "id": 265,
+    "orig_no": "265",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Nhược điểm của nhập khẩu trực tiếp là:",
+    "options": {
+      "A": "Chi phí cao và có thể phát sinh nhiều rủi ro do khoảng cách giữa các bên",
+      "B": "Không thể lựa chọn đối tác",
+      "C": "Không được ký hợp đồng",
+      "D": "Không được thanh toán quốc tế"
+    },
+    "answer": "A",
+    "explanation": "Nhược điểm của nhập khẩu trực tiếp là đòi hỏi chi phí giao dịch, nhân sự nghiệp vụ chuyên trách, đồng thời doanh nghiệp phải tự gánh chịu toàn bộ rủi ro về thị trường, khoảng cách địa lý, rủi ro vận tải và pháp lý quốc tế."
+  },
+  {
+    "id": 266,
+    "orig_no": "266",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong hoạt động nhập khẩu, việc xác định nhu cầu nhập khẩu trước khi giao dịch nhằm mục đích chủ yếu là:",
+    "options": {
+      "A": "Xác định loại hàng, số lượng, chất lượng và thời điểm cần nhập khẩu",
+      "B": "Chỉ xác định quốc gia xuất khẩu",
+      "C": "Chỉ lựa chọn phương thức vận tải",
+      "D": "Không cần quan tâm đến khả năng tiêu thụ trong nước"
+    },
+    "answer": "A",
+    "explanation": "Xác định nhu cầu nhập khẩu là bước tiền đề trong quy trình kinh doanh, nhằm xác định chính xác chủng loại hàng, thông số kỹ thuật, số lượng cần thiết và thời điểm hàng về phù hợp với nhu cầu sản xuất/tiêu thụ."
+  },
+  {
+    "id": 267,
+    "orig_no": "267",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong hợp đồng nhập khẩu, điều khoản bất khả kháng có ý nghĩa:",
+    "options": {
+      "A": "Quy định cách xử lý khi xảy ra những sự kiện ngoài khả năng kiểm soát của các bên",
+      "B": "Xác định giá hàng hóa nhập khẩu",
+      "C": "Thay thế điều khoản giao hàng",
+      "D": "Loại bỏ hoàn toàn nghĩa vụ hợp đồng"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản bất khả kháng (Force Majeure clause) quy định các trường hợp sự kiện khách quan, không thể lường trước và không thể khắc phục được (chiến tranh, thiên tai, dịch bệnh...) giúp miễn trừ trách nhiệm hợp đồng và xác định cách thức giải quyết tiếp theo."
+  },
+  {
+    "id": 268,
+    "orig_no": "268",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong hợp đồng nhập khẩu, điều khoản thanh toán cần quy định rõ:",
+    "options": {
+      "A": "Phương thức thanh toán, thời hạn thanh toán và các điều kiện liên quan",
+      "B": "Số lượng nhân viên của hai doanh nghiệp",
+      "C": "Kế hoạch tiêu thụ sản phẩm",
+      "D": "Chiến lược phát triển thương hiệu"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản thanh toán cần quy định cụ thể phương thức thanh toán (L/C, T/T, D/P, D/A), đồng tiền thanh toán, thời hạn thanh toán và bộ chứng từ xuất trình làm căn cứ thanh toán."
+  },
+  {
+    "id": 269,
+    "orig_no": "269",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong quá trình giao dịch nhập khẩu, khi bên mua yêu cầu bên bán cung cấp thông tin về giá cả, điều kiện giao hàng và sản phẩm thì đây là hoạt động:",
+    "options": {
+      "A": "Hỏi hàng",
+      "B": "Chấp nhận chào hàng",
+      "C": "Ký hợp đồng",
+      "D": "Khiếu nại"
+    },
+    "answer": "A",
+    "explanation": "Hỏi hàng (Inquiry) là hành động của người mua chủ động tiếp cận người bán để yêu cầu cung cấp thông tin chi tiết về sản phẩm, giá cả, thời gian giao hàng và các điều kiện mua bán."
+  },
+  {
+    "id": 270,
+    "orig_no": "270",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong quá trình lựa chọn phương thức nhập khẩu, doanh nghiệp cần căn cứ chủ yếu vào:",
+    "options": {
+      "A": "Năng lực tài chính, kinh nghiệm, mục tiêu kinh doanh và điều kiện thị trường",
+      "B": "Sở thích cá nhân của người quản lý",
+      "C": "Quy mô văn phòng của doanh nghiệp xuất khẩu",
+      "D": "Số lượng quảng cáo của đối tác"
+    },
+    "answer": "A",
+    "explanation": "Việc lựa chọn phương thức nhập khẩu (trực tiếp hay gián tiếp qua ủy thác) phải căn cứ vào năng lực tài chính, trình độ nghiệp vụ ngoại thương của nhân sự, mục tiêu chiến lược và mức độ phức tạp của thị trường."
+  },
+  {
+    "id": 271,
+    "orig_no": "271",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong quá trình nhập khẩu, việc kiểm tra chứng từ trước khi nhận hàng giúp doanh nghiệp:",
+    "options": {
+      "A": "Hạn chế sai sót về thông tin hàng hóa và thủ tục nhập khẩu",
+      "B": "Không cần kiểm tra thực tế hàng hóa",
+      "C": "Không cần thực hiện nghĩa vụ thanh toán",
+      "D": "Thay đổi giá trong hợp đồng"
+    },
+    "answer": "A",
+    "explanation": "Kiểm tra kỹ bộ chứng từ trước khi nhận hàng giúp phát hiện sớm các điểm bất hợp lệ, sai sót thông tin để kịp thời yêu cầu bên bán chỉnh sửa, tránh phát sinh chi phí lưu kho bãi (DEM/DET) và đảm bảo thông quan thuận lợi."
+  },
+  {
+    "id": 272,
+    "orig_no": "272",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong quá trình thực hiện hợp đồng nhập khẩu, việc kiểm tra hàng hóa trước khi nhận nhằm mục đích:",
+    "options": {
+      "A": "Phát hiện sự phù hợp hoặc sai lệch so với hợp đồng",
+      "B": "Thay đổi giá mua hàng hóa",
+      "C": "Thay thế hoàn toàn hợp đồng đã ký",
+      "D": "Loại bỏ nghĩa vụ thanh toán"
+    },
+    "answer": "A",
+    "explanation": "Mục đích của việc kiểm tra hàng hóa trước khi nhận là nhằm xác định sự phù hợp về số lượng, trọng lượng, phẩm chất, bao bì của hàng hóa thực tế so với các điều khoản đã thỏa thuận trong hợp đồng."
+  },
+  {
+    "id": 273,
+    "orig_no": "273",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong thực hiện hợp đồng nhập khẩu, việc thuê phương tiện vận tải phù hợp nhằm:",
+    "options": {
+      "A": "Đảm bảo quá trình vận chuyển hàng hóa đúng thời gian và điều kiện yêu cầu",
+      "B": "Thay đổi điều khoản hợp đồng",
+      "C": "Loại bỏ trách nhiệm của người bán",
+      "D": "Không cần làm thủ tục nhập khẩu"
+    },
+    "answer": "A",
+    "explanation": "Thuê phương tiện vận tải thích hợp (đúng tuyến đường, đúng loại tàu, cước phí hợp lý) bảo đảm hàng hóa được chuyên chở an toàn, đúng thời gian và tuân thủ các điều kiện bảo quản kỹ thuật."
+  },
+  {
+    "id": 274,
+    "orig_no": "274",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty A muốn nhập 1.000 máy pha cà phê từ Ý. Trước khi liên hệ nhà cung cấp, công ty cần làm rõ nhu cầu thị trường trong nước. Thông tin nào quan trọng nhất?",
+    "options": {
+      "A": "Nhu cầu và khả năng tiêu thụ trong nước",
+      "B": "Diện tích văn phòng nhà cung cấp",
+      "C": "Số nhân viên của nhà cung cấp",
+      "D": "Màu logo của nhà cung cấp"
+    },
+    "answer": "A",
+    "explanation": "Trước khi nhập khẩu mặt hàng thương mại như máy pha cà phê, khảo sát nhu cầu thị trường và khả năng tiêu thụ trong nước là thông tin quan trọng nhất để tránh nguy cơ ế ẩm và chôn vốn."
+  },
+  {
+    "id": 275,
+    "orig_no": "275",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty chọn điều kiện giao hàng nhưng không xác định rõ địa điểm giao hàng. Rủi ro dễ phát sinh là:",
+    "options": {
+      "A": "Giảm số lượng hàng",
+      "B": "Không cần chứng từ",
+      "C": "Tranh chấp về trách nhiệm, chi phí và rủi ro",
+      "D": "Tăng chất lượng hàng"
+    },
+    "answer": "C",
+    "explanation": "Theo Incoterms 2020, điều kiện giao hàng luôn phải gắn liền với một địa điểm cụ thể (named place/port). Nếu không ghi rõ địa điểm giao hàng, các bên sẽ rơi vào tranh chấp gay gắt về điểm phân chia chi phí và chuyển giao rủi ro."
+  },
+  {
+    "id": 276,
+    "orig_no": "276",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty đã ký hợp đồng nhưng các bộ phận mua hàng, kế toán và logistics không phối hợp. Hậu quả dễ xảy ra là:",
+    "options": {
+      "A": "Chậm hoặc sai trong quá trình thực hiện hợp đồng",
+      "B": "Giá hàng tự động giảm",
+      "C": "Chất lượng tự động tăng",
+      "D": "Không ảnh hưởng"
+    },
+    "answer": "A",
+    "explanation": "Thiếu sự phối hợp đồng bộ giữa mua hàng, kế toán và logistics sẽ dẫn đến việc mở L/C chậm, không thu xếp kịp tàu xe, chậm trễ thông quan và gây đình trệ toàn bộ quá trình thực hiện hợp đồng."
+  },
+  {
+    "id": 277,
+    "orig_no": "277",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty muốn đánh giá hiệu quả thương vụ sau khi hàng về. Chỉ tiêu nào cần được xem xét?",
+    "options": {
+      "A": "Chi phí, lợi ích, rủi ro và khả năng tiêu thụ",
+      "B": "Chỉ giá mua",
+      "C": "Chỉ thời gian ký",
+      "D": "Chỉ số lượng hợp đồng"
+    },
+    "answer": "A",
+    "explanation": "Sau khi hàng về, đánh giá hiệu quả thương vụ phải căn cứ trên tổng thể chi phí (Landed Cost), doanh thu lợi nhuận thực tế, các rủi ro tổn thất phát sinh và tốc độ giải phóng hàng hóa trên thị trường."
+  },
+  {
+    "id": 278,
+    "orig_no": "278",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty muốn lựa chọn giữa hai phương án nhập: A có giá thấp nhưng thời gian giao dài; B giá cao hơn nhưng giao nhanh. Nếu thị trường cần hàng gấp, quyết định nên dựa vào:",
+    "options": {
+      "A": "Tổng lợi ích và ảnh hưởng của thời gian giao hàng",
+      "B": "Chỉ số lượng hàng",
+      "C": "Chỉ giá mua",
+      "D": "Chỉ khoảng cách địa lý"
+    },
+    "answer": "A",
+    "explanation": "Khi thị trường đang cần hàng gấp, thời gian giao hàng quyết định cơ hội kinh doanh; do đó doanh nghiệp cần so sánh tổng lợi ích đem lại từ việc đáp ứng kịp thời thị trường so với chi phí chênh lệch giá mua."
+  },
+  {
+    "id": 279,
+    "orig_no": "279",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty muốn nhập hàng nhưng chưa biết quy định pháp lý liên quan tại nước nhập khẩu. Cách xử lý phù hợp là:",
+    "options": {
+      "A": "Tìm hiểu quy định hoặc sử dụng tư vấn chuyên môn",
+      "B": "Chỉ xem quảng cáo",
+      "C": "Bỏ qua quy định",
+      "D": "Ký trước rồi tính sau"
+    },
+    "answer": "A",
+    "explanation": "Khi chưa am hiểu quy định quản lý xuất nhập khẩu tại nước sở tại, doanh nghiệp phải chủ động tra cứu văn bản pháp luật, chính sách chuyên ngành hoặc thuê chuyên gia tư vấn pháp lý/hải quan để tránh vi phạm."
+  },
+  {
+    "id": 280,
+    "orig_no": "280",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty muốn thay đổi giá sau khi đã chấp nhận chào hàng vô điều kiện. Vấn đề cần xem xét là:",
+    "options": {
+      "A": "Hai bên đã hình thành cam kết theo nội dung đã chấp nhận hay chưa",
+      "B": "Có thể đổi giá tùy ý",
+      "C": "Không cần thông báo",
+      "D": "Người bán luôn phải chấp nhận"
+    },
+    "answer": "A",
+    "explanation": "Khi đã chấp nhận chào hàng vô điều kiện, hợp đồng đã có hiệu lực pháp lý ràng buộc. Doanh nghiệp không thể tự ý đổi giá mà phải xem xét các cam kết đã hình thành và chỉ có thể thay đổi nếu được đối tác đồng thuận sửa đổi hợp đồng."
+  },
+  {
+    "id": 281,
+    "orig_no": "281",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty muốn tránh tranh chấp về chất lượng máy. Nội dung nào nên được quy định rõ trong hợp đồng?",
+    "options": {
+      "A": "Tiêu chuẩn và phương thức kiểm tra",
+      "B": "Kế hoạch quảng cáo",
+      "C": "Số nhân viên hai bên",
+      "D": "Màu văn phòng"
+    },
+    "answer": "A",
+    "explanation": "Để tránh tranh chấp về chất lượng, hợp đồng cần quy định cụ thể tiêu chuẩn kỹ thuật (thông số, nhãn hiệu, quy cách kiểm định) và phương thức kiểm tra chất lượng (cơ quan giám định, thời điểm và địa điểm giám định)."
+  },
+  {
+    "id": 282,
+    "orig_no": "282",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty nhận chào hàng 100 USD/máy nhưng đề nghị lại 92 USD/máy và giữ nguyên các điều kiện khác. Hành động của công ty là:",
+    "options": {
+      "A": "Hoàn giá",
+      "B": "Chấp nhận vô điều kiện",
+      "C": "Xác nhận hợp đồng",
+      "D": "Khiếu nại"
+    },
+    "answer": "A",
+    "explanation": "Đề nghị thay đổi giá từ 100 USD xuống 92 USD là hành động Hoàn giá (Counter-offer). Theo luật quốc tế, hành động này hủy bỏ chào hàng ban đầu và trở thành một đề nghị giao kết hợp đồng mới từ phía người mua."
+  },
+  {
+    "id": 283,
+    "orig_no": "283",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty nhập 2.000 máy nhưng thị trường chỉ tiêu thụ được 800 máy trong thời gian dự kiến. Vấn đề cần xem xét là:",
+    "options": {
+      "A": "Dự báo nhu cầu và lượng nhập",
+      "B": "Chỉ tên hàng",
+      "C": "Chỉ ngân hàng",
+      "D": "Chỉ phương thức thanh toán"
+    },
+    "answer": "A",
+    "explanation": "Nhập 2.000 máy nhưng chỉ tiêu thụ được 800 máy là hệ quả trực tiếp của việc dự báo nhu cầu thị trường thiếu chính xác dẫn đến quyết định quy mô lô hàng nhập khẩu không phù hợp."
+  },
+  {
+    "id": 284,
+    "orig_no": "284",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Công ty thanh toán trước toàn bộ tiền cho nhà cung cấp mới chưa được kiểm chứng. Rủi ro lớn là:",
+    "options": {
+      "A": "Người bán không giao hoặc giao không đúng cam kết",
+      "B": "Chi phí kho luôn giảm",
+      "C": "Hàng luôn đúng chất lượng",
+      "D": "Không cần hợp đồng"
+    },
+    "answer": "A",
+    "explanation": "Thanh toán trước 100% (Advance payment) cho một nhà cung cấp mới tiềm ẩn rủi ro cực lớn: người bán có thể lừa đảo, không giao hàng hoặc giao hàng không đúng chất lượng mà người mua không có công cụ bảo đảm để thu hồi tiền."
+  },
+  {
+    "id": 285,
+    "orig_no": "285",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Doanh nghiệp muốn hạn chế tranh chấp về thanh toán. Hợp đồng nên ghi rõ:",
+    "options": {
+      "A": "Phương thức và thời hạn thanh toán",
+      "B": "Màu sản phẩm",
+      "C": "Kế hoạch quảng cáo",
+      "D": "Tên nhân viên"
+    },
+    "answer": "A",
+    "explanation": "Quy định minh bạch phương thức thanh toán, thời hạn thanh toán và bộ chứng từ bắt buộc là biện pháp then chốt để hạn chế tranh chấp phát sinh trong quá trình chuyển giao tiền tệ."
+  },
+  {
+    "id": 286,
+    "orig_no": "286",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Doanh nghiệp muốn tăng hiệu quả thương vụ tiếp theo sau khi phát sinh nhiều chi phí giao dịch. Biện pháp phù hợp là:",
+    "options": {
+      "A": "Rà soát lại lượng đặt hàng và tổ chức giao dịch",
+      "B": "Tăng số lần đặt hàng",
+      "C": "Chỉ giảm chất lượng",
+      "D": "Bỏ nghiên cứu thị trường"
+    },
+    "answer": "A",
+    "explanation": "Rà soát lại quy mô lô hàng đặt mua (áp dụng mô hình đặt hàng tối ưu EOQ) và tinh gọn quy trình giao dịch giúp giảm bớt chi phí vận chuyển, thủ tục hành chính và chi phí logistics trên mỗi đơn vị hàng hóa."
+  },
+  {
+    "id": 287,
+    "orig_no": "287",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Doanh nghiệp nhỏ chưa có mạng lưới ở nước ngoài, nhưng có một trung gian am hiểu thị trường và nhà cung cấp. Lợi ích chính là:",
+    "options": {
+      "A": "Tận dụng kinh nghiệm và mạng lưới của trung gian",
+      "B": "Không cần hợp đồng",
+      "C": "Không cần kiểm tra hàng",
+      "D": "Loại bỏ mọi chi phí"
+    },
+    "answer": "A",
+    "explanation": "Đối với doanh nghiệp nhỏ chưa có mạng lưới quốc tế, hợp tác với trung gian am hiểu thị trường giúp tận dụng mối quan hệ sẵn có, kinh nghiệm đàm phán và sự am hiểu nguồn hàng của trung gian."
+  },
+  {
+    "id": 288,
+    "orig_no": "288",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Hai bên dùng L/C nhưng doanh nghiệp không kiểm tra kỹ các điều kiện chứng từ. Rủi ro có thể xảy ra là:",
+    "options": {
+      "A": "Chứng từ không phù hợp yêu cầu thanh toán",
+      "B": "Hàng tự động được miễn thuế",
+      "C": "Không cần giao hàng",
+      "D": "Giá hàng tự động giảm"
+    },
+    "answer": "A",
+    "explanation": "Theo quy tắc UCP 600, ngân hàng chỉ kiểm tra sự phù hợp trên bề mặt của chứng từ. Nếu không rà soát kỹ các điều khoản chứng từ quy định trong L/C, bên mua có thể đối mặt với rủi ro chứng từ xuất trình không phù hợp và bị từ chối thanh toán."
+  },
+  {
+    "id": 289,
+    "orig_no": "289",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Hai bên tranh chấp về trách nhiệm khi hàng bị hư hỏng. Hợp đồng có quy định điều khoản giải quyết tranh chấp. Doanh nghiệp nên:",
+    "options": {
+      "A": "Căn cứ điều khoản hợp đồng và chứng cứ liên quan",
+      "B": "Chỉ dựa vào ý kiến nhân viên",
+      "C": "Tự quyết định trách nhiệm",
+      "D": "Bỏ qua hợp đồng"
+    },
+    "answer": "A",
+    "explanation": "Khi xảy ra tranh chấp tổn thất hàng hóa, căn cứ pháp lý cao nhất và duy nhất có giá trị giải quyết là các điều khoản của hợp đồng đã ký kết cùng các chứng cứ pháp lý độc lập (như Giám định thư, Biên bản kết toán hàng hóa ROROC, Kháng nghị hàng hải)."
+  },
+  {
+    "id": 290,
+    "orig_no": "290",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Hai nhà cung cấp có giá ngang nhau. Nhà cung cấp A có lịch sử giao hàng ổn định, B thường giao thiếu. Công ty nên:",
+    "options": {
+      "A": "Ưu tiên A sau khi đánh giá tổng thể",
+      "B": "Chọn B vì rẻ như nhau",
+      "C": "Không cần xem lịch sử",
+      "D": "Chọn ngẫu nhiên"
+    },
+    "answer": "A",
+    "explanation": "Khi giá thành tương đương nhau, doanh nghiệp cần ưu tiên đối tác có lịch sử giao hàng ổn định và đúng hạn nhằm đảm bảo kế hoạch kinh doanh và giảm thiểu rủi ro gián đoạn chuỗi cung ứng."
+  },
+  {
+    "id": 291,
+    "orig_no": "291",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Hợp đồng ghi 'máy pha cà phê loại tốt' nhưng không có tiêu chuẩn kỹ thuật. Khi hàng về không đạt yêu cầu, khó khăn chính là:",
+    "options": {
+      "A": "Thiếu căn cứ rõ ràng để đối chiếu chất lượng",
+      "B": "Thiếu số tài khoản ngân hàng",
+      "C": "Thiếu nhân viên bán hàng",
+      "D": "Thiếu quảng cáo"
+    },
+    "answer": "A",
+    "explanation": "Quy định chất lượng bằng từ ngữ định tính mơ hồ như 'loại tốt' mà không có tiêu chuẩn kỹ thuật cụ thể sẽ khiến người mua thiếu căn cứ khách quan để chứng minh hàng hóa không đạt yêu cầu khi khiếu nại."
+  },
+  {
+    "id": 292,
+    "orig_no": "292",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Khi nhận hàng, công ty phát hiện thiếu 20 máy so với hợp đồng. Việc đầu tiên nên làm là:",
+    "options": {
+      "A": "Kiểm tra chứng từ và lập chứng cứ về thiếu hụt",
+      "B": "Hủy toàn bộ hợp đồng",
+      "C": "Không thông báo ai",
+      "D": "Bán phần hàng còn lại ngay"
+    },
+    "answer": "A",
+    "explanation": "Khi phát hiện giao thiếu hàng, bước đầu tiên là kiểm tra đối chiếu vận đơn, packing list và lập biên bản ghi nhận sự thiếu hụt có xác nhận của các bên liên quan (biên bản dỡ hàng COR/ROROC) để làm bằng chứng khiếu nại bên bán hoặc bên vận tải."
+  },
+  {
+    "id": 293,
+    "orig_no": "293",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Máy nhập khẩu không đạt tiêu chuẩn kỹ thuật đã thỏa thuận. Căn cứ đầu tiên để xử lý là:",
+    "options": {
+      "A": "Điều khoản chất lượng trong hợp đồng",
+      "B": "Quảng cáo của nhà cung cấp",
+      "C": "Ý kiến người bán",
+      "D": "Giá bán trong nước"
+    },
+    "answer": "A",
+    "explanation": "Điều khoản chất lượng đã thỏa thuận trong hợp đồng là căn cứ pháp lý đầu tiên và quan trọng nhất để đối chiếu thông số kỹ thuật thực tế và quy kết trách nhiệm vi phạm hợp đồng của bên bán."
+  },
+  {
+    "id": 294,
+    "orig_no": "294",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Một doanh nghiệp đánh giá thương vụ chỉ bằng việc 'hàng đã về'. Cách đánh giá này chưa đủ vì:",
+    "options": {
+      "A": "Cần xem cả hiệu quả kinh tế và khả năng tiêu thụ",
+      "B": "Hàng về là chắc chắn có lời",
+      "C": "Không cần tính chi phí",
+      "D": "Không cần xem rủi ro"
+    },
+    "answer": "A",
+    "explanation": "Hàng về đến kho mới chỉ là hoàn thành khâu tiếp nhận logistics; một thương vụ chỉ thực sự thành công khi hàng hóa được tiêu thụ thuận lợi, đạt mục tiêu doanh thu, chi phí hợp lý và sinh lời cho doanh nghiệp."
+  },
+  {
+    "id": 295,
+    "orig_no": "295",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Một doanh nghiệp muốn nhập khẩu mặt hàng mới. Trình tự nào hợp lý hơn?",
+    "options": {
+      "A": "Nghiên cứu nhu cầu → chọn nguồn/đối tác → đàm phán → ký và thực hiện hợp đồng",
+      "B": "Nhận hàng → mới đàm phán",
+      "C": "Thanh toán → nghiên cứu thị trường → tìm đối tác",
+      "D": "Ký hợp đồng → mới tìm hiểu hàng"
+    },
+    "answer": "A",
+    "explanation": "Quy trình nghiệp vụ nhập khẩu chuẩn mực bao gồm 4 bước tuần tự: Nghiên cứu nhu cầu thị trường → Lựa chọn nguồn hàng và đối tác → Đàm phán các điều khoản giao dịch → Ký kết và tổ chức thực hiện hợp đồng."
+  },
+  {
+    "id": 296,
+    "orig_no": "296",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Một lô hàng thuộc diện phải đáp ứng yêu cầu kiểm tra theo quy định. Doanh nghiệp bỏ qua khâu này. Rủi ro là:",
+    "options": {
+      "A": "Hàng có thể không đáp ứng yêu cầu pháp lý",
+      "B": "Không cần làm thủ tục khác",
+      "C": "Nhà bán chịu mọi trách nhiệm",
+      "D": "Giá hàng tự động giảm"
+    },
+    "answer": "A",
+    "explanation": "Bỏ qua khâu kiểm tra chuyên ngành theo luật định (như kiểm dịch thực vật/động vật, kiểm tra an toàn thực phẩm, hợp chuẩn hợp quy) sẽ khiến lô hàng không đủ điều kiện thông quan và có thể bị phạt, tịch thu hoặc buộc tái xuất."
+  },
+  {
+    "id": 297,
+    "orig_no": "297",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Nhà cung cấp gửi chào hàng cố định cho công ty, ghi rõ thời hạn hiệu lực. Ý nghĩa chính của thời hạn này là:",
+    "options": {
+      "A": "Xác định khoảng thời gian chào hàng có tính ràng buộc theo nội dung đã nêu",
+      "B": "Xác định thời gian tiêu thụ",
+      "C": "Xác định thời gian vận chuyển",
+      "D": "Xác định thời gian bảo hành"
+    },
+    "answer": "A",
+    "explanation": "Thời hạn hiệu lực trong chào hàng cố định (Firm offer) xác định khoảng thời gian người chào hàng cam kết bị ràng buộc trách nhiệm pháp lý theo các nội dung đã chào nếu đối tác chấp nhận vô điều kiện trong thời hạn đó."
+  },
+  {
+    "id": 298,
+    "orig_no": "298",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Nhà cung cấp gửi chào hàng ghi rõ hàng, giá, giao hàng và thời hạn hiệu lực. Người mua muốn thay đổi giá. Hành động này là:",
+    "options": {
+      "A": "Hoàn giá",
+      "B": "Giao hàng",
+      "C": "Chấp nhận vô điều kiện",
+      "D": "Khiếu nại"
+    },
+    "answer": "A",
+    "explanation": "Đề nghị thay đổi giá cấu thành một Hoàn giá (Counter-offer). Hành vi này làm chấm dứt hiệu lực của chào hàng ban đầu và biến bên mua thành bên đưa ra lời đề nghị giao kết hợp đồng mới."
+  },
+  {
+    "id": 299,
+    "orig_no": "299",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Sau khi ký hợp đồng, công ty cần theo dõi tiến độ giao hàng. Việc này giúp:",
+    "options": {
+      "A": "Chủ động xử lý chậm giao hàng",
+      "B": "Không cần liên hệ người bán",
+      "C": "Không cần chuẩn bị nhận hàng",
+      "D": "Thay đổi giá tùy ý"
+    },
+    "answer": "A",
+    "explanation": "Theo dõi sát sao tiến độ sản xuất và hành trình phương tiện vận tải giúp doanh nghiệp kịp thời phát hiện nguy cơ chậm giao hàng để đôn đốc đối tác hoặc chủ động điều chỉnh kế hoạch kinh doanh nhằm hạn chế thiệt hại."
+  },
+  {
+    "id": 300,
+    "orig_no": "300",
+    "chapter_id": 5,
+    "chapter": "Chương 5: Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán ngoại thương",
+    "question": "Trong đàm phán, bên bán đồng ý giá nhưng không đồng ý thời hạn giao hàng mà công ty yêu cầu. Công ty nên:",
+    "options": {
+      "A": "Tiếp tục đàm phán điều kiện giao hàng",
+      "B": "Ký ngay",
+      "C": "Thanh toán trước",
+      "D": "Bỏ qua điều khoản giao hàng"
+    },
+    "answer": "A",
+    "explanation": "Thời hạn giao hàng là điều khoản chủ yếu (essential term) của hợp đồng mua bán ngoại thương. Khi chưa đạt được sự đồng thuận về điều khoản này, hai bên chưa thể ký kết hợp đồng mà phải tiếp tục đàm phán để tìm tiếng nói chung."
+  }
+]

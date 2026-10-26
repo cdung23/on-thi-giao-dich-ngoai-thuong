@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "orig_no": "1",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Cách phân loại hợp đồng gia công nào sau đây xét về số bên tham gia?",
+    "options": {
+      "A": "Gia công chuyển tiếp",
+      "B": "Mua đứt bán đoạn",
+      "C": "Hợp đồng khoán gọn",
+      "D": "Gia công chủ động"
+    },
+    "answer": "A",
+    "explanation": "Căn cứ vào giáo trình Giao dịch ngoại thương, xét theo số bên tham gia, hợp đồng gia công quốc tế được chia thành: Gia công hai bên (song phương) và Gia công chuyển tiếp (đa phương - từ 3 bên trở lên, trong đó bên nhận gia công giao thành phẩm trực tiếp cho một bên thứ ba theo chỉ định của bên đặt gia công). Các phương án B, C, D là phân loại theo quyền sở hữu nguyên liệu hoặc hình thức thanh toán thù lao."
+  },
+  {
+    "id": 2,
+    "orig_no": "2",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Chào bán hàng xét về mặt pháp lý được hiểu là gì?",
+    "options": {
+      "A": "Đề nghị ký kết hợp đồng của người bán theo các điều kiện đã nêu ra",
+      "B": "Lời thỉnh cầu muốn được biết thông tin về sản phẩm",
+      "C": "Văn bản xác nhận lại các nội dung của người mua trong hỏi hàng",
+      "D": "Thể hiện sự đồng tình của bên bán đề nghị ký kết hợp đồng do bên mua đưa ra"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 14 Công ước Viên 1980 (CISG) và Luật Thương mại 2005, chào bán hàng (Offer/Chào hàng) xét về mặt pháp lý là một đề nghị giao kết hợp đồng xuất phát từ phía người bán, gửi cho một hoặc nhiều đối tượng xác định, thể hiện rõ ý chí chịu sự ràng buộc theo các điều kiện đã nêu ra khi bên mua chấp nhận."
+  },
+  {
+    "id": 3,
+    "orig_no": "3",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đại lý nào là thương nhân trung gian hoạt động với danh nghĩa và chi phí của chính mình?",
+    "options": {
+      "A": "Đại lý kinh tiêu",
+      "B": "Đại lý thụ ủy",
+      "C": "Đại lý hoa hồng",
+      "D": "Đại lý đặc biệt"
+    },
+    "answer": "A",
+    "explanation": "Theo Luật Thương mại 2005 và nghiệp vụ đại lý quốc tế, Đại lý kinh tiêu (Merchant Dealer/Merchant Agent) là thương nhân mua đứt bán đoạn, hoạt động với danh nghĩa và chi phí của chính mình, tự chịu rủi ro và hưởng lợi nhuận từ khoản chênh lệch giữa giá mua và giá bán lại."
+  },
+  {
+    "id": 4,
+    "orig_no": "4",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đặt mua hàng được sử dụng trong trường hợp nào?",
+    "options": {
+      "A": "Khi mối quan hệ giữa hai bên mua và bán đã có sự thông hiểu lẫn nhau từ trước",
+      "B": "Khi hai bên chưa từng có bất kỳ giao dịch hay thông tin nào về nhau trước đó",
+      "C": "Khi người bán chưa đưa ra bất kỳ đơn chào hàng nào cho người mua",
+      "D": "Khi hợp đồng giữa hai bên đã hoàn tất và không cần thêm bất kỳ thao tác nào khác"
+    },
+    "answer": "A",
+    "explanation": "Đặt mua hàng (Order/Đơn đặt hàng) thường được bên mua sử dụng khi hai bên đã có mối quan hệ làm ăn từ trước, thông hiểu về uy tín, chủng loại hàng hóa, giá cả và các điều kiện giao dịch khung đã được thỏa thuận trước đó."
+  },
+  {
+    "id": 5,
+    "orig_no": "5",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một cách phân loại đấu thầu theo lượng người tham gia?",
+    "options": {
+      "A": "Đấu thầu sơ tuyển",
+      "B": "Đấu thầu mở rộng",
+      "C": "Đấu thầu hạn chế",
+      "D": "Đấu thầu riêng lẻ"
+    },
+    "answer": "A",
+    "explanation": "Xét theo số lượng người tham gia, đấu thầu quốc tế được phân loại thành: Đấu thầu rộng rãi (mở rộng), Đấu thầu hạn chế, và Chỉ định thầu (đấu thầu riêng lẻ). Đấu thầu sơ tuyển là cách phân loại theo giai đoạn/quy trình kỹ thuật tổ chức thầu."
+  },
+  {
+    "id": 6,
+    "orig_no": "6",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một cách phân loại du lịch quốc tế theo mục đích của hoạt động du lịch?",
+    "options": {
+      "A": "Du lịch cá nhân",
+      "B": "Du lịch văn hóa",
+      "C": "Du lịch thương gia",
+      "D": "Du lịch quá cảnh"
+    },
+    "answer": "A",
+    "explanation": "Phân loại du lịch theo mục đích chuyến đi gồm có: Du lịch văn hóa, du lịch thương gia (công vụ), du lịch nghỉ dưỡng, du lịch thể thao, du lịch quá cảnh, v.v. 'Du lịch cá nhân' là phân loại theo hình thức tổ chức chuyến đi hoặc quy mô đoàn khách."
+  },
+  {
+    "id": 7,
+    "orig_no": "7",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một đặc điểm của giao dịch tái xuất?",
+    "options": {
+      "A": "Thường có 2 bên tham gia vào quá trình giao dịch",
+      "B": "Người bán chính là người mua",
+      "C": "Mục đích là chênh lệch giá",
+      "D": "Hàng hóa chưa qua bất kỳ khâu chế biến nào"
+    },
+    "answer": "A",
+    "explanation": "Giao dịch tái xuất (Re-export) về bản chất luôn có sự tham gia của ít nhất 3 bên: Người xuất khẩu ban đầu, Người kinh doanh tái xuất (ở giữa, vừa đóng vai trò người mua từ nước xuất khẩu vừa là người bán sang nước thứ ba), và Người nhập khẩu cuối cùng. Do đó nhận định 'Thường có 2 bên tham gia' là sai."
+  },
+  {
+    "id": 8,
+    "orig_no": "8",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một loại hình mua bán tại sở giao dịch?",
+    "options": {
+      "A": "Nghiệp vụ bảo hiểm",
+      "B": "Giao ngay",
+      "C": "Giao dịch kỳ hạn",
+      "D": "Hợp đồng quyền chọn"
+    },
+    "answer": "A",
+    "explanation": "Các loại hình giao dịch mua bán hàng hóa tiêu chuẩn tại Sở giao dịch hàng hóa (Commodity Exchange) bao gồm: Giao dịch giao ngay (Spot), Giao dịch kỳ hạn (Forward), Hợp đồng tương lai (Futures), và Hợp đồng quyền chọn (Options). 'Nghiệp vụ bảo hiểm' chỉ là mục đích phòng ngừa rủi ro giá (Hedging) chứ không phải một loại hình hợp đồng mua bán tại sở giao dịch."
+  },
+  {
+    "id": 9,
+    "orig_no": "9",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một trong những đặc điểm quan trọng nhất của du lịch quốc tế?",
+    "options": {
+      "A": "Là một hoạt động kinh tế chuyên ngành",
+      "B": "Là một hoạt động kinh doanh dịch vụ",
+      "C": "Là một ngành kinh tế có hiệu quả cao",
+      "D": "Là ngành kinh tế chịu sự kiểm soát chặt chẽ của các nước trên thế giới"
+    },
+    "answer": "A",
+    "explanation": "Du lịch quốc tế là một ngành kinh tế tổng hợp mang tính liên ngành sâu sắc (gắn liền với giao thông vận tải, lưu trú, ăn uống, văn hóa, tài chính ngân hàng), chứ không phải là một hoạt động kinh tế chuyên ngành đơn lẻ."
+  },
+  {
+    "id": 10,
+    "orig_no": "10",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một ưu điểm của việc thành lập công ty con tại nước ngoài?",
+    "options": {
+      "A": "Khả năng cạnh tranh ban đầu cao do đã tính toán kỹ lưỡng rủi ro ban đầu",
+      "B": "Khai thác được những lợi thế so sánh và có ưu thế hơn so với nước mình trên thị trường thế giới",
+      "C": "Doanh nghiệp toàn quyền quyết định các hoạt động của mình không có sự tham gia của các đối tác khác",
+      "D": "Lợi nhuận và những ưu thế có được trên thị trường không bị san sẻ"
+    },
+    "answer": "A",
+    "explanation": "Khi thành lập công ty con tại nước ngoài (doanh nghiệp 100% vốn đầu tư nước ngoài), rào cản gia nhập thị trường rất lớn và doanh nghiệp phải tự gánh chịu toàn bộ chi phí ban đầu, nên khả năng cạnh tranh thời kỳ đầu thường rất khó khăn chứ không thể 'cao do đã tính toán kỹ'."
+  },
+  {
+    "id": 11,
+    "orig_no": "11",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một ưu điểm của việc thành lập công ty liên doanh?",
+    "options": {
+      "A": "Là cửa chính để các doanh nghiệp tham gia vào thị trường nước ngoài, thông qua các công ty liên doanh của đối tác",
+      "B": "Tận dụng nguồn lực sẵn có ở nước sở tại",
+      "C": "Chia sẻ rủi ro trong quá trình kinh doanh, tạo ra sự cộng đồng trách nhiệm trong quá trình điều hành hoạt động của doanh nghiệp với đối tác của nước sở tại",
+      "D": "Khai thác và tận dụng được các ưu đãi của nước chủ nhà để thâm nhập vào thị trường đối tượng"
+    },
+    "answer": "A",
+    "explanation": "Công ty liên doanh (Joint Venture) là hình thức thành lập một pháp nhân mới do hai hoặc nhiều bên thuộc các quốc gia khác nhau cùng góp vốn, chia sẻ rủi ro, tận dụng tài nguyên nước sở tại và cùng quản lý. Phát biểu A dùng từ ngữ sai lệch về bản chất liên doanh."
+  },
+  {
+    "id": 12,
+    "orig_no": "12",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu là một dạng của đại lý hoa hồng?",
+    "options": {
+      "A": "Đại lý gửi bán",
+      "B": "Đại lý đảm bảo thanh toán",
+      "C": "Đại lý độc quyền",
+      "D": "Phắc tơ (Factor)"
+    },
+    "answer": "A",
+    "explanation": "Đại lý gửi bán (Consignment agent) là hình thức phổ biến nhất của đại lý hoa hồng, theo đó bên giao đại lý gửi hàng cho bên đại lý để bán, bên đại lý nhận thù lao hoa hồng trên doanh số bán và không phải bỏ vốn mua đứt lô hàng."
+  },
+  {
+    "id": 13,
+    "orig_no": "13",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu là một loại đại lý được phép đứng tên mình bán hay cầm cố hàng hóa với giá cả mình cho là có lợi nhất cho người ủy thác?",
+    "options": {
+      "A": "Phắc tơ (Factor)",
+      "B": "Đại lý gửi bán",
+      "C": "Đại lý đảm bảo thanh toán",
+      "D": "Đại lý độc quyền"
+    },
+    "answer": "A",
+    "explanation": "Phắc tơ (Factor / Đại lý bao thanh toán - quản lý hàng) là thương nhân trung gian tài chính và ủy thác đặc biệt, được phép đứng tên chính mình bán hoặc cầm cố hàng hóa, quản lý sổ sách nợ và ứng trước tiền cho người ủy thác với giá cả có lợi nhất."
+  },
+  {
+    "id": 14,
+    "orig_no": "14",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điều nào sau đây là sai khi nói về công ty đa quốc gia?",
+    "options": {
+      "A": "Một dạng mới của công ty đa quốc gia đang hình thành tương ứng với thương mại hóa là xí nghiệp liên hợp toàn cầu",
+      "B": "Là khái niệm để chỉ các công ty sản xuất hay cung cấp dịch vụ ở ít nhất hai quốc gia",
+      "C": "Các công ty đa quốc gia lớn có ngân sách vượt cả ngân sách của nhiều quốc gia",
+      "D": "Công ty đa quốc gia có thể có ảnh hưởng lớn đến các mối quan hệ quốc tế và các nền kinh tế của các quốc gia"
+    },
+    "answer": "A",
+    "explanation": "Công ty đa quốc gia (MNCs - Multinational Corporations) là doanh nghiệp có cơ sở sản xuất hoặc cung cấp dịch vụ tại ít nhất hai quốc gia, ngân sách lớn và chi phối chuỗi giá trị toàn cầu. Khái niệm 'xí nghiệp liên hợp toàn cầu tương ứng thương mại hóa' là sai lý thuyết quản trị kinh doanh quốc tế."
+  },
+  {
+    "id": 15,
+    "orig_no": "15",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điều nào sau đây là sai khi nói về công ty xuyên quốc gia?",
+    "options": {
+      "A": "Các công ty mẹ con này không ảnh hưởng lẫn nhau và chỉ cùng chia sẻ kiến thức, nguồn lực và trách nhiệm lẫn nhau",
+      "B": "Một công ty xuyên quốc gia là một doanh nghiệp được cấu thành bởi các thực thể ở ít nhất 2 nước",
+      "C": "Các thực thể của công ty này hoạt động dưới một hệ thống ra quyết định chung và định hướng chiến lược phát triển chung",
+      "D": "Công ty xuyên quốc gia bao gồm công ty mẹ ở một nước, và thực hiện các đầu tư FDI ra nước ngoài để hình thành các công ty con"
+    },
+    "answer": "A",
+    "explanation": "Trong tập đoàn xuyên quốc gia (TNCs - Transnational Corporations), công ty mẹ và các công ty con tại các quốc gia liên kết chặt chẽ theo chiến lược toàn cầu thống nhất, chia sẻ công nghệ, R&D và chịu ảnh hưởng qua lại sâu sắc, không thể 'không ảnh hưởng lẫn nhau'."
+  },
+  {
+    "id": 16,
+    "orig_no": "16",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điều nào sau đây là sai khi nói về mua bán tại sở giao dịch?",
+    "options": {
+      "A": "Mua bán dựa vào hợp đồng riêng",
+      "B": "Chủ yếu mua bán khống",
+      "C": "Mục đích là ăn chênh lệch giá",
+      "D": "Mua bán được thực hiện tại thị trường đặc biệt"
+    },
+    "answer": "A",
+    "explanation": "Mua bán tại Sở giao dịch hàng hóa bắt buộc phải tuân theo Hợp đồng mẫu chuẩn hóa (Standardized Contract) của Sở về quy cách, phẩm chất, khối lượng và điều kiện giao nhận; các bên không được phép tự do thỏa thuận hợp đồng riêng."
+  },
+  {
+    "id": 17,
+    "orig_no": "17",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điều nào sau đây là sai khi nói về việc đặt các chi nhánh của doanh nghiệp ở nước ngoài?",
+    "options": {
+      "A": "Ở giai đoạn sau của hoạt động đầu tư trực tiếp vào thị trường đối tượng",
+      "B": "Có thể có những rủi ro bởi vì hoạt động kinh doanh còn hạn chế về phạm vi, quyền hạn",
+      "C": "Khai thác được lợi thế của thị trường đối tường",
+      "D": "Chưa thực hiện toàn diện chiến lược trên thị trường đối tượng nên khả năng cạnh tranh còn hạn chế"
+    },
+    "answer": "A",
+    "explanation": "Đặt chi nhánh (Branch) là bước đi ban đầu hoặc trung gian trong chiến lược thâm nhập thị trường trực tiếp, sau văn phòng đại diện và trước bước thành lập công ty con/công ty liên doanh độc lập."
+  },
+  {
+    "id": 18,
+    "orig_no": "18",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Giá gia công không bao gồm yếu tố tạo thành nào sau đây?",
+    "options": {
+      "A": "Tiền bên nhận gia công bán sản phẩm",
+      "B": "Tiền thù lao gia công",
+      "C": "Chi phí nguyên liệu phụ",
+      "D": "Chi phí mà bên nhận gia công phải ứng trước trong quá trình tiếp nhận nguyên liệu"
+    },
+    "answer": "A",
+    "explanation": "Giá gia công (thù lao gia công) bao gồm: Tiền thù lao lao động, chi phí khấu hao máy móc thiết bị, chi phí nguyên phụ liệu phụ, và các chi phí tiếp nhận/vận chuyển mà bên nhận gia công ứng trước. Sản phẩm gia công thuộc sở hữu của bên đặt gia công nên không có việc 'bên nhận gia công bán sản phẩm'."
+  },
+  {
+    "id": 19,
+    "orig_no": "19",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Kinh doanh tái xuất là gì?",
+    "options": {
+      "A": "Việc xuất khẩu hàng hóa đã nhập khẩu trước đây, chưa qua chế biến tại nước tái xuất, nhằm thu ngoại tệ lớn hơn chi phí nhập khẩu",
+      "B": "Việc xuất khẩu hàng hóa được sản xuất hoàn toàn trong nước tái xuất để bán ra thị trường nước ngoài nhằm thu ngoại tệ",
+      "C": "Việc nhập khẩu nguyên liệu để gia công sản xuất thành phẩm rồi đem bán ra thị trường nội địa trong nước",
+      "D": "Việc chỉ thực hiện duy nhất một hợp đồng mua bán hàng hóa quốc tế cho toàn bộ quá trình giao dịch nhằm tái xuất hàng hóa đã nhập từ trước"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 29 Luật Thương mại 2005: Tái xuất khẩu là việc xuất khẩu hàng hóa đã được nhập khẩu trước đó ra khỏi lãnh thổ Việt Nam mà chưa qua chế biến, nhằm mục đích thu về ngoại tệ lớn hơn chi phí đã bỏ ra để nhập khẩu."
+  },
+  {
+    "id": 20,
+    "orig_no": "20",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Loại hình mua bán đối lưu nào mà một công ty xây dựng cơ sở sản xuất tại một quốc gia và đồng ý nhận một tỷ lệ phần trăm nhất định sản lượng của nhà máy làm khoản thanh toán một phần cho hợp đồng?",
+    "options": {
+      "A": "Mua lại sản phẩm",
+      "B": "Mua đối lưu",
+      "C": "Chuyển nợ",
+      "D": "Giao dịch bồi hoàn"
+    },
+    "answer": "A",
+    "explanation": "Mua lại sản phẩm (Buy-back / Product Buy-back agreement) là hình thức mua bán đối lưu trong đó bên xuất khẩu thiết bị/nhà máy đồng ý nhận lại khoản thanh toán (toàn bộ hoặc một phần) bằng chính các sản phẩm do nhà máy/thiết bị đó sản xuất ra."
+  },
+  {
+    "id": 21,
+    "orig_no": "21",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Một cá nhân đứng ra kết nối giữa doanh nghiệp xuất khẩu và một nhà nhập khẩu nước ngoài, chỉ giúp đàm phán và ký kết hợp đồng để nhận thù lao, không đứng tên trên hợp đồng và không chịu trách nhiệm nếu hợp đồng không được thực hiện. Đây là vai trò nào?",
+    "options": {
+      "A": "Môi giới",
+      "B": "Đại lý",
+      "C": "Giao dịch tái xuất",
+      "D": "Phắc tơ (Factor)"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 150 Luật Thương mại 2005: Môi giới thương mại là hoạt động thương mại theo đó thương nhân làm trung gian (bên môi giới) cho các bên mua bán hàng hóa đàm phán, giao kết hợp đồng và được hưởng thù lao, bên môi giới không đứng tên trên hợp đồng và không chịu trách nhiệm về việc thực hiện hợp đồng của các bên."
+  },
+  {
+    "id": 22,
+    "orig_no": "22",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Một công ty gửi thư cho đối tác đề nghị được biết giá cả và điều kiện mua một lô hàng, nhưng không cam kết sẽ mua hàng. Đây là bước nào trong quy trình giao dịch ngoại thương?",
+    "options": {
+      "A": "Hỏi hàng",
+      "B": "Chào hàng",
+      "C": "Hoàn giá",
+      "D": "Xác nhận"
+    },
+    "answer": "A",
+    "explanation": "Hỏi hàng (Inquiry) là việc người mua đề nghị người bán cho biết giá cả và các điều kiện thương mại để mua một lô hàng xác định. Lời hỏi hàng không có tính ràng buộc pháp lý và người hỏi hàng không cam kết bắt buộc phải mua."
+  },
+  {
+    "id": 23,
+    "orig_no": "23",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Quy trình đấu giá được thực hiện theo trình tự nào sau đây?",
+    "options": {
+      "A": "Trưng bày hàng hóa được đấu giá, tiến hành mở đấu giá, phương thức đấu giá",
+      "B": "Tiến hành mở đấu giá, trưng bày hàng hóa được đấu giá, phương thức đấu giá",
+      "C": "Phương thức đấu giá, tiến hành mở đấu giá, trưng bày hàng hóa được đấu giá",
+      "D": "Phương thức đấu giá, trưng bày hàng hóa được đấu giá, tiến hành mở đấu giá"
+    },
+    "answer": "A",
+    "explanation": "Theo quy chuẩn tổ chức đấu giá thương mại quốc tế, trình tự tiến hành cuộc đấu giá gồm: Trưng bày/cho xem hàng hóa được đấu giá -> Tiến hành mở cuộc đấu giá -> Thực hiện phương thức đấu giá (trả giá tăng dần hoặc đặt giá giảm dần) và gõ búa tuyên bố người mua được hàng."
+  },
+  {
+    "id": 24,
+    "orig_no": "24",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Theo FIDIC, tiến hành đấu thầu không bao gồm giai đoạn nào sau đây?",
+    "options": {
+      "A": "Ký hợp đồng",
+      "B": "Sơ tuyển",
+      "C": "Mời thầu",
+      "D": "Mở thầu"
+    },
+    "answer": "B",
+    "explanation": "Theo quy tắc Hiệp hội Quốc tế các Kỹ sư Tư vấn (FIDIC), quy trình tiến hành đấu thầu chính thức bao gồm: Mời thầu (Tendering) -> Nộp và Mở thầu (Opening) -> Đánh giá hồ sơ dự thầu -> Trao thầu và Ký kết hợp đồng. Giai đoạn Sơ tuyển (Prequalification) thuộc bước chuẩn bị đấu thầu."
+  },
+  {
+    "id": 25,
+    "orig_no": "25",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Bước chuẩn bị đấu giá không bao gồm nội dung nào sau đây?",
+    "options": {
+      "A": "Cho người mua xem hàng",
+      "B": "Thông báo",
+      "C": "Chuẩn bị hàng hóa",
+      "D": "Xây dựng thể lệ đấu giá"
+    },
+    "answer": "A",
+    "explanation": "Giai đoạn chuẩn bị đấu giá bao gồm: Chuẩn bị hàng hóa, phân lô, xây dựng thể lệ/quy chế đấu giá, định giá khởi điểm và thông báo công khai cuộc đấu giá. Việc 'Cho người mua xem hàng/trưng bày hàng' diễn ra ngay trước giờ mở phiên đấu giá."
+  },
+  {
+    "id": 26,
+    "orig_no": "26",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Cách sắp xếp đại lý nào sau đây là đúng theo mức độ ủy quyền giảm dần?",
+    "options": {
+      "A": "Đại lý hoa hồng, đại lý kinh tiêu",
+      "B": "Đại lý đặc biệt, tổng đại lý",
+      "C": "Tổng đại lý, đại lý đặc biệt",
+      "D": "Đại lý kinh tiêu, đại lý hoa hồng"
+    },
+    "answer": "C",
+    "explanation": "Một trong những nhược điểm lớn nhất của việc mua bán qua trung gian thương mại là doanh nghiệp xuất khẩu bị mất liên hệ trực tiếp với người tiêu dùng và giảm khả năng kiểm soát thị trường so với kênh phân phối trực tiếp."
+  },
+  {
+    "id": 27,
+    "orig_no": "27",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đại lý bảo hiểm là loại đại lý nào?",
+    "options": {
+      "A": "Đại lý đặc biệt",
+      "B": "Đại lý toàn quyền",
+      "C": "Tổng đại lý",
+      "D": "Đại lý thường"
+    },
+    "answer": "D",
+    "explanation": "Chuẩn bị đấu thầu là công việc của bên mời thầu (lập hồ sơ mời thầu, dự toán, tiêu chuẩn đánh giá, thông báo mời thầu). 'Nộp hồ sơ dự thầu' là hành động của các nhà thầu tham gia khi nhận được thông báo mời thầu."
+  },
+  {
+    "id": 28,
+    "orig_no": "28",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một bước tiến hành giao dịch tại sở giao dịch?",
+    "options": {
+      "A": "Ký hợp đồng và đăng ký hợp đồng tại nơi hai bên chọn",
+      "B": "Ủy thác cho môi giới của sở giao dịch mua bán tại sở giao dịch hàng hóa",
+      "C": "Môi giới ra đài tiến hành giao dịch",
+      "D": "Công bố giá hợp đồng đã ký"
+    },
+    "answer": "C",
+    "explanation": "Tại sàn giao dịch hàng hóa, quy trình bắt đầu từ khách hàng gửi lệnh cho người môi giới -> Môi giới ra đài (khu vực khớp lệnh) tiến hành giao dịch theo phương thức đấu giá mở -> Ký kết hợp đồng giao dịch và công bố giá khớp trên bảng điện tử."
+  },
+  {
+    "id": 29,
+    "orig_no": "29",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Đâu không phải là một điều khoản bắt buộc phải có trong hợp đồng gia công?",
+    "options": {
+      "A": "Điều khoản về bán sản phẩm",
+      "B": "Định mức",
+      "C": "Cách giải quyết đối với thiết bị và nguyên liệu thừa",
+      "D": "Nhãn hiệu kiểu dáng sản phẩm"
+    },
+    "answer": "A",
+    "explanation": "Theo quy định pháp luật về gia công thương mại, hợp đồng gia công bắt buộc phải có các điều khoản về: Tên hàng, số lượng, định mức nguyên liệu, thù lao gia công, cách giải quyết nguyên vật liệu thừa, nhãn hiệu bao bì. 'Điều khoản về bán sản phẩm' không bắt buộc vì thành phẩm thuộc quyền sở hữu của bên đặt gia công."
+  },
+  {
+    "id": 30,
+    "orig_no": "30",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điền từ còn thiếu theo thứ tự vào khái niệm theo Luật Thương mại 2005 sau: \"Đại lý thương mại là hoạt động thương mại, theo đó bên ___ và bên đại lý thỏa thuận việc bên đại lý ___ chính mình mua, bán hàng hóa\"",
+    "options": {
+      "A": "giao đại lý, nhân danh",
+      "B": "người ủy thác, đại diện",
+      "C": "giao đại lý, đại diện",
+      "D": "người ủy thác, nhân danh"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 166 Luật Thương mại 2005: 'Đại lý thương mại là hoạt động thương mại, theo đó bên giao đại lý và bên đại lý thoả thuận việc bên đại lý nhân danh chính mình mua, bán hàng hoá cho bên giao đại lý hoặc cung ứng dịch vụ của bên giao đại lý đến khách hàng để hưởng thù lao'."
+  },
+  {
+    "id": 31,
+    "orig_no": "31",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điền từ còn thiếu theo thứ tự vào khái niệm xuất nhập khẩu trực tiếp sau: \"Các doanh nghiệp trực tiếp tiến hành trao đổi hàng hóa với đối tác nước ngoài nhằm khai thác lợi thế ___ giữa các quốc gia, nâng cao ___ trong hoạt động kinh doanh\"",
+    "options": {
+      "A": "so sánh, lợi nhuận",
+      "B": "kinh tế theo quy mô, doanh số",
+      "C": "so sánh, doanh số",
+      "D": "kinh tế theo quy mô, lợi nhuận"
+    },
+    "answer": "A",
+    "explanation": "Xuất nhập khẩu trực tiếp là phương thức trao đổi hàng hóa trực tiếp giữa doanh nghiệp trong nước với khách hàng nước ngoài nhằm khai thác tối đa lợi thế so sánh (Comparative Advantage) quốc gia và tối ưu hóa lợi nhuận kinh doanh."
+  },
+  {
+    "id": 32,
+    "orig_no": "32",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điều kiện nào sau đây phải được đảm bảo để chấp nhận ký kết hợp đồng theo pháp luật Việt Nam?",
+    "options": {
+      "A": "Phải được truyền đạt đến người đề nghị ký hợp đồng",
+      "B": "Phải được chính người giao đề nghị kí hợp đồng phát ra",
+      "C": "Phải là sự động ý hoàn toàn và có điều kiện",
+      "D": "Phải được thực hiện trong thời gian hiệu lực của đề nghị chào hàng"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 393 Bộ luật Dân sự 2015 và CISG 1980, chấp nhận giao kết hợp đồng chỉ có hiệu lực pháp lý khi nó được truyền đạt và thông báo đến người đề nghị trong thời hạn quy định."
+  },
+  {
+    "id": 33,
+    "orig_no": "33",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điều nào sau đây là đúng khi nói về đấu thầu kiểu hai phong bì hai giai đoạn?",
+    "options": {
+      "A": "Phong bì hồ sơ kỹ thuật sơ bộ sẽ được bóc để xem xét trước",
+      "B": "Phong bì hồ sơ kỹ thuật hoàn chỉnh sẽ được bóc để xem xét trước",
+      "C": "Phong bì hồ sơ tài chính sơ bộ sẽ được bóc để xem xét trước",
+      "D": "Phong bì hồ sơ tài chính hoàn chỉnh sẽ được bóc để xem xét trước"
+    },
+    "answer": "A",
+    "explanation": "Trong phương thức đấu thầu hai giai đoạn hai túi hồ sơ, ở giai đoạn 1, bên mời thầu sẽ mở phong bì hồ sơ đề xuất kỹ thuật sơ bộ để xem xét, thảo luận và đánh giá trước mà chưa mở hồ sơ đề xuất tài chính."
+  },
+  {
+    "id": 34,
+    "orig_no": "34",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Điều nào sau đây là sai khi nói về đại lý?",
+    "options": {
+      "A": "Bên đại lý là người chủ sở hữu về hàng hóa hay tiền tệ đã được giao cho người ủy thác",
+      "B": "Đại lý là thương nhân tiến hành một hay nhiều hành vi theo sự ủy thác của người ủy thác",
+      "C": "Phí đại lý là một khoản tiền cố định hoặc tỷ lệ phần trăm so với doanh số bán hàng",
+      "D": "Đại lý đứng tên trong hợp đồng và mối quan hệ giữa người ủy thác và đại lý là mối quan hệ dài hạn"
+    },
+    "answer": "A",
+    "explanation": "Theo pháp luật thương mại, bên đại lý chỉ nắm giữ hàng hóa để thực hiện việc mua bán theo ủy thác, quyền sở hữu hàng hóa vẫn thuộc về bên giao đại lý cho đến khi hàng hóa được chuyển giao hợp pháp cho người mua."
+  },
+  {
+    "id": 35,
+    "orig_no": "35",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Giai đoạn mở thầu thường kéo dài trong khoảng bao nhiêu tháng?",
+    "options": {
+      "A": "3-6",
+      "B": "1-3",
+      "C": "6-9",
+      "D": ". 9-12"
+    },
+    "answer": "A",
+    "explanation": "Trong các dự án đấu thầu mua sắm quốc tế quy mô lớn, khoảng thời gian từ khi phát hành hồ sơ mời thầu đến khi kết thúc mở thầu và chấm thầu giai đoạn mở thầu thường kéo dài từ 3 đến 6 tháng để các nhà thầu chuẩn bị và nộp hồ sơ."
+  },
+  {
+    "id": 36,
+    "orig_no": "36",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Một cơ quan nhà nước công bố công khai điều kiện một dự án xây dựng để tất cả các nhà thầu quan tâm đều có thể tham gia nộp hồ sơ dự thầu mà không giới hạn số lượng. Đây là hình thức đấu thầu nào?",
+    "options": {
+      "A": "Đấu thầu mở rộng",
+      "B": "Đấu thầu hạn chế",
+      "C": "Đấu thầu riêng lẻ",
+      "D": "Đấu thầu sơ tuyển"
+    },
+    "answer": "A",
+    "explanation": "Đấu thầu mở rộng (Đấu thầu rộng rãi - Open Bidding) là hình thức đấu thầu không hạn chế số lượng nhà thầu tham gia; bên mời thầu công khai thông báo rộng rãi trên các phương tiện thông tin đại chúng."
+  },
+  {
+    "id": 37,
+    "orig_no": "37",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Một công ty xuất khẩu dịch vụ của mình sang một công ty nước ngoài, đồng thời đồng ý mua thêm hàng hóa từ chính công ty nước ngoài đó như một phần thỏa thuận trong 1 năm. Đây là hình thức mua bán đối lưu nào?",
+    "options": {
+      "A": "Mua đối lưu",
+      "B": "Đổi hàng",
+      "C": "Bù trừ",
+      "D": "Mua lại sản phẩm"
+    },
+    "answer": "A",
+    "explanation": "Mua đối lưu (Counter-purchase) là hình thức thỏa thuận hai bên trong đó bên xuất khẩu bán hàng hóa/dịch vụ cho bên nhập khẩu, đồng thời cam kết mua lại một lượng hàng hóa khác của bên nhập khẩu trong một thời hạn nhất định (thường từ 1 đến 5 năm) qua hai hợp đồng riêng biệt."
+  },
+  {
+    "id": 38,
+    "orig_no": "38",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Một doanh nghiệp ký hợp đồng với một thương nhân nước ngoài, theo đó thương nhân này nhân danh chính mình bán hàng cho khách hàng và hưởng khoản chênh lệch giữa giá mua và giá bán lại. Thương nhân này thuộc loại đại lý nào theo mức độ ủy quyền?",
+    "options": {
+      "A": "Đại lý kinh tiêu",
+      "B": "Đại lý thụ ủy",
+      "C": "Đại lý hoa hồng",
+      "D": "Đại lý đặc biệt"
+    },
+    "answer": "A",
+    "explanation": "Đại lý kinh tiêu (Merchant Dealer) nhân danh chính mình mua bán hàng hóa và hưởng khoản chênh lệch giữa giá mua vào và giá bán ra cho khách hàng."
+  },
+  {
+    "id": 39,
+    "orig_no": "39",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Một doanh nghiệp vừa mở rộng thị trường sang nước ngoài, quyết định thuê văn phòng chỉ để nghiên cứu thị trường, tư vấn khách hàng tiềm năng mà chưa trực tiếp bán hàng tại đó. Đây là hình thức tham gia thị trường nào?",
+    "options": {
+      "A": "Đặt văn phòng đại diện tại nước ngoài",
+      "B": "Thành lập công ty con tại nước ngoài",
+      "C": "Thành lập công ty liên doanh",
+      "D": "Xuất nhập khẩu qua trung gian là đại lý"
+    },
+    "answer": "A",
+    "explanation": "Văn phòng đại diện (Representative Office) ở nước ngoài là đơn vị phụ thuộc của thương nhân, có nhiệm vụ nghiên cứu thị trường, xúc tiến thương mại và tư vấn khách hàng, không được trực tiếp thực hiện hoạt động sinh lợi (không trực tiếp ký hợp đồng mua bán)."
+  },
+  {
+    "id": 40,
+    "orig_no": "40",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Nguyên tắc lựa chọn người thắng đấu thầu quốc tế nào sau đây là đúng?",
+    "options": {
+      "A": "Một trong những chỉ tiêu là chọn người có điều kiện thuận lợi nhất",
+      "B": "Khả năng thắng thầu chỉ phụ thuộc vào rất nhiều yếu tố tích cực mang lại",
+      "C": "Thông thường người có điểm cao nhất là người thắng thầu",
+      "D": "Hội đồng công bố người thắng và giải thích cho những người còn lại lý do không thắng"
+    },
+    "answer": "C",
+    "explanation": "Theo quy chế đấu thầu quốc tế, sau khi tổng hợp điểm kỹ thuật và điểm tài chính theo thang điểm chuẩn trong hồ sơ mời thầu, nhà thầu đạt tổng điểm đánh giá cao nhất (hoặc giá đánh giá thấp nhất đạt chuẩn kỹ thuật) sẽ là người thắng thầu."
+  },
+  {
+    "id": 41,
+    "orig_no": "41",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Theo đấu thầu kiểu hai phong bì, điểm kỹ thuật phải đạt từ bao nhiêu trở lên?",
+    "options": {
+      "A": "70%",
+      "B": "60%",
+      "C": "80%",
+      "D": "90%"
+    },
+    "answer": "A",
+    "explanation": "Theo thông lệ quốc tế và quy chế đấu thầu hai phong bì, hồ sơ đề xuất kỹ thuật của nhà thầu phải đạt tối thiểu từ 70% tổng số điểm kỹ thuật trở lên mới được xem xét mở tiếp phong bì đề xuất tài chính."
+  },
+  {
+    "id": 42,
+    "orig_no": "42",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Theo Luật Thương mại 2005, khái niệm các hoạt động trung gian thương mại không nhắc đến:",
+    "options": {
+      "A": "đại diện cho cá nhân",
+      "B": "môi giới thương mại",
+      "C": "ủy thác mua bán hàng hóa",
+      "D": "đại lý thương mại"
+    },
+    "answer": "A",
+    "explanation": "Chương V Luật Thương mại 2005 quy định 4 hoạt động trung gian thương mại: (1) Đại diện cho thương nhân; (2) Môi giới thương mại; (3) Ủy thác mua bán hàng hóa; (4) Đại lý thương mại. Luật không có khái niệm 'đại diện cho cá nhân' trong hoạt động thương mại."
+  },
+  {
+    "id": 43,
+    "orig_no": "43",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Tòa thánh Vatican là chủ thể nào trong giao dịch thương mại?",
+    "options": {
+      "A": "Quốc gia",
+      "B": "Doanh nghiệp",
+      "C": "Tổ chức phi chính phủ",
+      "D": "Tổ chức quốc tế"
+    },
+    "answer": "A",
+    "explanation": "Tòa thánh Vatican (Holy See) là một thực thể độc lập có chủ quyền được công nhận theo công pháp quốc tế, tham gia vào các quan hệ quốc tế với tư cách là một quốc gia/chủ thể đặc biệt."
+  },
+  {
+    "id": 44,
+    "orig_no": "44",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Trình tự nào sau đây là đúng khi nói về sự tự chủ và sự hoàn thiện tăng lên giữa các hình thức công ty nước ngoài?",
+    "options": {
+      "A": "Văn phòng đại diện, chi nhánh, công ty con",
+      "B": "Chi nhánh, văn phòng đại diện, công ty con",
+      "C": "Văn phòng đại diện, công ty con, chi nhánh",
+      "D": "Công ty con, văn phòng đại diện, chi nhánh"
+    },
+    "answer": "A",
+    "explanation": "Mức độ tự chủ và hoàn thiện pháp lý tăng dần từ thấp đến cao: Văn phòng đại diện (chỉ nghiên cứu, xúc tiến) -> Chi nhánh (được thực hiện hoạt động kinh doanh nhưng không có tư cách pháp nhân riêng) -> Công ty con (pháp nhân độc lập có vốn, tài sản và tự chịu trách nhiệm)."
+  },
+  {
+    "id": 45,
+    "orig_no": "45",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Trong thư tín thương mại, đưa ra câu hỏi và yêu cầu cụ thể để hỏi hàng nằm ở sau phần nào?",
+    "options": {
+      "A": "Lý do mà bạn biết đến đối tác này",
+      "B": "Lời chào đầu thư hỏi hàng",
+      "C": "Giới thiệu về doanh nghiệp của bạn",
+      "D": "Lời cảm ơn"
+    },
+    "answer": "C",
+    "explanation": "Cấu trúc chuẩn của một bức thư hỏi hàng (Letter of Inquiry): (1) Lời chào; (2) Nêu lý do biết đến công ty; (3) Giới thiệu tóm tắt về doanh nghiệp mình; (4) Đưa ra yêu cầu cụ thể về chủng loại, giá cả, điều kiện giao hàng; (5) Lời cảm ơn và mong đợi hồi âm."
+  },
+  {
+    "id": 46,
+    "orig_no": "46",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Trường hợp nào không nên sử dụng trung gian tham gia vào thị trường quốc tế?",
+    "options": {
+      "A": "Công ty mở chi nhánh mới ở nước ngoài, nơi mà trước đây doanh nghiệp đã bán qua mạng",
+      "B": "Công ty lần đầu tiên bán điện thoại ở nước ngoài mà không tìm được thông tin về thị trường ngách",
+      "C": "Công ty thử mở rộng sang thị trường nước ngoài với số vốn hạn chế và hàng hóa không nhiều",
+      "D": "Công ty bắt buộc phải xuất khẩu một lượng gạo nhất định theo chính sách của chính phủ"
+    },
+    "answer": "A",
+    "explanation": "Khi doanh nghiệp đã chính thức thành lập chi nhánh trực tiếp tại nước sở tại và đã có cơ sở khách hàng sẵn có qua mạng, việc sử dụng thêm trung gian thương mại sẽ làm tăng chi phí phân phối và chồng chéo kênh bán hàng."
+  },
+  {
+    "id": 47,
+    "orig_no": "47",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "Vì sao xuất khẩu thông qua du lịch quốc tế được xem là \"xuất khẩu tại chỗ\" có lợi hơn xuất khẩu ngoại thương thông thường?",
+    "options": {
+      "A": "Vì hàng hóa được bán theo giá bán lẻ và ít tốn chi phí đóng gói, bảo quản hơn",
+      "B": "Vì hàng hóa luôn được bán với giá thấp hơn nhiều so với giá bán buôn thông thường",
+      "C": "Vì không cần phải đảm bảo chất lượng hàng hóa theo bất kỳ tiêu chuẩn xuất khẩu nào",
+      "D": "Vì chi phí vận chuyển quốc tế và bảo hiểm hàng hóa luôn cao hơn xuất khẩu ngoại thương"
+    },
+    "answer": "A",
+    "explanation": "Xuất khẩu tại chỗ qua du lịch quốc tế mang lại hiệu quả kinh tế rất cao vì: Hàng hóa được bán trực tiếp cho khách du lịch theo giá bán lẻ, thu ngoại tệ ngay tại chỗ, tiết kiệm tối đa chi phí vận chuyển quốc tế, bao bì đóng gói đường biển và thủ tục hải quan phức tạp."
+  },
+  {
+    "id": 48,
+    "orig_no": "48",
+    "chapter_id": 1,
+    "chapter": "Chương 1: Các phương thức giao dịch thương mại quốc tế chủ yếu",
+    "question": "WCO là chủ thể nào trong giao dịch thương mại quốc tế?",
+    "options": {
+      "A": "Tổ chức quốc tế",
+      "B": "Doanh nghiệp",
+      "C": "Quốc gia",
+      "D": "Tổ chức phi chính phủ"
+    },
+    "answer": "A",
+    "explanation": "WCO (World Customs Organization - Tổ chức Hải quan Thế giới) là một tổ chức liên chính phủ quốc tế độc lập, chuyên nghiên cứu chuẩn hóa các quy tắc phân loại hàng hóa (hệ thống HS), thủ tục hải quan và an ninh thương mại toàn cầu."
+  }
+]

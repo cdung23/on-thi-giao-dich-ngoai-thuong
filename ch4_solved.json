@@ -1,0 +1,602 @@
+[
+  {
+    "id": 207,
+    "orig_no": "207",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "\"Hàng trong địa phương\" và \"hàng ngoài địa phương\" là cách phân loại nguồn hàng xuất khẩu theo căn cứ nào?",
+    "options": {
+      "A": "Đơn vị địa lý",
+      "B": "Cấp quản lý",
+      "C": "Người cung cấp",
+      "D": "Tính chất nguồn hàng"
+    },
+    "answer": "A",
+    "explanation": "Phân chia nguồn hàng xuất khẩu thành 'Hàng trong địa phương' (trong tỉnh/thành phố) và 'Hàng ngoài địa phương' (từ các tỉnh/vùng khác) là cách phân loại căn cứ theo ranh giới đơn vị địa lý hành chính."
+  },
+  {
+    "id": 208,
+    "orig_no": "208",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Cho hai nhận định về đàm phán bằng thư từ, điện tín: (1) Hình thức này có nhược điểm là chậm, dễ mất thời cơ mua bán, nên ngày nay thường được khắc phục bằng các công cụ thương mại điện tử; và (2) Ngày nay, thư từ, điện tín không còn được sử dụng trong giao dịch ký kết hợp đồng.",
+    "options": {
+      "A": "(1) đúng, (2) sai",
+      "B": "Cả (1) và (2) đều đúng",
+      "C": "(1) sai, (2) đúng",
+      "D": "Cả (1) và (2) đều sai"
+    },
+    "answer": "A",
+    "explanation": "Nhận định (1) đúng vì đàm phán bằng thư tín truyền thống có độ trễ lớn; nhận định (2) sai vì ngày nay thư điện tử (email), thông điệp dữ liệu điện tử vẫn là phương thức văn bản chủ đạo để đàm phán và giao kết hợp đồng ngoại thương."
+  },
+  {
+    "id": 209,
+    "orig_no": "209",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Cho hai nhận định: (1) Trong huy động hàng xuất khẩu, thư tín dụng chỉ được áp dụng khi các bên không tin tưởng vào khả năng thanh toán của nhau; và (2) Ủy nhiệm chi là phương thức phù hợp với các lô hàng có trị giá lớn.",
+    "options": {
+      "A": "(1) đúng, (2) sai",
+      "B": "Cả (1) và (2) đều đúng",
+      "C": "(1) sai, (2) đúng",
+      "D": "Cả (1) và (2) đều sai"
+    },
+    "answer": "D",
+    "explanation": "Cả hai nhận định đều sai: Trong huy động hàng nội địa, các bên dùng chuyển khoản, bảo lãnh ngân hàng hoặc thanh toán trả trước/trả sau; thư tín dụng L/C chủ yếu dùng trong thanh toán quốc tế; ủy nhiệm chi (chuyển tiền) áp dụng cho mọi quy mô lô hàng khi có sự tin cậy."
+  },
+  {
+    "id": 210,
+    "orig_no": "210",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Chọn cụm từ thích hợp điền vào chỗ trống: \"Quy trình thủ tục hải quan chuyển từ (1)… sang (2)… với kỹ thuật quản lý (3)…\"",
+    "options": {
+      "A": "(1) tiền kiểm; (2) hậu kiểm; (3) rủi ro",
+      "B": "(1) hậu kiểm; (2) tiền kiểm; (3) rủi ro",
+      "C": "(1) tiền kiểm; (2) hậu kiểm; (3) chất lượng",
+      "D": "(1) thủ công; (2) điện tử; (3) tập trung"
+    },
+    "answer": "A",
+    "explanation": "Chiến lược hiện đại hóa hải quan chuyển dịch căn bản từ phương thức 'tiền kiểm' (kiểm tra trước khi thông quan) sang 'hậu kiểm' (kiểm tra sau thông quan), kết hợp với kỹ thuật 'quản lý rủi ro' phân luồng tờ khai (Xanh, Vàng, Đỏ)."
+  },
+  {
+    "id": 211,
+    "orig_no": "211",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Đặc điểm nào sau đây phân biệt chiến thuật đàm phán với chiến lược đàm phán?",
+    "options": {
+      "A": "Chiến thuật mang tính đối phó, luôn thay đổi theo các tình huống đột biến trong từng thời điểm.",
+      "B": "Chiến thuật thể hiện tính nhất quán, tính tổng thể của chủ thể.",
+      "C": "Chiến thuật là kế hoạch hành động nhằm đạt được một mục đích dài hạn.",
+      "D": "Chiến thuật còn được gọi là tư duy chiến lược (strategic thinking)."
+    },
+    "answer": "A",
+    "explanation": "Chiến lược là kế hoạch hành động tổng thể, dài hạn nhằm đạt mục tiêu then chốt; trong khi chiến thuật mang tính ngắn hạn, ứng biến, linh hoạt đối phó với các tình huống đột xuất nảy sinh tại bàn đàm phán."
+  },
+  {
+    "id": 212,
+    "orig_no": "212",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Đâu là những vấn đề cần quan tâm khi nghiên cứu lựa chọn đối tác?",
+    "options": {
+      "A": "Hình thức tổ chức của đối tác; khả năng tài chính; uy tín của đối tác; lĩnh vực, ngành nghề kinh doanh; thiện chí của đối tác.",
+      "B": "Hình thức tổ chức của đối tác; khả năng tài chính; uy tín của đối tác; lĩnh vực, ngành nghề kinh doanh; tập quán tiêu dùng tại nước của đối tác.",
+      "C": "Hình thức tổ chức của đối tác; khả năng tài chính; quan hệ cung – cầu và dung lượng thị trường của đối tác; lĩnh vực, ngành nghề kinh doanh; thiện chí của đối tác.",
+      "D": "Hình thức tổ chức của đối tác; chu kỳ sống của sản phẩm đối tác kinh doanh; uy tín của đối tác; lĩnh vực, ngành nghề kinh doanh; thiện chí của đối tác."
+    },
+    "answer": "A",
+    "explanation": "Nghiên cứu lựa chọn đối tác thương mại quốc tế đòi hỏi đánh giá toàn diện 5 yếu tố trọng yếu: Tư cách pháp lý và hình thức tổ chức; Năng lực tài chính; Uy tín thương trường; Lĩnh vực ngành nghề kinh doanh; và Thiện chí hợp tác của đối tác."
+  },
+  {
+    "id": 213,
+    "orig_no": "213",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Điểm khác biệt cốt lõi giữa phương thức \"đặt hàng\" và \"gia công\" là gì?",
+    "options": {
+      "A": "Đặt hàng: người xuất khẩu cung cấp bản vẽ, tiêu chuẩn kỹ thuật cho hàng có yêu cầu đặc biệt. Gia công: người xuất khẩu đảm trách vốn, nguyên liệu khi người sản xuất thiếu.",
+      "B": "Đặt hàng: người xuất khẩu đảm trách vốn, nguyên liệu. Gia công: người xuất khẩu cung cấp bản vẽ, tiêu chuẩn kỹ thuật.",
+      "C": "Đặt hàng chỉ áp dụng cho hàng nông sản, còn gia công chỉ áp dụng cho hàng công nghiệp.",
+      "D": "Đặt hàng phải ký hợp đồng, còn gia công không cần ký hợp đồng."
+    },
+    "answer": "A",
+    "explanation": "Khác biệt cốt lõi: 'Đặt hàng' là người mua cung cấp bản vẽ, quy cách kỹ thuật đặt nhà sản xuất làm hàng theo yêu cầu đặc biệt; 'Gia công' là bên đặt gia công trực tiếp cung cấp hoặc chịu trách nhiệm về nguyên vật liệu cho bên sản xuất khi họ thiếu vốn/vật tư."
+  },
+  {
+    "id": 214,
+    "orig_no": "214",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Đối với hàng xuất khẩu có điều kiện, người xuất khẩu phải làm đơn xin phép cơ quan nào?",
+    "options": {
+      "A": "Các Bộ chuyên ngành",
+      "B": "Thủ tướng Chính phủ",
+      "C": "Tổng cục Hải quan",
+      "D": "Phòng Thương mại và Công nghiệp Việt Nam"
+    },
+    "answer": "A",
+    "explanation": "Đối với hàng hóa xuất khẩu có điều kiện (thuộc danh mục quản lý chuyên ngành), doanh nghiệp xuất khẩu phải làm thủ tục xin cấp giấy phép xuất khẩu tại Các Bộ chuyên ngành quản lý mặt hàng đó (như Bộ Nông nghiệp, Bộ Y tế, Bộ Công Thương)."
+  },
+  {
+    "id": 215,
+    "orig_no": "215",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Giấy chứng nhận xuất xứ hàng hóa (C/O) được cấp nhằm mục đích chính nào?",
+    "options": {
+      "A": "Chứng minh nguồn gốc hàng hóa, phục vụ việc áp dụng các chế độ ưu đãi tại nước nhập khẩu",
+      "B": "Chứng nhận chất lượng hàng hóa phù hợp với hợp đồng",
+      "C": "Chứng nhận hàng hóa đã qua kiểm dịch",
+      "D": "Chứng nhận hàng hóa đã hoàn thành thủ tục hải quan"
+    },
+    "answer": "A",
+    "explanation": "Mục đích quan trọng nhất của Giấy chứng nhận xuất xứ hàng hóa (C/O) là chứng minh xuất xứ hợp pháp của lô hàng để cơ quan hải quan nước nhập khẩu áp dụng các ưu đãi thuế quan theo hiệp định thương mại (FTA) hoặc áp thuế phòng vệ thương mại."
+  },
+  {
+    "id": 216,
+    "orig_no": "216",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Hợp đồng huy động hàng xuất khẩu có những nội dung chính nào sau đây?",
+    "options": {
+      "A": "Thông báo ngày tàu đến cảng nước nhập khẩu",
+      "B": "Giá cả, giao hàng, thanh toán",
+      "C": "Tên hàng, số lượng, chất lượng",
+      "D": "Khiếu nại, trọng tài"
+    },
+    "answer": "B",
+    "explanation": "Hợp đồng thu mua/huy động hàng xuất khẩu trong nước bao gồm các điều khoản thương mại cốt lõi: Tên hàng, số lượng, chất lượng, giá cả, thời hạn và địa điểm giao hàng, phương thức thanh toán và trách nhiệm do vi phạm hợp đồng."
+  },
+  {
+    "id": 217,
+    "orig_no": "217",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Khi gửi hàng vào kho, công việc nào sau đây KHÔNG thuộc trách nhiệm của chủ hàng?",
+    "options": {
+      "A": "Lập thẻ kho",
+      "B": "Ký hợp đồng thuê kho",
+      "C": "Chở hàng đến kho gửi hàng",
+      "D": "Thanh toán chi phí lưu kho và các chi phí khác cho kho hàng"
+    },
+    "answer": "A",
+    "explanation": "Lập thẻ kho và ghi chép sổ sách lưu kho là nghiệp vụ chuyên môn nội bộ thuộc trách nhiệm của thủ kho/doanh nghiệp kinh doanh dịch vụ kho bãi, không thuộc công việc của chủ hàng."
+  },
+  {
+    "id": 218,
+    "orig_no": "218",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Khi kiểm tra, công ty giám định phát hiện phẩm chất lô hàng không đúng với hợp đồng. Công ty giám định sẽ làm gì?",
+    "options": {
+      "A": "Yêu cầu người xuất khẩu sửa chữa, tái chế hoặc thay thế bằng hàng mới",
+      "B": "Vẫn cấp giấy chứng nhận phẩm chất nhưng ghi chú lỗi",
+      "C": "Niêm phong lô hàng và chuyển cho cơ quan hải quan xử lý",
+      "D": "Thông báo cho người nhập khẩu để hủy hợp đồng"
+    },
+    "answer": "A",
+    "explanation": "Khi giám định trước khi giao hàng phát hiện phẩm chất không đạt chuẩn hợp đồng, công ty giám định sẽ lập biên bản và thông báo yêu cầu người xuất khẩu phải tiến hành tái chế, sửa chữa hoặc thay thế bằng hàng mới đạt chuẩn trước khi đóng hàng xuất khẩu."
+  },
+  {
+    "id": 219,
+    "orig_no": "219",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Khoản chi phí nào sau đây KHÔNG nằm trong giá FOB?",
+    "options": {
+      "A": "Chi phí dỡ hàng tại cảng đến",
+      "B": "Chi phí marketing",
+      "C": "Chi phí giám định",
+      "D": "Lệ phí làm thủ tục xuất khẩu như xin giấy phép, làm thủ tục hải quan, kiểm dịch"
+    },
+    "answer": "A",
+    "explanation": "Giá FOB (Free On Board) bao gồm giá thành sản phẩm, chi phí vận chuyển nội địa ra cảng bốc, phí thông quan xuất khẩu và phí bốc hàng lên tàu tại cảng xếp hàng. Chi phí dỡ hàng tại cảng đến thuộc trách nhiệm của người mua và nằm trong giá nhóm D hoặc hợp đồng thuê tàu chặng biển."
+  },
+  {
+    "id": 220,
+    "orig_no": "220",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Nhận định nào sau đây ĐÚNG về giấy chứng nhận phẩm chất do bộ phận kiểm tra chất lượng của nhà máy cấp?",
+    "options": {
+      "A": "Loại giấy này không được dùng để miễn/giảm thuế nhập khẩu.",
+      "B": "Loại giấy này thay thế hoàn toàn cho chứng thư giám định.",
+      "C": "Loại giấy này chỉ cần thiết đối với hàng nông sản.",
+      "D": "Loại giấy này đủ để xuất trình thanh toán L/C trong mọi trường hợp."
+    },
+    "answer": "A",
+    "explanation": "Giấy chứng nhận phẩm chất (C/Q) do bộ phận kiểm tra chất lượng của nhà máy cấp chỉ có giá trị chứng minh nội bộ về chất lượng sản phẩm xuất xưởng, hoàn toàn không có giá trị pháp lý để xin miễn, giảm thuế nhập khẩu (chỉ có C/O mới dùng để hưởng ưu đãi thuế)."
+  },
+  {
+    "id": 221,
+    "orig_no": "221",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Nhận định nào sau đây đúng?",
+    "options": {
+      "A": "Ở cả các nước phát triển lẫn các nước đang và chậm phát triển, các công ty lớn đều có bộ phận quảng cáo chuyên trách hoặc thành lập công ty chuyên làm quảng cáo.",
+      "B": "Chỉ các công ty lớn ở những nước phát triển mới có bộ phận quảng cáo chuyên trách.",
+      "C": "Ở Việt Nam, nhiệm vụ quảng cáo chỉ thuộc về các công ty quảng cáo chuyên nghiệp.",
+      "D": "Do cạnh tranh ngày càng khốc liệt, hoạt động quảng cáo ngày càng ít được chú trọng."
+    },
+    "answer": "A",
+    "explanation": "Khi người mua muốn nhận hàng, kiểm tra thực tế phẩm chất rồi mới trả tiền, phương thức an toàn cho người mua là Chuyển tiền trả sau (T/T after receipt of goods) hoặc Nhờ thu trả chậm (D/A) / Ghi sổ (Open Account)."
+  },
+  {
+    "id": 222,
+    "orig_no": "222",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Nhận định nào sau đây là đúng về việc chuẩn bị giao dịch đàm phán?",
+    "options": {
+      "A": "Thông tin có thể được thu thập qua điều tra riêng, qua các công ty chuyên môn, sách báo, người quen hoặc bạn bè đồng nghiệp.",
+      "B": "Có một cách thức chuẩn bị đàm phán thống nhất, áp dụng chung cho mọi doanh nghiệp.",
+      "C": "Doanh nghiệp có thể bỏ qua bước thu thập thông tin nếu đã có quan hệ lâu năm với đối tác.",
+      "D": "Chỉ thông tin do các công ty chuyên môn cung cấp mới đủ tin cậy để sử dụng khi đàm phán."
+    },
+    "answer": "A",
+    "explanation": "Hối phiếu đòi nợ (Draft / Commercial Bill of Exchange) là chứng từ đòi tiền vô điều kiện do người bán (người ký phát) phát hành gửi cho người mua hoặc ngân hàng mở L/C để yêu cầu thanh toán số tiền ghi trên hối phiếu."
+  },
+  {
+    "id": 223,
+    "orig_no": "223",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Phương án kinh doanh là gì?",
+    "options": {
+      "A": "Kế hoạch hành động của doanh nghiệp nhằm đạt đến mục tiêu đã xác định",
+      "B": "Bản tổng hợp các thông tin thu thập được trong quá trình nghiên cứu thị trường, thương nhân",
+      "C": "Chiến lược kinh doanh dài hạn của doanh nghiệp trên thị trường quốc tế",
+      "D": "Văn bản thỏa thuận giữa doanh nghiệp và đối tác về các điều kiện mua bán"
+    },
+    "answer": "A",
+    "explanation": "Theo thông lệ hàng hải quốc tế, một bộ vận đơn đường biển gốc (Full set of original Bills of Lading) phát hành cho chủ hàng thường gồm 3 bản gốc giống hệt nhau (3/3 originals) kèm theo các bản sao (non-negotiable copies)."
+  },
+  {
+    "id": 224,
+    "orig_no": "224",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Thông tin nào sau đây KHÔNG thuộc nhóm thông tin về nhân sự đàm phán?",
+    "options": {
+      "A": "Nhu cầu nhập khẩu hằng năm của công ty đối tác",
+      "B": "Tiểu sử của những người tham gia đoàn đàm phán",
+      "C": "Năng lực, sở trường của từng thành viên trong đoàn",
+      "D": "Người có tiếng nói quyết định trong đoàn đàm phán"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 28 UCP 600, ngày phát hành của chứng từ bảo hiểm (Insurance Policy/Certificate) không được muộn hơn ngày giao hàng ghi trên vận đơn (B/L date), trừ khi chứng từ bảo hiểm nêu rõ bảo hiểm có hiệu lực hồi tố từ trước ngày giao hàng."
+  },
+  {
+    "id": 225,
+    "orig_no": "225",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Ủy thác xuất khẩu là gì?",
+    "options": {
+      "A": "Một loại đại lý hoa hồng: bên nhận ủy thác xuất khẩu hàng hóa bằng danh nghĩa của mình, với chi phí của người ủy thác",
+      "B": "Một loại đại lý hoa hồng: bên nhận ủy thác xuất khẩu hàng hóa bằng danh nghĩa của người ủy thác",
+      "C": "Một loại đại lý hoa hồng: bên nhận ủy thác tự chịu mọi chi phí xuất khẩu",
+      "D": "Một hình thức mua đứt bán đoạn giữa người ủy thác và bên nhận ủy thác"
+    },
+    "answer": "A",
+    "explanation": "Hóa đơn lãnh sự (Consular Invoice) là hóa đơn thương mại được cơ quan lãnh sự của nước nhập khẩu đặt tại nước xuất khẩu thị thực và đóng dấu xác nhận nhằm kiểm soát xuất xứ và chống trốn thuế."
+  },
+  {
+    "id": 226,
+    "orig_no": "226",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Vì sao đàm phán bằng gặp gỡ trực tiếp được coi là hình thức khó khăn nhất?",
+    "options": {
+      "A": "Vì đòi hỏi người tham gia phải có nghiệp vụ, phản ứng tốt và nhanh nhạy",
+      "B": "Vì có chi phí thấp nhất trong các hình thức đàm phán",
+      "C": "Vì không có bằng chứng để giải quyết tranh chấp",
+      "D": "Vì quá trình trao đổi chậm, dễ làm mất thời cơ kinh doanh"
+    },
+    "answer": "A",
+    "explanation": "Hóa đơn tạm tính (Proforma Invoice - P/I) là bản báo giá chi tiết dưới dạng hóa đơn do người bán phát hành, dùng để làm thủ tục xin giấy phép nhập khẩu, xin hạn mức tín dụng hoặc mở L/C tại ngân hàng; P/I không phải là chứng từ đòi tiền chính thức."
+  },
+  {
+    "id": 227,
+    "orig_no": "227",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Công ty G chuẩn bị xây dựng phương án kinh doanh để xuất khẩu hàng sang thị trường EU. Công ty cần dựa vào những cơ sở chủ yếu nào?",
+    "options": {
+      "A": "Thông tin thu thập được khi nghiên cứu thị trường, thương nhân EU và chiến lược kinh doanh của công ty",
+      "B": "Thông tin thu thập được khi nghiên cứu thị trường EU và hợp đồng đã ký với đối tác EU",
+      "C": "Thông tin thu thập được khi nghiên cứu thị trường EU và chiến lược kinh doanh của đối thủ cạnh tranh",
+      "D": "Chiến lược kinh doanh của công ty và mức giá cuối cùng đã chốt với khách hàng EU"
+    },
+    "answer": "A",
+    "explanation": "Theo phương thức Nhờ thu kèm chứng từ trả tiền ngay (D/P - Documents Against Payment), ngân hàng thu hộ chỉ trao bộ chứng từ hàng hóa cho người mua sau khi người mua đã thanh toán 100% tiền hàng."
+  },
+  {
+    "id": 228,
+    "orig_no": "228",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Công ty K đang đàm phán hợp đồng cung cấp trọn gói dây chuyền thiết bị cho một nhà máy ở Ấn Độ. Giá trị hợp đồng rất lớn và có nhiều điều khoản kỹ thuật phức tạp cần trao đổi chi tiết. Sau nhiều tuần trao đổi qua thư điện tử, hai bên vẫn chưa thống nhất được. Hình thức đàm phán nào phù hợp nhất lúc này?",
+    "options": {
+      "A": "Đàm phán bằng gặp gỡ trực tiếp",
+      "B": "Tiếp tục đàm phán bằng thư từ, điện tín",
+      "C": "Đàm phán bằng điện thoại",
+      "D": "Chuyển sang công cụ thương mại điện tử để tăng tốc độ trao đổi"
+    },
+    "answer": "A",
+    "explanation": "Theo phương thức Nhờ thu kèm chứng từ chấp nhận thanh toán (D/A - Documents Against Acceptance), người mua được ngân hàng trao chứng từ để nhận hàng sau khi người mua ký chấp nhận thanh toán trên hối phiếu có kỳ hạn."
+  },
+  {
+    "id": 229,
+    "orig_no": "229",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Công ty mua 3 tạ quế của một hộ nông dân, giá trị lô hàng thấp. Phương thức thanh toán nào phù hợp nhất?",
+    "options": {
+      "A": "Thanh toán bằng tiền mặt",
+      "B": "Thư tín dụng",
+      "C": "Séc định mức",
+      "D": "Nhờ thu chấp nhận sau"
+    },
+    "answer": "A",
+    "explanation": "Thư tín dụng tuần hoàn (Revolving L/C) là loại L/C sau khi đã sử dụng hết kim ngạch hoặc hết thời hạn thì tự động có giá trị trở lại cho các lô hàng tiếp theo mà không cần phải làm thủ tục tu chỉnh mở mới L/C."
+  },
+  {
+    "id": 230,
+    "orig_no": "230",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Công ty X xuất khẩu một lô bánh kẹo. Lô hàng này cần loại giấy chứng nhận nào?",
+    "options": {
+      "A": "Giấy chứng nhận kiểm tra vệ sinh (sanitary certificate), do cơ quan thuộc Bộ Y tế cấp",
+      "B": "Giấy chứng nhận kiểm dịch thực vật (phytosanitary certificate)",
+      "C": "Giấy chứng nhận kiểm dịch động vật (veterinary certificate)",
+      "D": "Giấy chứng nhận xuất xứ (C/O)"
+    },
+    "answer": "A",
+    "explanation": "Thư tín dụng chuyển nhượng (Transferable L/C) cho phép người thụ hưởng thứ nhất (thương nhân trung gian) yêu cầu ngân hàng chuyển nhượng một phần hoặc toàn bộ giá trị L/C cho một hoặc nhiều người thụ hưởng thứ hai (nhà sản xuất thực tế)."
+  },
+  {
+    "id": 231,
+    "orig_no": "231",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Công ty xuất khẩu chè T muốn nắm rõ điểm mạnh, điểm yếu của từng hợp tác xã cung cấp chè, để quyết định nên đầu tư máy sao chè cho hợp tác xã nào. Công ty nên nghiên cứu nguồn hàng theo phương pháp nào?",
+    "options": {
+      "A": "Lấy đơn vị cung cấp hàng làm cơ sở",
+      "B": "Lấy mặt hàng làm cơ sở",
+      "C": "Phân loại nguồn hàng theo cấp quản lý",
+      "D": "Phân loại nguồn hàng theo tính chất"
+    },
+    "answer": "A",
+    "explanation": "Phân loại nguồn hàng theo người cung cấp (nhà cung ứng) lấy tư cách pháp lý và loại hình doanh nghiệp của đơn vị cung cấp hàng làm cơ sở phân chia (hàng từ doanh nghiệp nhà nước, doanh nghiệp tư nhân, hợp tác xã, hộ nông dân)."
+  },
+  {
+    "id": 232,
+    "orig_no": "232",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Hai bên thống nhất qua điện thoại về việc giảm giá 5% cho lô hàng. Khi giao hàng, phía đối tác phủ nhận thỏa thuận này. Công ty không có căn cứ nào để giải quyết tranh chấp. Sai sót chủ yếu của công ty là gì?",
+    "options": {
+      "A": "Không lập văn bản xác nhận kết quả đã trao đổi qua điện thoại",
+      "B": "Sử dụng điện thoại thay vì gặp gỡ trực tiếp để đàm phán",
+      "C": "Không thu thập đủ thông tin về đối tác trước khi đàm phán",
+      "D": "Không tính trước chi phí của cuộc gọi điện thoại quốc tế"
+    },
+    "answer": "A",
+    "explanation": "Sai sót nghiêm trọng trong đàm phán thương mại quốc tế là thỏa thuận miệng qua điện thoại mà không lập biên bản xác nhận bằng văn bản (Writing confirmation / Email / Fax) gửi cho đối tác xác nhận lại, dẫn đến mất căn cứ pháp lý khi phát sinh tranh chấp."
+  },
+  {
+    "id": 233,
+    "orig_no": "233",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Hợp tác xã gốm sứ Bát Tràng có hàng chất lượng tốt nhưng không có chức năng xuất nhập khẩu. Hợp tác xã giao lô hàng cho Công ty thương mại T. Công ty T đứng tên mình ký hợp đồng và xuất khẩu lô hàng, mọi chi phí do hợp tác xã chịu, công ty T được hưởng hoa hồng. Đây là phương thức huy động hàng nào?",
+    "options": {
+      "A": "Ủy thác xuất khẩu",
+      "B": "Huy động hàng thông qua các đại lý thu mua",
+      "C": "Gia công sản xuất hàng xuất khẩu",
+      "D": "Đặt hàng"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 155 Luật Thương mại 2005: Ủy thác xuất khẩu là việc bên ủy thác (Hợp tác xã Bát Tràng) giao cho bên nhận ủy thác (Công ty T) nhân danh chính mình ký hợp đồng mua bán với đối tác nước ngoài để xuất khẩu hàng hóa và nhận phí ủy thác (hoa hồng)."
+  },
+  {
+    "id": 234,
+    "orig_no": "234",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Khi giao hàng lên tàu, thuyền phó ghi chú trên biên lai thuyền phó rằng \"nhiều bao bì bị rách\". Vì sao người xuất khẩu cần xử lý vấn đề này trước khi đổi biên lai lấy vận đơn?",
+    "options": {
+      "A": "Vì vận đơn phải là vận đơn hoàn hảo (clean B/L) thì mới đáp ứng yêu cầu thanh toán tiền hàng",
+      "B": "Vì biên lai thuyền phó có ghi chú thì không thể đổi lấy bất kỳ loại vận đơn nào",
+      "C": "Vì hãng tàu sẽ từ chối chở toàn bộ lô hàng",
+      "D": "Vì cơ quan hải quan sẽ hủy tờ khai đã thông quan"
+    },
+    "answer": "A",
+    "explanation": "Biên lai thuyền phó (Mate's Receipt) có ghi chú xấu sẽ khiến hãng tàu phát hành Vận đơn có ghi chú (Unclean B/L); vận đơn không hoàn hảo này sẽ bị ngân hàng từ chối thanh toán theo phương thức L/C."
+  },
+  {
+    "id": 235,
+    "orig_no": "235",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Lô hạt tiêu xuất khẩu cần loại giấy chứng nhận nào để xuất trình cho hải quan khi làm thủ tục xuất khẩu?",
+    "options": {
+      "A": "Giấy chứng nhận kiểm dịch thực vật (Phytosanitary certificate)",
+      "B": "Giấy chứng nhận kiểm dịch động vật (Veterinary certificate)",
+      "C": "Giấy chứng nhận kiểm tra vệ sinh (Sanitary certificate)",
+      "D": "Giấy chứng nhận chất lượng (Certificate of quality)"
+    },
+    "answer": "A",
+    "explanation": "Hạt tiêu là mặt hàng nông sản có nguồn gốc thực vật, bắt buộc phải có Giấy chứng nhận kiểm dịch thực vật (Phytosanitary Certificate) do cơ quan kiểm dịch thực vật có thẩm quyền cấp để hoàn thành thủ tục hải quan xuất khẩu và nhập khẩu."
+  },
+  {
+    "id": 236,
+    "orig_no": "236",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Mặt hàng thảo quả được nhiều hộ gia đình ở vùng núi sản xuất rải rác. Công ty tự cử người đi thu mua thì rất tốn kém và mất thời gian. Phương thức huy động nào phù hợp nhất?",
+    "options": {
+      "A": "Huy động hàng thông qua các đại lý thu mua tại địa bàn",
+      "B": "Liên doanh với các hộ gia đình",
+      "C": "Ủy thác xuất khẩu",
+      "D": "Đặt hàng theo bản vẽ, tiêu chuẩn kỹ thuật"
+    },
+    "answer": "A",
+    "explanation": "Đối với nông sản đặc sản vùng núi phân tán nhỏ lẻ, phương thức thu mua hiệu quả và tiết kiệm chi phí nhất là ký hợp đồng với các đại lý thu mua tại địa phương am hiểu địa bàn để thu gom tập trung."
+  },
+  {
+    "id": 237,
+    "orig_no": "237",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Một lô hàng có thể tích 24 m³, dự kiến xếp vào một container có dung tích 33 m³. Vậy lô hàng sẽ được giao theo hình thức nào và tại đâu?",
+    "options": {
+      "A": "Giao nguyên container (FCL), tại bãi container (CY)",
+      "B": "Giao hàng lẻ (LCL), tại trạm đóng hàng (CFS)",
+      "C": "Giao nguyên container (FCL), tại trạm đóng hàng (CFS)",
+      "D": "Giao hàng lẻ (LCL), tại bãi container (CY)"
+    },
+    "answer": "A",
+    "explanation": "Lô hàng 24 m³ chiếm tới gần 75% dung tích của container 20ft (33 m³), do đó người xuất khẩu nên lựa chọn hình thức thuê nguyên container (FCL - Full Container Load) và giao hàng tại bãi container (CY - Container Yard) để tiết kiệm chi phí và an toàn cho hàng hóa."
+  },
+  {
+    "id": 238,
+    "orig_no": "238",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Một lô hàng được thông quan ngày 15/3/2026. Cơ quan hải quan có thể kiểm tra sau thông quan đối với lô hàng này đến thời điểm nào?",
+    "options": {
+      "A": "Ngày 15/3/2031",
+      "B": "Ngày 15/3/2027",
+      "C": "Ngày 15/3/2029",
+      "D": "Ngày 15/3/2036"
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 78 Luật Hải quan 2014, thời hạn cơ quan hải quan tiến hành kiểm tra sau thông quan là 05 năm kể từ ngày đăng ký tờ khai hải quan; đối với tờ khai thông quan ngày 15/3/2026 thì thời hạn kiểm tra kéo dài đến hết ngày 15/3/2031."
+  },
+  {
+    "id": 239,
+    "orig_no": "239",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Nếu khấu hao hằng năm của phương án tăng lên, trong khi các yếu tố khác không đổi, thì điều gì xảy ra?",
+    "options": {
+      "A": "Thời gian hoàn vốn giảm, tỷ suất lợi nhuận tăng.",
+      "B": "Thời gian hoàn vốn tăng, tỷ suất lợi nhuận tăng.",
+      "C": "Thời gian hoàn vốn giảm, tỷ suất lợi nhuận giảm.",
+      "D": "Thời gian hoàn vốn giảm, tỷ suất lợi nhuận không đổi."
+    },
+    "answer": "C",
+    "explanation": "Khấu hao hàng năm tăng làm tăng chi phí sản xuất, dẫn đến lợi nhuận ròng giảm; tuy nhiên dòng tiền thu hồi vốn hàng năm (Lợi nhuận sau thuế + Khấu hao) tăng lên, làm thời gian hoàn vốn đầu tư giảm xuống."
+  },
+  {
+    "id": 240,
+    "orig_no": "240",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Người bán muốn bảo đảm rằng người mua chỉ nhận được chứng từ hàng hóa sau khi đã trả tiền hoặc đã chấp nhận trả tiền, nhằm tránh bị chiếm dụng vốn. Người bán nên chọn phương thức thanh toán nào?",
+    "options": {
+      "A": "Nhờ thu chấp nhận trước",
+      "B": "Nhờ thu không cần chấp nhận",
+      "C": "Nhờ thu chấp nhận sau",
+      "D": "Ủy nhiệm chi"
+    },
+    "answer": "A",
+    "explanation": "Phương thức Nhờ thu kèm chứng từ (Documentary Collection: D/P trả tiền trao chứng từ hoặc D/A chấp nhận trả tiền trao chứng từ) bảo đảm ngân hàng khống chế chứng từ, người mua chỉ lấy được chứng từ nhận hàng khi đã thanh toán hoặc đã ký chấp nhận hối phiếu."
+  },
+  {
+    "id": 241,
+    "orig_no": "241",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Người xuất khẩu muốn sửa L/C để được kéo dài thời hạn giao hàng, do nhà máy chậm tiến độ. Nếu người nhập khẩu đồng ý, ai chịu chi phí tu chỉnh L/C?",
+    "options": {
+      "A": "Người xuất khẩu",
+      "B": "Người nhập khẩu",
+      "C": "Ngân hàng phát hành L/C",
+      "D": "Hai bên chia đôi"
+    },
+    "answer": "A",
+    "explanation": "Theo thông lệ ngân hàng quốc tế UCP 600, bên nào yêu cầu tu chỉnh (sửa đổi) L/C do lỗi hoặc nhu cầu của mình (người bán chậm tiến độ xin gia hạn) thì bên đó phải gánh chịu toàn bộ chi phí sửa đổi L/C phát sinh tại ngân hàng."
+  },
+  {
+    "id": 242,
+    "orig_no": "242",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Sau khi người xuất khẩu đề nghị, người nhập khẩu đã làm đơn xin ngân hàng điều chỉnh L/C cho phù hợp với hợp đồng. Khi nhận được L/C sửa đổi, người xuất khẩu nên làm gì?",
+    "options": {
+      "A": "Kiểm tra kỹ L/C sửa đổi, chỉ giao hàng khi quyền lợi của mình thật sự được bảo đảm",
+      "B": "Giao hàng ngay, vì L/C đã được sửa theo đúng đề nghị của mình",
+      "C": "Giao hàng theo hợp đồng mà không cần đối chiếu lại L/C sửa đổi",
+      "D": "Yêu cầu ngân hàng thông báo xác nhận L/C sửa đổi thay cho việc tự kiểm tra"
+    },
+    "answer": "A",
+    "explanation": "Khi nhận được L/C sửa đổi, người xuất khẩu phải kiểm tra, đối chiếu cẩn thận từng câu chữ xem đã đúng với thỏa thuận chưa, bảo đảm không có điều kiện bất lợi mới nào được cài cắm, chỉ khi quyền lợi được bảo đảm chắc chắn mới tiến hành giao hàng."
+  },
+  {
+    "id": 243,
+    "orig_no": "243",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Trong buổi đàm phán, bên mua khéo léo đặt câu hỏi về năng lực sản xuất, sau đó chờ đợi để bên bán phải chủ động đưa ra mức giá chào. Chỉ khi có mức giá này, bên mua mới bắt đầu mặc cả. Bên mua đang sử dụng kỹ thuật nào?",
+    "options": {
+      "A": "Kỹ thuật buộc đối phương phải đưa ra đề nghị trước",
+      "B": "Kỹ thuật lảng tránh",
+      "C": "Kỹ thuật đưa ra đề nghị và bảo vệ đề nghị của mình",
+      "D": "Kỹ thuật đối phó với thủ thuật đưa ra đề nghị chót của đối tác"
+    },
+    "answer": "A",
+    "explanation": "Chiến thuật đặt câu hỏi dẫn dắt để đối phương phải là bên đưa ra mức giá chào và điều kiện trước nhằm thăm dò giới hạn và giữ thế chủ động mặc cả được gọi là Kỹ thuật buộc đối phương đưa ra đề nghị trước."
+  },
+  {
+    "id": 244,
+    "orig_no": "244",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Trong buổi đàm phán, đối tác liên tục đưa ra hạn chót, ép giảm giá và đe dọa sẽ chuyển sang nhà cung cấp khác nếu không được đáp ứng ngay. Đối tác đang thể hiện kiểu đàm phán nào?",
+    "options": {
+      "A": "Thái độ thúc bách, chèn ép",
+      "B": "Thái độ hững hờ, xa lánh",
+      "C": "Thái độ đơn giản, thẳng thắn",
+      "D": "Thái độ hợp tác"
+    },
+    "answer": "A",
+    "explanation": "Hành vi liên tục đưa ra hạn chót, gây áp lực thời gian, đe dọa hủy đàm phán hoặc chuyển sang đối thủ cạnh tranh thể hiện chiến thuật đàm phán mang thái độ thúc bách, chèn ép (High-pressure tactics) nhằm buộc đối tác phải nhân nhượng."
+  },
+  {
+    "id": 245,
+    "orig_no": "245",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Trưởng đoàn đàm phán của Công ty P thông thạo tiếng Anh, nhưng công ty vẫn bố trí phiên dịch trong suốt buổi đàm phán với đối tác Mỹ. Ngoài việc giải quyết bất đồng ngôn ngữ, phiên dịch còn có tác dụng gì?",
+    "options": {
+      "A": "Tạo điều kiện để suy nghĩ, cân nhắc trước khi trả lời đối tác",
+      "B": "Tăng tính trang trọng cho buổi đàm phán",
+      "C": "Đáp ứng quy định bắt buộc của pháp luật về đàm phán quốc tế",
+      "D": "Giúp ghi chép nội dung để làm bằng chứng khi có tranh chấp"
+    },
+    "answer": "A",
+    "explanation": "Sử dụng phiên dịch viên chuyên nghiệp ngoài việc bảo đảm dịch thuật chính xác thuật ngữ pháp lý còn tạo ra 'khoảng đệm thời gian' quý báu giúp trưởng đoàn đàm phán có thêm thời gian suy nghĩ, phân tích ý đồ của đối tác trước khi đưa ra câu trả lời chính thức."
+  },
+  {
+    "id": 246,
+    "orig_no": "246",
+    "chapter_id": 4,
+    "chapter": "Chương 4: Phương thức thanh toán và chứng từ trong giao dịch ngoại thương",
+    "question": "Trường hợp nào sau đây là xuất khẩu tại chỗ theo quy định của pháp luật Việt Nam?",
+    "options": {
+      "A": "Công ty A (Việt Nam) giao lô vải cho Công ty B (Việt Nam) theo chỉ định của khách hàng Hàn Quốc, là bên đã ký hợp đồng mua lô vải đó với Công ty A.",
+      "B": "Công ty A (Việt Nam) bán lô vải cho Công ty B (Việt Nam). Sau đó, Công ty B tự tìm khách và xuất khẩu sang Hàn Quốc.",
+      "C": "Công ty A (Việt Nam) giao lô vải cho khách hàng Hàn Quốc tại cảng Hải Phòng để khách tự vận chuyển về nước.",
+      "D": "Công ty A (Việt Nam) bán vải cho khách du lịch Hàn Quốc tại cửa hàng của công ty ở Hà Nội."
+    },
+    "answer": "A",
+    "explanation": "Theo Điều 86 Thông tư 38/2015/TT-BTC và Điều 35 Nghị định 08/2015/NĐ-CP, hàng hóa xuất nhập khẩu tại chỗ bao gồm: Hàng hóa do doanh nghiệp Việt Nam bán cho thương nhân nước ngoài nhưng giao hàng cho doanh nghiệp khác tại Việt Nam theo chỉ định của thương nhân nước ngoài."
+  }
+]

@@ -1,0 +1,17 @@
+# Checkpoints and logs
+.solve_checkpoint.json
+.nlm_verify_checkpoint.json
+*.log
+__pycache__/
+*.pyc
+
+# IDE and agent metadata
+.agents/
+.gemini/
+.nlm_storage/
+
+# Temporary extraction files
+extracted_pdf_raw.txt
+
+# Large presentations (if not intended for git)
+Bài thuyết trình nhóm.pptx

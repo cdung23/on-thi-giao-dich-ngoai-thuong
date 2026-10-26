@@ -1,0 +1,1322 @@
+[
+  {
+    "id": 49,
+    "orig_no": "49",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "CIF được sử dụng cho phương thức vận tải nào?",
+    "options": {
+      "A": "Đường biển và đường thủy nội địa.",
+      "B": "Đường hàng không.",
+      "C": "Mọi phương thức vận tải.",
+      "D": "Đường bộ."
+    },
+    "answer": "A",
+    "explanation": "Theo Incoterms® 2020, CIF (Cost, Insurance and Freight) là điều kiện chỉ áp dụng riêng cho phương thức vận tải đường biển và đường thủy nội địa."
+  },
+  {
+    "id": 50,
+    "orig_no": "50",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "CIP là viết tắt của thuật ngữ nào?",
+    "options": {
+      "A": "Carriage and Insurance Paid To.",
+      "B": "Cost Insurance Paid.",
+      "C": "Carriage International Paid.",
+      "D": "Cargo Insurance Paid."
+    },
+    "answer": "A",
+    "explanation": "CIP là viết tắt của 'Carriage and Insurance Paid To' (Cước phí và bảo hiểm trả tới...), áp dụng cho mọi phương thức vận tải, kể cả vận tải đa phương thức."
+  },
+  {
+    "id": 51,
+    "orig_no": "51",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Công ty A bán CPT Paris. A đã giao hàng đúng quy định cho người chuyên chở tại Hà Nội, sau đó hàng bị hư hỏng trên đường tới Paris. Theo nguyên tắc của CPT, rủi ro thuộc về ai?",
+    "options": {
+      "A": "Người bán.",
+      "B": "Ngân hàng.",
+      "C": "Cơ quan hải quan.",
+      "D": "Người mua."
+    },
+    "answer": "D",
+    "explanation": "Theo CPT (Carriage Paid To), rủi ro về mất mát hoặc hư hỏng hàng hóa được chuyển từ người bán sang người mua ngay khi người bán giao hàng cho người chuyên chở (carrier) đầu tiên được chỉ định tại nơi đi (Hà Nội). Khi hàng bị hư hỏng trên đường tới Paris, rủi ro thuộc về người mua."
+  },
+  {
+    "id": 52,
+    "orig_no": "52",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "CPT có thể được sử dụng cho:",
+    "options": {
+      "A": "Mọi phương thức vận tải.",
+      "B": "Chỉ đường hàng không.",
+      "C": "Chỉ đường biển.",
+      "D": "Chỉ đường thủy nội địa."
+    },
+    "answer": "A",
+    "explanation": "CPT là điều kiện thuộc nhóm vận tải đa phương thức, có thể sử dụng cho mọi phương thức vận tải (đường bộ, đường sắt, đường hàng không, đường biển, vận tải kết hợp)."
+  },
+  {
+    "id": 53,
+    "orig_no": "53",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "CPT là viết tắt của thuật ngữ nào?",
+    "options": {
+      "A": "Carriage Paid To.",
+      "B": "Cost Paid To.",
+      "C": "Cargo Paid Transport.",
+      "D": "Commercial Paid Transport."
+    },
+    "answer": "A",
+    "explanation": "CPT là viết tắt của thuật ngữ 'Carriage Paid To' theo Incoterms®."
+  },
+  {
+    "id": 54,
+    "orig_no": "54",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "DAP là viết tắt của thuật ngữ nào?",
+    "options": {
+      "A": "Delivery At Point.",
+      "B": "Delivery Alongside Port.",
+      "C": "Delivered At Port.",
+      "D": "Delivered At Place."
+    },
+    "answer": "D",
+    "explanation": "DAP là viết tắt của thuật ngữ 'Delivered At Place' (Giao tại nơi đến) theo Incoterms®."
+  },
+  {
+    "id": 55,
+    "orig_no": "55",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "DDP là viết tắt của thuật ngữ nào?",
+    "options": {
+      "A": "Delivered Destination Paid.",
+      "B": "Delivered Duty Paid.",
+      "C": "Delivery Duty Point.",
+      "D": "Delivered Duty Paid Place."
+    },
+    "answer": "B",
+    "explanation": "DDP là viết tắt của thuật ngữ 'Delivered Duty Paid' (Giao đã nộp thuế) theo Incoterms®."
+  },
+  {
+    "id": 56,
+    "orig_no": "56",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Điểm khác biệt nổi bật giữa DAP và DDP là gì?",
+    "options": {
+      "A": "DAP không có vận tải quốc tế.",
+      "B": "DAP chỉ dùng đường biển.",
+      "C": "DDP bắt buộc người bán dỡ hàng.",
+      "D": "Trách nhiệm thực hiện thủ tục nhập khẩu."
+    },
+    "answer": "D",
+    "explanation": "Khác biệt cốt lõi: Theo DAP, người mua có nghĩa vụ làm thủ tục nhập khẩu và nộp thuế nhập khẩu; còn theo DDP, người bán có nghĩa vụ làm thủ tục thông quan nhập khẩu và nộp thuế nhập khẩu."
+  },
+  {
+    "id": 57,
+    "orig_no": "57",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Điểm khác biệt nổi bật giữa DAP và DPU là gì?",
+    "options": {
+      "A": "Phương thức vận tải.",
+      "B": "Bên thuê vận tải chính.",
+      "C": "Bên làm thủ tục xuất khẩu.",
+      "D": "Nghĩa vụ dỡ hàng tại nơi đến."
+    },
+    "answer": "D",
+    "explanation": "Khác biệt lớn nhất giữa DAP và DPU: Theo DAP, người bán giao hàng trên phương tiện vận tải đến, sẵn sàng để dỡ (người mua dỡ hàng); còn theo DPU, người bán bắt buộc phải hoàn thành việc dỡ hàng xuống khỏi phương tiện vận tải tại nơi đến thỏa thuận."
+  },
+  {
+    "id": 58,
+    "orig_no": "58",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Điểm khác biệt quan trọng giữa CPT và CIP là gì?",
+    "options": {
+      "A": "Phương thức vận tải.",
+      "B": "Nghĩa vụ xuất khẩu.",
+      "C": "Nghĩa vụ bảo hiểm của người bán.",
+      "D": "Điểm giao hàng."
+    },
+    "answer": "C",
+    "explanation": "Khác biệt cốt lõi: Theo CPT, người bán không có nghĩa vụ mua bảo hiểm; còn theo CIP, người bán bắt buộc phải mua bảo hiểm cho hàng hóa (theo Incoterms 2020, CIP yêu cầu bảo hiểm loại A - mọi rủi ro Institute Cargo Clauses A)."
+  },
+  {
+    "id": 59,
+    "orig_no": "59",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Điểm nổi bật nhất của DPU là gì?",
+    "options": {
+      "A": "Người mua thuê toàn bộ vận tải.",
+      "B": "Người mua phải dỡ hàng.",
+      "C": "Người bán phải làm thủ tục nhập khẩu.",
+      "D": "Người bán phải dỡ hàng tại địa điểm đến thỏa thuận."
+    },
+    "answer": "D",
+    "explanation": "DPU (Delivered at Place Unloaded - điều kiện duy nhất thay thế DAT của Incoterms 2010) yêu cầu người bán phải dỡ hàng khỏi phương tiện vận tải tại nơi đến chỉ định."
+  },
+  {
+    "id": 60,
+    "orig_no": "60",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Điều kiện nào sau đây không bắt buộc người bán thu xếp bảo hiểm?",
+    "options": {
+      "A": "CIP.",
+      "B": "CIF.",
+      "C": "Cả CIF và CIP.",
+      "D": "CFR."
+    },
+    "answer": "D",
+    "explanation": "Trong Incoterms 2020, chỉ có 2 điều kiện bắt buộc người bán phải thu xếp bảo hiểm là CIF và CIP. CFR (Cost and Freight) người bán không có nghĩa vụ mua bảo hiểm, việc mua bảo hiểm do người mua tự quyết định."
+  },
+  {
+    "id": 61,
+    "orig_no": "61",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Điều kiện nào thể hiện mức nghĩa vụ tương đối thấp nhất của người bán?",
+    "options": {
+      "A": "DAP.",
+      "B": "DDP.",
+      "C": "EXW.",
+      "D": "FCA."
+    },
+    "answer": "C",
+    "explanation": "EXW (Ex Works - Giao tại xưởng) thể hiện mức nghĩa vụ tối thiểu (thấp nhất) của người bán: người bán chỉ cần đặt hàng dưới quyền định đoạt của người mua tại cơ sở của mình, không phải bốc hàng lên xe và không phải làm thủ tục xuất khẩu."
+  },
+  {
+    "id": 62,
+    "orig_no": "62",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "FAS là viết tắt của thuật ngữ nào?",
+    "options": {
+      "A": "Free Alongside Ship.",
+      "B": "Free At Ship.",
+      "C": "Freight At Sea.",
+      "D": "Freight Alongside Ship."
+    },
+    "answer": "A",
+    "explanation": "FAS là viết tắt của 'Free Alongside Ship' (Giao dọc mạn tàu), chỉ áp dụng cho vận tải đường biển và đường thủy nội địa."
+  },
+  {
+    "id": 63,
+    "orig_no": "63",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "FCA là viết tắt của thuật ngữ nào?",
+    "options": {
+      "A": "Freight Cost Arrangement.",
+      "B": "Freight Carrier Arrangement.",
+      "C": "Free Cargo Arrival.",
+      "D": "Free Carrier."
+    },
+    "answer": "D",
+    "explanation": "FCA là viết tắt của 'Free Carrier' (Giao cho người chuyên chở), áp dụng cho mọi phương thức vận tải."
+  },
+  {
+    "id": 64,
+    "orig_no": "64",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "FOB là viết tắt của thuật ngữ nào?",
+    "options": {
+      "A": "Free Over Border.",
+      "B": "Freight Over Border.",
+      "C": "Freight On Board.",
+      "D": "Free On Board."
+    },
+    "answer": "D",
+    "explanation": "FOB là viết tắt của 'Free On Board' (Giao trên tàu), chỉ áp dụng cho vận tải đường biển và đường thủy nội địa."
+  },
+  {
+    "id": 65,
+    "orig_no": "65",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Incoterms® 2020 chia các điều kiện thương mại thành bao nhiêu nhóm xét theo phương thức vận tải áp dụng?",
+    "options": {
+      "A": "4 nhóm.",
+      "B": "2 nhóm.",
+      "C": "3 nhóm.",
+      "D": "5 nhóm."
+    },
+    "answer": "B",
+    "explanation": "Incoterms® 2020 phân chia 11 điều kiện thương mại thành 2 nhóm chính xét theo phương thức vận tải: (1) Nhóm áp dụng cho mọi phương thức vận tải (7 điều kiện: EXW, FCA, CPT, CIP, DAP, DPU, DDP); (2) Nhóm chỉ áp dụng cho vận tải biển và thủy nội địa (4 điều kiện: FAS, FOB, CFR, CIF)."
+  },
+  {
+    "id": 66,
+    "orig_no": "66",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Incoterms® không thể thay thế nội dung nào sau đây?",
+    "options": {
+      "A": "Việc xác định điểm giao hàng.",
+      "B": "Hợp đồng mua bán hàng hóa giữa các bên.",
+      "C": "Việc xác định một số nghĩa vụ vận tải.",
+      "D": "Việc phân chia một số chi phí."
+    },
+    "answer": "B",
+    "explanation": "Incoterms® chỉ là tập quán thương mại quốc tế điều chỉnh việc phân chia nghĩa vụ, chi phí và rủi ro giao nhận hàng hóa giữa người mua và người bán, không thể thay thế cho bản hợp đồng mua bán hàng hóa hoàn chỉnh."
+  },
+  {
+    "id": 67,
+    "orig_no": "67",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Incoterms® không trực tiếp quy định nội dung nào sau đây?",
+    "options": {
+      "A": "Thời điểm chuyển quyền sở hữu hàng hóa.",
+      "B": "Phân chia một số chi phí.",
+      "C": "Điểm giao hàng.",
+      "D": "Điểm chuyển rủi ro."
+    },
+    "answer": "A",
+    "explanation": "Incoterms® không trực tiếp điều chỉnh thời điểm chuyển quyền sở hữu hàng hóa, việc vi phạm hợp đồng hay hậu quả của việc vi phạm hợp đồng (những vấn đề này do luật áp dụng và thỏa thuận trong hợp đồng điều chỉnh)."
+  },
+  {
+    "id": 68,
+    "orig_no": "68",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Incoterms® không trực tiếp xác định nội dung nào sau đây của hợp đồng mua bán?",
+    "options": {
+      "A": "Phân chia một số chi phí.",
+      "B": "Một số nghĩa vụ liên quan đến vận tải.",
+      "C": "Nghĩa vụ thông quan theo từng điều kiện.",
+      "D": "Chất lượng hàng hóa."
+    },
+    "answer": "D",
+    "explanation": "Incoterms® không trực tiếp quy định về phẩm chất, quy cách, chất lượng hàng hóa hay giá cả hàng hóa, mà các nội dung này phải do các bên quy định rõ trong hợp đồng mua bán."
+  },
+  {
+    "id": 69,
+    "orig_no": "69",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Incoterms® là viết tắt của cụm từ nào sau đây?",
+    "options": {
+      "A": "International Customs Terms.",
+      "B": "International Commerce Rules.",
+      "C": "International Contract Terms.",
+      "D": "International Commercial Terms."
+    },
+    "answer": "D",
+    "explanation": "Incoterms® là viết tắt của cụm từ 'International Commercial Terms' (Các điều kiện thương mại quốc tế) do Phòng Thương mại Quốc tế (ICC) ban hành."
+  },
+  {
+    "id": 70,
+    "orig_no": "70",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Khác biệt quan trọng giữa CFR và CIF là gì?",
+    "options": {
+      "A": "Trách nhiệm làm thủ tục xuất khẩu.",
+      "B": "Điểm giao hàng.",
+      "C": "Nghĩa vụ thu xếp bảo hiểm của người bán.",
+      "D": "Phương thức vận tải."
+    },
+    "answer": "C",
+    "explanation": "Khác biệt duy nhất giữa CFR và CIF là nghĩa vụ bảo hiểm: Trong CFR, người bán không phải mua bảo hiểm; trong CIF, người bán bắt buộc phải mua bảo hiểm hàng hải cho lô hàng (tối thiểu loại C)."
+  },
+  {
+    "id": 71,
+    "orig_no": "71",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một hợp đồng sử dụng Incoterms® 2020 vẫn cần quy định riêng về nội dung nào sau đây?",
+    "options": {
+      "A": "Phạm vi phương thức vận tải của điều kiện.",
+      "B": "Điểm chuyển rủi ro nếu Incoterms đã xác định.",
+      "C": "Thanh toán.",
+      "D": "Nghĩa vụ giao hàng nếu không sửa đổi."
+    },
+    "answer": "C",
+    "explanation": "Incoterms® không điều chỉnh phương thức, thời hạn và đồng tiền thanh toán; do đó các bên bắt buộc phải quy định điều khoản thanh toán riêng trong hợp đồng."
+  },
+  {
+    "id": 72,
+    "orig_no": "72",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một lô hàng rời được vận chuyển bằng tàu biển. Người mua thuê tàu và người bán phải đưa hàng dọc mạn tàu tại cảng xếp. Điều kiện nào phù hợp?",
+    "options": {
+      "A": "FOB.",
+      "B": "CFR.",
+      "C": "FAS.",
+      "D": "CPT."
+    },
+    "answer": "C",
+    "explanation": "Hàng rời đi đường biển, người mua thuê tàu, người bán đưa hàng đặt dọc mạn tàu tại cảng xếp thỏa thuận phù hợp chính xác với điều kiện FAS (Free Alongside Ship)."
+  },
+  {
+    "id": 73,
+    "orig_no": "73",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Nếu người bán trong tình huống trên còn phải thu xếp bảo hiểm theo Incoterms®, điều kiện nào phù hợp?",
+    "options": {
+      "A": "CFR.",
+      "B": "DAP.",
+      "C": "CPT.",
+      "D": "CIF."
+    },
+    "answer": "D",
+    "explanation": "Nếu người bán vận chuyển đường biển, giao hàng lên tàu tại cảng đi và còn phải thu xếp mua bảo hiểm cho hàng hóa tới cảng đích thì điều kiện phù hợp là CIF (Cost, Insurance and Freight)."
+  },
+  {
+    "id": 74,
+    "orig_no": "74",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Nhóm điều kiện nào sau đây chỉ áp dụng cho vận tải biển và đường thủy nội địa?",
+    "options": {
+      "A": "FAS, FOB, CFR, CIF.",
+      "B": "EXW, FCA, CPT, CIP.",
+      "C": "FCA, FOB, CPT, CFR.",
+      "D": "DAP, DPU, DDP, CIF."
+    },
+    "answer": "A",
+    "explanation": "Bốn điều kiện truyền thống chỉ áp dụng cho vận tải biển và đường thủy nội địa trong Incoterms 2020 là: FAS, FOB, CFR, CIF."
+  },
+  {
+    "id": 75,
+    "orig_no": "75",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Nội dung nào sau đây thuộc phạm vi điều chỉnh quan trọng của Incoterms®?",
+    "options": {
+      "A": "Mức lãi suất thanh toán chậm.",
+      "B": "Quyền sở hữu doanh nghiệp.",
+      "C": "Điểm chuyển rủi ro về mất mát hoặc hư hỏng hàng hóa giữa người bán và người mua.",
+      "D": "Thẩm quyền giải quyết tranh chấp."
+    },
+    "answer": "C",
+    "explanation": "Phạm vi điều chỉnh cốt lõi nhất của Incoterms® là xác định điểm chuyển rủi ro về mất mát hoặc hư hỏng hàng hóa, phân chia chi phí và nghĩa vụ làm thủ tục hải quan giữa người bán và người mua."
+  },
+  {
+    "id": 76,
+    "orig_no": "76",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Tại sao CIF không phù hợp bằng CIP trong một giao dịch vận tải đa phương thức?",
+    "options": {
+      "A": "CIF yêu cầu người mua nhập khẩu.",
+      "B": "CIF thuộc nhóm điều kiện chỉ áp dụng cho vận tải biển và đường thủy nội địa.",
+      "C": "CIF không yêu cầu vận tải.",
+      "D": "CIF không yêu cầu bảo hiểm."
+    },
+    "answer": "D",
+    "explanation": "Theo CFR, người bán hoàn thành nghĩa vụ giao hàng khi hàng đã được xếp lên tàu tại cảng bốc hàng (cảng đi). Cước phí vận tải tới cảng đích do người bán trả, nhưng rủi ro đã chuyển sang người mua ngay tại cảng bốc."
+  },
+  {
+    "id": 77,
+    "orig_no": "77",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Tại sao FCA thường thích hợp hơn FOB đối với container được giao cho người chuyên chở tại bến container trước khi xếp tàu?",
+    "options": {
+      "A": "Điểm giao hàng FCA có thể phù hợp với thời điểm container được giao cho người chuyên chở.",
+      "B": "FCA yêu cầu người bán chịu rủi ro đến cảng đích.",
+      "C": "FCA luôn có giá thấp hơn FOB.",
+      "D": "FCA bắt buộc người bán mua bảo hiểm."
+    },
+    "answer": "C",
+    "explanation": "Trong CFR, rủi ro chuyển từ người bán sang người mua ngay khi hàng được giao an toàn lên boong tàu tại cảng bốc hàng thỏa thuận (on board the vessel)."
+  },
+  {
+    "id": 78,
+    "orig_no": "78",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Tại sao FOB không phù hợp với giao dịch vận tải hàng không?",
+    "options": {
+      "A": "FOB chỉ áp dụng cho vận tải biển và đường thủy nội địa.",
+      "B": "FOB bắt buộc người bán mua bảo hiểm.",
+      "C": "FOB bắt buộc người bán nhập khẩu.",
+      "D": "FOB chỉ áp dụng cho hàng có giá trị thấp."
+    },
+    "answer": "C",
+    "explanation": "Theo CFR, người bán chỉ có nghĩa vụ trả cước vận tải biển tới cảng đích quy định, hoàn toàn không có nghĩa vụ mua bảo hiểm hàng hải."
+  },
+  {
+    "id": 79,
+    "orig_no": "79",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Tại sao trong giao dịch CIF, người bán có thể vẫn trả cước đến cảng đích trong khi rủi ro đã chuyển cho người mua?",
+    "options": {
+      "A": "Vì người mua không có nghĩa vụ nào.",
+      "B": "Vì bảo hiểm làm rủi ro quay lại người bán.",
+      "C": "Vì người bán vẫn sở hữu hàng.",
+      "D": "Vì nghĩa vụ chịu chi phí vận tải và việc chuyển rủi ro là hai vấn đề khác nhau."
+    },
+    "answer": "B",
+    "explanation": "Theo CIF, người bán bắt buộc phải mua bảo hiểm hàng hải cho hàng hóa nhưng người hưởng thụ bảo hiểm khi hàng gặp rủi ro trên biển là người mua (vì rủi ro đã chuyển cho người mua từ cảng bốc)."
+  },
+  {
+    "id": 80,
+    "orig_no": "80",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Theo EXW, người bán về nguyên tắc không có nghĩa vụ nào sau đây?",
+    "options": {
+      "A": "Đóng gói hàng hóa khi cần thiết.",
+      "B": "Bốc hàng lên phương tiện nhận hàng do người mua bố trí.",
+      "C": "Cung cấp chứng từ thương mại theo thỏa thuận.",
+      "D": "Chuẩn bị hàng hóa theo hợp đồng."
+    },
+    "answer": "C",
+    "explanation": "Trong CIF, điểm chuyển rủi ro là khi hàng được đặt lên boong tàu tại cảng bốc hàng (cảng đi), hoàn toàn tách biệt với cảng đích mà người bán trả cước và mua bảo hiểm."
+  },
+  {
+    "id": 81,
+    "orig_no": "81",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Theo FCA, thủ tục xuất khẩu về nguyên tắc thuộc trách nhiệm của ai?",
+    "options": {
+      "A": "Người mua.",
+      "B": "Người chuyên chở.",
+      "C": "Người bán.",
+      "D": "Ngân hàng."
+    },
+    "answer": "B",
+    "explanation": "Theo CIF Incoterms® 2020, người bán có nghĩa vụ mua bảo hiểm ở mức bảo hiểm tối thiểu là Điều kiện (C) của Viện những người bảo hiểm Luân Đôn (Institute Cargo Clauses C - ICC C) hoặc điều kiện tương đương."
+  },
+  {
+    "id": 82,
+    "orig_no": "82",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Theo FOB, người bán có nghĩa vụ mặc định phải mua bảo hiểm cho người mua không?",
+    "options": {
+      "A": "Có, trong mọi trường hợp.",
+      "B": "Có, nếu giá trị hàng cao.",
+      "C": "Không.",
+      "D": "Có, nếu vận chuyển bằng container."
+    },
+    "answer": "B",
+    "explanation": "Trong CIP Incoterms® 2020, quy định mới nâng cấp nghĩa vụ bảo hiểm của người bán lên mức tối đa là Điều kiện (A) - Mọi rủi ro (Institute Cargo Clauses A - ICC A)."
+  },
+  {
+    "id": 83,
+    "orig_no": "83",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Theo Incoterms® 2020, CIP về nguyên tắc yêu cầu mức bảo hiểm:",
+    "options": {
+      "A": "Thấp hơn CIF.",
+      "B": "Không có bảo hiểm.",
+      "C": "Rộng hơn mức bảo hiểm mặc định của CIF.",
+      "D": "Chỉ bảo hiểm trách nhiệm người vận tải."
+    },
+    "answer": "B",
+    "explanation": "Theo CPT, người bán ký hợp đồng vận tải và trả cước phí vận chuyển hàng hóa tới địa điểm đến thỏa thuận."
+  },
+  {
+    "id": 84,
+    "orig_no": "84",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong CFR, rủi ro về hàng hóa chuyển sang người mua về cơ bản khi nào?",
+    "options": {
+      "A": "Khi hàng được giao lên tàu tại cảng xếp hàng theo quy định.",
+      "B": "Khi người mua nhận chứng từ.",
+      "C": "Khi hàng tới cảng đích.",
+      "D": "Khi hàng được dỡ khỏi tàu."
+    },
+    "answer": "A",
+    "explanation": "Trong CPT, rủi ro chuyển sang người mua ngay khi người bán giao hàng cho người chuyên chở (carrier) đầu tiên tại địa điểm giao hàng ở nước xuất khẩu."
+  },
+  {
+    "id": 85,
+    "orig_no": "85",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong CIF, người bán có nghĩa vụ nào sau đây?",
+    "options": {
+      "A": "Chịu rủi ro đến kho người mua.",
+      "B": "Làm thủ tục nhập khẩu.",
+      "C": "Dỡ hàng tại kho người mua.",
+      "D": "Ký hợp đồng vận tải và thu xếp bảo hiểm theo yêu cầu của điều kiện CIF."
+    },
+    "answer": "A",
+    "explanation": "Theo FOB, người bán hoàn thành nghĩa vụ khi hàng được đặt lên tàu do người mua chỉ định tại cảng xếp hàng thỏa thuận và làm thủ tục thông quan xuất khẩu."
+  },
+  {
+    "id": 86,
+    "orig_no": "86",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong DAP, hàng được giao khi nào?",
+    "options": {
+      "A": "Khi hàng được dỡ tại nơi đến.",
+      "B": "Khi hàng được giao lên tàu.",
+      "C": "Khi hàng được đặt dưới quyền định đoạt của người mua trên phương tiện vận tải đến và sẵn sàng để dỡ.",
+      "D": "Khi giao cho người chuyên chở đầu tiên."
+    },
+    "answer": "C",
+    "explanation": "Theo DAP, người bán giao hàng khi hàng hóa được đặt dưới quyền định đoạt của người mua trên phương tiện vận tải đến và sẵn sàng để dỡ tại nơi đến quy định."
+  },
+  {
+    "id": 87,
+    "orig_no": "87",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong DAP, nghĩa vụ dỡ hàng tại địa điểm đến về nguyên tắc thuộc về ai?",
+    "options": {
+      "A": "Người mua.",
+      "B": "Người bán.",
+      "C": "Người vận tải.",
+      "D": "Hải quan."
+    },
+    "answer": "A",
+    "explanation": "Theo DAP, người bán chịu trách nhiệm đưa hàng đến nơi đến nhưng KHÔNG có nghĩa vụ dỡ hàng khỏi phương tiện vận tải; nghĩa vụ dỡ hàng thuộc về người mua."
+  },
+  {
+    "id": 88,
+    "orig_no": "88",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong DAP, thủ tục nhập khẩu về nguyên tắc thuộc trách nhiệm của ai?",
+    "options": {
+      "A": "Ngân hàng.",
+      "B": "Người mua.",
+      "C": "Người bán.",
+      "D": "Người vận tải."
+    },
+    "answer": "B",
+    "explanation": "Trong DAP, người mua có nghĩa vụ làm thủ tục thông quan nhập khẩu, nộp thuế và các lệ phí nhập khẩu."
+  },
+  {
+    "id": 89,
+    "orig_no": "89",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong DDP, người bán về nguyên tắc có nghĩa vụ dỡ hàng khỏi phương tiện vận tải đến không?",
+    "options": {
+      "A": "Có nếu giao tại kho.",
+      "B": "Có nếu người mua yêu cầu bằng miệng.",
+      "C": "Có trong mọi trường hợp.",
+      "D": "Không theo nghĩa vụ giao hàng mặc định của DDP."
+    },
+    "answer": "D",
+    "explanation": "Theo DDP, người bán có nghĩa vụ giao hàng đã thông quan nhập khẩu nhưng trên phương tiện vận tải sẵn sàng để dỡ; nghĩa vụ mặc định của DDP không bắt buộc người bán dỡ hàng (trừ khi có thỏa thuận riêng)."
+  },
+  {
+    "id": 90,
+    "orig_no": "90",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong DPU, thủ tục nhập khẩu về nguyên tắc thuộc trách nhiệm của ai?",
+    "options": {
+      "A": "Công ty bảo hiểm.",
+      "B": "Người bán.",
+      "C": "Người vận tải.",
+      "D": "Người mua."
+    },
+    "answer": "D",
+    "explanation": "Trong DPU (cũng như DAP), người mua chịu trách nhiệm làm thủ tục thông quan nhập khẩu và nộp thuế nhập khẩu; người bán chịu trách nhiệm dỡ hàng tại nơi đến."
+  },
+  {
+    "id": 91,
+    "orig_no": "91",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong FAS, hợp đồng vận tải chính về nguyên tắc do ai thu xếp?",
+    "options": {
+      "A": "Người bán.",
+      "B": "Người mua.",
+      "C": "Hải quan.",
+      "D": "Ngân hàng."
+    },
+    "answer": "B",
+    "explanation": "Trong FAS, người mua có nghĩa vụ thuê phương tiện vận tải chính (thuê tàu) để nhận hàng tại mạn tàu."
+  },
+  {
+    "id": 92,
+    "orig_no": "92",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong FOB, hợp đồng vận tải chính về nguyên tắc do ai thu xếp?",
+    "options": {
+      "A": "Người mua.",
+      "B": "Người bán.",
+      "C": "Hải quan.",
+      "D": "Cảng xếp hàng."
+    },
+    "answer": "A",
+    "explanation": "Trong FOB, người mua có trách nhiệm thu xếp và ký hợp đồng vận tải chính (chỉ định tàu và trả cước vận tải biển)."
+  },
+  {
+    "id": 93,
+    "orig_no": "93",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "A bán CFR Shanghai. Sau khi hàng được giao lên tàu tại Hải Phòng, tàu gặp sự cố. A vẫn phải trả cước theo hợp đồng vận tải nhưng rủi ro hàng hóa đã chuyển cho B. Tình huống này minh họa điều gì?",
+    "options": {
+      "A": "Sự tách biệt giữa nghĩa vụ trả chi phí vận tải và phân chia rủi ro trong nhóm C.",
+      "B": "CFR giống DAP.",
+      "C": "Incoterms® tự mâu thuẫn.",
+      "D": "CFR không có điểm giao hàng."
+    },
+    "answer": "A",
+    "explanation": "Tình huống này minh họa rõ nét nguyên tắc hai điểm (two critical points) của nhóm C: điểm chuyển giao rủi ro (tại cảng đi) tách biệt hoàn toàn với điểm phân chia chi phí vận tải (tại cảng đến)."
+  },
+  {
+    "id": 94,
+    "orig_no": "94",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "A bán CIP Munich. A giao hàng cho người chuyên chở tại Hà Nội và trả cước tới Munich. Hàng bị mất sau khi người chuyên chở nhận. Nếu A đã hoàn thành đúng nghĩa vụ giao hàng, nhận định nào đúng?",
+    "options": {
+      "A": "Rủi ro chỉ chuyển khi hàng tới Munich.",
+      "B": "Rủi ro đã chuyển sang người mua dù A vẫn phải trả cước tới Munich.",
+      "C": "Rủi ro chỉ chuyển sau khi thanh toán.",
+      "D": "A chịu rủi ro vì A trả cước."
+    },
+    "answer": "B",
+    "explanation": "Trong CIP, rủi ro đã chuyển sang người mua ngay khi người bán giao hàng cho người chuyên chở đầu tiên, mặc dù người bán vẫn có nghĩa vụ trả cước phí vận tải tới Munich."
+  },
+  {
+    "id": 95,
+    "orig_no": "95",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Cách dẫn chiếu nào rõ ràng hơn trong hợp đồng?",
+    "options": {
+      "A": "FOB Hai Phong Port, Vietnam, Incoterms® 2020.",
+      "B": "FOB Asia 2020.",
+      "C": "FOB International.",
+      "D": "FOB Vietnam."
+    },
+    "answer": "A",
+    "explanation": "Cách dẫn chiếu chuẩn xác theo khuyến nghị của ICC: [Tên điều kiện] [Tên địa điểm/cảng cụ thể], [Tên quốc gia], Incoterms® 2020. Ví dụ: 'FOB Hai Phong Port, Vietnam, Incoterms® 2020'."
+  },
+  {
+    "id": 96,
+    "orig_no": "96",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Công ty A (Việt Nam) bán DDP Paris nhưng pháp luật nước nhập khẩu không cho Công ty A đứng tên thực hiện thủ tục nhập khẩu. Nếu muốn người bán chịu chi phí và rủi ro đưa hàng tới Paris nhưng người mua chịu trách nhiệm nhập khẩu, điều kiện nào đáng cân nhắc hơn DDP?",
+    "options": {
+      "A": "FOB.",
+      "B": "FAS.",
+      "C": "EXW.",
+      "D": "DAP."
+    },
+    "answer": "D",
+    "explanation": "Khi người bán muốn chịu mọi chi phí và rủi ro đưa hàng đến tận Paris nhưng không thể làm thủ tục nhập khẩu tại nước sở tại thì điều kiện tối ưu thay thế DDP là DAP (Delivered At Place)."
+  },
+  {
+    "id": 97,
+    "orig_no": "97",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Công ty A bán CIF Rotterdam. Hàng đã được giao lên tàu tại Hải Phòng đúng quy định. Tàu gặp bão giữa hành trình làm hàng tổn thất. Người mua cho rằng A chịu rủi ro vì A trả cước và mua bảo hiểm tới Rotterdam. Nhận định nào đúng?",
+    "options": {
+      "A": "Người vận tải tự động chịu toàn bộ rủi ro theo Incoterms®.",
+      "B": "Người mua đúng vì chi phí và rủi ro luôn đi cùng nhau.",
+      "C": "Người mua đúng vì CIF thuộc nhóm D.",
+      "D": "Lập luận của người mua không đúng vì CIF tách điểm chuyển rủi ro khỏi cảng đích mà người bán trả cước và thu xếp bảo hiểm."
+    },
+    "answer": "D",
+    "explanation": "Lập luận của người mua không đúng vì trong CIF, rủi ro chuyển giao ngay khi hàng qua lan can/được xếp lên tàu tại cảng bốc (Hải Phòng); bảo hiểm do người bán mua nhưng là vì lợi ích của người mua để khiếu nại bảo hiểm."
+  },
+  {
+    "id": 98,
+    "orig_no": "98",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Doanh nghiệp bán DPU tại một địa điểm không có thiết bị phù hợp để dỡ hàng. Rủi ro thực tiễn lớn nhất của việc lựa chọn điều kiện này là gì?",
+    "options": {
+      "A": "DPU không áp dụng đường bộ.",
+      "B": "DPU bắt buộc người mua mua bảo hiểm.",
+      "C": "Người bán có thể gặp khó khăn trong việc hoàn thành nghĩa vụ dỡ hàng để thực hiện giao hàng.",
+      "D": "Người mua phải làm xuất khẩu."
+    },
+    "answer": "C",
+    "explanation": "DPU quy định người bán bắt buộc phải hoàn thành việc dỡ hàng tại nơi đến; nếu tại địa điểm đó không có sẵn cần cẩu/thiết bị dỡ hàng phù hợp, người bán sẽ không thể hoàn thành nghĩa vụ giao hàng và phát sinh chi phí phạt lưu xe/container rất lớn."
+  },
+  {
+    "id": 99,
+    "orig_no": "99",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Doanh nghiệp đang chào giá 100.000 USD theo điều kiện EXW. Người mua đề nghị chuyển sang CIF tại một cảng đích xác định. Khi xây dựng lại giá chào, doanh nghiệp cần xử lý như thế nào?",
+    "options": {
+      "A": "Giữ nguyên giá 100.000 USD vì thay đổi Incoterms® không ảnh hưởng đến cơ cấu chi phí.",
+      "B": "Xác định lại giá trên cơ sở bổ sung các chi phí mà người bán phải đảm nhận khi chuyển từ EXW sang CIF, bao gồm các chi phí vận tải và bảo hiểm có liên quan.",
+      "C": "Chỉ bổ sung chi phí bảo hiểm vì người mua vẫn chịu toàn bộ chi phí vận tải.",
+      "D": "Chỉ thay tên điều kiện EXW thành CIF vì điểm chuyển rủi ro không ảnh hưởng đến việc xác định giá."
+    },
+    "answer": "B",
+    "explanation": "Từ EXW sang CIF, người bán phải gánh thêm nhiều nghĩa vụ: bốc hàng lên xe tại xưởng, vận tải nội địa, thủ tục hải quan xuất khẩu, cước vận tải biển quốc tế và phí mua bảo hiểm; do đó phải tính toán lại giá để cộng thêm các khoản này."
+  },
+  {
+    "id": 100,
+    "orig_no": "100",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Doanh nghiệp muốn sử dụng FOB cho lô hàng container nhưng container được giao cho người chuyên chở tại bến container trước khi xếp tàu. Lựa chọn nào nên được cân nhắc để điểm giao hàng phù hợp hơn?",
+    "options": {
+      "A": "DPU.",
+      "B": "DDP.",
+      "C": "CIF.",
+      "D": "FCA."
+    },
+    "answer": "D",
+    "explanation": "ICC khuyến cáo mạnh mẽ: Với hàng đóng trong container giao tại bến bãi container (CY/CFS) trước khi bốc lên tàu, các bên nên sử dụng FCA thay vì FOB để điểm chuyển rủi ro phản ánh đúng thời điểm bàn giao hàng cho hãng tàu."
+  },
+  {
+    "id": 101,
+    "orig_no": "101",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Hợp đồng sử dụng FCA và thanh toán L/C yêu cầu vận đơn có xác nhận hàng đã được xếp lên tàu. Incoterms® 2020 cho phép các bên thỏa thuận cơ chế nào?",
+    "options": {
+      "A": "Người mua chỉ thị người chuyên chở phát hành vận đơn có xác nhận hàng đã được xếp lên tàu cho người bán sau khi hàng được xếp lên tàu.",
+      "B": "FCA tự động chuyển thành FOB.",
+      "C": "Ngân hàng phát hành vận đơn thay hãng tàu.",
+      "D": "Người bán tự phát hành vận đơn."
+    },
+    "answer": "A",
+    "explanation": "Incoterms® 2020 bổ sung điều khoản mới cho FCA: Người mua và người bán có thể thỏa thuận rằng người mua chỉ thị người chuyên chở phát hành vận đơn có ghi chú hàng đã xếp lên tàu (On Board B/L) cho người bán để thanh toán L/C."
+  },
+  {
+    "id": 102,
+    "orig_no": "102",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Khi lựa chọn điều kiện DDP (Delivered Duty Paid) trong Incoterms® 2020, nhận định nào sau đây là phù hợp nhất đối với người mua?",
+    "options": {
+      "A": "DDP luôn có lợi nhất cho người mua vì người bán đảm nhận phần lớn nghĩa vụ.",
+      "B": "DDP chỉ có lợi cho người mua khi thanh toán bằng L/C.",
+      "C": "DDP là lựa chọn tối ưu khi hàng hóa được vận chuyển bằng đường biển.",
+      "D": "Mức độ phù hợp của DDP phụ thuộc vào điều kiện cụ thể của thương vụ, bao gồm khả năng thông quan nhập khẩu của người bán, chi phí, thuế và yêu cầu kiểm soát logistics."
+    },
+    "answer": "D",
+    "explanation": "DDP đặt toàn bộ trách nhiệm và rủi ro tối đa lên người bán; mức độ phù hợp của DDP phụ thuộc vào việc người bán có tư cách pháp lý và năng lực thực hiện thủ tục hải quan nhập khẩu, nộp thuế tại nước người mua hay không."
+  },
+  {
+    "id": 103,
+    "orig_no": "103",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Khi lựa chọn giữa DAP và DDP, vấn đề cần xem xét đặc biệt là:",
+    "options": {
+      "A": "Người bán có bốc hàng tại nơi đi không.",
+      "B": "Hàng có đi biển không.",
+      "C": "Người bán có mua bảo hiểm không.",
+      "D": "Bên nào thực hiện thủ tục và nghĩa vụ nhập khẩu theo điều kiện."
+    },
+    "answer": "D",
+    "explanation": "Vấn đề cốt lõi nhất phân biệt giữa DAP và DDP là trách nhiệm thực hiện thủ tục thông quan nhập khẩu và nộp thuế nhập khẩu (DAP do người mua làm, DDP do người bán làm)."
+  },
+  {
+    "id": 104,
+    "orig_no": "104",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Khi lựa chọn giữa DAP và DPU, câu hỏi quan trọng nhất là gì?",
+    "options": {
+      "A": "Ai sở hữu hàng hóa?",
+      "B": "Ai làm thủ tục xuất khẩu?",
+      "C": "Ai mua bảo hiểm?",
+      "D": "Ai chịu trách nhiệm dỡ hàng tại nơi đến?"
+    },
+    "answer": "D",
+    "explanation": "Câu hỏi quan trọng nhất phân biệt DAP và DPU là: Ai chịu trách nhiệm dỡ hàng khỏi phương tiện vận tải tại địa điểm đến? (DAP: người mua dỡ; DPU: người bán dỡ)."
+  },
+  {
+    "id": 105,
+    "orig_no": "105",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Khi phân tích một điều kiện Incoterms® 2020, ngoài trách nhiệm vận tải và thời điểm chuyển rủi ro, nhóm nội dung nào sau đây cần được xem xét đồng thời?",
+    "options": {
+      "A": "Phương thức thanh toán, chuyển quyền sở hữu và luật áp dụng.",
+      "B": "Đặc điểm hàng hóa, thời hạn thanh toán và cơ chế giải quyết tranh chấp.",
+      "C": "Giá bán, đồng tiền thanh toán và thời điểm chuyển quyền sở hữu.",
+      "D": "Phân chia chi phí, nghĩa vụ bảo hiểm và trách nhiệm thực hiện thủ tục thông quan."
+    },
+    "answer": "D",
+    "explanation": "Khi phân tích một điều kiện Incoterms, ngoài điểm giao hàng và chuyển rủi ro, cần xem xét đồng thời 3 yếu tố trụ cột: Phân chia chi phí, Nghĩa vụ thu xếp bảo hiểm và Trách nhiệm thực hiện thủ tục hải quan thông quan xuất nhập khẩu."
+  },
+  {
+    "id": 106,
+    "orig_no": "106",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Khi phân tích một tình huống áp dụng Incoterms® 2020 có nhiều dữ kiện, trình tự xem xét nào sau đây là hợp lý nhất để xác định nghĩa vụ, chi phí và rủi ro của các bên?",
+    "options": {
+      "A": "Trước tiên xác định tên điều kiện Incoterms®, sau đó căn cứ vào tên điều kiện để xác định toàn bộ trách nhiệm của các bên.",
+      "B": "Trước tiên xem xét giá hàng hóa và phương thức thanh toán, sau đó xác định quyền sở hữu và trách nhiệm vận chuyển.",
+      "C": "Trước tiên xem xét nghĩa vụ bảo hiểm và chi phí vận tải, sau đó xác định phương thức thanh toán và thủ tục hải quan.",
+      "D": "Trước tiên xác định phương thức vận tải và địa điểm được chỉ định, sau đó xem xét điểm giao hàng và chuyển rủi ro, nghĩa vụ vận tải, bảo hiểm, phân chia chi phí và thủ tục thông quan của các bên."
+    },
+    "answer": "A",
+    "explanation": "Trong Incoterms® 2020, chỉ có 2 điều kiện quy định nghĩa vụ người bán phải mua bảo hiểm hàng hóa là CIF (mức bảo hiểm C) và CIP (mức bảo hiểm A)."
+  },
+  {
+    "id": 107,
+    "orig_no": "107",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một container được giao cho người chuyên chở tại bến container trước khi xếp lên tàu. Việc vẫn sử dụng FOB có thể tạo vấn đề gì?",
+    "options": {
+      "A": "Quy trình giao hàng thực tế và điểm chuyển rủi ro theo FOB có thể không trùng nhau.",
+      "B": "FOB bắt buộc người bán làm thủ tục nhập khẩu.",
+      "C": "FOB không cho phép vận chuyển container.",
+      "D": "FOB bắt buộc người bán mua bảo hiểm."
+    },
+    "answer": "A",
+    "explanation": "Khi sử dụng Incoterms® 2020, điều quan trọng hàng đầu là phải ghi kèm tên địa điểm hoặc cảng quy định càng chi tiết, cụ thể càng tốt để tránh tranh chấp về điểm giao hàng và chuyển giao rủi ro."
+  },
+  {
+    "id": 108,
+    "orig_no": "108",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một doanh nghiệp cho rằng “địa điểm ghi sau điều kiện Incoterms luôn là điểm chuyển rủi ro”. Nhận định này đặc biệt dễ sai đối với:",
+    "options": {
+      "A": "DAP và DDP.",
+      "B": "FAS và FOB.",
+      "C": "Các điều kiện nhóm C như CPT, CIP, CFR và CIF.",
+      "D": "EXW và DPU."
+    },
+    "answer": "A",
+    "explanation": "Trong FOB, người bán chịu mọi chi phí và rủi ro cho đến khi hàng đã được xếp an toàn lên boong tàu tại cảng bốc hàng thỏa thuận."
+  },
+  {
+    "id": 109,
+    "orig_no": "109",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một doanh nghiệp cho rằng “mua bảo hiểm đồng nghĩa với chịu rủi ro”. Nhận định này sai vì:",
+    "options": {
+      "A": "Chỉ người mua được mua bảo hiểm.",
+      "B": "Bảo hiểm không liên quan hàng hóa.",
+      "C": "Incoterms không có điều kiện bảo hiểm.",
+      "D": "Nghĩa vụ thu xếp bảo hiểm và việc phân chia rủi ro là hai vấn đề cần phân biệt."
+    },
+    "answer": "A",
+    "explanation": "Trong FAS, người bán hoàn thành nghĩa vụ giao hàng khi hàng được đặt dọc mạn tàu (trên cầu cảng hoặc trên sà lan) do người mua chỉ định tại cảng xếp hàng quy định."
+  },
+  {
+    "id": 110,
+    "orig_no": "110",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một doanh nghiệp đang lựa chọn giữa DAP và DPU, Incoterms® 2020, để giao hàng tại kho của người mua. Trong cả hai phương án, hàng được vận chuyển đến địa điểm đích đã thỏa thuận. Yếu tố nào sau đây là điểm khác biệt trực tiếp quan trọng nhất giữa DAP và DPU?",
+    "options": {
+      "A": "Bên thực hiện thủ tục thông quan xuất khẩu.",
+      "B": "Bên lựa chọn phương thức thanh toán tiền hàng.",
+      "C": "Bên chịu trách nhiệm dỡ hàng khỏi phương tiện vận tải tại địa điểm đến.",
+      "D": "Thời điểm chuyển quyền sở hữu hàng hóa từ người bán sang người mua."
+    },
+    "answer": "A",
+    "explanation": "Trong FCA, khi điểm giao hàng là tại cơ sở của người bán (xưởng/kho), người bán có nghĩa vụ bốc hàng lên phương tiện vận tải tiếp nhận do người mua phái đến."
+  },
+  {
+    "id": 111,
+    "orig_no": "111",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một doanh nghiệp muốn người bán chịu rủi ro đến nhà máy người mua, nhưng nhà máy người mua có thiết bị dỡ chuyên dụng và muốn tự dỡ hàng. Điều kiện nào phù hợp hơn DPU?",
+    "options": {
+      "A": "FOB.",
+      "B": "CFR.",
+      "C": "DAP.",
+      "D": "FAS."
+    },
+    "answer": "A",
+    "explanation": "Trong FCA, nếu việc giao hàng diễn ra tại một địa điểm khác ngoài cơ sở người bán (như bến xe, kho CFS, bãi CY), người bán giao hàng khi hàng vẫn ở trên phương tiện vận tải của người bán và sẵn sàng để dỡ cho người chuyên chở."
+  },
+  {
+    "id": 112,
+    "orig_no": "112",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một doanh nghiệp Việt Nam xuất khẩu hàng hóa từ cảng Hải Phòng đến cảng Busan, Hàn Quốc bằng đường biển. Theo hợp đồng, người bán có trách nhiệm ký hợp đồng và thanh toán cước vận tải đến cảng Busan, nhưng không có nghĩa vụ mua bảo hiểm cho hàng hóa. Điều kiện Incoterms® 2020 nào phù hợp nhất?",
+    "options": {
+      "A": "CIF Busan Port, Korea.",
+      "B": "CIP Busan, Korea.",
+      "C": "CFR Busan Port, Korea.",
+      "D": "CPT Busan, Korea."
+    },
+    "answer": "A",
+    "explanation": "Trong EXW, người bán không có nghĩa vụ bốc hàng lên phương tiện vận tải do người mua cử đến (nếu người bán bốc hộ thì rủi ro và chi phí vẫn do người mua chịu, trừ khi có thỏa thuận khác)."
+  },
+  {
+    "id": 113,
+    "orig_no": "113",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một doanh nghiệp xuất khẩu dự kiến giao hàng đến địa điểm của người mua tại nước nhập khẩu. Tuy nhiên, người bán không có khả năng thực hiện thủ tục thông quan nhập khẩu tại nước này, trong khi người mua có thể tự thực hiện thủ tục nhập khẩu. Điều kiện Incoterms® 2020 nào phù hợp hơn so với DDP?",
+    "options": {
+      "A": "EXW.",
+      "B": "DAP.",
+      "C": "FAS.",
+      "D": "FOB."
+    },
+    "answer": "A",
+    "explanation": "Trong DDP, người bán chịu mức nghĩa vụ và rủi ro cao nhất: vận chuyển hàng tới nơi đến quy định, làm thủ tục thông quan xuất khẩu, trả cước vận tải quốc tế, làm thủ tục hải quan nhập khẩu và nộp toàn bộ các loại thuế nhập khẩu."
+  },
+  {
+    "id": 114,
+    "orig_no": "114",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một doanh nghiệp xuất khẩu thỏa thuận chịu trách nhiệm vận chuyển hàng đến kho của người mua và hoàn thành giao hàng sau khi hàng đã được dỡ khỏi phương tiện vận tải. Người mua chịu trách nhiệm thực hiện thủ tục thông quan nhập khẩu. Điều kiện Incoterms® 2020 nào phù hợp nhất?",
+    "options": {
+      "A": "DAP.",
+      "B": "DPU.",
+      "C": "DDP.",
+      "D": "CPT."
+    },
+    "answer": "A",
+    "explanation": "DAP và DDP đều là các điều kiện thuộc nhóm D áp dụng cho mọi phương thức vận tải, trong đó người bán chịu chi phí và rủi ro đưa hàng tới phương tiện vận tải đến tại điểm đích quy định, sẵn sàng để dỡ."
+  },
+  {
+    "id": 115,
+    "orig_no": "115",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một hợp đồng áp dụng điều kiện CIP Hamburg, Incoterms® 2020. Hàng hóa được vận chuyển qua nhiều người chuyên chở kế tiếp nhau, nhưng hợp đồng không xác định rõ địa điểm người bán giao hàng cho người chuyên chở đầu tiên. Rủi ro nào dễ phát sinh khi thực hiện hợp đồng?",
+    "options": {
+      "A": "Người bán phải chịu rủi ro về hàng hóa cho đến khi hàng đến Hamburg.",
+      "B": "Người mua phải trực tiếp lựa chọn người chuyên chở cuối cùng.",
+      "C": "Điều kiện CIP không được áp dụng khi có nhiều người chuyên chở.",
+      "D": "Các bên có thể phát sinh tranh chấp về thời điểm và địa điểm chuyển rủi ro từ người bán sang người mua."
+    },
+    "answer": "A",
+    "explanation": "Incoterms® 2020 quy định rõ mức bảo hiểm mặc định cho CIF là ICC (C) - bảo hiểm tổn thất rủi ro cơ bản, còn CIP là ICC (A) - bảo hiểm mọi rủi ro."
+  },
+  {
+    "id": 116,
+    "orig_no": "116",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một hợp đồng áp dụng điều kiện DPU, Incoterms® 2020, với địa điểm giao hàng là kho của người mua. Trước khi ký hợp đồng, người bán phát hiện địa điểm này không có thiết bị phù hợp để dỡ hàng khỏi phương tiện vận tải. Vấn đề nào cần được xem xét quan trọng nhất?",
+    "options": {
+      "A": "Người bán không được phép ký hợp đồng vận tải đến kho của người mua.",
+      "B": "Điều kiện DPU chỉ được áp dụng khi hàng hóa vận chuyển bằng đường biển.",
+      "C": "Người bán có thể gặp khó khăn hoặc không thể hoàn thành nghĩa vụ dỡ hàng tại địa điểm đến đã thỏa thuận.",
+      "D": "Người mua phải thực hiện thủ tục thông quan xuất khẩu thay cho người bán."
+    },
+    "answer": "A",
+    "explanation": "Theo Incoterms 2020, việc tự ý thay đổi chữ cái mà không dẫn chiếu rõ ràng sẽ gây nhầm lẫn; quy tắc chuẩn khuyến cáo sử dụng đúng 11 điều kiện chuẩn của ICC kèm theo phiên bản Incoterms 2020."
+  },
+  {
+    "id": 117,
+    "orig_no": "117",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một hợp đồng áp dụng điều kiện FCA, Incoterms® 2020 và thanh toán bằng L/C, trong đó bộ chứng từ thanh toán yêu cầu vận đơn có xác nhận hàng đã được xếp lên tàu. Các bên nên thỏa thuận như thế nào để đáp ứng yêu cầu này?",
+    "options": {
+      "A": "Người bán tự lập và phát hành vận đơn sau khi giao hàng cho người chuyên chở.",
+      "B": "Người mua chỉ thị cho người chuyên chở phát hành vận đơn có xác nhận hàng đã xếp lên tàu cho người bán sau khi hàng được xếp lên tàu.",
+      "C": "Ngân hàng phát hành L/C đồng thời phát hành vận đơn cho người bán.",
+      "D": "Điều kiện FCA tự động được chuyển thành FOB khi L/C yêu cầu vận đơn có xác nhận hàng đã xếp lên tàu."
+    },
+    "answer": "A",
+    "explanation": "Điều kiện DPU (Delivered at Place Unloaded) thay thế cho điều kiện DAT (Delivered at Terminal) của Incoterms 2010 để nhấn mạnh địa điểm đến có thể là bất kỳ nơi nào chứ không nhất thiết phải là nhà ga/bến bãi (terminal)."
+  },
+  {
+    "id": 118,
+    "orig_no": "118",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một hợp đồng ghi “FOB Vietnam, Incoterms® 2020”. Điểm yếu quan trọng nhất là gì?",
+    "options": {
+      "A": "FOB phải ghi cảng đích.",
+      "B": "Không được sử dụng tên quốc gia.",
+      "C": "FOB không thuộc Incoterms® 2020.",
+      "D": "Chưa xác định cụ thể cảng xếp hàng liên quan đến việc giao hàng."
+    },
+    "answer": "D",
+    "explanation": "Ghi 'FOB Vietnam' là quá mơ hồ và sai chuẩn thực tiễn logistics, vì Việt Nam có rất nhiều cảng biển khác nhau (Hải Phòng, Đà Nẵng, Cát Lái...); hợp đồng bắt buộc phải chỉ định cụ thể tên cảng xếp hàng."
+  },
+  {
+    "id": 119,
+    "orig_no": "119",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một hợp đồng thanh toán bằng L/C yêu cầu vận đơn có xác nhận hàng đã được xếp lên tàu, trong khi hàng container được giao theo FCA. Incoterms® 2020 cho phép các bên thỏa thuận theo hướng nào?",
+    "options": {
+      "A": "Người bán tự phát hành vận đơn của hãng tàu.",
+      "B": "Ngân hàng trở thành người vận tải.",
+      "C": "FCA tự động chuyển thành FOB.",
+      "D": "Người mua chỉ thị người chuyên chở phát hành vận đơn có xác nhận hàng đã được xếp lên tàu cho người bán sau khi hàng đã được xếp lên tàu."
+    },
+    "answer": "D",
+    "explanation": "Quy định cơ chế xuất trình On-board B/L trong FCA của Incoterms 2020 cho phép người mua chỉ thị hãng tàu cấp vận đơn có xác nhận xếp hàng lên tàu cho người bán để thanh toán ngân hàng."
+  },
+  {
+    "id": 120,
+    "orig_no": "120",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Một lô hàng vận chuyển bằng máy bay nhưng hợp đồng ghi CIF Nội Bài. Vấn đề chính là:",
+    "options": {
+      "A": "CIF không phù hợp với phương thức vận tải hàng không theo phạm vi áp dụng của điều kiện.",
+      "B": "CIF bắt buộc nhập khẩu.",
+      "C": "CIF không cho phép giao tại Việt Nam.",
+      "D": "CIF không có bảo hiểm."
+    },
+    "answer": "A",
+    "explanation": "CIF chỉ áp dụng cho vận tải đường biển và đường thủy nội địa. Đối với vận tải hàng không đến sân bay Nội Bài, điều kiện tương đương chuẩn phải sử dụng là CIP Nội Bài Airport."
+  },
+  {
+    "id": 121,
+    "orig_no": "121",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Nếu FCA được quy định tại một điểm giao hàng ngoài cơ sở người bán, điều quan trọng nhất khi soạn hợp đồng là gì?",
+    "options": {
+      "A": "Chỉ ghi “FCA Vietnam”.",
+      "B": "Xác định càng cụ thể càng tốt địa điểm và điểm giao hàng trong điểm giao hàng.",
+      "C": "Không cần xác định địa điểm.",
+      "D": "Chỉ ghi tên thành phố."
+    },
+    "answer": "B",
+    "explanation": "Khi giao hàng FCA ngoài cơ sở người bán, việc xác định chính xác địa chỉ bãi container (CY) hoặc kho CFS cụ thể là vô cùng quan trọng để xác định thời điểm chuyển rủi ro và chi phí dỡ hàng."
+  },
+  {
+    "id": 122,
+    "orig_no": "122",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Người bán có giá EXW 100.000 USD và người mua yêu cầu chuyển sang CIP Paris. Tại sao người bán cần tính lại giá chào?",
+    "options": {
+      "A": "Vì EXW và CIP có cùng phạm vi chi phí.",
+      "B": "Vì CIP bắt buộc người bán chịu thuế nhập khẩu.",
+      "C": "Vì CIP không có vận tải.",
+      "D": "Vì phạm vi chi phí người bán phải gánh tăng lên, trong đó có vận tải và bảo hiểm theo CIP."
+    },
+    "answer": "D",
+    "explanation": "Khi chuyển từ EXW sang CIP, cơ cấu chi phí tăng thêm rất lớn: phí vận tải nội địa, phí hải quan xuất khẩu, cước vận tải quốc tế và phí bảo hiểm mọi rủi ro loại A."
+  },
+  {
+    "id": 123,
+    "orig_no": "123",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Người bán lựa chọn EXW chỉ vì muốn “ít trách nhiệm nhất”. Điều gì vẫn cần được xem xét?",
+    "options": {
+      "A": "EXW bắt buộc người bán mua bảo hiểm.",
+      "B": "Khả năng thực tế của người mua trong việc nhận hàng và thực hiện thủ tục xuất khẩu tại nước người bán.",
+      "C": "EXW bắt buộc người bán nhập khẩu.",
+      "D": "EXW yêu cầu người bán thuê tàu."
+    },
+    "answer": "B",
+    "explanation": "Khi người bán chọn EXW, cần phải cân nhắc năng lực thực tế của người mua nước ngoài có thể trực tiếp làm thủ tục xuất khẩu và xin giấy phép xuất khẩu tại nước người bán hay không."
+  },
+  {
+    "id": 124,
+    "orig_no": "124",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Người bán muốn kiểm soát và trả chi phí vận tải chính nhưng không muốn chịu rủi ro hàng hóa tới tận địa điểm đích. Nhóm điều kiện nào phản ánh rõ logic này?",
+    "options": {
+      "A": "Chỉ FAS.",
+      "B": "Nhóm D.",
+      "C": "Nhóm E.",
+      "D": "Nhóm C."
+    },
+    "answer": "D",
+    "explanation": "Nhóm C (CPT, CIP, CFR, CIF) phản ánh chính xác logic: người bán trả chi phí vận tải chính đến nơi đến nhưng rủi ro hàng hóa chuyển giao cho người mua ngay tại nơi gửi hàng ở nước xuất khẩu."
+  },
+  {
+    "id": 125,
+    "orig_no": "125",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Người bán muốn người mua chịu rủi ro khi hàng đã được giao lên tàu tại cảng đi, nhưng người bán vẫn trả cước đến cảng đích. Hàng vận chuyển bằng đường biển. Điều kiện nào phù hợp?",
+    "options": {
+      "A": "CIF.",
+      "B": "DAP.",
+      "C": "FOB.",
+      "D": "CFR."
+    },
+    "answer": "D",
+    "explanation": "Vận chuyển đường biển, người bán trả cước đến cảng đích, rủi ro chuyển giao khi hàng xếp lên tàu tại cảng đi và không bắt buộc mua bảo hiểm là điều kiện CFR (Cost and Freight)."
+  },
+  {
+    "id": 126,
+    "orig_no": "126",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Người bán muốn người mua chịu rủi ro từ khi hàng được giao cho người chuyên chở ở nước xuất khẩu nhưng người bán vẫn trả cước đến địa điểm đích. Với vận tải đa phương thức, điều kiện nào phù hợp?",
+    "options": {
+      "A": "CPT.",
+      "B": "DAP.",
+      "C": "DPU.",
+      "D": "DDP."
+    },
+    "answer": "A",
+    "explanation": "Vận tải đa phương thức, người bán trả cước đến đích, rủi ro chuyển ngay khi giao cho người chuyên chở đầu tiên, không bắt buộc mua bảo hiểm là điều kiện CPT (Carriage Paid To)."
+  },
+  {
+    "id": 127,
+    "orig_no": "127",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Người bán theo CFR tự nguyện mua bảo hiểm bổ sung cho lô hàng. Điều nào đúng?",
+    "options": {
+      "A": "Nghĩa vụ bổ sung không nhất thiết làm thay đổi điều kiện CFR nếu hợp đồng vẫn quy định CFR và xác định rõ thỏa thuận bổ sung.",
+      "B": "CFR tự động trở thành CIF.",
+      "C": "Người bán phải làm thủ tục nhập khẩu.",
+      "D": "Rủi ro tự động chuyển tới cảng đích."
+    },
+    "answer": "A",
+    "explanation": "Nếu người bán trong CFR tự nguyện mua bảo hiểm cho lô hàng theo thỏa thuận riêng thì hợp đồng vẫn giữ nguyên điều kiện CFR và không làm thay đổi bản chất điểm chuyển rủi ro của CFR."
+  },
+  {
+    "id": 128,
+    "orig_no": "128",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Người bán theo FOB đồng ý mua thêm bảo hiểm cho người mua theo một thỏa thuận riêng. Việc này có tự động biến FOB thành CIF không?",
+    "options": {
+      "A": "Có trong mọi trường hợp.",
+      "B": "Không, nếu các bên chỉ bổ sung nghĩa vụ bảo hiểm mà không thay đổi điều kiện giao hàng đã thỏa thuận.",
+      "C": "Có nếu người bán trả phí bảo hiểm.",
+      "D": "Có nếu vận chuyển đường biển."
+    },
+    "answer": "B",
+    "explanation": "Việc thỏa thuận người bán mua hộ bảo hiểm không tự động biến FOB thành CIF nếu các bên không sửa đổi tên điều kiện cơ sở giao hàng."
+  },
+  {
+    "id": 129,
+    "orig_no": "129",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Người mua cho rằng “CIF nghĩa là người bán chịu rủi ro cho đến khi hàng tới cảng đích”. Nhận định nào đúng?",
+    "options": {
+      "A": "Nhận định đó không đúng vì trong CIF điểm chuyển rủi ro không phải cảng đích.",
+      "B": "Người mua đúng vì người bán mua bảo hiểm.",
+      "C": "Người mua đúng vì CIF thuộc nhóm D.",
+      "D": "Người mua đúng vì người bán trả cước."
+    },
+    "answer": "A",
+    "explanation": "Nhận định của người mua là sai lầm phổ biến nhất trong thực tế thương mại; trong CIF, điểm chuyển rủi ro là tại cảng bốc hàng (cảng đi) chứ không phải tại cảng đích."
+  },
+  {
+    "id": 130,
+    "orig_no": "130",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Sau khi xác định phương thức vận tải và địa điểm giao hàng dự kiến, nội dung nào cần được phân tích tiếp theo khi lựa chọn điều kiện Incoterms® 2020?",
+    "options": {
+      "A": "Phương thức và thời hạn thanh toán tiền hàng.",
+      "B": "Thời điểm chuyển quyền sở hữu hàng hóa theo hợp đồng.",
+      "C": "Cơ chế giải quyết tranh chấp giữa các bên.",
+      "D": "Điểm giao hàng, thời điểm chuyển rủi ro và trách nhiệm tổ chức vận tải."
+    },
+    "answer": "D",
+    "explanation": "Sau khi xác định phương thức vận tải và địa điểm, bước tiếp theo là xác định chính xác điểm giao hàng, thời điểm chuyển rủi ro và phân định rõ ai chịu trách nhiệm tổ chức vận tải."
+  },
+  {
+    "id": 131,
+    "orig_no": "131",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong giao dịch CFR, hàng đã được giao lên tàu đúng quy định tại cảng đi và sau đó bị tổn thất trên biển. Ai chịu rủi ro về hàng hóa tại thời điểm tổn thất?",
+    "options": {
+      "A": "Người bán vì trả cước.",
+      "B": "Cảng đích.",
+      "C": "Người mua.",
+      "D": "Người bán vì ký hợp đồng vận tải."
+    },
+    "answer": "C",
+    "explanation": "Trong CFR, rủi ro đã chuyển sang người mua ngay khi hàng được giao lên tàu tại cảng bốc; do đó khi tàu gặp sự cố tổn thất trên biển thì người mua là bên gánh chịu rủi ro và tổn thất đó."
+  },
+  {
+    "id": 132,
+    "orig_no": "132",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong giao dịch CIP, người bán mua bảo hiểm cho hàng hóa. Điều này có nghĩa là gì?",
+    "options": {
+      "A": "Người mua không bao giờ chịu rủi ro.",
+      "B": "Quyền sở hữu luôn thuộc người bán tới nơi đích.",
+      "C": "Nghĩa vụ bảo hiểm của người bán không được đồng nhất với điểm chuyển rủi ro.",
+      "D": "Người bán luôn chịu rủi ro đến nơi đích."
+    },
+    "answer": "C",
+    "explanation": "Nghĩa vụ mua bảo hiểm của người bán theo CIP chỉ nhằm bồi hoàn tài chính cho người mua khi rủi ro xảy ra; rủi ro thực tế đối với hàng hóa đã chuyển cho người mua ngay từ khi giao cho người chuyên chở đầu tiên."
+  },
+  {
+    "id": 133,
+    "orig_no": "133",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong Incoterms® 2020, quy định về việc phát hành vận đơn có xác nhận hàng đã xếp lên tàu khi áp dụng điều kiện FCA nhằm mục đích chủ yếu nào sau đây?",
+    "options": {
+      "A": "Tạo điều kiện để người bán có được chứng từ xác nhận hàng đã xếp lên tàu nhằm đáp ứng yêu cầu thanh toán, đặc biệt khi sử dụng L/C.",
+      "B": "Chuyển nghĩa vụ thuê phương tiện vận tải chính từ người mua sang người bán.",
+      "C": "Chuyển thời điểm chuyển rủi ro sang khi hàng được xếp lên tàu.",
+      "D": "Bắt buộc FCA chỉ được sử dụng đối với vận tải đường biển."
+    },
+    "answer": "A",
+    "explanation": "Mục đích duy nhất của điều khoản On-Board B/L trong FCA Incoterms 2020 là gỡ rối cho người bán xuất khẩu khi thanh toán bằng L/C yêu cầu xuất trình vận đơn đường biển đã xếp hàng."
+  },
+  {
+    "id": 134,
+    "orig_no": "134",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong tình huống người mua có khả năng thực hiện thủ tục nhập khẩu, còn người bán vẫn muốn chịu rủi ro vận tải đến kho người mua, điều kiện nào nên được sử dụng?",
+    "options": {
+      "A": "DAP.",
+      "B": "FOB.",
+      "C": "EXW.",
+      "D": "FAS."
+    },
+    "answer": "A",
+    "explanation": "Người mua có khả năng làm thủ tục nhập khẩu, còn người bán chịu chi phí và rủi ro vận tải tới kho người mua thì điều kiện chuẩn xác nhất là DAP (Delivered At Place)."
+  },
+  {
+    "id": 135,
+    "orig_no": "135",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong trường hợp hàng container được giao cho người chuyên chở tại bến container, vì sao FCA thường đáng cân nhắc?",
+    "options": {
+      "A": "FCA yêu cầu người bán chịu rủi ro đến đích.",
+      "B": "FCA có thể làm cho điểm giao hàng/chuyển rủi ro phù hợp hơn với quy trình logistics thực tế.",
+      "C": "FCA luôn làm giá hàng thấp nhất.",
+      "D": "FCA bắt buộc bảo hiểm toàn bộ."
+    },
+    "answer": "B",
+    "explanation": "Hàng container nên dùng FCA vì điểm giao hàng và chuyển rủi ro tại bến CY/kho CFS phù hợp hoàn hảo với quy trình giao nhận thực tế của các hãng tàu container hiện đại."
+  },
+  {
+    "id": 136,
+    "orig_no": "136",
+    "chapter_id": 2,
+    "chapter": "Chương 2: Incoterms 2020 - Các điều kiện thương mại quốc tế",
+    "question": "Trong vận chuyển đường biển, người bán muốn người mua chịu rủi ro khi hàng đã được giao lên tàu tại cảng đi, nhưng người bán vẫn trả cước đến cảng đích và phải mua bảo hiểm theo Incoterms®, điều kiện phù hợp là:",
+    "options": {
+      "A": "CFR.",
+      "B": "DAP.",
+      "C": "CPT.",
+      "D": "CIF."
+    },
+    "answer": "D",
+    "explanation": "Đường biển, người bán trả cước đến cảng đích, rủi ro chuyển tại cảng đi và người bán có nghĩa vụ mua bảo hiểm theo quy tắc Incoterms là điều kiện CIF (Cost, Insurance and Freight)."
+  }
+]
