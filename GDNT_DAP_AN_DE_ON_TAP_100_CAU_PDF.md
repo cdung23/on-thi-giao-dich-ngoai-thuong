@@ -494,7 +494,7 @@
 - **C.** Trước tiên xem xét nghĩa vụ bảo hiểm và chi phí vận tải, sau đó xác định phương thức thanh toán và thủ tục hải quan.
 - **D.** Trước tiên xác định tên điều kiện Incoterms®, sau đó căn cứ vào tên điều kiện để xác định toàn bộ trách nhiệm của các bên.
 
-👉 **Đáp án đúng:** **[D] - Trước tiên xác định tên điều kiện Incoterms®, sau đó căn cứ vào tên điều kiện để xác định toàn bộ trách nhiệm của các bên.**
+👉 **Đáp án đúng:** **[A] - Trước tiên xác định tên điều kiện Incoterms®, sau đó căn cứ vào tên điều kiện để xác định toàn bộ trách nhiệm của các bên.**
 💡 **Giải thích:** Trong Incoterms® 2020, chỉ có 2 điều kiện quy định nghĩa vụ người bán phải mua bảo hiểm hàng hóa là CIF (mức bảo hiểm C) và CIP (mức bảo hiểm A).
 
 ---
@@ -507,7 +507,7 @@
 - **C.** Bên lựa chọn phương thức thanh toán tiền hàng.
 - **D.** Thời điểm chuyển quyền sở hữu hàng hóa từ người bán sang người mua.
 
-👉 **Đáp án đúng:** **[A] - Bên thực hiện thủ tục thông quan xuất khẩu.**
+👉 **Đáp án đúng:** **[B] - Bên thực hiện thủ tục thông quan xuất khẩu.**
 💡 **Giải thích:** Trong FCA, khi điểm giao hàng là tại cơ sở của người bán (xưởng/kho), người bán có nghĩa vụ bốc hàng lên phương tiện vận tải tiếp nhận do người mua phái đến.
 
 ---
