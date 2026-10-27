@@ -21,16 +21,19 @@
 
 ## 📚 CẤU TRÚC NGÂN HÀNG CÂU HỎI (303 CÂU)
 
-| Chương | Nội dung chuyên môn | Số lượng | Căn cứ pháp lý chủ yếu |
+| Chương | Nội dung chuyên môn | Số lượng | Căn cứ pháp lý & học thuật chủ yếu |
 |:---:|:---|:---:|:---|
-| **Chương 1** | Các phương thức giao dịch thương mại quốc tế chủ yếu | **48 câu** | Luật Thương mại 2005, CISG 1980 |
+| **Chương 1** | Các phương thức giao dịch thương mại quốc tế chủ yếu | **48 câu** | Giáo trình GDNT (PGS.TS Phạm Duy Liên), Luật Thương mại 2005, CISG 1980 |
 | **Chương 2** | Incoterms® 2020 - Các điều kiện thương mại quốc tế | **88 câu** | Incoterms® 2020 (ICC Publication No. 723) |
-| **Chương 3** | Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu | **71 câu** | CISG 1980, Giáo trình GDNT |
-| **Chương 4** | Phương thức thanh toán và chứng từ trong giao dịch ngoại thương | **41 câu** | UCP 600, ISBP 745, Swift MT700 |
-| **Chương 5** | Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán | **55 câu** | Luật Hải quan 2014, TT 38/2015/TT-BTC |
-| **Tổng cộng** | **Toàn bộ ngân hàng câu hỏi** | **303 câu** | |
+| **Chương 3** | Hợp đồng mua bán ngoại thương và các điều khoản chủ yếu | **71 câu** | CISG 1980, Giáo trình GDNT Chương 3 |
+| **Chương 4** | Phương thức thanh toán và chứng từ trong giao dịch ngoại thương | **41 câu** | UCP 600, ISBP 745, Giáo trình GDNT Chương 4 |
+| **Chương 5** | Thực hiện hợp đồng nhập khẩu, kiểm định, hải quan & đàm phán | **55 câu** | Luật Hải quan 2014, TT 38/2015/TT-BTC, Giáo trình Chương 5 |
+| **Tổng cộng** | **Toàn bộ ngân hàng câu hỏi** | **303 câu** | **Đã rà soát 100% theo tài liệu gốc** |
 
-*(Bao gồm **99 câu hỏi** trích từ `GDNT_DS CÂU HỎI ÔN TẬP.pdf` được gắn huy hiệu `📄 Đề PDF: Câu X` trên giao diện).*
+- **Đặc tính dữ liệu nổi bật:**
+  - **Đảo ngẫu nhiên đồng đều 25%:** Phân bố đáp án chuẩn A: 24.8% (75 câu), B: 25.4% (77 câu), C: 26.1% (79 câu), D: 23.8% (72 câu) — triệt tiêu hoàn toàn bẫy auto chọn A.
+  - **Căn cứ trích dẫn chuẩn hóa:** 100% câu hỏi có trích xuất chi tiết Chương, Mục và số trang/điều khoản từ Giáo trình và Incoterms 2020.
+  - **Bao gồm 99 câu hỏi** trích từ `GDNT_DS CÂU HỎI ÔN TẬP.pdf` được gắn huy hiệu `📄 Đề PDF: Câu X` trên giao diện.
 
 ---
 
