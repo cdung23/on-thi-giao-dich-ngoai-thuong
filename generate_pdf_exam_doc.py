@@ -12,7 +12,7 @@ solved_data_path = os.path.join(workspace, "questions_data.js")
 with open(solved_data_path, "r", encoding="utf-8") as f:
     js_content = f.read()
 
-match = re.search(r'const\s+QUESTIONS_DATA\s*=\s*(\[[\s\S]*?\]);', js_content)
+match = re.search(r'const\s+QUESTIONS_DATA\s*=\s*(\[[\s\S]*?\n\]);', js_content)
 all_questions = json.loads(match.group(1))
 q_by_id = {q["id"]: q for q in all_questions}
 

@@ -1,8 +1,8 @@
 # NGÂN HÀNG CÂU HỎI VÀ ĐÁP ÁN TRẮC NGHIỆM GIAO DỊCH NGOẠI THƯƠNG & INCOTERMS 2020
-## BỘ TÀI LIỆU ÔN THI KẾT THÚC HỌC PHẦN (CHUẨN HÓA 303 CÂU - ĐÃ ĐẢO ĐÁP ÁN ĐỒNG ĐỀU)
+## BỘ TÀI LIỆU ÔN THI KẾT THÚC HỌC PHẦN (CHUẨN HÓA 303 CÂU - ĐÃ ĐẢO ĐÁP ÁN ĐỒNG ĐỀU & RÀ SOÁT 100%)
 - **Tổng số câu hỏi:** 303 câu hỏi chính quy (Gồm 300 câu ngân hàng gốc + 3 câu bổ sung từ Đề thi PDF)
-- **Phân bố tỷ lệ đáp án:** A: 76 câu (25.1%) | B: 76 câu (25.1%) | C: 76 câu (25.1%) | D: 75 câu (24.8%)
-- **Căn cứ pháp lý & học thuật:** Incoterms® 2020 (ICC), UCP 600, CISG 1980, Luật Thương mại 2005 & Luật Hải quan 2014.
+- **Phân bố tỷ lệ đáp án:** A: 75 câu (24.8%) | B: 77 câu (25.4%) | C: 79 câu (26.1%) | D: 72 câu (23.8%)
+- **Tài liệu tham chiếu gốc:** Giáo trình giao dịch thương mại quốc tế (PGS.TS Phạm Duy Liên, ĐH Ngoại thương) & Incoterms 2020 (ICC).
 
 ---
 
@@ -19,7 +19,7 @@
 - **D.** Mua đứt bán đoạn
 
 👉 **Đáp án đúng:** **[C] - Gia công chuyển tiếp**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Căn cứ vào giáo trình Giao dịch ngoại thương, xét theo số bên tham gia, hợp đồng gia công quốc tế được chia thành: Gia công hai bên (song phương) và Gia công chuyển tiếp (đa phương - từ 3 bên trở lên, trong đó bên nhận gia công giao thành phẩm trực tiếp cho một bên thứ ba theo chỉ định của bên đặt gia công). Các phương án B, C, D là phân loại theo quyền sở hữu nguyên liệu hoặc hình thức thanh toán thù lao.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 4.2.2.3. Gia công quốc tế (tr. 22) - Theo giáo trình, khi phân loại các hình thức gia công quốc tế theo tiêu thức **"số bên tham gia trong hoạt động giao dịch gia công"** (mục c), giao dịch gia công được chia thành 2 loại: Gia công hai bên và **Gia công nhiều bên (gia công chuyển tiếp)** [1]. Đối với các phương án còn lại: "Gia công theo kiểu 'Mua đứt bán đoạn'" thuộc tiêu thức xét về *quyền sở hữu nguyên vật liệu* [2]; "Gia công chủ động" thuộc tiêu thức xét về *tính chất gia công* [1]; còn "Hợp đồng khoán gọn" (gia công theo giá khoán) thuộc tiêu thức xét về *giá gia công* [1]. Do đó, đáp án đúng nhất là **C** [1]. **
 
 ---
 
@@ -32,7 +32,7 @@
 - **D.** Thể hiện sự đồng tình của bên bán đề nghị ký kết hợp đồng do bên mua đưa ra
 
 👉 **Đáp án đúng:** **[C] - Đề nghị ký kết hợp đồng của người bán theo các điều kiện đã nêu ra**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 14 Công ước Viên 1980 (CISG) và Luật Thương mại 2005, chào bán hàng (Offer/Chào hàng) xét về mặt pháp lý là một đề nghị giao kết hợp đồng xuất phát từ phía người bán, gửi cho một hoặc nhiều đối tượng xác định, thể hiện rõ ý chí chịu sự ràng buộc theo các điều kiện đã nêu ra khi bên mua chấp nhận.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 3.2. Chào bán hàng (Offer) (tr. 13 - 14) - Theo giáo trình, Chào bán hàng (Offer) là một thao tác nghiệp vụ quan trọng trong giao dịch thương mại quốc tế [3]. Xét về mặt thương mại, đây là sự thể hiện ý chí muốn bán hàng của người bán theo các điều kiện đã đưa ra [3]. Xét về mặt **pháp lý**, chào bán hàng được định nghĩa chính xác là **"đề nghị ký kết hợp đồng của người bán theo các điều kiện đã nêu ra"** [3]. (Để phân biệt: Phương án A liên quan đến bước *Xác nhận* [4]; phương án B là khía cạnh pháp lý của bước *Hỏi hàng* [5]; phương án D mô tả bước *Chấp nhận* [6]). Do đó, đáp án đúng là **C** [3]. **
 
 ---
 
@@ -45,7 +45,7 @@
 - **D.** Đại lý thụ ủy
 
 👉 **Đáp án đúng:** **[C] - Đại lý kinh tiêu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Luật Thương mại 2005 và nghiệp vụ đại lý quốc tế, Đại lý kinh tiêu (Merchant Dealer/Merchant Agent) là thương nhân mua đứt bán đoạn, hoạt động với danh nghĩa và chi phí của chính mình, tự chịu rủi ro và hưởng lợi nhuận từ khoản chênh lệch giữa giá mua và giá bán lại.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 4.1.1.2. Các loại đại lý (tr. 16 - 17) - Theo giáo trình, khi phân loại đại lý xét theo *mức độ ủy quyền* (mục b): + **Đại lý kinh tiêu (Merchant agent)** là thương nhân trung gian **"hoạt động với danh nghĩa và chi phí của chính mình"**, thù lao nhận được là khoản chênh lệch giữa giá của người ủy thác với giá bán lại hàng hóa cho khách hàng [7]. + *Đại lý thụ ủy (Mandatory agent)* làm việc theo sự ủy thác, với danh nghĩa và chi phí của người ủy thác [8]. + *Đại lý hoa hồng (Commission agent)* làm việc theo sự ủy thác với danh nghĩa của người đại lý, nhưng chi phí do người ủy thác chịu [7]. + *Đại lý đặc biệt (Special agent)* thuộc nhóm phân loại xét theo *phạm vi quyền hạn* (người chỉ làm một việc nhất định) [8]. Do đó, đáp án đúng là **C** [7]. **
 
 ---
 
@@ -58,7 +58,7 @@
 - **D.** Khi hợp đồng giữa hai bên đã hoàn tất và không cần thêm bất kỳ thao tác nào khác
 
 👉 **Đáp án đúng:** **[A] - Khi mối quan hệ giữa hai bên mua và bán đã có sự thông hiểu lẫn nhau từ trước**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đặt mua hàng (Order/Đơn đặt hàng) thường được bên mua sử dụng khi hai bên đã có mối quan hệ làm ăn từ trước, thông hiểu về uy tín, chủng loại hàng hóa, giá cả và các điều kiện giao dịch khung đã được thỏa thuận trước đó.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 3.3. Đặt mua hàng (Order) (tr. 14) - Theo giáo trình, Đặt mua hàng (Order) là một tác nghiệp giao dịch trong thương mại quốc tế, được sử dụng trong trường hợp **"khi mối quan hệ giữa hai bên mua bán đã có sự thông hiểu lẫn nhau từ trước"**, chẳng hạn như đã có Hiệp định thương mại giữa các chính phủ, hợp đồng nguyên tắc, hoặc đối với các khách hàng có quan hệ thường xuyên [9]. Xét về mặt pháp lý, đặt mua hàng chính là lời đề nghị ký kết hợp đồng xuất phát từ phía người mua [10]. Do đó, đáp án đúng là **A** [9].
 
 ---
 
@@ -71,7 +71,7 @@
 - **D.** Đấu thầu sơ tuyển
 
 👉 **Đáp án đúng:** **[D] - Đấu thầu sơ tuyển**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Xét theo số lượng người tham gia, đấu thầu quốc tế được phân loại thành: Đấu thầu rộng rãi (mở rộng), Đấu thầu hạn chế, và Chỉ định thầu (đấu thầu riêng lẻ). Đấu thầu sơ tuyển là cách phân loại theo giai đoạn/quy trình kỹ thuật tổ chức thầu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.2.5: Đấu thầu quốc tế (trang 24-25) [1, 2]. - Theo Giáo trình, phương thức đấu thầu quốc tế được phân loại dựa trên các tiêu thức cụ thể sau [1]: + **Xét theo lượng người tham gia đấu thầu**: Gồm *Đấu thầu rộng rãi* (mở rộng), *Đấu thầu hạn chế* và *Chỉ định thầu* [1]. + **Xét theo hồ sơ dự thầu**: Gồm *Đấu thầu một túi hồ sơ* và *Đấu thầu hai túi hồ sơ* [1]. + **Xét theo thủ tục thẩm định**: Gồm *Đấu thầu có sơ tuyển* (with pre-qualification) và *Đấu thầu không có sơ tuyển* (without pre-qualification) [2]. Do đó, **"Đấu thầu sơ tuyển"** (Đấu thầu có sơ tuyển) là cách phân loại căn cứ theo **thủ tục thẩm định**, không phải phân loại theo **lượng người tham gia** [2]. Vì vậy, phương án D là đáp án đúng cho câu hỏi này [1, 2].
 
 ---
 
@@ -84,7 +84,7 @@
 - **D.** Du lịch văn hóa
 
 👉 **Đáp án đúng:** **[A] - Du lịch cá nhân**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phân loại du lịch theo mục đích chuyến đi gồm có: Du lịch văn hóa, du lịch thương gia (công vụ), du lịch nghỉ dưỡng, du lịch thể thao, du lịch quá cảnh, v.v. 'Du lịch cá nhân' là phân loại theo hình thức tổ chức chuyến đi hoặc quy mô đoàn khách.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.3: Du lịch quốc tế (trang 28) [3, 4]. - Trong giáo trình, các loại hình du lịch quốc tế được phân chia theo từng tiêu thức rõ ràng [3, 4]: + **Căn cứ vào mục đích của hoạt động du lịch**: Gồm *Du lịch nghỉ ngơi giải trí, Du lịch chữa bệnh, Du lịch thể thao, Du lịch văn hóa, Du lịch tôn giáo, Du lịch công vụ, Du lịch thương gia, Du lịch quá cảnh* [3, 4] (Do đó các phương án B, C, D đều thuộc tiêu thức này). + **Căn cứ vào hình thức tổ chức chuyến đi**: Gồm *Du lịch theo đoàn* và ***Du lịch cá nhân*** [4]. Do đó, **"Du lịch cá nhân"** thuộc cách phân loại theo **hình thức tổ chức chuyến đi**, chứ không phải theo **mục đích của hoạt động du lịch** [4].
 
 ---
 
@@ -97,7 +97,7 @@
 - **D.** Thường có 2 bên tham gia vào quá trình giao dịch
 
 👉 **Đáp án đúng:** **[D] - Thường có 2 bên tham gia vào quá trình giao dịch**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Giao dịch tái xuất (Re-export) về bản chất luôn có sự tham gia của ít nhất 3 bên: Người xuất khẩu ban đầu, Người kinh doanh tái xuất (ở giữa, vừa đóng vai trò người mua từ nước xuất khẩu vừa là người bán sang nước thứ ba), và Người nhập khẩu cuối cùng. Do đó nhận định 'Thường có 2 bên tham gia' là sai.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.2.2: Giao dịch tái xuất (trang 20) [5, 6]. - Hoạt động kinh doanh tái xuất có 5 đặc điểm cốt lõi [6]: 1. Người bán chính là người mua [6]; 2. Mục đích là chênh lệch giá [6]; 3. **Thường có 3 bên tham gia vào quá trình giao dịch** (gồm bên xuất khẩu, người kinh doanh tái xuất và bên nhập khẩu, nên còn được gọi là giao dịch ba bên hay giao dịch tam giác) [5, 6]; 4. Hàng hóa chưa qua bất kỳ khâu chế biến nào [6]; 5. Hàng hóa có cung cầu lớn hoặc thường xuyên biến động [6]. Vì vậy, khẳng định ở phương án D *"Thường có 2 bên tham gia vào quá trình giao dịch"* là **sai** so với bản chất học thuật của giao dịch tái xuất (là giao dịch 3 bên) [5, 6].
 
 ---
 
@@ -110,7 +110,7 @@
 - **D.** Giao ngay
 
 👉 **Đáp án đúng:** **[A] - Nghiệp vụ bảo hiểm**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Các loại hình giao dịch mua bán hàng hóa tiêu chuẩn tại Sở giao dịch hàng hóa (Commodity Exchange) bao gồm: Giao dịch giao ngay (Spot), Giao dịch kỳ hạn (Forward), Hợp đồng tương lai (Futures), và Hợp đồng quyền chọn (Options). 'Nghiệp vụ bảo hiểm' chỉ là mục đích phòng ngừa rủi ro giá (Hedging) chứ không phải một loại hình hợp đồng mua bán tại sở giao dịch.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.2.6: Mua bán hàng hóa tại sở giao dịch (trang 26-27) [7, 8]. - Các loại hình giao dịch chính tại sở giao dịch hàng hóa được Giáo trình quy định bao gồm [7, 8]: 1. *Giao ngay* (spot transaction) [7]; 2. *Giao dịch kỳ hạn* (forward transaction) [7]; 3. *Hợp đồng quyền chọn* (options) [8]; 4. ***Nghiệp vụ tự bảo hiểm*** (hedging) - là hoạt động được các nhà buôn/sản xuất sử dụng để phòng ngừa rủi ro do biến động giá cả [8]. Phương án A đưa ra khái niệm *"Nghiệp vụ bảo hiểm"* (Insurance) là không đúng, vì loại hình giao dịch tại sở giao dịch hàng hóa là **"Nghiệp vụ tự bảo hiểm" (Hedging)** [8].
 
 ---
 
@@ -123,7 +123,7 @@
 - **D.** Là một ngành kinh tế có hiệu quả cao
 
 👉 **Đáp án đúng:** **[B] - Là một hoạt động kinh tế chuyên ngành**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Du lịch quốc tế là một ngành kinh tế tổng hợp mang tính liên ngành sâu sắc (gắn liền với giao thông vận tải, lưu trú, ăn uống, văn hóa, tài chính ngân hàng), chứ không phải là một hoạt động kinh tế chuyên ngành đơn lẻ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.3. Du lịch quốc tế (trang 27 - 28) - Theo tài liệu "Giáo trình giao dịch ngoại thương.pdf", các đặc điểm cốt lõi của du lịch quốc tế bao gồm [1]: 1. Là một hoạt động kinh doanh dịch vụ [1]. 2. Là hoạt động kinh tế tổng hợp (mang nội dung văn hóa sâu sắc, có tính liên ngành, liên vùng và xã hội hóa cao) [1, 2]. 3. Là ngành kinh tế có hiệu quả cao [1]. 4. Là ngành kinh tế chịu sự kiểm soát chặt chẽ của các nước trên thế giới [1]. do đó, khẳng định tại đáp án B ("Là một hoạt động kinh tế chuyên ngành") KHÔNG PHẢI là đặc điểm của du lịch quốc tế, vì giáo trình xác định bản chất của du lịch quốc tế là một "hoạt động kinh tế tổng hợp" [1, 2].
 
 ---
 
@@ -136,7 +136,7 @@
 - **D.** Khả năng cạnh tranh ban đầu cao do đã tính toán kỹ lưỡng rủi ro ban đầu
 
 👉 **Đáp án đúng:** **[D] - Khả năng cạnh tranh ban đầu cao do đã tính toán kỹ lưỡng rủi ro ban đầu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi thành lập công ty con tại nước ngoài (doanh nghiệp 100% vốn đầu tư nước ngoài), rào cản gia nhập thị trường rất lớn và doanh nghiệp phải tự gánh chịu toàn bộ chi phí ban đầu, nên khả năng cạnh tranh thời kỳ đầu thường rất khó khăn chứ không thể 'cao do đã tính toán kỹ'.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.7. Thành lập công ty con tại nước ngoài (trang 32 - 33) - Theo tài liệu "Giáo trình giao dịch ngoại thương.pdf", hình thức thành lập công ty con ở nước ngoài có các ưu điểm cụ thể sau [3]: 1. Khai thác được những lợi thế so sánh và có ưu thế hơn so với nước mình trên thị trường thế giới [3]. 2. Doanh nghiệp được toàn quyền quyết định các hoạt động của mình, không có sự tham gia của các đối tác khác [3]. 3. Lợi nhuận và những ưu thế có được trên thị trường không bị san sẻ [3]. 4. Có điều kiện để củng cố thị phần tại thị trường đối tượng và là căn cứ để mở mang thị trường ra các khu vực lân cận [3]. Mặt khác, về nhược điểm, giáo trình chỉ rõ: khi thiết lập doanh nghiệp ở thị trường mới thường phát sinh nhiều rủi ro ban đầu nên phải tính toán kỹ lưỡng, và "khả năng cạnh tranh ban đầu còn hạn chế" [4]. Do đó, đáp án D ("Khả năng cạnh tranh ban đầu cao...") là phát biểu sai với giáo trình và KHÔNG PHẢI là một ưu điểm [3, 4].
 
 ---
 
@@ -149,7 +149,7 @@
 - **D.** Là cửa chính để các doanh nghiệp tham gia vào thị trường nước ngoài, thông qua các công ty liên doanh của đối tác
 
 👉 **Đáp án đúng:** **[D] - Là cửa chính để các doanh nghiệp tham gia vào thị trường nước ngoài, thông qua các công ty liên doanh của đối tác**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Công ty liên doanh (Joint Venture) là hình thức thành lập một pháp nhân mới do hai hoặc nhiều bên thuộc các quốc gia khác nhau cùng góp vốn, chia sẻ rủi ro, tận dụng tài nguyên nước sở tại và cùng quản lý. Phát biểu A dùng từ ngữ sai lệch về bản chất liên doanh.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.6: Thành lập công ty liên doanh (Trang 31 - 32) [1]. - Theo Giáo trình giao dịch ngoại thương (Chương I, Mục 4.2.6, trang 31 - 32), ưu điểm của hình thức thành lập công ty liên doanh bao gồm [1]: 1. Tận dụng được nguồn lực có sẵn ở nước sở tại [1]. 2. Chia sẻ những rủi ro trong quá trình kinh doanh, tạo ra sự cộng đồng trách nhiệm trong quá trình điều hành hoạt động của doanh nghiệp với đối tác của nước sở tại [1]. 3. Khai thác và tận dụng được các ưu đãi của nước chủ nhà để thâm nhập vào thị trường đối tượng [1]. 4. *"Là cửa ngách để các doanh nghiệp tham gia vào thị trường nước ngoài. Thông qua các công ty liên doanh với các đối tác"* [1]. Phương án D khẳng định *"Là cửa chính..."* là sai so với nguyên văn định nghĩa trong giáo trình (giáo trình xác định là *"cửa ngách"*) [1]. Do đó, D không phải là ưu điểm đúng theo tài liệu chuẩn [1].
 
 ---
 
@@ -162,7 +162,7 @@
 - **D.** Đại lý gửi bán
 
 👉 **Đáp án đúng:** **[D] - Đại lý gửi bán**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đại lý gửi bán (Consignment agent) là hình thức phổ biến nhất của đại lý hoa hồng, theo đó bên giao đại lý gửi hàng cho bên đại lý để bán, bên đại lý nhận thù lao hoa hồng trên doanh số bán và không phải bỏ vốn mua đứt lô hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.1.1.2: Các loại đại lý (Trang 17) [2]. - Theo Giáo trình giao dịch ngoại thương (Chương I, Mục 4.1.1.2, trang 17), tài liệu quy định nguyên văn: *"Đại lý gửi bán (Consignee hoặc agent carrying stock): là một dạng của đại lý hoa hồng, nhận bán hàng từ kho của người đại lý ra thị trường."* [2]. Các loại đại lý khác được liệt kê và phân loại độc lập với chức năng riêng [2]: - *Đại lý đảm bảo thanh toán (Del credere agent)*: là đại lý đứng ra đảm bảo khả năng thanh toán của khách hàng [2]. - *Đại lý độc quyền (Sole agent)*: là đại lý duy nhất của người ủy thác tại thị trường nào đó [2]. - *Phắc-tơ (Factor)*: là loại đại lý được giao quyền chiếm hữu hàng hóa hoặc chứng từ sở hữu hàng hóa [2]. Vì vậy, Đại lý gửi bán chính là một dạng của đại lý hoa hồng [2].
 
 ---
 
@@ -175,7 +175,7 @@
 - **D.** Phắc tơ (Factor)
 
 👉 **Đáp án đúng:** **[D] - Phắc tơ (Factor)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phắc tơ (Factor / Đại lý bao thanh toán - quản lý hàng) là thương nhân trung gian tài chính và ủy thác đặc biệt, được phép đứng tên chính mình bán hoặc cầm cố hàng hóa, quản lý sổ sách nợ và ứng trước tiền cho người ủy thác với giá cả có lợi nhất.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.1.1.2: Các loại đại lý (Trang 17) [2]. - Theo Giáo trình giao dịch ngoại thương (Chương I, Mục 4.1.1.2, trang 17), khái niệm Phắc-tơ được định nghĩa chuẩn xác như sau: *"Phắc-tơ (Factor) là một loại đại lý được người ủy thác giao quyền chiếm hữu hàng hóa hoặc chứng từ sở hữu hàng hóa. Được phép đứng tên mình bán hay cầm cố hàng hóa với giá cả mình cho là có lợi nhất cho người ủy thác."* [2]. Do đó, đáp án D là câu trả lời chính xác [2].
 
 ---
 
@@ -188,7 +188,7 @@
 - **D.** Các công ty đa quốc gia lớn có ngân sách vượt cả ngân sách của nhiều quốc gia
 
 👉 **Đáp án đúng:** **[A] - Một dạng mới của công ty đa quốc gia đang hình thành tương ứng với thương mại hóa là xí nghiệp liên hợp toàn cầu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Công ty đa quốc gia (MNCs - Multinational Corporations) là doanh nghiệp có cơ sở sản xuất hoặc cung cấp dịch vụ tại ít nhất hai quốc gia, ngân sách lớn và chi phối chuỗi giá trị toàn cầu. Khái niệm 'xí nghiệp liên hợp toàn cầu tương ứng thương mại hóa' là sai lý thuyết quản trị kinh doanh quốc tế.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên) — Chương 1: Tổng quan về giao dịch thương mại quốc tế, Mục 4.2.8 "Đặt nhiều công ty ở nước ngoài (công ty xuyên quốc gia)" và Mục 4.2.9 "Thành lập công ty toàn cầu" (Trang 34–35) [1, 2]. - - Các phương án **B, C, D** đều phản ánh đúng bản chất học thuật và thực tiễn của công ty đa quốc gia / xuyên quốc gia (MNC/TNC): + **B đúng**: Công ty đa quốc gia/xuyên quốc gia là khái niệm chỉ các công ty có hoạt động sản xuất, kinh doanh hay cung cấp dịch vụ bao trùm trên phạm vi từ hai quốc gia, lãnh thổ trở lên [1]. + **C và D đúng**: Mạng lưới kinh doanh và vốn đầu tư trực tiếp ra nước ngoài của các TNC/MNC rất khổng lồ, tổng doanh số bán ra tại các công ty con thậm chí vượt tổng trị giá xuất khẩu thế giới và ngân sách của nhiều quốc gia, từ đó tạo ra sức ảnh hưởng lớn đến nền kinh tế toàn cầu và quan hệ quốc tế [1, 2]. - **A sai** vì: Dạng phát triển mới của công ty đa quốc gia (công ty toàn cầu / xí nghiệp toàn cầu) được hình thành tương ứng với xu thế **toàn cầu hóa** (Globalization) và khu vực hóa từ những thập kỷ 80 của thế kỷ XX, chứ không phải do "thương mại hóa" [2]. Giáo trình khẳng định rõ: *"Cùng với quá trình toàn cầu hoá, các công ty toàn cầu bắt đầu xuất hiện từ những thập kỷ 80 của thế kỷ XX và các công ty này nổi lên như một lực lượng quan trọng thúc đẩy quá trình toàn cầu hoá, khu vực hoá"* [2].
 
 ---
 
@@ -201,7 +201,7 @@
 - **D.** Công ty xuyên quốc gia bao gồm công ty mẹ ở một nước, và thực hiện các đầu tư FDI ra nước ngoài để hình thành các công ty con
 
 👉 **Đáp án đúng:** **[C] - Các công ty mẹ con này không ảnh hưởng lẫn nhau và chỉ cùng chia sẻ kiến thức, nguồn lực và trách nhiệm lẫn nhau**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong tập đoàn xuyên quốc gia (TNCs - Transnational Corporations), công ty mẹ và các công ty con tại các quốc gia liên kết chặt chẽ theo chiến lược toàn cầu thống nhất, chia sẻ công nghệ, R&D và chịu ảnh hưởng qua lại sâu sắc, không thể 'không ảnh hưởng lẫn nhau'.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên) – Chương 1: Tổng quan về giao dịch thương mại quốc tế, Mục 4.2.8 "Đặt nhiều công ty ở nước ngoài (công ty xuyên quốc gia)". - Theo giáo trình, công ty xuyên quốc gia (TNC) là doanh nghiệp có hoạt động kinh doanh bao trùm nhiều quốc gia, lãnh thổ, gồm công ty mẹ ở một nước thực hiện các đầu tư trực tiếp (FDI) ra nước ngoài để thành lập các công ty con ở nhiều khu vực khác nhau [1]. Các thực thể thuộc TNCs hoạt động dưới một hệ thống ra quyết định chung do cơ quan điều hành (headquarters) quản lý nhằm thực hiện một chiến lược phát triển thống nhất và tối ưu hóa hiệu quả kinh tế chung [2, 3]. Giữa công ty mẹ và các công ty con có sự liên kết chặt chẽ và tác động lẫn nhau [2]. Do đó, mệnh đề cho rằng các công ty mẹ con *"không ảnh hưởng lẫn nhau"* tại phương án C là sai.
 
 ---
 
@@ -214,7 +214,7 @@
 - **D.** Chủ yếu mua bán khống
 
 👉 **Đáp án đúng:** **[A] - Mua bán dựa vào hợp đồng riêng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mua bán tại Sở giao dịch hàng hóa bắt buộc phải tuân theo Hợp đồng mẫu chuẩn hóa (Standardized Contract) của Sở về quy cách, phẩm chất, khối lượng và điều kiện giao nhận; các bên không được phép tự do thỏa thuận hợp đồng riêng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên) – Chương 1: Tổng quan về giao dịch thương mại quốc tế, Mục 4.2.2.6 "Mua bán hàng hóa tại sở giao dịch". - Giáo trình quy định rõ các đặc điểm cơ bản của mua bán tại sở giao dịch hàng hóa bao gồm [4]: 1. Mua bán được thực hiện tại thị trường đặc biệt; 2. Chủ yếu mua bán khống; 3. Mục đích là ăn chênh lệch giá; 4. Mua bán phải qua trung gian; 5. Sở giao dịch gắn liền với thị trường hàng hóa thế giới; 6. **Mua bán dựa vào hợp đồng mẫu**. Do giao dịch tại Sở được chuẩn hóa bằng các hợp đồng mẫu (standardized contracts) để đảm bảo tính nhanh chóng và thanh khoản cao, phát biểu A *"Mua bán dựa vào hợp đồng riêng"* là sai [4].
 
 ---
 
@@ -227,7 +227,7 @@
 - **D.** Có thể có những rủi ro bởi vì hoạt động kinh doanh còn hạn chế về phạm vi, quyền hạn
 
 👉 **Đáp án đúng:** **[C] - Ở giai đoạn sau của hoạt động đầu tư trực tiếp vào thị trường đối tượng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đặt chi nhánh (Branch) là bước đi ban đầu hoặc trung gian trong chiến lược thâm nhập thị trường trực tiếp, sau văn phòng đại diện và trước bước thành lập công ty con/công ty liên doanh độc lập.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.5: Đặt các chi nhánh của doanh nghiệp ở nước ngoài (trang 29–30). - + Theo *Giáo trình giao dịch ngoại thương* (Mục 4.2.5, trang 29–30), việc thành lập chi nhánh công ty tại thị trường nước ngoài thì hoạt động kinh doanh **"mới chỉ ở giai đoạn đầu của hoạt động đầu tư trực tiếp vào thị trường đối tượng"**. Vì vậy, nhận định ở **phương án C** ("Ở giai đoạn sau của hoạt động đầu tư trực tiếp...") là nhận định **SAI**. + Các phương án còn lại đều là các đặc điểm, ưu điểm hoặc nhược điểm đúng được trích dẫn nguyên văn trong giáo trình: * **Phương án A** (Nhược điểm): *"Chưa thực hiện toàn diện chiến lược trên thị trường đối tượng nên khả năng cạnh tranh còn hạn chế"*. * **Phương án B** (Ưu điểm): *"Chi nhánh công ty trực tiếp kinh doanh tại thị trường đối tượng do vậy có thể khai thác những lợi thế của thị trường đó"*. * **Phương án D** (Rủi ro): *"có thể có những rủi ro mà doanh nghiệp phải gánh chịu bởi vì hoạt động kinh doanh còn hạn chế về phạm vi, quyền hạn"*.
 
 ---
 
@@ -240,7 +240,7 @@
 - **D.** Chi phí mà bên nhận gia công phải ứng trước trong quá trình tiếp nhận nguyên liệu
 
 👉 **Đáp án đúng:** **[A] - Tiền bên nhận gia công bán sản phẩm**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Giá gia công (thù lao gia công) bao gồm: Tiền thù lao lao động, chi phí khấu hao máy móc thiết bị, chi phí nguyên phụ liệu phụ, và các chi phí tiếp nhận/vận chuyển mà bên nhận gia công ứng trước. Sản phẩm gia công thuộc sở hữu của bên đặt gia công nên không có việc 'bên nhận gia công bán sản phẩm'.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) / Chương I: Mục 4.2.2.3: Gia công quốc tế (trang 21–22) & Chương III: Mục 2.3: Hợp đồng gia công (các mục 2.3.2 & 2.3.4, trang 134–135). - + Theo bản chất học thuật của gia công quốc tế (Mục 4.2.2.3), bên nhận gia công tiến hành chế biến nguyên liệu/bán thành phẩm từ bên đặt gia công thành sản phẩm hoàn chỉnh và **giao lại thành phẩm cho bên đặt gia công để nhận thù lao gia công**. Bên nhận gia công không có quyền sở hữu thành phẩm và không tiến hành bán thành phẩm ra thị trường, do đó **"Tiền bên nhận gia công bán sản phẩm" (Phương án A)** hoàn toàn không nằm trong yếu tố tạo thành giá gia công. + Các yếu tố B, C, D đều thuộc cơ cấu chi phí/giá gia công được đề cập trong Mục 2.3.2 và 2.3.4: bao gồm tiền thù lao gia công (tiền công chế tác CMT/CMP), chi phí nguyên liệu phụ (nếu bên nhận gia công cung cấp/ứng trước) và các chi phí ứng trước liên quan đến quá trình giao nhận, tiếp nhận nguyên vật liệu.
 
 ---
 
@@ -253,7 +253,7 @@
 - **D.** Việc chỉ thực hiện duy nhất một hợp đồng mua bán hàng hóa quốc tế cho toàn bộ quá trình giao dịch nhằm tái xuất hàng hóa đã nhập từ trước
 
 👉 **Đáp án đúng:** **[A] - Việc xuất khẩu hàng hóa đã nhập khẩu trước đây, chưa qua chế biến tại nước tái xuất, nhằm thu ngoại tệ lớn hơn chi phí nhập khẩu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 29 Luật Thương mại 2005: Tái xuất khẩu là việc xuất khẩu hàng hóa đã được nhập khẩu trước đó ra khỏi lãnh thổ Việt Nam mà chưa qua chế biến, nhằm mục đích thu về ngoại tệ lớn hơn chi phí đã bỏ ra để nhập khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên, ĐH Ngoại thương) / **Chương I: Tổng quan về giao dịch thương mại quốc tế** / **Mục 4.2.2.2: Giao dịch tái xuất** (Trang 19 - 20) [1, 2]. - - **Bản chất học thuật & Trích dẫn:** Theo giáo trình, *"Kinh doanh tái xuất (re-export) là việc xuất khẩu hàng hoá đã nhập khẩu trước đây mà chưa qua khâu chế biến nào tại nước tái xuất nhằm mục đích thu về một lượng ngoại tệ lớn hơn chi phí nhập khẩu."* [2]. Mục đích chính của giao dịch này là thu lợi nhuận từ sự chênh lệch giá cả giữa thị trường mua và thị trường bán [3]. - **Lý do loại trừ các phương án còn lại:** - **Phương án B sai:** Đây là mô tả của hoạt động nhập khẩu nguyên liệu để sản xuất/gia công tiêu thụ nội địa, không phải kinh doanh tái xuất. - **Phương án C sai:** Hàng hóa tái xuất bắt buộc phải là hàng đã nhập khẩu từ nước ngoài đưa vào, chưa qua bất kỳ khâu chế biến nào, không phải hàng hóa sản xuất hoàn toàn trong nước [2, 3]. - **Phương án D sai:** Hoạt động kinh doanh tái xuất bắt buộc phải được tiến hành trên cơ sở **hai hợp đồng mua bán hàng hóa quốc tế riêng biệt** (hợp đồng nhập khẩu và hợp đồng xuất khẩu) chứ không phải duy nhất một hợp đồng [2, 4].
 
 ---
 
@@ -266,7 +266,7 @@
 - **D.** Chuyển nợ
 
 👉 **Đáp án đúng:** **[C] - Mua lại sản phẩm**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mua lại sản phẩm (Buy-back / Product Buy-back agreement) là hình thức mua bán đối lưu trong đó bên xuất khẩu thiết bị/nhà máy đồng ý nhận lại khoản thanh toán (toàn bộ hoặc một phần) bằng chính các sản phẩm do nhà máy/thiết bị đó sản xuất ra.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên, ĐH Ngoại thương) / **Chương I: Tổng quan về giao dịch thương mại quốc tế** / **Mục 4.2.2.1: Mua bán đối lưu** (Trang 19) [1, 5]. - - **Bản chất học thuật:** Trong các hình thức mua bán đối lưu (Countertrade), **Mua lại sản phẩm (Buy-backs)** là phương thức mà một bên cung cấp máy móc, thiết bị, công nghệ hoặc xây dựng nhà máy/cơ sở sản xuất cho bên kia, đồng thời cam kết nhận lại một tỷ lệ phần trăm nhất định sản phẩm/sản lượng được chế tạo ra từ chính nhà máy/cơ sở sản xuất đó để thanh toán một phần hoặc toàn bộ giá trị hợp đồng ban đầu [5]. - **Lý do loại trừ các phương án còn lại:** - **Phương án A (Giao dịch bồi hoàn - Offset) sai:** Người bán bồi hoàn bằng cách mua hàng hóa/dịch vụ bất kỳ từ nước người mua hoặc hỗ trợ đầu tư, không bắt buộc nhận sản phẩm trực tiếp từ chính cơ sở sản xuất đã xây dựng [5]. - **Phương án B (Mua đối lưu - Counter-purchase) sai:** Người bán cam kết mua một lượng hàng hóa khác (hoàn toàn độc lập, không do máy móc/nhà máy đã bán tạo ra) từ người mua [5]. - **Phương án D (Chuyển nợ - Switch) sai:** Sử dụng bên thứ ba để xử lý và chuyển giao số dư tài khoản bù trừ không cân bằng [5].
 
 ---
 
@@ -279,7 +279,7 @@
 - **D.** Giao dịch tái xuất
 
 👉 **Đáp án đúng:** **[B] - Môi giới**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 150 Luật Thương mại 2005: Môi giới thương mại là hoạt động thương mại theo đó thương nhân làm trung gian (bên môi giới) cho các bên mua bán hàng hóa đàm phán, giao kết hợp đồng và được hưởng thù lao, bên môi giới không đứng tên trên hợp đồng và không chịu trách nhiệm về việc thực hiện hợp đồng của các bên.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương (PGS.TS. Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.1.2 "Môi giới" (trang 18) [1, 2]. - + Trong giao dịch thương mại quốc tế, **Môi giới** là thương nhân trung gian giữa người bán với người mua, giúp hai bên đàm phán, ký kết và thực hiện hợp đồng [2]. + Về đặc điểm pháp lý và nghiệp vụ, môi giới có thể là cá nhân hoặc pháp nhân, làm việc theo ủy thác từng lần, **không đại diện quyền lợi cho bên nào, không đứng tên trên hợp đồng** (hai bên mua bán trực tiếp ký kết hợp đồng với nhau), **không chịu trách nhiệm về việc hợp đồng không được thực hiện** và chỉ nhận tiền thù lao (phí môi giới/hoa hồng) [2]. + Phân biệt với các phương án còn lại: * **A. Đại lý**: Thương nhân trung gian làm việc theo sự ủy thác của khách hàng; tùy loại hình đại lý (đại lý thụ ủy, đại lý hoa hồng, đại lý kinh tiêu), đại lý có thể nhân danh người ủy thác hoặc nhân danh chính mình để thực hiện giao dịch [3-5]. * **C. Phắc tơ (Factor)**: Là một loại đại lý được người ủy thác giao quyền chiếm hữu hàng hóa/chứng từ sở hữu, được phép đứng tên mình bán hoặc cầm cố hàng hóa [6]. * **D. Giao dịch tái xuất**: Là phương thức kinh doanh xuất khẩu hàng hóa đã nhập khẩu trước đó mà chưa qua chế biến nhằm thu chênh lệch giá, trong đó nhà kinh doanh tái xuất trực tiếp đứng tên ký kết hai hợp đồng mua bán quốc tế độc lập [7, 8].
 
 ---
 
@@ -292,7 +292,7 @@
 - **D.** Xác nhận
 
 👉 **Đáp án đúng:** **[C] - Hỏi hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hỏi hàng (Inquiry) là việc người mua đề nghị người bán cho biết giá cả và các điều kiện thương mại để mua một lô hàng xác định. Lời hỏi hàng không có tính ràng buộc pháp lý và người hỏi hàng không cam kết bắt buộc phải mua.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương (PGS.TS. Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 3.1 "Hỏi hàng (Inquiry)" (trang 13-14) [1, 9, 10]. - + **Hỏi hàng (Inquiry)** xét về khía cạnh thương mại là lời mời bước vào giao dịch, còn xét về khía cạnh pháp lý là lời thỉnh cầu bước vào giao dịch [9]. + Bản chất nghiệp vụ: Người mua gửi thư/điện cho phía đối tác để đề nghị biết giá cả và các điều kiện mua hàng [9]. Bước này **không ràng buộc trách nhiệm của người hỏi hàng (không cam kết sẽ mua hàng)** mà chủ yếu dùng để nghiên cứu, thăm dò thị trường [9, 10]. + Phân biệt với các phương án còn lại: * **A. Chào hàng (Offer)**: Là thao tác nghiệp vụ của người bán thể hiện ý chí muốn bán hàng (thương mại) hoặc đề nghị ký kết hợp đồng xuất phát từ phía người bán theo các điều kiện đưa ra (pháp lý) [10]. * **B. Hoàn giá (Counter offer or order)**: Là bước mặc cả về giá hoặc các điều kiện giao dịch khác khi một bên không chấp nhận toàn bộ chào hàng/đặt hàng, làm cho đề nghị giao kết trước đó hết hiệu lực và tạo thành đề nghị giao kết mới [11]. * **D. Xác nhận (Confirmation)**: Là bước thực hiện sau khi đàm phán thành công, hai bên xác nhận lại những nội dung đã thỏa thuận làm cơ sở ký kết và thực hiện hợp đồng chính thức [12].
 
 ---
 
@@ -304,8 +304,8 @@
 - **C.** Tiến hành mở đấu giá, trưng bày hàng hóa được đấu giá, phương thức đấu giá
 - **D.** Phương thức đấu giá, tiến hành mở đấu giá, trưng bày hàng hóa được đấu giá
 
-👉 **Đáp án đúng:** **[B] - Trưng bày hàng hóa được đấu giá, tiến hành mở đấu giá, phương thức đấu giá**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy chuẩn tổ chức đấu giá thương mại quốc tế, trình tự tiến hành cuộc đấu giá gồm: Trưng bày/cho xem hàng hóa được đấu giá -> Tiến hành mở cuộc đấu giá -> Thực hiện phương thức đấu giá (trả giá tăng dần hoặc đặt giá giảm dần) và gõ búa tuyên bố người mua được hàng.
+👉 **Đáp án đúng:** **[A] - Phương thức đấu giá, trưng bày hàng hóa được đấu giá, tiến hành mở đấu giá**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 4.2.2.4. Đấu giá quốc tế [1]. - Theo Giáo trình giao dịch ngoại thương (PGS.TS Phạm Duy Liên), quy trình tiến hành một cuộc đấu giá quốc tế bao gồm các bước nghiệp vụ theo trình tự logic: 1. **Chuẩn bị đấu giá:** Người tổ chức đấu giá xây dựng quy chế, thể lệ, xác định **phương thức đấu giá** (đấu giá lên hoặc đấu giá xuống) và thông báo công khai [1]. 2. **Xem hàng hóa:** Tổ chức **trưng bày hàng hóa được đấu giá** tại kho hoặc địa điểm quy định để người mua trực tiếp kiểm tra phẩm chất ("đã xem và đã đồng ý") [1, 2]. 3. **Khai mạc/tiến hành mở đấu giá:** Người điều hành phát biểu khai mạc và xướng giá để người mua tham gia trả giá [1]. Do đó, trình tự thực hiện đúng đối với các nội dung nêu trên là: **Phương thức đấu giá, trưng bày hàng hóa được đấu giá, tiến hành mở đấu giá** [1].
 
 ---
 
@@ -317,8 +317,8 @@
 - **C.** Mời thầu
 - **D.** Ký hợp đồng
 
-👉 **Đáp án đúng:** **[A] - Sơ tuyển**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy tắc Hiệp hội Quốc tế các Kỹ sư Tư vấn (FIDIC), quy trình tiến hành đấu thầu chính thức bao gồm: Mời thầu (Tendering) -> Nộp và Mở thầu (Opening) -> Đánh giá hồ sơ dự thầu -> Trao thầu và Ký kết hợp đồng. Giai đoạn Sơ tuyển (Prequalification) thuộc bước chuẩn bị đấu thầu.
+👉 **Đáp án đúng:** **[D] - Ký hợp đồng**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 4.2.2.5. Đấu thầu quốc tế [1, 3]. - Theo quy định chuẩn mực về đấu thầu quốc tế (như FIDIC, WB, ADB) được giảng dạy trong giáo trình, giai đoạn **tiến hành đấu thầu** (tendering/bidding stage) tập trung vào các bước nghiệp vụ kỹ thuật tuyển chọn nhà thầu, bao gồm: **Sơ tuyển** (Pre-qualification) [3], **Mời thầu** (phát hành hồ sơ mời thầu) và **Mở thầu** (Bid opening) cùng đánh giá hồ sơ dự thầu [3]. Bước **Ký hợp đồng** (Contract signing) diễn ra ở giai đoạn sau, khi đã kết thúc quá trình đấu thầu, có quyết định phê duyệt kết quả trúng thầu và hoàn tất thương thảo hợp đồng [4, 5]. Vì vậy, tiến hành đấu thầu không bao gồm giai đoạn **Ký hợp đồng** [3].
 
 ---
 
@@ -331,7 +331,7 @@
 - **D.** Xây dựng thể lệ đấu giá
 
 👉 **Đáp án đúng:** **[B] - Cho người mua xem hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Giai đoạn chuẩn bị đấu giá bao gồm: Chuẩn bị hàng hóa, phân lô, xây dựng thể lệ/quy chế đấu giá, định giá khởi điểm và thông báo công khai cuộc đấu giá. Việc 'Cho người mua xem hàng/trưng bày hàng' diễn ra ngay trước giờ mở phiên đấu giá.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 4.2.2.4. Đấu giá quốc tế [1]. - Trong quy trình tổ chức đấu giá quốc tế, bước **Chuẩn bị đấu giá** bao gồm các công việc của bên bán/đơn vị tổ chức như: tập kết và chuẩn bị hàng hóa, xây dựng thể lệ/quy chế đấu giá, phát thông báo rộng rãi về cuộc đấu giá [1]. Sau khi hoàn thành bước chuẩn bị mới chuyển sang bước **Cho người mua xem hàng** (Xem hàng hóa) [1]. "Cho người mua xem hàng" là một bước/giai đoạn độc lập nối tiếp, chứ không thuộc nội dung nằm trong bước **Chuẩn bị đấu giá** [1].
 
 ---
 
@@ -343,8 +343,8 @@
 - **C.** Tổng đại lý, đại lý đặc biệt
 - **D.** Đại lý kinh tiêu, đại lý hoa hồng
 
-👉 **Đáp án đúng:** **[C] - Tổng đại lý, đại lý đặc biệt**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Một trong những nhược điểm lớn nhất của việc mua bán qua trung gian thương mại là doanh nghiệp xuất khẩu bị mất liên hệ trực tiếp với người tiêu dùng và giảm khả năng kiểm soát thị trường so với kênh phân phối trực tiếp.
+👉 **Đáp án đúng:** **[B] - Đại lý hoa hồng, đại lý kinh tiêu**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.1.1.2. Các loại đại lý (trang 16) [1-3]. - Theo tài liệu chuẩn mực, khi phân loại đại lý xét theo **mức độ ủy quyền** [2], đại lý được sắp xếp theo mức độ ủy quyền từ cao đến thấp như sau [2, 3]: 1. **Đại lý thụ ủy (Mandatory agent):** Làm việc theo sự ủy thác với danh nghĩa và chi phí của người ủy thác (mức độ đại diện/ủy quyền trực tiếp cao nhất) [2]. 2. **Đại lý hoa hồng (Commission agent):** Làm việc theo sự ủy thác với danh nghĩa của chính người đại lý, nhưng chi phí do người ủy thác chịu [3]. 3. **Đại lý kinh tiêu (Merchant agent):** Hoạt động hoàn toàn với danh nghĩa và chi phí của chính mình (mức độ ủy quyền/kiểm soát từ người ủy thác là thấp nhất) [3]. Do đó, cặp sắp xếp đúng theo chiều mức độ ủy quyền giảm dần là **Đại lý hoa hồng, đại lý kinh tiêu** [3]. *(Lưu ý: "Tổng đại lý, đại lý đặc biệt" là cách phân loại xét theo phạm vi quyền hạn chứ không phải theo mức độ ủy quyền [2]).
 
 ---
 
@@ -356,8 +356,8 @@
 - **C.** Đại lý toàn quyền
 - **D.** Đại lý đặc biệt
 
-👉 **Đáp án đúng:** **[A] - Đại lý thường**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Chuẩn bị đấu thầu là công việc của bên mời thầu (lập hồ sơ mời thầu, dự toán, tiêu chuẩn đánh giá, thông báo mời thầu). 'Nộp hồ sơ dự thầu' là hành động của các nhà thầu tham gia khi nhận được thông báo mời thầu.
+👉 **Đáp án đúng:** **[D] - Đại lý đặc biệt**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.1.1.2. Các loại đại lý (Tiểu mục a. Xét theo phạm vi quyền hạn, trang 16) [1, 2]. - Trong thương mại quốc tế, xét theo **phạm vi quyền hạn**, người ta phân chia thành 3 loại đại lý chính [2]: - **Đại lý toàn quyền (Universal agent):** Có thể làm thay mọi việc của người ủy thác [2]. - **Tổng đại lý (General agent):** Được ủy quyền một phần công việc nhất định nào đó [2]. - **Đại lý đặc biệt (Special agent):** Là người chỉ làm một việc nhất định [2]. Đại lý bảo hiểm là thương nhân/đại lý được ủy quyền chuyên biệt để thực hiện một công việc cụ thể là thu xếp và ký kết hợp đồng bảo hiểm [2, 4]. Vì chỉ thực hiện một nhiệm vụ/công việc nhất định, đại lý bảo hiểm thuộc loại **Đại lý đặc biệt** [2].
 
 ---
 
@@ -369,8 +369,8 @@
 - **C.** Ký hợp đồng và đăng ký hợp đồng tại nơi hai bên chọn
 - **D.** Ủy thác cho môi giới của sở giao dịch mua bán tại sở giao dịch hàng hóa
 
-👉 **Đáp án đúng:** **[A] - Môi giới ra đài tiến hành giao dịch**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Tại sàn giao dịch hàng hóa, quy trình bắt đầu từ khách hàng gửi lệnh cho người môi giới -> Môi giới ra đài (khu vực khớp lệnh) tiến hành giao dịch theo phương thức đấu giá mở -> Ký kết hợp đồng giao dịch và công bố giá khớp trên bảng điện tử.
+👉 **Đáp án đúng:** **[C] - Ký hợp đồng và đăng ký hợp đồng tại nơi hai bên chọn**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.2.6. Mua bán hàng hóa tại sở giao dịch (trang 26) [5, 6]. - Theo giáo trình gốc, quy trình các bước tiến hành giao dịch mua bán tại sở giao dịch hàng hóa gồm 5 bước cụ thể [6]: 1. Ủy thác cho môi giới của sở giao dịch mua hoặc bán [6]; 2. Môi giới ra đài tiến hành giao dịch [6]; 3. Ký kết hợp đồng và đăng ký hợp đồng **tại Sở giao dịch** [6]; 4. Công bố giá hợp đồng đã ký [6]; 5. Đến thời hạn giao hàng trong hợp đồng, đến phòng thanh toán thanh lý hợp đồng [6]. Phương án C ghi *"Ký hợp đồng và đăng ký hợp đồng tại nơi hai bên chọn"* là phát biểu sai, bởi vì mọi hợp đồng mua bán qua sở giao dịch mang tính tập trung cao và bắt buộc phải đăng ký trực tiếp tại **Sở giao dịch hàng hóa** chứ không được tự do lựa chọn địa điểm đăng ký [5-7].
 
 ---
 
@@ -383,7 +383,7 @@
 - **D.** Định mức
 
 👉 **Đáp án đúng:** **[A] - Điều khoản về bán sản phẩm**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy định pháp luật về gia công thương mại, hợp đồng gia công bắt buộc phải có các điều khoản về: Tên hàng, số lượng, định mức nguyên liệu, thù lao gia công, cách giải quyết nguyên vật liệu thừa, nhãn hiệu bao bì. 'Điều khoản về bán sản phẩm' không bắt buộc vì thành phẩm thuộc quyền sở hữu của bên đặt gia công.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương (PGS.TS Phạm Duy Liên) / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.3: Hợp đồng gia công (trang 134 - 135) [1]. - Gia công quốc tế là phương thức giao dịch trong đó bên nhận gia công nhập khẩu nguyên liệu hoặc bán thành phẩm từ bên đặt gia công để chế biến ra thành phẩm, giao lại thành phẩm cho bên đặt gia công và nhận tiền thù lao gia công [2]. Nội dung tiêu chuẩn của một hợp đồng gia công bao gồm các điều khoản bắt buộc sau: 1. *Điều khoản về thành phẩm*: Tên, số lượng, quy cách phẩm chất thành phẩm [1]. 2. *Điều khoản về nguyên vật liệu*: Chủng loại, chất lượng, trách nhiệm cung cấp [1, 3]. 3. *Điều khoản về định mức tiêu hao nguyên vật liệu*: Tỷ lệ nguyên vật liệu tính trên một đơn vị sản phẩm (căn cứ để hải quan quản lý thuế và chống gian lận) [3, 4]. 4. *Điều khoản chi phí gia công*: Bóc tách thù lao gia công (CMT/CMP) và chi phí giao nhận [4, 5]. 5. *Điều khoản về máy móc thiết bị, nguyên vật liệu thừa*: Quy định việc xử lý, thu hồi hoặc thanh lý thiết bị và nguyên vật liệu còn dư sau khi hoàn thành hợp đồng [5]. 6. *Vấn đề liên quan đến quyền sở hữu công nghiệp*: Trách nhiệm về nhãn hiệu, nhãn mác và kiểu dáng sản phẩm [6]. Bản chất của hoạt động gia công là chế biến hàng hóa theo chỉ định và giao lại thành phẩm cho bên đặt gia công, sản phẩm thuộc quyền sở hữu của bên đặt gia công nên hợp đồng gia công không điều chỉnh hoạt động bán sản phẩm ra thị trường [2]. Do đó, "Điều khoản về bán sản phẩm" không phải là điều khoản thuộc hợp đồng gia công.
 
 ---
 
@@ -396,7 +396,7 @@
 - **D.** giao đại lý, đại diện
 
 👉 **Đáp án đúng:** **[B] - giao đại lý, nhân danh**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 166 Luật Thương mại 2005: 'Đại lý thương mại là hoạt động thương mại, theo đó bên giao đại lý và bên đại lý thoả thuận việc bên đại lý nhân danh chính mình mua, bán hàng hoá cho bên giao đại lý hoặc cung ứng dịch vụ của bên giao đại lý đến khách hàng để hưởng thù lao'.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương (PGS.TS Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.1.1: Đại lý (trang 16) [7]; kết hợp quy định tại Điều 166 Luật Thương mại Việt Nam 2005. - Theo quy định tại Điều 166 Luật Thương mại Việt Nam 2005, khái niệm đại lý thương mại được định nghĩa chuẩn xác như sau: *"Đại lý thương mại là hoạt động thương mại, theo đó bên **giao đại lý** và bên đại lý thỏa thuận việc bên đại lý **nhân danh** chính mình mua, bán hàng hóa cho bên giao đại lý hoặc cung ứng dịch vụ của bên giao đại lý cho khách hàng."* Điền lần lượt các từ vào hai vị trí trống theo đúng văn bản luật: - Vị trí (1): **giao đại lý** (chỉ bên ủy thác/giao hàng hoặc dịch vụ). - Vị trí (2): **nhân danh** (chỉ danh nghĩa pháp lý của bên đại lý khi giao dịch mua bán với khách hàng/bên thứ ba) [8]. Do đó, đáp án đúng nhất là **B**.
 
 ---
 
@@ -409,7 +409,7 @@
 - **D.** kinh tế theo quy mô, lợi nhuận
 
 👉 **Đáp án đúng:** **[C] - so sánh, lợi nhuận**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Xuất nhập khẩu trực tiếp là phương thức trao đổi hàng hóa trực tiếp giữa doanh nghiệp trong nước với khách hàng nước ngoài nhằm khai thác tối đa lợi thế so sánh (Comparative Advantage) quốc gia và tối ưu hóa lợi nhuận kinh doanh.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2. Xuất nhập khẩu trực tiếp (Trang 18) - Dựa trên định nghĩa chuyên môn trong giáo trình, xuất nhập khẩu trực tiếp được xác định là phương thức "trong đó các doanh nghiệp trực tiếp tiến hành trao đổi hàng hoá với đối tác nước ngoài nhằm khai thác **lợi thế so sánh** giữa các quốc gia, nâng cao **lợi nhuận** trong hoạt động kinh doanh" [1]. Do đó, các từ còn thiếu cần điền vào khoảng trống theo đúng thứ tự lần lượt là **"so sánh"** và **"lợi nhuận"**.
 
 ---
 
@@ -422,7 +422,7 @@
 - **D.** Phải được chính người giao đề nghị kí hợp đồng phát ra
 
 👉 **Đáp án đúng:** **[B] - Phải được truyền đạt đến người đề nghị ký hợp đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 393 Bộ luật Dân sự 2015 và CISG 1980, chấp nhận giao kết hợp đồng chỉ có hiệu lực pháp lý khi nó được truyền đạt và thông báo đến người đề nghị trong thời hạn quy định.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 3.5. Chấp nhận (Acceptance) (Trang 14 – 15) - Theo quy định của pháp luật Việt Nam được trích dẫn chuẩn xác trong giáo trình, chấp nhận đề nghị ký kết hợp đồng muốn có hiệu lực pháp lý tạo lập hợp đồng phải đáp ứng đầy đủ các điều kiện sau: 1. Phải được chính người **nhận** đề nghị ký hợp đồng phát ra [2]; 2. Phải là sự đồng ý hoàn toàn và **vô điều kiện** [2]; 3. Phải được thực hiện trong thời gian hiệu lực của **đề nghị giao kết hợp đồng** [2, 3]; 4. **Phải được truyền đạt đến người đề nghị ký hợp đồng** [3]; 5. Phải theo hình thức mà luật yêu cầu [3]. Phân tích chi tiết các đáp án: - **A sai**: Chấp nhận phải là sự đồng ý hoàn toàn và *vô điều kiện* [2]. - **B đúng**: Trích dẫn chính xác nguyên văn điều kiện bắt buộc theo pháp luật Việt Nam nêu trong giáo trình [3]. - **C sai**: Thuật ngữ pháp lý chuẩn trong giáo trình quy định là "thời gian hiệu lực của *đề nghị giao kết hợp đồng*" [2, 3] (không dùng khái niệm "đề nghị chào hàng"). - **D sai**: Chấp nhận phải xuất phát từ phía người *nhận* đề nghị, không phải người *giao* đề nghị [2].
 
 ---
 
@@ -435,7 +435,7 @@
 - **D.** Phong bì hồ sơ tài chính hoàn chỉnh sẽ được bóc để xem xét trước
 
 👉 **Đáp án đúng:** **[A] - Phong bì hồ sơ kỹ thuật sơ bộ sẽ được bóc để xem xét trước**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong phương thức đấu thầu hai giai đoạn hai túi hồ sơ, ở giai đoạn 1, bên mời thầu sẽ mở phong bì hồ sơ đề xuất kỹ thuật sơ bộ để xem xét, thảo luận và đánh giá trước mà chưa mở hồ sơ đề xuất tài chính.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.2.5: Đấu thầu quốc tế (Trang 24–25). - Incoterms và các quy trình đấu thầu thương mại quy định rằng trong phương thức **đấu thầu hai phong bì (hai túi hồ sơ) hai giai đoạn**, tại **Giai đoạn 1**, các nhà thầu sẽ nộp đồng thời hai túi hồ sơ riêng biệt gồm hồ sơ đề xuất kỹ thuật sơ bộ và hồ sơ đề xuất tài chính sơ bộ [1]. Khi tiến hành mở thầu ở giai đoạn này, bên mời thầu sẽ bóc **phong bì hồ sơ kỹ thuật sơ bộ để xem xét, đánh giá trước** nhằm thảo luận, làm rõ và điều chỉnh các tiêu chí kỹ thuật [1, 2]. Phong bì hồ sơ tài chính giai đoạn 1 được giữ nguyên niêm phong. Sau khi chuẩn hóa nội dung kỹ thuật, nhà thầu mới nộp hồ sơ kỹ thuật và tài chính hoàn chỉnh ở Giai đoạn 2 để đánh giá chính thức [1, 2]. Do đó, phương án A là đáp án đúng.
 
 ---
 
@@ -448,7 +448,7 @@
 - **D.** Phí đại lý là một khoản tiền cố định hoặc tỷ lệ phần trăm so với doanh số bán hàng
 
 👉 **Đáp án đúng:** **[C] - Bên đại lý là người chủ sở hữu về hàng hóa hay tiền tệ đã được giao cho người ủy thác**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo pháp luật thương mại, bên đại lý chỉ nắm giữ hàng hóa để thực hiện việc mua bán theo ủy thác, quyền sở hữu hàng hóa vẫn thuộc về bên giao đại lý cho đến khi hàng hóa được chuyển giao hợp pháp cho người mua.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 4.1.1: Đại lý (Trang 16–17) và Chương III / Mục 2.8.2: Hợp đồng đại lý (Trang 151–153). - Phát biểu **C là sai** vì trong nghiệp vụ đại lý thương mại, **người ủy thác (bên ủy thác)** mới luôn là chủ sở hữu hợp pháp đối với hàng hóa đã giao cho đại lý cũng như tiền tệ thu được từ việc tiêu thụ hàng hóa [3-6]. Bên đại lý chỉ đóng vai trò thương nhân trung gian cung cấp dịch vụ thương mại hoặc thực hiện mua bán theo sự ủy thác để hưởng thù lao, hoàn toàn không phải là chủ sở hữu của hàng hóa hay tiền tệ đó [3, 4]. Các phát biểu còn lại đều hoàn toàn chính xác theo tài liệu: - **A đúng**: Đại lý là thương nhân đứng ra thực hiện các hành vi thương mại theo sự ủy thác của khách hàng [3, 4]. - **B đúng**: Mối quan hệ giữa người ủy thác và đại lý có tính chất hợp tác dài hạn (khác với môi giới làm theo từng vụ việc từng lần), và bên đại lý có thể đứng tên trong hợp đồng (ví dụ: đại lý hoa hồng, đại lý kinh tiêu) [4, 5, 7]. - **D đúng**: Phí đại lý (thù lao) được xác định là một khoản tiền cố định hoặc tỷ lệ phần trăm so với doanh số bán (hoặc chênh lệch giá) [3, 7].
 
 ---
 
@@ -460,8 +460,8 @@
 - **C.** 1-3
 - **D.** . 9-12
 
-👉 **Đáp án đúng:** **[A] - 3-6**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong các dự án đấu thầu mua sắm quốc tế quy mô lớn, khoảng thời gian từ khi phát hành hồ sơ mời thầu đến khi kết thúc mở thầu và chấm thầu giai đoạn mở thầu thường kéo dài từ 3 đến 6 tháng để các nhà thầu chuẩn bị và nộp hồ sơ.
+👉 **Đáp án đúng:** **[C] - 1-3**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* – **Chương I: Tổng quan về giao dịch thương mại quốc tế** – **Mục 4.2.2.5: Đấu thầu quốc tế** (trang 24–25). - Trong quy trình tổ chức đấu thầu quốc tế, sau khi bên mời thầu chuẩn bị và phát hành hồ sơ mời thầu, giai đoạn nhận hồ sơ dự thầu đến khi tiến hành **mở thầu** thường kéo dài trong khoảng **1 - 3 tháng**. Khoảng thời gian này là bắt buộc và cần thiết để các nhà thầu quốc tế tiếp cận hồ sơ, nghiên cứu yêu cầu kỹ thuật - tài chính, khảo sát thực địa và lập hồ sơ dự thầu một cách hoàn chỉnh trước khi chính thức nộp thầu.
 
 ---
 
@@ -474,7 +474,7 @@
 - **D.** Đấu thầu riêng lẻ
 
 👉 **Đáp án đúng:** **[A] - Đấu thầu mở rộng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đấu thầu mở rộng (Đấu thầu rộng rãi - Open Bidding) là hình thức đấu thầu không hạn chế số lượng nhà thầu tham gia; bên mời thầu công khai thông báo rộng rãi trên các phương tiện thông tin đại chúng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* – **Chương I: Tổng quan về giao dịch thương mại quốc tế** – **Mục 4.2.2.5: Đấu thầu quốc tế**, **Tiểu mục a: Xét theo lượng người tham gia đấu thầu** (trang 25). - Theo giáo trình, khi phân loại đấu thầu dựa theo lượng người tham gia, **đấu thầu rộng rãi (đấu thầu mở rộng)** được định nghĩa là *"loại hình đấu thầu không hạn chế số lượng người dự thầu"*. Bên mời thầu công bố công khai các điều kiện dự án để mọi nhà thầu quan tâm, đáp ứng yêu cầu đều có quyền tự do nộp hồ sơ dự thầu cạnh tranh.
 
 ---
 
@@ -487,7 +487,7 @@
 - **D.** Bù trừ
 
 👉 **Đáp án đúng:** **[B] - Mua đối lưu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mua đối lưu (Counter-purchase) là hình thức thỏa thuận hai bên trong đó bên xuất khẩu bán hàng hóa/dịch vụ cho bên nhập khẩu, đồng thời cam kết mua lại một lượng hàng hóa khác của bên nhập khẩu trong một thời hạn nhất định (thường từ 1 đến 5 năm) qua hai hợp đồng riêng biệt.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* – **Chương I: Tổng quan về giao dịch thương mại quốc tế** – **Mục 4.2.2.1: Mua bán đối lưu** (trang 19). - Mua bán đối lưu (Counter trade) là phương thức giao dịch trong đó người xuất khẩu đồng thời là người nhập khẩu. Trong các hình thức mua bán đối lưu, **Mua đối lưu (Counter-Purchase)** là giao dịch mà một bên xuất khẩu hàng hóa hoặc dịch vụ của mình cho đối tác, đồng thời cam kết mua lại một lượng hàng hóa/dịch vụ khác từ chính đối tác đó trong một khoảng thời gian xác định (ở đây là thỏa thuận trong vòng 1 năm) thông qua hai hợp đồng mua bán song song.
 
 ---
 
@@ -500,7 +500,7 @@
 - **D.** Đại lý kinh tiêu
 
 👉 **Đáp án đúng:** **[D] - Đại lý kinh tiêu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đại lý kinh tiêu (Merchant Dealer) nhân danh chính mình mua bán hàng hóa và hưởng khoản chênh lệch giữa giá mua vào và giá bán ra cho khách hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.1.1.2: Các loại đại lý (b. Xét theo mức độ ủy quyền, trang 17) [1, 2]. - Theo *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên chủ biên), khi phân loại đại lý xét theo mức độ ủy quyền, **Đại lý kinh tiêu (Merchant agent)** được định nghĩa là thương nhân trung gian hoạt động với danh nghĩa và chi phí của chính mình; khoản thù lao mà đại lý kinh tiêu hưởng chính là khoản chênh lệch giữa giá mua (giá của người ủy thác) và giá bán lại hàng hóa cho khách hàng [2]. Đối chiếu với các phương án còn lại: + *Đại lý thụ ủy (Mandatory agent)*: Làm việc theo sự ủy thác của khách hàng, với danh nghĩa và chi phí của người ủy thác [1]. + *Đại lý hoa hồng (Commission agent)*: Làm việc theo sự ủy thác với danh nghĩa của người đại lý, chi phí do người ủy thác chịu và thù lao là tiền hoa hồng [2]. + *Đại lý đặc biệt (Special agent)*: Được phân loại dựa trên phạm vi quyền hạn (chỉ làm một việc nhất định) [1].
 
 ---
 
@@ -513,7 +513,7 @@
 - **D.** Đặt văn phòng đại diện tại nước ngoài
 
 👉 **Đáp án đúng:** **[D] - Đặt văn phòng đại diện tại nước ngoài**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Văn phòng đại diện (Representative Office) ở nước ngoài là đơn vị phụ thuộc của thương nhân, có nhiệm vụ nghiên cứu thị trường, xúc tiến thương mại và tư vấn khách hàng, không được trực tiếp thực hiện hoạt động sinh lợi (không trực tiếp ký hợp đồng mua bán).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.4: Xuất khẩu có sự trợ giúp văn phòng đại diện tại nước ngoài (trang 28–29) [3, 4]. - Theo *Giáo trình giao dịch ngoại thương*, việc thành lập văn phòng đại diện tại thị trường nước ngoài sẽ giúp doanh nghiệp tập trung hơn vào công tác nghiên cứu thị trường và tìm ra phương pháp hiệu quả nhất để củng cố vị thế [3]. Về mặt chức năng và bản chất pháp lý - thương mại: *"Thông thường, văn phòng đại diện chỉ có chức năng nghiên cứu, tư vấn và thực hiện các giao dịch hành chính ban đầu"* [3] và *"văn phòng đại diện không tiến hành các hoạt động kinh doanh"* [4] (chưa trực tiếp bán hàng). Vì vậy, trường hợp doanh nghiệp mở văn phòng chỉ để nghiên cứu thị trường, tư vấn khách hàng tiềm năng mà chưa trực tiếp bán hàng chính là hình thức **Đặt văn phòng đại diện tại nước ngoài** [3].
 
 ---
 
@@ -525,8 +525,8 @@
 - **C.** Khả năng thắng thầu chỉ phụ thuộc vào rất nhiều yếu tố tích cực mang lại
 - **D.** Thông thường người có điểm cao nhất là người thắng thầu
 
-👉 **Đáp án đúng:** **[D] - Thông thường người có điểm cao nhất là người thắng thầu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy chế đấu thầu quốc tế, sau khi tổng hợp điểm kỹ thuật và điểm tài chính theo thang điểm chuẩn trong hồ sơ mời thầu, nhà thầu đạt tổng điểm đánh giá cao nhất (hoặc giá đánh giá thấp nhất đạt chuẩn kỹ thuật) sẽ là người thắng thầu.
+👉 **Đáp án đúng:** **[B] - Một trong những chỉ tiêu là chọn người có điều kiện thuận lợi nhất**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2.2.5: Đấu thầu quốc tế (Trang 23–24) [1]. - Trong giáo trình, đấu thầu quốc tế được định nghĩa là *"phương thức giao dịch đặc biệt, trong đó một bên được gọi là bên mua hàng (hay còn gọi là bên mời thầu), dựa trên cơ sở cạnh tranh của các nhà bán hàng (bên dự thầu) sẽ lựa chọn người cung cấp có giá và các điều kiện khác thuận lợi nhất"* [1]. Như vậy, tiêu chí cốt lõi để xác định người thắng thầu là lựa chọn nhà thầu đưa ra mức giá và các điều kiện thương mại, kỹ thuật thuận lợi nhất cho bên mời thầu [1].
 
 ---
 
@@ -539,7 +539,7 @@
 - **D.** 80%
 
 👉 **Đáp án đúng:** **[B] - 70%**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo thông lệ quốc tế và quy chế đấu thầu hai phong bì, hồ sơ đề xuất kỹ thuật của nhà thầu phải đạt tối thiểu từ 70% tổng số điểm kỹ thuật trở lên mới được xem xét mở tiếp phong bì đề xuất tài chính.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 4.2.2.5: Đấu thầu quốc tế & Chương III / Mục 2.6: Hợp đồng đấu thầu quốc tế (dẫn chiếu Luật Đấu thầu) [2, 3]. - Đối với hình thức đấu thầu hai túi hồ sơ (đấu thầu kiểu hai phong bì), hồ sơ đề xuất kỹ thuật được mở và đánh giá trước [2]. Theo quy định chuẩn mực về nghiệp vụ đấu thầu quốc tế và pháp luật đấu thầu hiện hành, chỉ những hồ sơ dự thầu đạt điểm kỹ thuật từ mức sàn **70%** (hoặc 70/100 điểm) trở lên mới được đánh giá là đạt yêu cầu về mặt kỹ thuật để tiếp tục được mở túi hồ sơ đề xuất tài chính/giá [2].
 
 ---
 
@@ -552,7 +552,7 @@
 - **D.** môi giới thương mại
 
 👉 **Đáp án đúng:** **[C] - đại diện cho cá nhân**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Chương V Luật Thương mại 2005 quy định 4 hoạt động trung gian thương mại: (1) Đại diện cho thương nhân; (2) Môi giới thương mại; (3) Ủy thác mua bán hàng hóa; (4) Đại lý thương mại. Luật không có khái niệm 'đại diện cho cá nhân' trong hoạt động thương mại.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I / Mục 4.1: Xuất nhập khẩu qua trung gian & Chương III / Mục 2.8: Hợp đồng mua bán hàng hóa qua trung gian (dẫn chiếu Luật Thương mại 2005) [4-6]. - Theo quy định tại Chương IV Luật Thương mại 2005, các hoạt động trung gian thương mại bao gồm 4 hình thức pháp lý: **Đại diện cho thương nhân**, **Môi giới thương mại**, **Ủy thác mua bán hàng hóa**, và **Đại lý thương mại** [4-6]. Do hoạt động thương mại điều chỉnh quan hệ giữa các chủ thể kinh doanh (thương nhân), luật quy định *"Đại diện cho thương nhân"* chứ không có khái niệm *"Đại diện cho cá nhân"* [6, 7].
 
 ---
 
@@ -565,7 +565,7 @@
 - **D.** Doanh nghiệp
 
 👉 **Đáp án đúng:** **[C] - Quốc gia**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Tòa thánh Vatican (Holy See) là một thực thể độc lập có chủ quyền được công nhận theo công pháp quốc tế, tham gia vào các quan hệ quốc tế với tư cách là một quốc gia/chủ thể đặc biệt.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 2: Chủ thể tham gia vào giao dịch thương mại quốc tế / Mục 2.1: Chủ thể trong giao dịch thương mại quốc tế (trang 12). - Theo Giáo trình Giao dịch thương mại quốc tế (PGS.TS Phạm Duy Liên chủ biên, NXB Thống kê, trang 12), trong thương mại quốc tế có 4 loại chủ thể tham gia chủ yếu: 1. **Các doanh nghiệp**: Là chủ thể phổ biến nhất nhằm tối đa hóa lợi nhuận. 2. **Các quốc gia**: Tham gia với tư cách là chủ thể đặc biệt nhằm khai thác lợi ích kinh tế cho phát triển quốc gia và điều chỉnh hoạt động thương mại. 3. **Các tổ chức phi chính phủ**: Các tổ chức tự nguyện, ngành nghề tham gia vì mục đích nhất định. 4. **Các tổ chức quốc tế**: Các tổ chức toàn cầu, khu vực hay chuyên ngành (như WTO, ASEAN, ITC). Tòa thánh Vatican (Vatican City State / Holy See) mang chủ quyền quốc gia độc lập được quốc tế công nhận, do đó khi tham gia vào các quan hệ và giao dịch thương mại quốc tế, Vatican tham gia với tư cách là một **Quốc gia** (chủ thể đặc biệt).
 
 ---
 
@@ -578,7 +578,7 @@
 - **D.** Văn phòng đại diện, công ty con, chi nhánh
 
 👉 **Đáp án đúng:** **[A] - Văn phòng đại diện, chi nhánh, công ty con**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mức độ tự chủ và hoàn thiện pháp lý tăng dần từ thấp đến cao: Văn phòng đại diện (chỉ nghiên cứu, xúc tiến) -> Chi nhánh (được thực hiện hoạt động kinh doanh nhưng không có tư cách pháp nhân riêng) -> Công ty con (pháp nhân độc lập có vốn, tài sản và tự chịu trách nhiệm).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 4.2: Xuất nhập khẩu trực tiếp (Mục 4.2.4, 4.2.5, 4.2.7 và Sơ đồ Hình "Các hình thức tham gia thị trường nước ngoài" trang 30). - Giáo trình phân tích rõ mức độ tự chủ, pháp lý và sự hoàn thiện tăng dần khi doanh nghiệp thâm nhập thị trường nước ngoài: 1. **Văn phòng đại diện**: Là hình thức tiếp cận ban đầu, "chỉ có chức năng nghiên cứu, tư vấn và thực hiện các giao dịch hành chính ban đầu", "không tiến hành các hoạt động kinh doanh" sinh lời (trang 28–29). 2. **Chi nhánh**: Doanh nghiệp tiến thêm một bước là "trực tiếp kinh doanh tại thị trường đối tượng", nhưng "chưa hạch toán một cách độc lập", phạm vi quyền hạn còn hạn chế và chưa có tư cách pháp nhân riêng tại nước sở tại (trang 29–30). 3. **Công ty con**: Là biểu hiện phát triển ở cấp độ cao nhất, thể hiện sự "chiếm lĩnh thị trường nước ngoài một cách vững chắc", "các công ty con có tư cách pháp nhân đầy đủ và tiến hành các hoạt động kinh doanh tại thị trường đối tượng một cách độc lập" (trang 31–32). Vì vậy, trình tự đúng thể hiện sự tự chủ và hoàn thiện tăng lên là: **Văn phòng đại diện, chi nhánh, công ty con**.
 
 ---
 
@@ -591,7 +591,7 @@
 - **D.** Giới thiệu về doanh nghiệp của bạn
 
 👉 **Đáp án đúng:** **[D] - Giới thiệu về doanh nghiệp của bạn**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Cấu trúc chuẩn của một bức thư hỏi hàng (Letter of Inquiry): (1) Lời chào; (2) Nêu lý do biết đến công ty; (3) Giới thiệu tóm tắt về doanh nghiệp mình; (4) Đưa ra yêu cầu cụ thể về chủng loại, giá cả, điều kiện giao hàng; (5) Lời cảm ơn và mong đợi hồi âm.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 3.1: Hỏi hàng (Inquiry) (trang 13) & Chương IV: Xuất khẩu hàng hóa / Mục 5.2.1: Đàm phán bằng thư từ điện tín (trang 190). - Trong kỹ thuật đàm phán bằng thư tín thương mại (Thư hỏi hàng - Inquiry Letter/Email), một văn bản hỏi hàng chuẩn mực tuân thủ cấu trúc logic gồm các bước: 1. **Lời chào đầu thư hỏi hàng** (Salutation). 2. **Lý do biết đến đối tác** (Nêu nguồn thông tin/xuất xứ mối quan hệ). 3. **Giới thiệu về doanh nghiệp của bạn** (Tóm tắt tư cách pháp lý, quy mô, lĩnh vực kinh doanh của bên hỏi hàng). 4. **Đưa ra câu hỏi và yêu cầu cụ thể để hỏi hàng** (Yêu cầu chi tiết về tên hàng, quy cách, phẩm chất, giá cả, catalogue, điều kiện giao hàng và thanh toán...). 5. **Lời cảm ơn và chào kết thúc thư**. Do đó, phần đưa ra câu hỏi và yêu cầu cụ thể để hỏi hàng được đặt ngay sau phần **Giới thiệu về doanh nghiệp của bạn**.
 
 ---
 
@@ -604,7 +604,7 @@
 - **D.** Công ty bắt buộc phải xuất khẩu một lượng gạo nhất định theo chính sách của chính phủ
 
 👉 **Đáp án đúng:** **[C] - Công ty mở chi nhánh mới ở nước ngoài, nơi mà trước đây doanh nghiệp đã bán qua mạng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi doanh nghiệp đã chính thức thành lập chi nhánh trực tiếp tại nước sở tại và đã có cơ sở khách hàng sẵn có qua mạng, việc sử dụng thêm trung gian thương mại sẽ làm tăng chi phí phân phối và chồng chéo kênh bán hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên) / Chương 1: Tổng quan về giao dịch thương mại quốc tế / Mục 4: Các hình thức tham gia vào thị trường nước ngoài (Mục 4.1 "Xuất nhập khẩu qua trung gian" và Mục 4.2 "Xuất nhập khẩu trực tiếp", tiểu mục 4.2.5 "Đặt các chi nhánh của doanh nghiệp ở nước ngoài") [1]. - + Theo Giáo trình (Chương 1, Mục 4.1), việc sử dụng trung gian tham gia vào thị trường nước ngoài chỉ nên được sử dụng khi và chỉ khi đáp ứng các trường hợp sau [2]: 1. Lần đầu tiên tham gia thị trường nước ngoài hoặc tham gia vào thị trường mới mà chưa biết nhiều về thị trường đó [2] (ứng với phương án **B**). 2. Vốn hạn chế, hàng hóa không nhiều hoặc nhu cầu không thường xuyên [2] (ứng với phương án **A**). 3. Các hàng hóa cần có mặt tại thị trường, hoặc do quy định của luật pháp [2] (ứng với phương án **D**). + Trong khi đó, trường hợp phương án **C** ("Công ty mở chi nhánh mới ở nước ngoài, nơi mà trước đây doanh nghiệp đã bán qua mạng") thuộc phương thức **Xuất nhập khẩu trực tiếp** (Mục 4.2 & Mục 4.2.5) [3, 4]. Khi doanh nghiệp tự thành lập chi nhánh trực tiếp tiến hành hoạt động kinh doanh tại thị trường đối tượng để chủ động nắm bắt diễn biến thị trường và khai thác lợi thế [5, 6], doanh nghiệp chủ động giao dịch trực tiếp chứ không qua người thứ ba (trung gian) [3, 7]. Do đó, đây là trường hợp không nên/không cần sử dụng trung gian [2, 3].
 
 ---
 
@@ -617,7 +617,7 @@
 - **D.** Vì hàng hóa luôn được bán với giá thấp hơn nhiều so với giá bán buôn thông thường
 
 👉 **Đáp án đúng:** **[A] - Vì hàng hóa được bán theo giá bán lẻ và ít tốn chi phí đóng gói, bảo quản hơn**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Xuất khẩu tại chỗ qua du lịch quốc tế mang lại hiệu quả kinh tế rất cao vì: Hàng hóa được bán trực tiếp cho khách du lịch theo giá bán lẻ, thu ngoại tệ ngay tại chỗ, tiết kiệm tối đa chi phí vận chuyển quốc tế, bao bì đóng gói đường biển và thủ tục hải quan phức tạp.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* (PGS.TS Phạm Duy Liên) / Chương 1: Tổng quan về giao dịch thương mại quốc tế (Mục 4.2.3: Du lịch quốc tế) [1, 2] & Chương 4: Xuất khẩu hàng hóa (Mục 2.3: Xuất khẩu tại chỗ) [3]. - Xuất khẩu tại chỗ thông qua du lịch quốc tế là hình thức bán hàng hóa trực tiếp cho du khách nước ngoài ngay trên lãnh thổ quốc gia [1-3]. Phương thức này mang lại hiệu quả kinh tế cao hơn so với xuất khẩu ngoại thương thông thường vì hàng hóa được bán theo giá bán lẻ (thu về trị giá cao hơn so với giá bán buôn xuất khẩu), đồng thời người bán tiết kiệm được đáng kể các chi phí đóng gói xuất khẩu đường dài, chi phí bảo quản, vận tải quốc tế và thủ tục hải quan phức tạp [1, 2].
 
 ---
 
@@ -630,7 +630,7 @@
 - **D.** Quốc gia
 
 👉 **Đáp án đúng:** **[B] - Tổ chức quốc tế**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** WCO (World Customs Organization - Tổ chức Hải quan Thế giới) là một tổ chức liên chính phủ quốc tế độc lập, chuyên nghiên cứu chuẩn hóa các quy tắc phân loại hàng hóa (hệ thống HS), thủ tục hải quan và an ninh thương mại toàn cầu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* (PGS.TS Phạm Duy Liên) / Chương 1: Tổng quan về giao dịch thương mại quốc tế (Mục 2.1: Chủ thể trong giao dịch thương mại quốc tế) [4] & Chương 3: Hợp đồng trong giao dịch thương mại quốc tế (Mục 2.1.1: Điều khoản tên hàng) [5]. - WCO (*World Customs Organization* - Tổ chức Hải quan thế giới) là tổ chức liên chính phủ chuyên ngành có vai trò xây dựng và quản lý các công cụ, danh mục chuẩn hóa hải quan toàn cầu (tiêu biểu là Hệ thống hài hòa mô tả và mã hóa hàng hóa - Công ước HS 1988) [5]. Trong giao dịch thương mại quốc tế, WCO thuộc nhóm chủ thể **Tổ chức quốc tế** (Tổ chức quốc tế toàn cầu/chuyên ngành điều chỉnh các hoạt động thương mại) [4].
 
 ---
 
@@ -647,7 +647,7 @@
 - **D.** Đường biển và đường thủy nội địa.
 
 👉 **Đáp án đúng:** **[D] - Đường biển và đường thủy nội địa.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Incoterms® 2020, CIF (Cost, Insurance and Freight) là điều kiện chỉ áp dụng riêng cho phương thức vận tải đường biển và đường thủy nội địa.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Quy tắc ICC Incoterms 2020) / Phần "Các điều kiện áp dụng cho vận tải biển và vận tải thủy nội địa" / Quy tắc CIF (*Cost Insurance and Freight* - Tiền hàng, Phí bảo hiểm và Cước phí), Hướng dẫn sử dụng số 1 [6, 7]. - Theo quy tắc ICC Incoterms 2020, CIF là điều kiện thương mại truyền thống nằm trong nhóm **chỉ áp dụng cho phương thức vận tải biển và vận tải thủy nội địa** [6, 7]. ICC nhấn mạnh rằng CIF không phù hợp khi hàng hóa được giao cho người chuyên chở trước khi đưa lên tàu (như hàng đóng trong container giao tại bến bãi CFS/CY hoặc vận tải đa phương thức); trong các trường hợp đó, điều kiện CIP sẽ được sử dụng để thay thế [7].
 
 ---
 
@@ -660,7 +660,7 @@
 - **D.** Cargo Insurance Paid.
 
 👉 **Đáp án đúng:** **[B] - Carriage and Insurance Paid To.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** CIP là viết tắt của 'Carriage and Insurance Paid To' (Cước phí và bảo hiểm trả tới...), áp dụng cho mọi phương thức vận tải, kể cả vận tải đa phương thức.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải - Quy tắc CIP) [1] và *Giáo trình giao dịch ngoại thương.pdf* (Chương II, Mục 2.1.4: CIP - Cước phí và phí bảo hiểm trả tới) [2]. - CIP là từ viết tắt của thuật ngữ tiếng Anh **"Carriage and Insurance Paid To"**, dịch sang tiếng Việt nghĩa là "Cước phí và phí bảo hiểm trả tới" [1, 2]. Theo quy tắc này, người bán có nghĩa vụ giao hàng cho người chuyên chở hoặc một người khác do người bán chỉ định tại địa điểm thỏa thuận, ký hợp đồng và trả chi phí vận tải để đưa hàng đến địa điểm quy định, đồng thời phải ký hợp đồng bảo hiểm để bảo vệ người mua trước những rủi ro mất mát hoặc hư hỏng hàng hóa trong quá trình vận chuyển [1, 2].
 
 ---
 
@@ -673,7 +673,7 @@
 - **D.** Cơ quan hải quan.
 
 👉 **Đáp án đúng:** **[C] - Người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo CPT (Carriage Paid To), rủi ro về mất mát hoặc hư hỏng hàng hóa được chuyển từ người bán sang người mua ngay khi người bán giao hàng cho người chuyên chở (carrier) đầu tiên được chỉ định tại nơi đi (Hà Nội). Khi hàng bị hư hỏng trên đường tới Paris, rủi ro thuộc về người mua.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Quy tắc CPT - Hướng dẫn sử dụng & Mục A3/B3) [3-6] và *Giáo trình giao dịch ngoại thương.pdf* (Chương II, Mục 2.1.3: CPT - Cước phí trả tới) [7, 8]. - Trong quy tắc CPT (Carriage Paid To), có hai điểm tới hạn khác nhau về việc chuyển giao rủi ro và phân chia chi phí [4, 8]: 1. **Mốc chuyển giao rủi ro**: Rủi ro về mất mát hoặc hư hỏng hàng hóa được chuyển từ người bán sang người mua ngay khi người bán giao hàng cho người chuyên chở (hoặc người chuyên chở đầu tiên) tại địa điểm xuất phát (ở đây là tại Hà Nội) [4-6, 8]. 2. **Mốc phân chia chi phí**: Người bán có nghĩa vụ ký hợp đồng vận tải và trả cước phí vận chuyển cần thiết để đưa hàng đến địa điểm đến quy định (Paris) [3, 5, 7]. Vì Công ty A đã hoàn thành nghĩa vụ giao hàng đúng quy định cho người chuyên chở tại Hà Nội, nên rủi ro phát sinh từ tổn thất, hư hỏng hàng hóa trong quá trình vận tải từ Hà Nội đến Paris thuộc về **người mua** [4, 6, 8].
 
 ---
 
@@ -686,7 +686,7 @@
 - **D.** Chỉ đường biển.
 
 👉 **Đáp án đúng:** **[C] - Mọi phương thức vận tải.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** CPT là điều kiện thuộc nhóm vận tải đa phương thức, có thể sử dụng cho mọi phương thức vận tải (đường bộ, đường sắt, đường hàng không, đường biển, vận tải kết hợp).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Quy tắc CPT - Mục 1: Về phương thức vận tải) [3] và *Giáo trình giao dịch ngoại thương.pdf* (Chương II, Mục 1.3.1 & Bảng 2.2: Phân loại theo phương thức vận tải) [9, 10]. - CPT (Carriage Paid To) thuộc nhóm các quy tắc áp dụng cho **mọi phương thức vận tải** (bao gồm vận tải đường bộ, đường sắt, đường hàng không, đường biển, đường thủy nội địa) và có thể sử dụng khi có nhiều phương thức/phương tiện vận tải cùng tham gia (vận tải đa phương thức) [3, 9, 10].
 
 ---
 
@@ -699,7 +699,7 @@
 - **D.** Commercial Paid Transport.
 
 👉 **Đáp án đúng:** **[C] - Carriage Paid To.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** CPT là viết tắt của thuật ngữ 'Carriage Paid To' theo Incoterms®.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải - Quy tắc CPT) [3] và *Giáo trình giao dịch ngoại thương.pdf* (Chương II, Mục 2.1.3: CPT - Cước phí trả tới) [7]. - CPT là viết tắt của thuật ngữ tiếng Anh **"Carriage Paid To"**, nghĩa là "Cước phí trả tới" [3, 7]. Theo quy tắc này, người bán giao hàng cho người chuyên chở do người bán chỉ định và thanh toán cước phí vận tải cần thiết để đưa hàng hóa đến địa điểm đến được chỉ định [3, 7].
 
 ---
 
@@ -712,7 +712,7 @@
 - **D.** Delivery Alongside Port.
 
 👉 **Đáp án đúng:** **[A] - Delivered At Place.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** DAP là viết tắt của thuật ngữ 'Delivered At Place' (Giao tại nơi đến) theo Incoterms®.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải - Quy tắc DAP) [1]; *Giáo trình giao dịch ngoại thương.pdf* (Chương II, Mục 1.3.1 Phân loại theo phương thức vận tải & Mục 2.1.6 DAP) [2, 3]. - Thuật ngữ **DAP** là viết tắt của cụm từ tiếng Anh **Delivered At Place** (Giao tại nơi đến) [1, 2]. Theo định nghĩa chuẩn mực của ICC, người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được đặt dưới sự định đoạt của người mua trên phương tiện vận tải chở đến và sẵn sàng để dỡ tại nơi đến chỉ định [3, 4].
 
 ---
 
@@ -725,7 +725,7 @@
 - **D.** Delivered Duty Paid Place.
 
 👉 **Đáp án đúng:** **[A] - Delivered Duty Paid.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** DDP là viết tắt của thuật ngữ 'Delivered Duty Paid' (Giao đã nộp thuế) theo Incoterms®.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải - Quy tắc DDP) [5]; *Giáo trình giao dịch ngoại thương.pdf* (Chương II, Mục 1.3.1 Phân loại theo phương thức vận tải & Mục 2.1.7 DDP) [2, 6]. - Thuật ngữ **DDP** là viết tắt của cụm từ tiếng Anh **Delivered Duty Paid** (Giao hàng đã thông quan nhập khẩu) [2, 5]. Trong hệ thống các quy tắc Incoterms, DDP thể hiện **nghĩa vụ tối đa của người bán** khi người bán chịu mọi chi phí và rủi ro để đưa hàng tới nơi đến, đồng thời có nghĩa vụ thông quan xuất khẩu lẫn thông quan nhập khẩu và nộp toàn bộ các khoản thuế, lệ phí liên quan [6-8].
 
 ---
 
@@ -738,7 +738,7 @@
 - **D.** DDP bắt buộc người bán dỡ hàng.
 
 👉 **Đáp án đúng:** **[C] - Trách nhiệm thực hiện thủ tục nhập khẩu.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khác biệt cốt lõi: Theo DAP, người mua có nghĩa vụ làm thủ tục nhập khẩu và nộp thuế nhập khẩu; còn theo DDP, người bán có nghĩa vụ làm thủ tục thông quan nhập khẩu và nộp thuế nhập khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Hướng dẫn sử dụng DAP, mục 4 & DDP, mục 5) [8, 9]; *Giáo trình giao dịch ngoại thương.pdf* (Chương II, Mục 2.1.6 DAP & Mục 2.1.7 DDP) [10, 11]. - Điểm khác biệt cốt lõi và nổi bật nhất giữa DAP và DDP là **trách nhiệm thực hiện thủ tục thông quan nhập khẩu**: - Đối với **DAP**: Người bán chỉ có nghĩa vụ thông quan xuất khẩu, **người mua chịu trách nhiệm và chi phí thông quan nhập khẩu**, nộp thuế nhập khẩu cũng như làm các thủ tục hải quan nhập khẩu [9, 10]. - Đối với **DDP**: **Người bán phải chịu trách nhiệm và chi phí thông quan nhập khẩu**, nộp toàn bộ thuế nhập khẩu và lệ phí hải quan tại nước nhập khẩu [6, 8]. - Các tài liệu chuyên ngành đều khuyến cáo: Nếu người bán không có khả năng trực tiếp hoặc gián tiếp làm thủ tục thông quan nhập khẩu thì các bên không nên dùng DDP mà chuyển sang dùng DAP [8, 11].
 
 ---
 
@@ -751,7 +751,7 @@
 - **D.** Nghĩa vụ dỡ hàng tại nơi đến.
 
 👉 **Đáp án đúng:** **[D] - Nghĩa vụ dỡ hàng tại nơi đến.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khác biệt lớn nhất giữa DAP và DPU: Theo DAP, người bán giao hàng trên phương tiện vận tải đến, sẵn sàng để dỡ (người mua dỡ hàng); còn theo DPU, người bán bắt buộc phải hoàn thành việc dỡ hàng xuống khỏi phương tiện vận tải tại nơi đến thỏa thuận.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Lời giới thiệu điểm mới Incoterms 2020; Phần Hướng dẫn sử dụng DAP, mục 2 & DPU, mục 2) [4, 12, 13]. - Điểm khác biệt nổi bật nhất giữa DAP và DPU (quy tắc thay thế cho DAT trong Incoterms 2020) là **nghĩa vụ dỡ hàng tại nơi đến** [12]: - Đối với **DAP** (Delivered at Place): Người bán giao hàng khi hàng hóa đặt dưới sự định đoạt của người mua trên phương tiện vận tải chở đến và **sẵn sàng để dỡ** (người mua chịu chi phí và rủi ro dỡ hàng khỏi phương tiện vận tải) [4]. - Đối với **DPU** (Delivered at Place Unloaded): Người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa đã được **dỡ xuống khỏi phương tiện vận tải** tại nơi đến quy định [13]. DPU là quy tắc duy nhất trong Incoterms 2020 buộc người bán phải chịu mọi chi phí và rủi ro cho việc dỡ hàng tại điểm đến [13].
 
 ---
 
@@ -764,7 +764,7 @@
 - **D.** Điểm giao hàng.
 
 👉 **Đáp án đúng:** **[A] - Nghĩa vụ bảo hiểm của người bán.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khác biệt cốt lõi: Theo CPT, người bán không có nghĩa vụ mua bảo hiểm; còn theo CIP, người bán bắt buộc phải mua bảo hiểm cho hàng hóa (theo Incoterms 2020, CIP yêu cầu bảo hiểm loại A - mọi rủi ro Institute Cargo Clauses A).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Mục CPT (tr. 33, Mục A5/B5 tr. 37-38) và Mục CIP (tr. 41, Mục A5 tr. 47, 387). - Cả CPT (Carriage Paid To) và CIP (Carriage and Insurance Paid To) đều áp dụng cho mọi phương thức vận tải (kể cả vận tải đa phương thức), theo đó người bán đều hoàn thành nghĩa vụ giao hàng khi giao cho người chuyên chở chứ không phải khi hàng tới điểm đích, đồng thời người bán phải chịu chi phí vận tải và làm thủ tục thông quan xuất khẩu [1-5]. Điểm khác biệt quan trọng nhất giữa hai điều kiện này là **nghĩa vụ bảo hiểm của người bán**: - Theo điều kiện **CPT**, người bán **không** có nghĩa vụ ký kết hợp đồng bảo hiểm cho lô hàng [6, 7]. - Theo điều kiện **CIP**, người bán **bắt buộc** phải ký hợp đồng bảo hiểm và trả phí bảo hiểm để bảo vệ rủi ro về mất mát, hư hỏng hàng hóa cho người mua trong quá trình vận chuyển [2, 5]. (Đặc biệt theo Incoterms 2020, CIP quy định người bán mặc định phải mua bảo hiểm ở mức tối đa – Điều kiện A hoặc tương đương [8, 9]).
 
 ---
 
@@ -777,7 +777,7 @@
 - **D.** Người mua thuê toàn bộ vận tải.
 
 👉 **Đáp án đúng:** **[A] - Người bán phải dỡ hàng tại địa điểm đến thỏa thuận.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** DPU (Delivered at Place Unloaded - điều kiện duy nhất thay thế DAT của Incoterms 2010) yêu cầu người bán phải dỡ hàng khỏi phương tiện vận tải tại nơi đến chỉ định.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Lời giới thiệu (tr. 8) và Mục DPU - Delivered at Place Unloaded (tr. 61, Mục A2 tr. 63). - DPU (Delivered at Place Unloaded – Giao tại nơi đến đã dỡ hàng) là điều kiện mới được ICC đưa vào Incoterms 2020 để thay thế cho điều kiện DAT (Delivered at Terminal) [10]. Điểm nổi bật và đặc thù nhất của DPU là: - DPU là **điều kiện duy nhất** trong Incoterms 2020 yêu cầu **người bán phải dỡ hàng xuống khỏi phương tiện vận tải chở tới tại địa điểm đến quy định** [11]. - Người bán chịu mọi chi phí và rủi ro liên quan để đưa hàng đến nơi quy định và hoàn tất việc dỡ hàng [11]. (Về thủ tục hải quan nhập khẩu, người mua vẫn chịu trách nhiệm thông quan theo Mục B7 [12, 13]).
 
 ---
 
@@ -790,7 +790,7 @@
 - **D.** CIP.
 
 👉 **Đáp án đúng:** **[A] - CFR.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong Incoterms 2020, chỉ có 2 điều kiện bắt buộc người bán phải thu xếp bảo hiểm là CIF và CIP. CFR (Cost and Freight) người bán không có nghĩa vụ mua bảo hiểm, việc mua bảo hiểm do người mua tự quyết định.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Mục CFR - Cost and Freight (tr. 97, Mục A5 tr. 101) đối chiếu với Mục CIF (tr. 107) và CIP (tr. 41). - Trong các quy tắc Incoterms, chỉ có các điều kiện chứa ký tự **"I" (Insurance)** là **CIF** và **CIP** mới quy định nghĩa vụ bắt buộc đối với người bán trong việc thu xếp và mua bảo hiểm cho người mua [2, 5, 14, 15]. - Đối với điều kiện **CFR** (Cost and Freight – Tiền hàng và Cước phí), người bán chỉ chịu chi phí cước vận tải để đưa hàng đến cảng đến [16, 17]. Rủi ro chuyển sang người mua ngay khi hàng được giao lên tàu tại cảng bốc hàng [16, 17], và người bán **không có nghĩa vụ đối với người mua về việc ký kết hợp đồng bảo hiểm** (Mục A5 CFR) [18, 19]. Người mua sẽ tự chịu rủi ro trên chặng vận tải biển và tự quyết định việc mua bảo hiểm nếu thấy cần thiết [20].
 
 ---
 
@@ -803,7 +803,7 @@
 - **D.** DDP.
 
 👉 **Đáp án đúng:** **[B] - EXW.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** EXW (Ex Works - Giao tại xưởng) thể hiện mức nghĩa vụ tối thiểu (thấp nhất) của người bán: người bán chỉ cần đặt hàng dưới quyền định đoạt của người mua tại cơ sở của mình, không phải bốc hàng lên xe và không phải làm thủ tục xuất khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II, Mục 2.1.1 - EXW (tr. 46). - Trong số 11 quy tắc Incoterms, **EXW (Ex Works – Giao tại xưởng)** thể hiện **mức nghĩa vụ tối thiểu (thấp nhất) cho người bán** [21, 22]: - Người bán hoàn thành nghĩa vụ giao hàng khi đặt hàng hóa dưới sự định đoạt của người mua tại cơ sở của người bán (nhà máy, xưởng, kho...) hoặc một địa điểm quy định khác [23, 24]. - Người bán không có nghĩa vụ phải bốc hàng lên phương tiện vận tải do người mua đến nhận, cũng như không phải làm thủ tục thông quan xuất khẩu cho hàng hóa [23, 24]. Toàn bộ chi phí, thủ tục và rủi ro từ thời điểm nhận hàng đều do người mua gánh vác [21, 24]. (Trong khi đó, DDP đại diện cho mức nghĩa vụ tối đa của người bán [25, 26]).
 
 ---
 
@@ -816,7 +816,7 @@
 - **D.** Free At Ship.
 
 👉 **Đáp án đúng:** **[A] - Free Alongside Ship.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** FAS là viết tắt của 'Free Alongside Ship' (Giao dọc mạn tàu), chỉ áp dụng cho vận tải đường biển và đường thủy nội địa.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Mục FAS - Free Alongside Ship (tr. 77). - FAS** là viết tắt của thuật ngữ tiếng Anh **"Free Alongside Ship"** (dịch sang tiếng Việt là "Giao dọc mạn tàu") [27-29]: - Đây là quy tắc áp dụng cho vận tải biển và đường thủy nội địa, theo đó người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được đặt dọc mạn con tàu do người mua chỉ định (ví dụ đặt trên cầu cảng hoặc trên sà lan) tại cảng bốc hàng quy định [27, 29]. - Rủi ro về mất mát hoặc hư hỏng của hàng hóa chuyển từ người bán sang người mua kể từ khi hàng hóa đã nằm yên vị dọc mạn tàu [27, 29].
 
 ---
 
@@ -829,7 +829,7 @@
 - **D.** Freight Carrier Arrangement.
 
 👉 **Đáp án đúng:** **[B] - Free Carrier.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** FCA là viết tắt của 'Free Carrier' (Giao cho người chuyên chở), áp dụng cho mọi phương thức vận tải.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf* — Chương II: Incoterms - Các điều kiện thương mại quốc tế, Mục 2.1.2 "FCA - Giao cho người chuyên chở" [1, 2]. - FCA** là viết tắt của thuật ngữ tiếng Anh **Free Carrier**, dịch sang tiếng Việt là "Giao cho người chuyên chở" [1-3]. Theo quy tắc này, người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được giao cho người chuyên chở hoặc một người khác do người mua chỉ định tại cơ sở của người bán hoặc tại một địa điểm quy định khác [2, 4].
 
 ---
 
@@ -842,7 +842,7 @@
 - **D.** Free On Board.
 
 👉 **Đáp án đúng:** **[D] - Free On Board.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** FOB là viết tắt của 'Free On Board' (Giao trên tàu), chỉ áp dụng cho vận tải đường biển và đường thủy nội địa.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf* — Chương II: Incoterms - Các điều kiện thương mại quốc tế, Mục 2.2.2 "FOB - Giao hàng trên tàu" [5]. - FOB** là viết tắt của thuật ngữ tiếng Anh **Free On Board**, dịch sang tiếng Việt là "Giao hàng trên tàu" [5, 6]. Theo điều kiện này, người bán giao hàng lên con tàu do người mua chỉ định tại cảng bốc hàng quy định; mốc chuyển giao rủi ro về mất mát hay hư hỏng của hàng hóa từ người bán sang người mua là khi hàng hóa đã nằm an toàn trên tàu [5, 7].
 
 ---
 
@@ -855,7 +855,7 @@
 - **D.** 5 nhóm.
 
 👉 **Đáp án đúng:** **[A] - 2 nhóm.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Incoterms® 2020 phân chia 11 điều kiện thương mại thành 2 nhóm chính xét theo phương thức vận tải: (1) Nhóm áp dụng cho mọi phương thức vận tải (7 điều kiện: EXW, FCA, CPT, CIP, DAP, DPU, DDP); (2) Nhóm chỉ áp dụng cho vận tải biển và thủy nội địa (4 điều kiện: FAS, FOB, CFR, CIF).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf* — Lời giới thiệu, Mục III.3 "Địa điểm chuyển giao hàng hóa" & Mục lục [8, 9]. - Bắt đầu từ phiên bản Incoterms® 2010 và tiếp tục duy trì ở Incoterms® 2020, ICC chính thức phân chia 11 điều kiện thương mại thành **2 nhóm** dựa trên phương thức vận tải áp dụng [8-10]: 1. **Nhóm các quy tắc sử dụng cho một hoặc nhiều phương thức vận tải** (mọi phương thức vận tải): Gồm 7 điều kiện (EXW, FCA, CPT, CIP, DAP, DPU, DDP) [8, 10]. 2. **Nhóm các quy tắc chỉ áp dụng cho vận tải đường biển và đường thủy nội địa**: Gồm 4 điều kiện (FAS, FOB, CFR, CIF) [8, 10].
 
 ---
 
@@ -868,7 +868,7 @@
 - **D.** Việc xác định điểm giao hàng.
 
 👉 **Đáp án đúng:** **[C] - Hợp đồng mua bán hàng hóa giữa các bên.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Incoterms® chỉ là tập quán thương mại quốc tế điều chỉnh việc phân chia nghĩa vụ, chi phí và rủi ro giao nhận hàng hóa giữa người mua và người bán, không thể thay thế cho bản hợp đồng mua bán hàng hóa hoàn chỉnh.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf* — Lời giới thiệu, Mục II "Incoterms không có tác dụng gì?" [11]. - Incoterms® chỉ là bộ quy tắc giải thích các điều kiện thương mại nhằm phân định nghĩa vụ, chi phí và rủi ro liên quan đến việc giao nhận hàng hóa giữa bên bán và bên mua [13-15]. Incoterms® **không phải và không thể thay thế hợp đồng mua bán hàng hóa giữa các bên** (hợp đồng thương mại) [11]. Incoterms® không điều chỉnh các vấn đề pháp lý cốt lõi của hợp đồng như sự chuyển giao quyền sở hữu, giá cả, phương thức thanh toán, các hình thức chế tài khi vi phạm hợp đồng hay luật áp dụng [11, 12].
 
 ---
 
@@ -881,7 +881,7 @@
 - **D.** Thời điểm chuyển quyền sở hữu hàng hóa.
 
 👉 **Đáp án đúng:** **[D] - Thời điểm chuyển quyền sở hữu hàng hóa.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Incoterms® không trực tiếp điều chỉnh thời điểm chuyển quyền sở hữu hàng hóa, việc vi phạm hợp đồng hay hậu quả của việc vi phạm hợp đồng (những vấn đề này do luật áp dụng và thỏa thuận trong hợp đồng điều chỉnh).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) – Chương II: Incoterms - Các điều kiện thương mại quốc tế, Mục 4.c "Quy định trong hợp đồng những vấn đề mà Incoterms không đề cập" (tr. 83) [1]. - Incoterms tập trung phân định 3 nghĩa vụ cốt lõi giữa người bán và người mua liên quan đến việc giao hàng hóa hữu hình bao gồm: Phân chia nghĩa vụ/trách nhiệm (Tasks), Phân chia rủi ro (Risks - mốc chuyển rủi ro từ người bán sang người mua) và Phân chia chi phí (Costs) [3, 4]. Tài liệu gốc nhấn mạnh: *"Incoterms không đề cập đến nhiều vấn đề liên quan tới nghĩa vụ, quyền lợi của các bên trong hợp đồng mua bán như: quyền sở hữu hàng hoá và các quyền sở hữu khác; việc vi phạm hợp đồng và hậu quả của sự vi phạm hợp đồng đó; trường hợp miễn trách..."* [1] và *"Các điều kiện Incoterms không điều chỉnh tới các vấn đề như đặc điểm của hàng hóa, phương thức thanh toán, hậu quả của việc giao hàng chậm và các vi phạm khác, tranh chấp liên quan đến quyền sở hữu trí tuệ..."* [2]. Do đó, **thời điểm chuyển quyền sở hữu hàng hóa** phải do luật áp dụng hoặc điều khoản riêng trong hợp đồng thỏa thuận, Incoterms không trực tiếp quy định nội dung này [1].
 
 ---
 
@@ -894,7 +894,7 @@
 - **D.** Một số nghĩa vụ liên quan đến vận tải.
 
 👉 **Đáp án đúng:** **[A] - Chất lượng hàng hóa.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Incoterms® không trực tiếp quy định về phẩm chất, quy cách, chất lượng hàng hóa hay giá cả hàng hóa, mà các nội dung này phải do các bên quy định rõ trong hợp đồng mua bán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt* (ICC Incoterms 2020) – Lời giới thiệu, Mục II "Incoterms không có tác dụng gì?" (tr. 02) [2]. - Incoterms phân định chi tiết nghĩa vụ thông quan hải quan xuất/nhập khẩu (tiểu mục A7/B7) [6, 7], phân chia các loại chi phí vận tải và bốc dỡ (tiểu mục A9/B9) [8, 9], cũng như nghĩa vụ liên quan đến hợp đồng vận tải (tiểu mục A4/B4) [10, 11]. Ngược lại, **chất lượng hàng hóa** (quy cách, phẩm chất, tiêu chuẩn kỹ thuật) thuộc phạm vi điều chỉnh của điều khoản Tên hàng / Phẩm chất (Quality / Specification) trong hợp đồng mua bán [12, 13], không nằm trong phạm vi điều chỉnh của Incoterms [2]. Tài liệu trích dẫn rõ: *"Các điều kiện Incoterms không điều chỉnh tới các vấn đề như đặc điểm của hàng hóa..."* [2].
 
 ---
 
@@ -907,7 +907,7 @@
 - **D.** International Customs Terms.
 
 👉 **Đáp án đúng:** **[C] - International Commercial Terms.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Incoterms® là viết tắt của cụm từ 'International Commercial Terms' (Các điều kiện thương mại quốc tế) do Phòng Thương mại Quốc tế (ICC) ban hành.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) – Chương II, Mục 1 "Giới thiệu chung về Incoterms" (tr. 40) [3]. - Theo *Giáo trình giao dịch ngoại thương* (tr. 40): *"Phòng Thương mại Quốc tế (ICC - International Chamber of Commerce) đã xuất bản một bộ các quy tắc để giải thích các điều kiện thương mại quốc tế. Các quy tắc này được gọi là “Incoterms” (International Commercial Terms)."* [3]. Do đó, cụm từ viết tắt chính xác của Incoterms là **International Commercial Terms** (Các điều kiện thương mại quốc tế) [3, 15].
 
 ---
 
@@ -920,7 +920,7 @@
 - **D.** Phương thức vận tải.
 
 👉 **Đáp án đúng:** **[A] - Nghĩa vụ thu xếp bảo hiểm của người bán.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khác biệt duy nhất giữa CFR và CIF là nghĩa vụ bảo hiểm: Trong CFR, người bán không phải mua bảo hiểm; trong CIF, người bán bắt buộc phải mua bảo hiểm hàng hải cho lô hàng (tối thiểu loại C).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) – Chương II, Mục 2.2.3 "CFR" & Mục 2.2.4 "CIF" (tr. 71–76) [16-19]. - Cả CFR (Cost and Freight) và CIF (Cost, Insurance and Freight) đều thuộc nhóm C, chỉ áp dụng cho phương thức vận tải đường biển và đường thủy nội địa [27, 28]. Hai điều kiện này hoàn toàn giống nhau về địa điểm giao hàng (trên con tàu tại cảng bốc hàng), mốc chuyển giao rủi ro (khi hàng nằm an toàn trên tàu tại cảng đi) và nghĩa vụ của người bán trong việc làm thủ tục thông quan xuất khẩu cũng như trả cước phí vận tải chặng chính [16, 18, 21, 24, 29, 30]. Khác biệt cốt lõi duy nhất nằm ở **nghĩa vụ thu xếp bảo hiểm của người bán**: - Đối với **CFR**: Người bán *không có nghĩa vụ* phải mua bảo hiểm cho hàng hóa với người mua (A3: *"Người bán không có nghĩa vụ đối với người mua về việc ký kết các hợp đồng vận tải, bảo hiểm"*) [17, 22, 31]. - Đối với **CIF**: Người bán *có nghĩa vụ bắt buộc* phải chịu chi phí mua bảo hiểm hàng hóa cho người mua hưởng trong quá trình vận chuyển trên biển (theo Incoterms 2020, mức bảo hiểm mặc định tối thiểu là Mức C - Institute Cargo Clauses C) [18, 24-26].
 
 ---
 
@@ -933,7 +933,7 @@
 - **D.** Nghĩa vụ giao hàng nếu không sửa đổi.
 
 👉 **Đáp án đúng:** **[C] - Thanh toán.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Incoterms® không điều chỉnh phương thức, thời hạn và đồng tiền thanh toán; do đó các bên bắt buộc phải quy định điều khoản thanh toán riêng trong hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Lời giới thiệu, Mục II "Incoterms không có tác dụng gì?", khoản 2) [1]. - + Incoterms chỉ điều chỉnh các nghĩa vụ, chi phí và mốc di chuyển rủi ro liên quan đến việc giao hàng giữa người bán và người mua [3, 4]. + Incoterms **không phải là hợp đồng mua bán hoàn chỉnh** và không điều chỉnh các vấn đề pháp lý/thương mại cốt lõi khác như: giá cả, phương thức thanh toán, chuyển giao quyền sở hữu hàng hóa, vi phạm hợp đồng và hậu quả pháp lý, trường hợp miễn trách hay giải quyết tranh chấp [1, 2]. + Do đó, khi ký kết hợp đồng mua bán ngoại thương có áp dụng Incoterms® 2020, các bên bắt buộc phải thỏa thuận và quy định riêng về điều khoản **Thanh toán** (Payment terms: đồng tiền thanh toán, thời hạn thanh toán, phương thức thanh toán như L/C, T/T, D/P...) [2, 5].
 
 ---
 
@@ -946,7 +946,7 @@
 - **D.** FOB.
 
 👉 **Đáp án đúng:** **[C] - FAS.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hàng rời đi đường biển, người mua thuê tàu, người bán đưa hàng đặt dọc mạn tàu tại cảng xếp thỏa thuận phù hợp chính xác với điều kiện FAS (Free Alongside Ship).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Các điều kiện áp dụng cho vận tải biển và vận tải thủy nội địa, Hướng dẫn sử dụng quy tắc FAS) [6, 7]. - + Theo quy tắc **FAS (Free Alongside Ship - Giao dọc mạn tàu)** Incoterms® 2020/2010, người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được đặt dọc mạn con tàu (trên cầu cảng hoặc trên xà lan) do người mua chỉ định tại cảng bốc hàng quy định [7, 8]. + Mốc chuyển giao chi phí và rủi ro từ người bán sang người mua là ngay khi hàng hóa đã nằm an toàn dọc mạn tàu [7, 8]. + Điều kiện FAS thuộc nhóm F (quyền thuê phương tiện vận tải thuộc về người mua) và chỉ áp dụng cho vận tải biển/thủy nội địa, đặc biệt thích hợp cho hàng rời/hàng thô (bulk cargo) giao tại cầu cảng [6, 9, 10].
 
 ---
 
@@ -959,7 +959,7 @@
 - **D.** CPT.
 
 👉 **Đáp án đúng:** **[B] - CIF.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nếu người bán vận chuyển đường biển, giao hàng lên tàu tại cảng đi và còn phải thu xếp mua bảo hiểm cho hàng hóa tới cảng đích thì điều kiện phù hợp là CIF (Cost, Insurance and Freight).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Các điều kiện áp dụng cho vận tải biển và vận tải thủy nội địa, Hướng dẫn sử dụng quy tắc CIF và Mục A5 quy tắc CIF) [11-13]. - + Trong 11 quy tắc Incoterms®, chỉ duy nhất 2 điều kiện quy định nghĩa vụ bắt buộc người bán phải mua bảo hiểm cho lô hàng phục vụ lợi ích người mua là **CIF** và **CIP** [11, 14, 16, 17]. + Đối với hàng hóa vận chuyển bằng đường biển/đường thủy nội địa, điều kiện **CIF (Cost, Insurance and Freight)** quy định người bán phải chịu chi phí thuê tàu chặng chính (Freight) và bắt buộc phải mua bảo hiểm đường biển (Insurance) cho lô hàng tới cảng đến quy định [11, 12, 14]. + Do lô hàng rời được chuyên chở bằng tàu biển và người bán phải thu xếp bảo hiểm, điều kiện đúng nhất là CIF [11, 14].
 
 ---
 
@@ -972,7 +972,7 @@
 - **D.** DAP, DPU, DDP, CIF.
 
 👉 **Đáp án đúng:** **[A] - FAS, FOB, CFR, CIF.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Bốn điều kiện truyền thống chỉ áp dụng cho vận tải biển và đường thủy nội địa trong Incoterms 2020 là: FAS, FOB, CFR, CIF.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Mục lục & Phần Các điều kiện áp dụng cho vận tải biển và vận tải thủy nội địa) [18, 19]. - + Cả phiên bản Incoterms® 2010 và 2020 đều phân chia 11 quy tắc thành 2 nhóm rõ rệt dựa trên phương thức vận tải [18, 20]: 1. Nhóm áp dụng cho mọi phương thức vận tải (7 quy tắc): EXW, FCA, CPT, CIP, DAP, DPU (hoặc DAT), DDP [10, 18, 20]. 2. Nhóm chỉ áp dụng cho vận tải biển và đường thủy nội địa (4 quy tắc): **FAS, FOB, CFR, CIF** [10, 18, 20]. + Đáp án A tập hợp đầy đủ và chính xác 4 điều kiện dành riêng cho đường thủy [10, 18].
 
 ---
 
@@ -985,7 +985,7 @@
 - **D.** Điểm chuyển rủi ro về mất mát hoặc hư hỏng hàng hóa giữa người bán và người mua.
 
 👉 **Đáp án đúng:** **[D] - Điểm chuyển rủi ro về mất mát hoặc hư hỏng hàng hóa giữa người bán và người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phạm vi điều chỉnh cốt lõi nhất của Incoterms® là xác định điểm chuyển rủi ro về mất mát hoặc hư hỏng hàng hóa, phân chia chi phí và nghĩa vụ làm thủ tục hải quan giữa người bán và người mua.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Incoterms - Các điều kiện thương mại quốc tế / Mục 1. Giới thiệu chung về Incoterms (tr. 40) và Mục 4.c. Một số lưu ý khi sử dụng Incoterms (tr. 82-83) [1, 2]. - - **Incoterms®** quy định và giải thích sự phân chia **nghĩa vụ, chi phí và rủi ro** (đặc biệt là **mốc/điểm chuyển giao rủi ro về mất mát hoặc hư hỏng hàng hóa**) giữa người bán và người mua liên quan đến việc giao nhận hàng hóa [1, 3, 4]. - Incoterms **không điều chỉnh** các vấn đề như: giá cả, phương thức thanh toán hay **lãi suất thanh toán chậm** (Đáp án A) [5]; **thẩm quyền giải quyết tranh chấp** hay luật áp dụng (Đáp án B) [2, 5]; **quyền sở hữu hàng hóa/doanh nghiệp** (Đáp án C) [2, 5]. - Do đó, **Điểm chuyển rủi ro về mất mát hoặc hư hỏng hàng hóa giữa người bán và người mua** chính là nội dung cốt lõi thuộc phạm vi điều chỉnh quan trọng của Incoterms® [1, 4].
 
 ---
 
@@ -997,8 +997,8 @@
 - **C.** CIF không yêu cầu vận tải.
 - **D.** CIF thuộc nhóm điều kiện chỉ áp dụng cho vận tải biển và đường thủy nội địa.
 
-👉 **Đáp án đúng:** **[B] - CIF không yêu cầu bảo hiểm.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo CFR, người bán hoàn thành nghĩa vụ giao hàng khi hàng đã được xếp lên tàu tại cảng bốc hàng (cảng đi). Cước phí vận tải tới cảng đích do người bán trả, nhưng rủi ro đã chuyển sang người mua ngay tại cảng bốc.
+👉 **Đáp án đúng:** **[D] - CIF thuộc nhóm điều kiện chỉ áp dụng cho vận tải biển và đường thủy nội địa.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Incoterms - Các điều kiện thương mại quốc tế / Mục 1.3. Phân loại các quy tắc (tr. 44) và Mục 4.e. Sử dụng FCA thay cho FAS/FOB, CPT thay cho CFR, CIP thay cho CIF... (tr. 88) [6-8]. - - Trong cấu trúc phân loại của Incoterms, **CIP (Carriage and Insurance Paid To)** thuộc nhóm các quy tắc có thể áp dụng cho **mọi phương thức vận tải** (bao gồm vận tải đường bộ, đường sắt, đường hàng không và **vận tải đa phương thức**) [6, 9, 11]. - Trong khi đó, **CIF (Cost, Insurance and Freight)** thuộc nhóm các quy tắc **chỉ sử dụng cho vận tải đường biển và đường thủy nội địa**, với mốc chuyển rủi ro gắn liền với việc đặt hàng hóa lên tàu tại cảng bốc hàng [6, 9, 12]. - Trong vận tải đa phương thức (đặc biệt là hàng hóa đóng trong container giao tại điểm tập kết ICIC/CY/CFS trước khi lên tàu), việc sử dụng CIF sẽ phát sinh bất cập về ranh giới chuyển giao rủi ro. Do đó, **CIF không phù hợp bằng CIP vì CIF chỉ áp dụng cho vận tải biển và đường thủy nội địa** [7, 8, 12].
 
 ---
 
@@ -1010,8 +1010,8 @@
 - **C.** FCA bắt buộc người bán mua bảo hiểm.
 - **D.** FCA luôn có giá thấp hơn FOB.
 
-👉 **Đáp án đúng:** **[D] - FCA luôn có giá thấp hơn FOB.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong CFR, rủi ro chuyển từ người bán sang người mua ngay khi hàng được giao an toàn lên boong tàu tại cảng bốc hàng thỏa thuận (on board the vessel).
+👉 **Đáp án đúng:** **[A] - Điểm giao hàng FCA có thể phù hợp với thời điểm container được giao cho người chuyên chở.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương II, Mục 2.2.2 (Quy tắc FOB) [1] và Mục 4.e (Sử dụng FCA thay cho FAS hoặc FOB, CPT thay cho CFR, CIP thay cho CIF khi hàng đóng trong container) [2]. - + Đối với hàng hóa đóng trong container, đặc thù là người bán phải giao hàng cho người chuyên chở tại các điểm tập kết hoặc bến bãi container (như CY - Container Yard hoặc CFS - Container Freight Station) trước khi hàng được xếp lên tàu [1, 2, 5]. + Quy tắc FCA quy định địa điểm giao hàng có thể phù hợp hoàn toàn với thời điểm và nơi container được giao cho người chuyên chở (tại cơ sở người bán hoặc điểm tập kết chỉ định) [3, 6]. Trong khi đó, FOB quy định mốc chuyển giao rủi ro và chi phí khi hàng hóa đã đặt nằm an toàn trên tàu (on board) [7, 8], tạo ra khoảng trống phân định rủi ro bất hợp lý từ lúc bàn giao container ở bến cho đến khi container được nhấc lên tàu [2, 4]. Vì vậy, việc lựa chọn FCA là thích hợp nhất với thực tiễn giao nhận container [1, 2].
 
 ---
 
@@ -1023,8 +1023,8 @@
 - **C.** FOB chỉ áp dụng cho vận tải biển và đường thủy nội địa.
 - **D.** FOB chỉ áp dụng cho hàng có giá trị thấp.
 
-👉 **Đáp án đúng:** **[A] - FOB bắt buộc người bán nhập khẩu.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo CFR, người bán chỉ có nghĩa vụ trả cước vận tải biển tới cảng đích quy định, hoàn toàn không có nghĩa vụ mua bảo hiểm hàng hải.
+👉 **Đáp án đúng:** **[C] - FOB chỉ áp dụng cho vận tải biển và đường thủy nội địa.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương II, Mục 1.3.1 (Phân loại theo phương thức vận tải) [9] và Mục 3.a (Tiêu chí lựa chọn quy tắc Incoterms theo phương thức vận tải) [10, 11]. - + Cả trong Incoterms 2010 và Incoterms 2020, FOB là quy tắc chỉ áp dụng riêng cho phương thức vận tải đường biển và đường thủy nội địa [4, 9, 12]. Điểm giao hàng và chuyển giao rủi ro của FOB gắn liền với con tàu biển tại cảng bốc hàng [7, 8]. + Đối với các phương thức vận tải không phải đường biển hay đường thủy nội địa (như vận tải hàng không, đường bộ, đường sắt hay vận tải đa phương thức), Incoterms quy định bắt buộc phải sử dụng các điều kiện thuộc nhóm dùng cho mọi phương thức vận tải như EXW, FCA, CPT, CIP, DAT/DPU, DAP, DDP [9, 11]. Do đó, FOB hoàn toàn không phù hợp và không thể áp dụng cho vận tải hàng không [4, 11].
 
 ---
 
@@ -1036,8 +1036,8 @@
 - **C.** Vì người bán vẫn sở hữu hàng.
 - **D.** Vì bảo hiểm làm rủi ro quay lại người bán.
 
-👉 **Đáp án đúng:** **[D] - Vì bảo hiểm làm rủi ro quay lại người bán.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo CIF, người bán bắt buộc phải mua bảo hiểm hàng hải cho hàng hóa nhưng người hưởng thụ bảo hiểm khi hàng gặp rủi ro trên biển là người mua (vì rủi ro đã chuyển cho người mua từ cảng bốc).
+👉 **Đáp án đúng:** **[B] - Vì nghĩa vụ chịu chi phí vận tải và việc chuyển rủi ro là hai vấn đề khác nhau.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II, Mục 2.2.4 "CIF - Tiền hàng, phí bảo hiểm và cước phí" [1, 2] và Mục 4.f "Hợp đồng theo nhóm C là hợp đồng gửi hàng" [3, 4]. - Trong quy tắc CIF (cũng như các quy tắc thuộc Nhóm C), Incoterms quy định hai điểm mốc/điểm tới hạn (critical points) hoàn toàn độc lập và riêng biệt [2, 10]: 1. *Điểm chuyển giao rủi ro:* Xảy ra tại cảng đi/cảng bốc hàng khi người bán hoàn thành nghĩa vụ giao hàng lên tàu [1, 11]. 2. *Điểm phân chia chi phí:* Kéo dài đến cảng đích (người bán phải ký hợp đồng vận tải và trả cước phí cùng phí bảo hiểm để đưa hàng đến cảng đến quy định) [1, 12]. Do đó, việc người bán trả cước phí đến cảng đích không đồng nghĩa với việc họ chịu rủi ro trong suốt hành trình trên biển; nghĩa vụ chịu chi phí vận tải và việc chuyển giao rủi ro là hai vấn đề hoàn toàn khác nhau [2, 6].
 
 ---
 
@@ -1049,8 +1049,8 @@
 - **C.** Chuẩn bị hàng hóa theo hợp đồng.
 - **D.** Đóng gói hàng hóa khi cần thiết.
 
-👉 **Đáp án đúng:** **[A] - Cung cấp chứng từ thương mại theo thỏa thuận.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong CIF, điểm chuyển rủi ro là khi hàng được đặt lên boong tàu tại cảng bốc hàng (cảng đi), hoàn toàn tách biệt với cảng đích mà người bán trả cước và mua bảo hiểm.
+👉 **Đáp án đúng:** **[B] - Bốc hàng lên phương tiện nhận hàng do người mua bố trí.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II, Mục 2.1.1 "EXW - Giao tại xưởng", Bảng 2.4 (Nghĩa vụ A4/B4, A8/B8) [13-16]. - Theo quy tắc EXW (Ex Works - Giao tại xưởng), người bán hoàn thành nghĩa vụ giao hàng khi đặt hàng hóa dưới quyền định đoạt của người mua tại cơ sở của người bán hoặc tại một địa điểm chỉ định, hàng chưa được bốc lên phương tiện vận tải đến nhận [13, 17, 20]. Về nguyên tắc, người bán không có nghĩa vụ bốc hàng lên phương tiện nhận hàng do người mua bố trí [13, 18]. Ngược lại, các nghĩa vụ chuẩn bị hàng hóa theo hợp đồng (A1), đóng gói bao bì phù hợp (A8) và cung cấp hóa đơn/chứng từ thương mại (A1/A10) đều là nghĩa vụ bắt buộc của người bán [16, 21, 23-25].
 
 ---
 
@@ -1062,8 +1062,8 @@
 - **C.** Người chuyên chở.
 - **D.** Người bán.
 
-👉 **Đáp án đúng:** **[C] - Người chuyên chở.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo CIF Incoterms® 2020, người bán có nghĩa vụ mua bảo hiểm ở mức bảo hiểm tối thiểu là Điều kiện (C) của Viện những người bảo hiểm Luân Đôn (Institute Cargo Clauses C - ICC C) hoặc điều kiện tương đương.
+👉 **Đáp án đúng:** **[D] - Người bán.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II, Mục 2.1.2 "FCA - Giao cho người chuyên chở", Bảng 2.5 (Nghĩa vụ A2) [26, 27]. - Quy tắc FCA (Free Carrier - Giao cho người chuyên chở) quy định người bán có nghĩa vụ chịu rủi ro và chi phí để thông quan xuất khẩu cho hàng hóa (bao gồm việc lấy giấy phép xuất khẩu, làm thủ tục hải quan xuất khẩu, kiểm tra an ninh và giám định hàng hóa trước khi xuất khẩu nếu nước xuất khẩu yêu cầu) [26-29]. Người bán không có nghĩa vụ thông quan nhập khẩu hoặc quá cảnh qua nước thứ ba [26, 28].
 
 ---
 
@@ -1075,8 +1075,8 @@
 - **C.** Không.
 - **D.** Có, nếu vận chuyển bằng container.
 
-👉 **Đáp án đúng:** **[B] - Có, nếu giá trị hàng cao.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong CIP Incoterms® 2020, quy định mới nâng cấp nghĩa vụ bảo hiểm của người bán lên mức tối đa là Điều kiện (A) - Mọi rủi ro (Institute Cargo Clauses A - ICC A).
+👉 **Đáp án đúng:** **[C] - Không.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - `Incoterm - ebook - bản Tiếng Việt.pdf`: Quy tắc FOB (Free On Board) - Mục A5 (Bảo hiểm) [1]. - Theo quy tắc FOB trong cả Incoterms 2010 và Incoterms 2020, người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được đặt lên con tàu do người mua chỉ định tại cảng bốc hàng quy định [3, 4]. Mục A5 về nghĩa vụ bảo hiểm quy định rõ: *"Người bán không có nghĩa vụ với người mua về việc ký kết hợp đồng bảo hiểm"* [1]. Mọi rủi ro và chi phí kể từ khi hàng đã nằm trên tàu thuộc về người mua [3, 5, 6], do đó việc mua bảo hiểm thuộc quyền quyết định và chi phí của người mua chứ không phải nghĩa vụ mặc định của người bán.
 
 ---
 
@@ -1088,8 +1088,8 @@
 - **C.** Thấp hơn CIF.
 - **D.** Rộng hơn mức bảo hiểm mặc định của CIF.
 
-👉 **Đáp án đúng:** **[A] - Không có bảo hiểm.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo CPT, người bán ký hợp đồng vận tải và trả cước phí vận chuyển hàng hóa tới địa điểm đến thỏa thuận.
+👉 **Đáp án đúng:** **[D] - Rộng hơn mức bảo hiểm mặc định của CIF.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - `Incoterm - ebook - bản Tiếng Việt.pdf`: Lời giới thiệu - Mục 6 "Một số điểm khác biệt chính giữa Incoterms 2020 so với bản 2010" [7]; Quy tắc CIP (Mục Hướng dẫn sử dụng & Mục A5) [8, 9]; Quy tắc CIF (Mục Hướng dẫn sử dụng & Mục A5) [10, 11]. - Trong Incoterms® 2020, ICC đã điều chỉnh quy định về mức bảo hiểm mặc định giữa điều kiện CIP và CIF: - **Đối với CIP (Carriage and Insurance Paid To):** Mục A5 quy định nếu các bên không có thỏa thuận khác, người bán mặc định phải mua bảo hiểm cho hàng hóa ở **mức bảo hiểm Loại A (Institute Cargo Clauses (A))** - tức phạm vi bảo hiểm mọi rủi ro rộng nhất [8, 9]. - **Đối với CIF (Cost Insurance and Freight):** Mục A5 vẫn duy trì quy định mặc định người bán chỉ bắt buộc phải mua bảo hiểm ở **mức tối thiểu Loại C (Institute Cargo Clauses (C))** [10, 11]. Do đó, CIP Incoterms® 2020 về nguyên tắc yêu cầu mức bảo hiểm rộng hơn mức bảo hiểm mặc định của CIF.
 
 ---
 
@@ -1102,7 +1102,7 @@
 - **D.** Khi người mua nhận chứng từ.
 
 👉 **Đáp án đúng:** **[A] - Khi hàng được giao lên tàu tại cảng xếp hàng theo quy định.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong CPT, rủi ro chuyển sang người mua ngay khi người bán giao hàng cho người chuyên chở (carrier) đầu tiên tại địa điểm giao hàng ở nước xuất khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - `Giáo trình giao dịch ngoại thương.pdf`: Chương II, Mục 2.2.3 "CFR - Tiền hàng và cước phí" [12, 13]. - CFR là quy tắc thuộc nhóm C chỉ áp dụng cho vận tải đường biển và đường thủy nội địa [12, 16]. Quy tắc này có hai điểm tới hạn tách biệt giữa chi phí và rủi ro [13, 17]: người bán chịu chi phí và cước phí vận chuyển cần thiết để đưa hàng tới cảng đến quy định [12, 14, 15], nhưng **rủi ro về mất mát hay hư hỏng hàng hóa lại chuyển sang cho người mua ngay khi hàng hóa được giao lên tàu tại cảng xếp hàng (cảng bốc hàng)** [12, 14, 15].
 
 ---
 
@@ -1114,8 +1114,8 @@
 - **C.** Chịu rủi ro đến kho người mua.
 - **D.** Dỡ hàng tại kho người mua.
 
-👉 **Đáp án đúng:** **[C] - Chịu rủi ro đến kho người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo FOB, người bán hoàn thành nghĩa vụ khi hàng được đặt lên tàu do người mua chỉ định tại cảng xếp hàng thỏa thuận và làm thủ tục thông quan xuất khẩu.
+👉 **Đáp án đúng:** **[A] - Ký hợp đồng vận tải và thu xếp bảo hiểm theo yêu cầu của điều kiện CIF.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần quy tắc CIF (Cost Insurance and Freight) – Hướng dẫn sử dụng [1, 2], Mục A4 (Vận tải) [3] và Mục A5 (Bảo hiểm) [4]. - Theo điều kiện CIF (Cost, Insurance and Freight), người bán có nghĩa vụ ký hợp đồng vận tải chuyên chở hàng hóa và trả cước phí vận chuyển để đưa hàng tới cảng đến quy định [1, 3, 5]. Đồng thời, người bán bắt buộc phải ký hợp đồng bảo hiểm và trả phí bảo hiểm để bảo hiểm những rủi ro về mất mát, hư hỏng hàng hóa trong quá trình vận chuyển cho người mua [2, 4, 5]. - Phương án B sai vì nghĩa vụ thông quan nhập khẩu thuộc về người mua (Mục B7) [7-9]. - Phương án C & D sai vì mốc chuyển giao rủi ro của CIF là ngay khi hàng đã được đặt an toàn lên tàu tại cảng bốc hàng (người bán không chịu rủi ro đến kho người mua và không có nghĩa vụ dỡ hàng tại kho người mua) [3, 5, 10].
 
 ---
 
@@ -1128,7 +1128,7 @@
 - **D.** Khi hàng được giao lên tàu.
 
 👉 **Đáp án đúng:** **[C] - Khi hàng được đặt dưới quyền định đoạt của người mua trên phương tiện vận tải đến và sẵn sàng để dỡ.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo DAP, người bán giao hàng khi hàng hóa được đặt dưới quyền định đoạt của người mua trên phương tiện vận tải đến và sẵn sàng để dỡ tại nơi đến quy định.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần quy tắc DAP (Delivered at Place) – Hướng dẫn sử dụng (Mục 2) [11] và Mục A2 (Giao hàng) [12]. - Theo định nghĩa chuẩn của DAP (Delivered at Place - Giao tại nơi đến): "Người bán giao hàng khi hàng hóa được đặt dưới sự định đoạt của người mua trên phương tiện vận tải chở đến và sẵn sàng để dỡ tại nơi đến quy định" [11-14]. - Phương án A sai vì giao hàng đã dỡ xuống tại nơi đến là đặc trưng của điều kiện DPU (Delivered at Place Unloaded) [15]. - Phương án B sai vì giao cho người chuyên chở đầu tiên áp dụng cho các điều kiện thuộc nhóm C khi vận chuyển đa phương thức qua nhiều người chuyên chở (CPT, CIP) [16-19]. - Phương án D sai vì giao lên tàu áp dụng cho các điều kiện đường biển/thủy nội địa như FOB, CFR, CIF [5, 10, 20-23].
 
 ---
 
@@ -1141,7 +1141,7 @@
 - **D.** Người mua.
 
 👉 **Đáp án đúng:** **[D] - Người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo DAP, người bán chịu trách nhiệm đưa hàng đến nơi đến nhưng KHÔNG có nghĩa vụ dỡ hàng khỏi phương tiện vận tải; nghĩa vụ dỡ hàng thuộc về người mua.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần quy tắc DAP (Delivered at Place) – Hướng dẫn sử dụng (Mục 2) [11] và Mục B9(b) (Phân chia chi phí) [24]. - Trong điều kiện DAP, người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa còn nằm trên phương tiện vận tải chở đến và **sẵn sàng để dỡ** [11-13]. Do đó, mọi chi phí và nghĩa vụ dỡ hàng từ phương tiện vận tải xuống tại địa điểm đến về nguyên tắc mặc định thuộc về **người mua** (Mục B9/B6) [24, 25] (trừ khi chi phí dỡ hàng này đã nằm trong hợp đồng vận tải mà người bán đã ký kết) [24-26].
 
 ---
 
@@ -1154,7 +1154,7 @@
 - **D.** Người bán.
 
 👉 **Đáp án đúng:** **[B] - Người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong DAP, người mua có nghĩa vụ làm thủ tục thông quan nhập khẩu, nộp thuế và các lệ phí nhập khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần quy tắc DAP (Delivered at Place) – Hướng dẫn sử dụng (Mục 4) [27] và Mục B7(b) (Thông quan nhập khẩu) [28]. - Trong quy tắc DAP, người bán chỉ có nghĩa vụ thông quan xuất khẩu và quá cảnh (nếu có), nhưng **không có nghĩa vụ** làm thủ tục thông quan nhập khẩu hay nộp bất kỳ khoản thuế/lệ phí nhập khẩu nào [27, 29]. Thủ tục hải quan nhập khẩu, xin giấy phép nhập khẩu và nộp thuế nhập khẩu về nguyên tắc thuộc trách nhiệm của **người mua** (Mục B7) [14, 28]. Nếu các bên muốn người bán đảm nhận cả thủ tục hải quan và nộp thuế nhập khẩu thì phải chuyển sang sử dụng điều kiện DDP [27, 29-31].
 
 ---
 
@@ -1167,7 +1167,7 @@
 - **D.** Có nếu giao tại kho.
 
 👉 **Đáp án đúng:** **[B] - Không theo nghĩa vụ giao hàng mặc định của DDP.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo DDP, người bán có nghĩa vụ giao hàng đã thông quan nhập khẩu nhưng trên phương tiện vận tải sẵn sàng để dỡ; nghĩa vụ mặc định của DDP không bắt buộc người bán dỡ hàng (trừ khi có thỏa thuận riêng).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* / Điều kiện DDP (Delivered Duty Paid) Incoterms 2020 / Mục Hướng dẫn sử dụng (Mục 2) & Điều khoản A2 (Giao hàng), B9 (Phân chia chi phí) [1-3]. - Theo quy tắc DDP Incoterms 2020, người bán hoàn thành nghĩa vụ giao hàng khi đặt hàng hóa đã thông quan nhập khẩu dưới sự định đoạt của người mua trên phương tiện vận tải chở đến và **sẵn sàng để dỡ** tại địa điểm đến quy định [1, 2]. Mặc định theo quy tắc giao hàng DDP, người bán **không có nghĩa vụ dỡ hàng** khỏi phương tiện vận tải chở đến; chi phí dỡ hàng thuộc trách nhiệm của người mua trừ khi chi phí này đã được tính gộp trong hợp đồng vận tải mà người bán đã ký kết [3]. Trong số 11 điều kiện Incoterms 2020, quy tắc duy nhất bắt buộc người bán phải dỡ hàng khỏi phương tiện vận tải chở đến tại điểm đích là DPU [4]. Vì vậy, xét về nghĩa vụ giao hàng mặc định của DDP, người bán không có nghĩa vụ dỡ hàng [1, 2].
 
 ---
 
@@ -1180,7 +1180,7 @@
 - **D.** Công ty bảo hiểm.
 
 👉 **Đáp án đúng:** **[A] - Người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong DPU (cũng như DAP), người mua chịu trách nhiệm làm thủ tục thông quan nhập khẩu và nộp thuế nhập khẩu; người bán chịu trách nhiệm dỡ hàng tại nơi đến.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* / Điều kiện DPU (Delivered at Place Unloaded) Incoterms 2020 / Mục Hướng dẫn sử dụng (Mục 4) & Điều khoản A7, B7 (Thông quan xuất khẩu/nhập khẩu) [5, 6]. - Theo quy tắc DPU Incoterms 2020, người bán có nghĩa vụ thông quan xuất khẩu và quá cảnh (nếu có) cũng như chịu toàn bộ chi phí và rủi ro để dỡ hàng xuống khỏi phương tiện vận tải tại nơi đến [4, 7]. Tuy nhiên, đối với thủ tục thông quan nhập khẩu, người bán **không có nghĩa vụ** phải làm thủ tục thông quan nhập khẩu, không phải trả thuế nhập khẩu hay chi phí hải quan nhập khẩu [5]. Nghĩa vụ làm thủ tục thông quan nhập khẩu, xin giấy phép nhập khẩu và nộp các khoản thuế, lệ phí nhập khẩu thuộc về **người mua** (Mục B7b) [6].
 
 ---
 
@@ -1193,7 +1193,7 @@
 - **D.** Ngân hàng.
 
 👉 **Đáp án đúng:** **[B] - Người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong FAS, người mua có nghĩa vụ thuê phương tiện vận tải chính (thuê tàu) để nhận hàng tại mạn tàu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* / Điều kiện FAS (Free Alongside Ship) Incoterms 2020 / Mục A4, B4 (Vận tải) [8, 9] & *Giáo trình giao dịch ngoại thương.pdf* / Chương II / Mục 1.3.2 (Phân loại theo Nhóm F) [10]. - FAS (Giao dọc mạn tàu) thuộc Nhóm F - nhóm các điều kiện mà cước phí chặng chuyên chở chính chưa trả (Main carriage unpaid) [10]. Theo điều khoản A4 của quy tắc FAS, người bán không có nghĩa vụ với người mua về việc ký kết hợp đồng vận tải [8]. Trách nhiệm thu xếp, đàm phán và ký kết hợp đồng vận tải chặng chính để chở hàng từ cảng bốc hàng đi về nguyên tắc thuộc nghĩa vụ của **người mua** (Mục B4: "Người mua tự ký kết hợp đồng vận tải hoặc sắp xếp việc vận tải với chi phí do mình chịu") [9].
 
 ---
 
@@ -1206,7 +1206,7 @@
 - **D.** Người mua.
 
 👉 **Đáp án đúng:** **[D] - Người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong FOB, người mua có trách nhiệm thu xếp và ký hợp đồng vận tải chính (chỉ định tàu và trả cước vận tải biển).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* / Điều kiện FOB (Free On Board) Incoterms 2020 / Mục A4, B4 (Vận tải) [11, 12] & *Giáo trình giao dịch ngoại thương.pdf* / Chương II / Mục 1.3.2 (Phân loại theo Nhóm F) [10]. - FOB (Giao hàng trên tàu) là điều kiện cốt lõi thuộc Nhóm F [10]. Theo điều khoản A4 quy tắc FOB, người bán hoàn thành nghĩa vụ khi giao hàng lên con tàu do người mua chỉ định và người bán không có nghĩa vụ ký kết hợp đồng vận tải [11, 13]. Việc thu xếp, tìm tàu, chỉ định tàu và ký kết hợp đồng vận tải chặng chính thuộc trách nhiệm và chi phí của **người mua** (Mục B4: "Người mua tự ký kết hợp đồng vận tải hoặc sắp xếp việc vận tải với chi phí do mình chịu để vận chuyển hàng hóa từ khi nhận hàng") [12].
 
 ---
 
@@ -1219,7 +1219,7 @@
 - **D.** CFR giống DAP.
 
 👉 **Đáp án đúng:** **[C] - Sự tách biệt giữa nghĩa vụ trả chi phí vận tải và phân chia rủi ro trong nhóm C.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Tình huống này minh họa rõ nét nguyên tắc hai điểm (two critical points) của nhóm C: điểm chuyển giao rủi ro (tại cảng đi) tách biệt hoàn toàn với điểm phân chia chi phí vận tải (tại cảng đến).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Mục 1.3.2 (Phân loại theo quyền vận tải và nơi giao hàng - Nhóm C) [1], Mục 2.2.3 (CFR - Tiền hàng và cước phí) [2, 3] và Mục 4.d (Một số lưu ý khi sử dụng Incoterms - Hợp đồng nhóm C có hai điểm tới hạn) [4]. - + Trong các quy tắc thuộc nhóm C (bao gồm CFR), đặc điểm cốt lõi là tồn tại **hai điểm tới hạn (hai mốc địa lý tách biệt)** [3, 4, 7, 8]: mốc chuyển giao rủi ro nằm tại nơi xuất phát/cảng bốc hàng (khi hàng đã được giao lên tàu), trong khi mốc phân chia chi phí nằm tại nơi đến/cảng đích [1, 3-5]. + Khi người bán A đã giao hàng an toàn lên tàu tại Hải Phòng, nghĩa vụ giao hàng và mốc chuyển giao rủi ro về hư hỏng, mất mát hàng hóa đã hoàn tất và chuyển sang cho người mua B [2, 3, 6, 7]. + Việc tàu gặp sự cố trên biển thuộc về rủi ro trong hành trình do người mua B gánh chịu [1, 2, 6, 9]. Người bán A vẫn phải trả cước phí vận tải tới Shanghai theo hợp đồng vận tải đã ký kết, nhưng không chịu trách nhiệm về tổn thất hàng hóa phát sinh sau khi đã hoàn thành giao hàng lên tàu [1-3, 7]. Tình huống này minh họa rõ bản chất đặc trưng của nhóm C: **sự tách biệt giữa nghĩa vụ trả chi phí vận tải (tới cảng đích) và mốc phân chia rủi ro (tại cảng bốc)** [1, 3-5, 10].
 
 ---
 
@@ -1232,7 +1232,7 @@
 - **D.** Rủi ro chỉ chuyển khi hàng tới Munich.
 
 👉 **Đáp án đúng:** **[C] - Rủi ro đã chuyển sang người mua dù A vẫn phải trả cước tới Munich.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong CIP, rủi ro đã chuyển sang người mua ngay khi người bán giao hàng cho người chuyên chở đầu tiên, mặc dù người bán vẫn có nghĩa vụ trả cước phí vận tải tới Munich.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Mục 2.1.4 (CIP - Cước phí và phí bảo hiểm trả tới) [11, 12] & Mục 2.1.3 (CPT - Quy định chuyển giao rủi ro A5/B5) [8, 13, 14]. - + Theo quy tắc CIP (áp dụng cho cả Incoterms 2010 và Incoterms 2020), người bán hoàn thành nghĩa vụ giao hàng và **rủi ro đối với hàng hóa được chuyển sang cho người mua ngay khi người bán giao hàng cho người chuyên chở** (tại Hà Nội) chứ không phải khi hàng tới điểm đích (Munich) [8, 11, 12, 15, 16]. + Giống như mọi quy tắc nhóm C khác, CIP có hai điểm tới hạn tách biệt [12, 16]: địa điểm giao hàng/chuyển rủi ro (nơi giao cho người chuyên chở) và địa điểm đến quy định (nơi người bán phải trả cước vận tải) [8, 12, 15, 16]. + Do người bán A đã hoàn thành đúng nghĩa vụ giao hàng cho người chuyên chở tại Hà Nội, rủi ro mất mát hàng hóa phát sinh sau đó thuộc về người mua B [12-14, 17, 18], mặc dù người bán A vẫn có nghĩa vụ chi trả cước phí vận tải tới Munich [11, 15]. (Trong điều kiện CIP, người bán A còn có nghĩa vụ mua bảo hiểm cho lô hàng để bảo vệ lợi ích cho người mua B trong hành trình) [11, 15, 19, 20].
 
 ---
 
@@ -1245,7 +1245,7 @@
 - **D.** FOB Vietnam.
 
 👉 **Đáp án đúng:** **[A] - FOB Hai Phong Port, Vietnam, Incoterms® 2020.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Cách dẫn chiếu chuẩn xác theo khuyến nghị của ICC: [Tên điều kiện] [Tên địa điểm/cảng cụ thể], [Tên quốc gia], Incoterms® 2020. Ví dụ: 'FOB Hai Phong Port, Vietnam, Incoterms® 2020'.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần III - Sử dụng Incoterms 2020 như thế nào (Mục 1 "Dẫn chiếu các điều kiện Incoterms 2020 vào hợp đồng mua bán hàng hóa" và Mục 2 "Quy định địa điểm hoặc cảng càng chính xác càng tốt") [1, 2]. - + Theo chuẩn mực hướng dẫn của Phòng Thương mại Quốc tế (ICC) cũng như Giáo trình Giao dịch ngoại thương, để việc quy định điều kiện Incoterms trong hợp đồng ngoại thương được rõ ràng, chính xác và có hiệu lực pháp lý cao nhất, các bên phải dẫn chiếu đầy đủ theo cấu trúc chuẩn gồm 3 thành phần [1, 3]: `[Điều kiện Incoterms 3 chữ cái] + [Địa điểm/Cảng bốc hoặc cảng đích quy định chi tiết] + [Phiên bản Incoterms áp dụng]`. + Phương án **A (FOB Hai Phong Port, Vietnam, Incoterms® 2020)** đáp ứng hoàn hảo quy chuẩn này khi ghi rõ quy tắc thương mại (`FOB`), tên cảng bốc cụ thể (`Hai Phong Port, Vietnam`) và bản dẫn chiếu thương hiệu quy tắc đăng ký (`Incoterms® 2020`) [1, 5]. + Các phương án B, C, D đều không đạt yêu cầu học thuật và thực tiễn thương mại vì địa danh ghi quá chung chung ("Asia", "International", "Vietnam"), không xác định được cảng xếp hàng cụ thể và thiếu việc dẫn chiếu chính xác phiên bản quy tắc Incoterms [2, 3].
 
 ---
 
@@ -1258,7 +1258,7 @@
 - **D.** FOB.
 
 👉 **Đáp án đúng:** **[B] - DAP.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi người bán muốn chịu mọi chi phí và rủi ro đưa hàng đến tận Paris nhưng không thể làm thủ tục nhập khẩu tại nước sở tại thì điều kiện tối ưu thay thế DDP là DAP (Delivered At Place).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf*: Lời giới thiệu (Mục III.3 - Địa điểm chuyển giao hàng hóa) [7] và Quy tắc DDP (Mục Hướng dẫn sử dụng 5 - "Nghĩa vụ thông quan xuất khẩu/nhập khẩu") [8]. - + Theo quy tắc DDP (Delivered Duty Paid), người bán mang nghĩa vụ tối đa, bao gồm việc tổ chức thông quan nhập khẩu, nộp mọi khoản thuế và lệ phí nhập khẩu tại nước người mua [11, 12]. + Tuy nhiên, cả hai tài liệu chuẩn mực đều quy định rõ: Nếu người bán không có khả năng trực tiếp hoặc gián tiếp thực hiện thủ tục thông quan nhập khẩu (do quy định pháp luật nước nhập khẩu cấm thương nhân nước ngoài đứng tên, hoặc do trở ngại thực tế), các bên **không nên** sử dụng DDP [8-10]. + Để đạt được mục đích là người bán vẫn chịu toàn bộ rủi ro và chi phí vận chuyển đưa hàng đến địa điểm đích (như Paris) nhưng trách nhiệm thông quan nhập khẩu được chuyển giao cho người mua (bên có tư pháp pháp nhân nội địa), quy tắc thay thế tối ưu và đúng bản chất nhất là **DAP (Delivered at Place)** [7-10]. Theo DAP, người bán giao hàng trên phương tiện vận tải sẵn sàng dỡ tại nơi đến, còn người mua tự làm thủ tục hải quan và nộp thuế nhập khẩu [13-16].
 
 ---
 
@@ -1271,7 +1271,7 @@
 - **D.** Lập luận của người mua không đúng vì CIF tách điểm chuyển rủi ro khỏi cảng đích mà người bán trả cước và thu xếp bảo hiểm.
 
 👉 **Đáp án đúng:** **[D] - Lập luận của người mua không đúng vì CIF tách điểm chuyển rủi ro khỏi cảng đích mà người bán trả cước và thu xếp bảo hiểm.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Lập luận của người mua không đúng vì trong CIF, rủi ro chuyển giao ngay khi hàng qua lan can/được xếp lên tàu tại cảng bốc (Hải Phòng); bảo hiểm do người bán mua nhưng là vì lợi ích của người mua để khiếu nại bảo hiểm.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Incoterms - Các điều kiện thương mại quốc tế, Mục 2.2.4 "CIF - Tiền hàng, phí bảo hiểm và cước phí" [1, 2] và Mục 4.f "Hợp đồng theo nhóm C là 'hợp đồng gửi hàng'" [3]. - + Về bản chất học thuật, CIF thuộc nhóm C là quy tắc có **hai điểm tới hạn (hai mốc địa điểm hoàn toàn tách biệt)** giữa điểm chuyển giao rủi ro và điểm phân chia chi phí [2, 6]. + **Mốc chuyển giao rủi ro:** Rủi ro về mất mát hoặc hư hỏng hàng hóa được chuyển giao từ người bán sang người mua ngay khi người bán hoàn thành nghĩa vụ giao hàng lên tàu tại cảng bốc hàng quy định (trong tình huống này là cảng Hải Phòng) [1, 4]. + **Mốc phân chia chi phí:** Người bán chịu trách nhiệm ký hợp đồng vận tải, trả cước phí vận chuyển và mua bảo hiểm cho hàng hóa tới cảng đến chỉ định (Rotterdam) [1, 4, 5]. + Hợp đồng nhóm C là "hợp đồng gửi hàng" (shipment contract) chứ không phải "hợp đồng hàng đến" (arrival contract) [3]. Ngay khi hàng đã được đặt an toàn trên tàu tại Hải Phòng, nghĩa vụ giao hàng và rủi ro của người bán A đã chấm dứt; mọi rủi ro phát sinh trên hành trình đi biển (như tàu gặp bão gây tổn thất hàng hóa) do người mua chịu [1, 3, 4]. Vì vậy, lập luận của người mua cho rằng người bán A phải chịu rủi ro vì trả cước và mua bảo hiểm đến Rotterdam là sai bản chất quy tắc CIF [2, 3].
 
 ---
 
@@ -1284,7 +1284,7 @@
 - **D.** DPU bắt buộc người mua mua bảo hiểm.
 
 👉 **Đáp án đúng:** **[B] - Người bán có thể gặp khó khăn trong việc hoàn thành nghĩa vụ dỡ hàng để thực hiện giao hàng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** DPU quy định người bán bắt buộc phải hoàn thành việc dỡ hàng tại nơi đến; nếu tại địa điểm đó không có sẵn cần cẩu/thiết bị dỡ hàng phù hợp, người bán sẽ không thể hoàn thành nghĩa vụ giao hàng và phát sinh chi phí phạt lưu xe/container rất lớn.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf*: Quy tắc DPU (Delivered at Place Unloaded) Incoterms 2020, Phần Hướng dẫn sử dụng [7] và Nghĩa vụ A2 "Giao hàng" [8]. - + DPU (Giao hàng đã dỡ tại nơi đến) là quy tắc duy nhất trong hệ thống Incoterms 2020 quy định người bán có nghĩa vụ phải **dỡ hàng xuống khỏi phương tiện vận tải chở đến** tại địa điểm chỉ định thì mới hoàn tất nghĩa vụ giao hàng và chuyển giao rủi ro [7, 8]. + Tài liệu hướng dẫn chuẩn xác: *"DPU là điều kiện duy nhất mà yêu cầu người bán dỡ hàng xuống tại nơi đến. Người bán nên chắc chắn rằng mình có đủ khả năng để có thể tổ chức việc dỡ hàng tại nơi đến, hoặc nếu không thì nên cân nhắc sử dụng điều kiện DAP."* [7] + Do đó, nếu người bán lựa chọn điều kiện DPU tại một địa điểm giao hàng không có sẵn phương tiện hoặc thiết bị bốc dỡ phù hợp, rủi ro thực tiễn lớn nhất đối với người bán là gặp khó khăn hoặc không thể dỡ hàng, dẫn đến việc không hoàn thành nghĩa vụ giao hàng theo hợp đồng [7, 8].
 
 ---
 
@@ -1297,7 +1297,7 @@
 - **D.** Chỉ bổ sung chi phí bảo hiểm vì người mua vẫn chịu toàn bộ chi phí vận tải.
 
 👉 **Đáp án đúng:** **[A] - Xác định lại giá trên cơ sở bổ sung các chi phí mà người bán phải đảm nhận khi chuyển từ EXW sang CIF, bao gồm các chi phí vận tải và bảo hiểm có liên quan.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Từ EXW sang CIF, người bán phải gánh thêm nhiều nghĩa vụ: bốc hàng lên xe tại xưởng, vận tải nội địa, thủ tục hải quan xuất khẩu, cước vận tải biển quốc tế và phí mua bảo hiểm; do đó phải tính toán lại giá để cộng thêm các khoản này.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương 2 (Mục 2.1.1 EXW & Mục 2.2.4 CIF) [1, 2], Chương 4 (Mục 3.1 & Bảng 4.1 Cơ cấu giá hàng xuất khẩu theo điều kiện FOB, CFR, CIF) [3]. - + **Bản chất học thuật:** Điều kiện EXW (Giao tại xưởng) thể hiện nghĩa vụ và chi phí tối thiểu của người bán; người bán hoàn thành nghĩa vụ khi đặt hàng hóa dưới quyền định đoạt của người mua tại cơ sở của mình mà không chịu trách nhiệm bốc hàng, thông quan xuất khẩu, cước vận tải hay bảo hiểm [1, 4, 8, 9]. Trong khi đó, điều kiện CIF (Tiền hàng, phí bảo hiểm và cước phí) yêu cầu người bán phải đảm nhận việc làm thủ tục hải quan xuất khẩu, ký hợp đồng và trả cước phí vận tải đường biển đưa hàng tới cảng đích, đồng thời mua bảo hiểm hàng hóa đường biển cho người mua [2, 6, 7, 10]. + **Cơ cấu xây dựng giá:** Giá bán xuất khẩu theo điều kiện CIF được xác định bằng cách lấy giá thành/giá tại xưởng (giá cơ sở EXW) cộng thêm toàn bộ các khoản chi phí phát sinh mà người bán phải đảm nhận trong chuỗi vận chuyển (chi phí bốc xếp, vận chuyển ra cảng bốc, lệ phí hải quan/thông quan xuất khẩu, cước vận tải biển quốc tế và phí bảo hiểm) [3]. Vì vậy, khi chuyển giá chào từ EXW sang CIF, doanh nghiệp phải xác định lại giá trên cơ sở bổ sung các chi phí vận tải và bảo hiểm có liên quan [3]. Do đó, đáp án A là chính xác.
 
 ---
 
@@ -1310,7 +1310,7 @@
 - **D.** FCA.
 
 👉 **Đáp án đúng:** **[D] - FCA.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** ICC khuyến cáo mạnh mẽ: Với hàng đóng trong container giao tại bến bãi container (CY/CFS) trước khi bốc lên tàu, các bên nên sử dụng FCA thay vì FOB để điểm chuyển rủi ro phản ánh đúng thời điểm bàn giao hàng cho hãng tàu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương 2, Mục 2.2.2 "FOB - Giao hàng trên tàu" (trang 70) [11] và Mục 4.e "Sử dụng FCA thay cho FAS hoặc FOB, CPT thay cho CFR, CIP thay cho CIF khi hàng đóng trong container" (trang 88) [12]. - + **Bản chất học thuật:** Quy tắc FOB (Free On Board) chỉ sử dụng thích hợp cho vận tải đường biển hoặc đường thủy nội địa khi hàng hóa được giao trực tiếp qua mạn tàu hoặc đặt lên con tàu tại cảng bốc [13, 14]. Tuy nhiên, đối với hàng hóa đóng trong container, đặc thù là người bán phải giao container cho người chuyên chở tại các điểm tập kết bến bãi (CY - Container Yard hoặc CFS - Container Freight Station) trước khi hàng được bốc lên tàu [12, 13]. + **Căn cứ trích dẫn:** Cả hai tài liệu chuẩn mực đều nêu rõ: "FOB có thể không thích hợp khi hàng được giao cho người chuyên chở trước khi lên tàu, ví dụ hàng trong container, có đặc thù là giao tại điểm tập kết. Trong những trường hợp như vậy, nên sử dụng qui tắc FCA" [11-13]. Việc lựa chọn điều kiện FCA (Free Carrier - Giao cho người chuyên chở) giúp điểm giao hàng, mốc chuyển giao rủi ro và phân chia chi phí phù hợp hoàn hảo với thực tế giao nhận hàng container tại bãi tập kết [12, 15, 16]. Do đó, đáp án D là chính xác.
 
 ---
 
@@ -1323,7 +1323,7 @@
 - **D.** Ngân hàng phát hành vận đơn thay hãng tàu.
 
 👉 **Đáp án đúng:** **[C] - Người mua chỉ thị người chuyên chở phát hành vận đơn có xác nhận hàng đã được xếp lên tàu cho người bán sau khi hàng được xếp lên tàu.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Incoterms® 2020 bổ sung điều khoản mới cho FCA: Người mua và người bán có thể thỏa thuận rằng người mua chỉ thị người chuyên chở phát hành vận đơn có ghi chú hàng đã xếp lên tàu (On Board B/L) cho người bán để thanh toán L/C.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: `Incoterm - ebook - bản Tiếng Việt.pdf` / Lời giới thiệu (Mục 6 - Một số điểm khác biệt chính giữa Incoterms 2020 so với bản 2010) [1] và Quy tắc FCA (Mục 5 - Vận đơn với dấu On-board trong mua bán FCA [2, 3]; Điều khoản A6/B6 - Chứng từ giao hàng/vận tải [4, 5]). - + **Bản chất học thuật**: Trong giao dịch sử dụng điều kiện FCA, người bán hoàn thành nghĩa vụ giao hàng khi giao cho người chuyên chở tại địa điểm chỉ định (thường là trước khi hàng được xếp lên tàu biển), do đó người chuyên chở thông thường chỉ phát hành chứng từ nhận hàng để chở (Received for shipment B/L) [2, 6]. Tuy nhiên, nếu thanh toán bằng thư tín dụng (L/C), ngân hàng mở L/C lại đòi hỏi vận đơn đã xếp hàng lên tàu (On-board Bill of Lading) có xác nhận hàng đã nằm yên vị trên tàu [2]. + **Cơ chế mới của Incoterms® 2020**: Nhằm giải quyết vướng mắc thực tiễn này, Incoterms® 2020 bổ sung quy định cho phép các bên thỏa thuận trong hợp đồng một cơ chế hỗ trợ [1, 2]: người mua sẽ chỉ thị/yêu cầu người chuyên chở do mình thuê phát hành cho người bán một vận đơn có xác nhận hàng đã xếp lên tàu (On-board B/L) sau khi hàng hóa được xếp lên tàu [2, 3, 5]. + **Trích dẫn chuẩn xác**: Tài liệu `Incoterm - ebook - bản Tiếng Việt.pdf` nêu rõ: *"Để giải quyết các trường hợp mà sử dụng điều kiện FCA nhưng người bán vẫn cần 1 vận đơn có dấu On-board thì ở Incoterms 2020, điều kiện FCA đã quy định thêm việc người chuyên chở có thể được người mua hàng chỉ định để phát hành vận đơn có dấu On-board cho người bán. Nếu hai bên cùng đồng ý thỏa thuận trong hợp đồng về việc này, người mua sẽ phải chỉ định người chuyên chở của mình phát hành 1 vận đơn có dấu On-board cho người bán"* [2, 3]. Đồng thời tại mục B6 (FCA) quy định: *"Nếu các bên đã thỏa thuận, người mua phải chịu rủi ro và chi phí để chỉ định người chuyên chở phát hành cho người bán một chứng từ vận tải chứng minh rằng hàng hóa đã được xếp lên tàu (ví dụ như là vận đơn có dấu On-board)"* [5].
 
 ---
 
@@ -1336,7 +1336,7 @@
 - **D.** DDP luôn có lợi nhất cho người mua vì người bán đảm nhận phần lớn nghĩa vụ.
 
 👉 **Đáp án đúng:** **[B] - Mức độ phù hợp của DDP phụ thuộc vào điều kiện cụ thể của thương vụ, bao gồm khả năng thông quan nhập khẩu của người bán, chi phí, thuế và yêu cầu kiểm soát logistics.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** DDP đặt toàn bộ trách nhiệm và rủi ro tối đa lên người bán; mức độ phù hợp của DDP phụ thuộc vào việc người bán có tư cách pháp lý và năng lực thực hiện thủ tục hải quan nhập khẩu, nộp thuế tại nước người mua hay không.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Incoterms, Mục 2.1.7 (DDP) và Mục 3 (Tiêu chí lựa chọn quy tắc Incoterms - các mục c, e, h) [1-3]. - + Bản chất học thuật của quy tắc DDP (Delivered Duty Paid) quy định người bán chịu nghĩa vụ tối đa: không chỉ tổ chức vận chuyển hàng hóa tới nơi đến quy định mà còn phải trực tiếp hoặc gián tiếp làm thủ tục thông quan nhập khẩu, nộp mọi loại thuế và lệ phí nhập khẩu [1, 4, 6]. + Việc đánh giá mức độ phù hợp của DDP đối với người mua không thể áp đặt mang tính tuyệt đối ("luôn có lợi nhất" như phương án D hay "chỉ có lợi khi dùng L/C" như phương án A hay "tối ưu cho đường biển" như phương án C): 1. **Khả năng thông quan nhập khẩu**: Nếu người bán không có khả năng thông quan nhập khẩu tại nước người mua, việc ký hợp đồng DDP sẽ dẫn đến rủi ro lớn khi hàng hóa bị ách tắc tại hải quan cửa khẩu nhập [2, 3, 5]. 2. **Chi phí và thuế**: Toàn bộ chi phí vận tải, thủ tục hải quan và thuế nhập khẩu/VAT do người bán chi trả sẽ được tính gộp vào giá bán hàng hóa, đòi hỏi người mua phải cân nhắc bài toán chi phí tổng thể [2, 4, 7]. 3. **Phương thức vận tải và kiểm soát logistics**: DDP là quy tắc áp dụng cho mọi phương thức vận tải (không riêng đường biển) [1, 8]. + Do đó, nhận định **B** ("Mức độ phù hợp của DDP phụ thuộc vào điều kiện cụ thể của thương vụ, bao gồm khả năng thông quan nhập khẩu của người bán, chi phí, thuế và yêu cầu kiểm soát logistics") là đáp án chính xác và khoa học nhất.
 
 ---
 
@@ -1349,7 +1349,7 @@
 - **D.** Bên nào thực hiện thủ tục và nghĩa vụ nhập khẩu theo điều kiện.
 
 👉 **Đáp án đúng:** **[D] - Bên nào thực hiện thủ tục và nghĩa vụ nhập khẩu theo điều kiện.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Vấn đề cốt lõi nhất phân biệt giữa DAP và DDP là trách nhiệm thực hiện thủ tục thông quan nhập khẩu và nộp thuế nhập khẩu (DAP do người mua làm, DDP do người bán làm).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Incoterms, Mục 2.1.6 (DAP) và Mục 2.1.7 (DDP) [1, 2, 9]. - + Ranh giới phân định và tiêu chí quan trọng nhất khi lựa chọn giữa **DAP (Delivered at Place)** và **DDP (Delivered Duty Paid)** chính là **nghĩa vụ và trách nhiệm thực hiện thủ tục thông quan nhập khẩu** [2, 5, 9, 10]: 1. **Theo điều kiện DAP**: Người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa đặt dưới sự định đoạt của người mua trên phương tiện vận tải sẵn sàng dỡ tại nơi đến quy định [11]. Người bán làm thủ tục thông quan xuất khẩu, còn **người mua chịu toàn bộ nghĩa vụ, chi phí và thủ tục thông quan nhập khẩu** cũng như nộp thuế nhập khẩu [9, 10]. 2. **Theo điều kiện DDP**: Người bán phải gánh chịu toàn bộ chi phí và rủi ro để đưa hàng đến nơi đến, bao gồm cả **nghĩa vụ làm thủ tục thông quan nhập khẩu** và nộp các khoản thuế, lệ phí nhập khẩu [1, 5, 6]. + Cả hai điều kiện DAP và DDP đều áp dụng cho mọi phương thức vận tải (không phân biệt đường biển hay đường bộ) [1, 8, 11-13], người bán đều không bắt buộc phải mua bảo hiểm (trừ khi các bên có thỏa thuận riêng) [14-17]. + Do đó, vấn đề cần xem xét đặc biệt khi chọn giữa DAP và DDP là **bên nào thực hiện thủ tục và nghĩa vụ nhập khẩu theo điều kiện** (đáp án **D**).
 
 ---
 
@@ -1362,7 +1362,7 @@
 - **D.** Ai chịu trách nhiệm dỡ hàng tại nơi đến?
 
 👉 **Đáp án đúng:** **[D] - Ai chịu trách nhiệm dỡ hàng tại nơi đến?**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Câu hỏi quan trọng nhất phân biệt DAP và DPU là: Ai chịu trách nhiệm dỡ hàng khỏi phương tiện vận tải tại địa điểm đến? (DAP: người mua dỡ; DPU: người bán dỡ).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Incoterm - ebook - bản Tiếng Việt.pdf' / Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải / Quy tắc DAP (trang 53) và Quy tắc DPU (trang 61). - + **Bản chất học thuật**: Cả DAP (Delivered at Place - Giao tại nơi đến) và DPU (Delivered at Place Unloaded - Giao tại nơi đến đã dỡ hàng) đều thuộc nhóm các quy tắc áp dụng cho mọi phương thức vận tải, trong đó người bán chịu mọi chi phí và rủi ro để đưa hàng hóa đến nơi đến quy định [1-4]. Tuy nhiên, điểm khác biệt cốt lõi duy nhất nằm ở nghĩa vụ dỡ hàng khỏi phương tiện vận tải chở đến tại nơi đến: * **DAP**: Người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được đặt dưới quyền định đoạt của người mua trên phương tiện vận tải chở đến và sẵn sàng để dỡ (chưa dỡ khỏi phương tiện vận tải) [2]. Trách nhiệm và chi phí dỡ hàng thuộc về người mua [5, 6]. * **DPU**: Người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa đã được dỡ xuống khỏi phương tiện vận tải chở đến tại nơi đến chỉ định [4]. DPU là quy tắc duy nhất trong Incoterms® 2020 bắt buộc người bán phải tổ chức và chịu chi phí, rủi ro dỡ hàng xuống tại nơi đến [4, 7]. + **Trích dẫn chuẩn xác**: Tài liệu 'Incoterm - ebook - bản Tiếng Việt.pdf' chỉ rõ: *"DPU là điều kiện duy nhất mà yêu cầu người bán dỡ hàng xuống tại nơi đến. Người bán nên chắc chắn rằng mình có đủ khả năng để có thể tổ chức việc dỡ hàng tại nơi đến, hoặc nếu không thì nên cân nhắc sử dụng điều kiện DAP"* [4]. Do đó, câu hỏi quan trọng nhất khi đàm phán lựa chọn giữa DAP và DPU chính là xác định bên nào chịu trách nhiệm dỡ hàng tại nơi đến [4, 5].
 
 ---
 
@@ -1375,7 +1375,7 @@
 - **D.** Đặc điểm hàng hóa, thời hạn thanh toán và cơ chế giải quyết tranh chấp.
 
 👉 **Đáp án đúng:** **[B] - Phân chia chi phí, nghĩa vụ bảo hiểm và trách nhiệm thực hiện thủ tục thông quan.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi phân tích một điều kiện Incoterms, ngoài điểm giao hàng và chuyển rủi ro, cần xem xét đồng thời 3 yếu tố trụ cột: Phân chia chi phí, Nghĩa vụ thu xếp bảo hiểm và Trách nhiệm thực hiện thủ tục hải quan thông quan xuất nhập khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + 'Incoterm - ebook - bản Tiếng Việt.pdf' / Lời giới thiệu / Mục I (Incoterms có tác dụng gì?), Mục II (Incoterms không có tác dụng gì?), Mục 5 (Lý giải các mục của Incoterms 2020). - + **Bản chất học thuật**: Incoterms do Phòng Thương mại Quốc tế (ICC) phát hành nhằm phân định 3 nhóm nội dung cơ bản giữa bên bán và bên mua trong hợp đồng mua bán hàng hóa hữu hình: Nghĩa vụ (Tasks), Rủi ro (Risks) và Chi phí (Costs) [8-11]. Cấu trúc tiêu chuẩn của từng điều kiện Incoterms® 2020 gồm 10 tiểu mục nghĩa vụ tương ứng A1-A10 / B1-B10 [11-13]. Bên cạnh trách nhiệm vận tải (A4/B4) và mốc chuyển giao rủi ro (A3/B3), bộ nội dung cốt lõi của Incoterms bắt buộc phải xem xét đồng thời bao gồm: 1. **Nghĩa vụ bảo hiểm** (Tiểu mục A5/B5) [13-16]. 2. **Trách nhiệm thực hiện thủ tục thông quan** xuất khẩu, nhập khẩu và quá cảnh (Tiểu mục A7/B7) [13, 17-19]. 3. **Phân chia chi phí** liên quan đến lô hàng (Tiểu mục A9/B9) [13, 20, 21]. + **Loại trừ phương án sai**: Incoterms **không** điều chỉnh và không thay thế các điều khoản hợp đồng về: chuyển quyền sở hữu hàng hóa, giá bán, phương thức thanh toán, thời hạn thanh toán, đặc điểm hàng hóa, luật áp dụng hay cơ chế giải quyết tranh chấp [22, 23]. Các phương án A, C, D đều chứa những yếu tố ngoài phạm vi điều chỉnh của Incoterms [22, 23]. Do đó, phương án **B** là nhóm nội dung chuẩn xác và đầy đủ nhất [11, 13].
 
 ---
 
@@ -1387,8 +1387,8 @@
 - **C.** Trước tiên xem xét nghĩa vụ bảo hiểm và chi phí vận tải, sau đó xác định phương thức thanh toán và thủ tục hải quan.
 - **D.** Trước tiên xác định tên điều kiện Incoterms®, sau đó căn cứ vào tên điều kiện để xác định toàn bộ trách nhiệm của các bên.
 
-👉 **Đáp án đúng:** **[A] - Trước tiên xác định tên điều kiện Incoterms®, sau đó căn cứ vào tên điều kiện để xác định toàn bộ trách nhiệm của các bên.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong Incoterms® 2020, chỉ có 2 điều kiện quy định nghĩa vụ người bán phải mua bảo hiểm hàng hóa là CIF (mức bảo hiểm C) và CIP (mức bảo hiểm A).
+👉 **Đáp án đúng:** **[A] - Trước tiên xác định phương thức vận tải và địa điểm được chỉ định, sau đó xem xét điểm giao hàng và chuyển rủi ro, nghĩa vụ vận tải, bảo hiểm, phân chia chi phí và thủ tục thông quan của các bên.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf* (Quy tắc ICC Incoterms® 2020): Phần Lời giới thiệu (Mục I, II, III), Mục 5 (Lý giải các mục A1–A10 / B1–B10) và Hướng dẫn sử dụng các quy tắc [1-5]. - - **Trình tự phân tích khoa học và hợp lý nhất (Đáp án A đúng):** 1. **Xác định phương thức vận tải và địa điểm được chỉ định:** Đây là bước tiên quyết vì Incoterms® 2020 phân chia 11 quy tắc thành 2 nhóm lớn (dùng cho mọi phương thức vận tải và chỉ dùng cho vận tải đường biển/đường thủy nội địa) [6]. Tên quy tắc Incoterms luôn phải gắn liền với địa điểm/cảng biển được chỉ định cụ thể (ví dụ: *FCA Noi Bai Airport Incoterms 2020* hay *CIF Haiphong Port Incoterms 2020*) [3, 4]. 2. **Xem xét điểm giao hàng và chuyển giao rủi ro:** Địa điểm chỉ định xác định rõ nơi người bán hoàn thành nghĩa vụ giao hàng (A2/B2) và mốc thời điểm/địa điểm rủi ro về mất mát, hư hỏng hàng hóa chuyển từ người bán sang người mua (A3/B3) [1, 4, 5]. 3. **Phân tích các nghĩa vụ cụ thể về vận tải, bảo hiểm, chi phí và thông quan:** Tiếp theo, tiến hành xem xét phân chia nghĩa vụ thuê phương tiện vận tải (A4/B4), nghĩa vụ mua bảo hiểm (A5/B5), phân chia chi phí phát sinh (A9/B9) và nghĩa vụ làm thủ tục thông quan hải quan xuất/nhập khẩu/quá cảnh (A7/B7) [5, 10]. - **Vì sao các phương án khác sai:** - **Phương án B và C sai:** Vì Incoterms® **không điều chỉnh** giá cả hàng hóa, phương thức thanh toán (L/C, T/T, D/P...), hay việc chuyển giao quyền sở hữu hàng hóa (property/ownership/title) [2, 9]. - **Phương án D sai:** Việc chỉ nhìn vào tên điều kiện Incoterms® mà bỏ qua việc xem xét phương thức vận tải và địa điểm chỉ định đi kèm sẽ dẫn đến việc áp dụng sai điều kiện (như dùng FOB/CIF cho hàng đóng container vận tải đa phương thức) và không xác định được mốc chuyển giao rủi ro/chi phí thực tế [7, 8, 11].
 
 ---
 
@@ -1401,7 +1401,7 @@
 - **D.** FOB bắt buộc người bán làm thủ tục nhập khẩu.
 
 👉 **Đáp án đúng:** **[C] - Quy trình giao hàng thực tế và điểm chuyển rủi ro theo FOB có thể không trùng nhau.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi sử dụng Incoterms® 2020, điều quan trọng hàng đầu là phải ghi kèm tên địa điểm hoặc cảng quy định càng chi tiết, cụ thể càng tốt để tránh tranh chấp về điểm giao hàng và chuyển giao rủi ro.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần Hướng dẫn sử dụng quy tắc FOB (Mục 1 & 2) [1, 2]. - Đối với hàng hóa đóng trong container, người bán thực tế hoàn tất việc giao hàng khi giao container cho người chuyên chở tại bến/trạm tập kết container (CY/CFS) [1, 4]. Tuy nhiên, theo quy tắc FOB, điểm chuyển giao rủi ro pháp lý giữa người bán và người mua chỉ diễn ra khi hàng hóa đã được đặt an toàn lên tàu (*on board*) tại cảng bốc [2, 5]. Do đó, việc vẫn áp dụng FOB cho hàng container tạo ra rủi ro lớn vì **quy trình giao hàng thực tế (tại bến container) và điểm chuyển giao rủi ro theo luật định (trên tàu) không trùng nhau** [1, 4]. Trong khoảng thời gian hàng nằm chờ tại bến bãi container trước khi bốc lên tàu, người bán đã mất kiểm soát thực tế đối với hàng hóa nhưng vẫn phải gánh chịu rủi ro mất mát, hư hỏng [4, 6]. Vì vậy, cả hai tài liệu đều khuyến cáo sử dụng quy tắc FCA thay cho FOB trong trường hợp này [1, 3, 4].
 
 ---
 
@@ -1413,8 +1413,8 @@
 - **C.** DAP và DDP.
 - **D.** EXW và DPU.
 
-👉 **Đáp án đúng:** **[C] - DAP và DDP.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong FOB, người bán chịu mọi chi phí và rủi ro cho đến khi hàng đã được xếp an toàn lên boong tàu tại cảng bốc hàng thỏa thuận.
+👉 **Đáp án đúng:** **[B] - Các điều kiện nhóm C như CPT, CIP, CFR và CIF.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần Lời giới thiệu (Mục III.2 "Quy định địa điểm hoặc cảng càng chính xác càng tốt" & Mục III.3 "Nghĩa vụ giao hàng, rủi ro và chi phí") [7-9]. - Các điều kiện thương mại thuộc **Nhóm C (CPT, CIP, CFR, CIF)** là các quy tắc đặc thù có **hai điểm tới hạn** (*two critical points*) phân tách biệt lập giữa rủi ro và chi phí [11, 12, 14, 15]: 1. Địa điểm/cảng được ghi ngay sau tên điều kiện Nhóm C (ví dụ: *CIF Haiphong Port*, *CPT Hanoi*) chính là **nơi đến quy định (đích đến)** mà người bán có nghĩa vụ ký hợp đồng vận tải và trả cước phí [8, 9, 16, 17]. 2. Tuy nhiên, **điểm chuyển giao rủi ro** từ người bán sang người mua lại xảy ra từ chặng xuất phát: khi hàng hóa được giao cho người chuyên chở (đối với CPT, CIP) hoặc được đặt lên tàu tại cảng bốc (đối với CFR, CIF) [9, 16-19]. Do đó, nhận định “địa điểm ghi sau điều kiện Incoterms luôn là điểm chuyển rủi ro” **đặc biệt dễ sai khi áp dụng cho các điều kiện nhóm C** [7, 9]. Ngược lại, đối với các nhóm E, F và D, địa điểm ghi sau tên điều kiện trùng với điểm giao hàng và chuyển giao rủi ro [7, 9, 20].
 
 ---
 
@@ -1426,8 +1426,8 @@
 - **C.** Chỉ người mua được mua bảo hiểm.
 - **D.** Incoterms không có điều kiện bảo hiểm.
 
-👉 **Đáp án đúng:** **[C] - Chỉ người mua được mua bảo hiểm.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong FAS, người bán hoàn thành nghĩa vụ giao hàng khi hàng được đặt dọc mạn tàu (trên cầu cảng hoặc trên sà lan) do người mua chỉ định tại cảng xếp hàng quy định.
+👉 **Đáp án đúng:** **[A] - Nghĩa vụ thu xếp bảo hiểm và việc phân chia rủi ro là hai vấn đề cần phân biệt.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf* — Chương II (Mục 2.1.4 CIP, Mục 2.2.4 CIF và Mục 4.c Phân chia chi phí và rủi ro) [1-4]. - - Nhận định “mua bảo hiểm đồng nghĩa với chịu rủi ro” là sai về mặt bản chất học thuật vì trong Incoterms, **nghĩa vụ thu xếp hợp đồng bảo hiểm và việc phân chia/chuyển giao rủi ro mất mát, hư hỏng hàng hóa là hai vấn đề hoàn toàn độc lập cần phân biệt** [2, 6]. - Minh chứng rõ nhất là ở các điều kiện nhóm C có bảo hiểm như **CIF** và **CIP**: Người bán có nghĩa vụ đứng ra ký hợp đồng và thanh toán phí bảo hiểm, nhưng người mua mới là bên thụ hưởng lợi ích bảo hiểm và chịu mọi rủi ro mất mát hay hư hỏng hàng hóa trong suốt quá trình vận chuyển (do rủi ro đã chuyển giao từ người bán sang người mua ngay từ khi giao hàng tại cảng/nơi xuất phát) [1-3]. Do đó, mua bảo hiểm không đồng nghĩa với việc chịu rủi ro.
 
 ---
 
@@ -1439,8 +1439,8 @@
 - **C.** Bên lựa chọn phương thức thanh toán tiền hàng.
 - **D.** Thời điểm chuyển quyền sở hữu hàng hóa từ người bán sang người mua.
 
-👉 **Đáp án đúng:** **[B] - Bên thực hiện thủ tục thông quan xuất khẩu.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong FCA, khi điểm giao hàng là tại cơ sở của người bán (xưởng/kho), người bán có nghĩa vụ bốc hàng lên phương tiện vận tải tiếp nhận do người mua phái đến.
+👉 **Đáp án đúng:** **[B] - Bên chịu trách nhiệm dỡ hàng khỏi phương tiện vận tải tại địa điểm đến.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf* — Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải: Quy tắc DAP (trang 53) và Quy tắc DPU (trang 61) [7, 8]. - - Theo quy tắc **DAP** (*Delivered at Place* - Giao tại nơi đến): Người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được đặt dưới quyền định đoạt của người mua trên phương tiện vận tải chở đến và **sẵn sàng để dỡ** tại nơi đến quy định (người mua chịu trách nhiệm và chi phí dỡ hàng khỏi phương tiện vận tải) [7]. - Theo quy tắc **DPU** (*Delivered at Place Unloaded* - Giao tại nơi đến đã dỡ): Người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa **đã được dỡ xuống** khỏi phương tiện vận tải tại nơi đến quy định. DPU là quy tắc duy nhất trong Incoterms® 2020 yêu cầu người bán phải chịu chi phí và rủi ro cho việc dỡ hàng tại điểm đích [8]. - Do đó, **bên chịu trách nhiệm dỡ hàng khỏi phương tiện vận tải tại địa điểm đến** là điểm khác biệt trực tiếp quan trọng nhất giữa DAP và DPU [7, 8]. Các phương án khác đều không đúng vì: thủ tục thông quan xuất khẩu ở cả hai điều kiện đều do người bán thực hiện [9, 10]; phương thức thanh toán và thời điểm chuyển quyền sở hữu hàng hóa là các vấn đề Incoterms không điều chỉnh [11, 12].
 
 ---
 
@@ -1452,8 +1452,8 @@
 - **C.** FAS.
 - **D.** FOB.
 
-👉 **Đáp án đúng:** **[D] - FOB.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong FCA, nếu việc giao hàng diễn ra tại một địa điểm khác ngoài cơ sở người bán (như bến xe, kho CFS, bãi CY), người bán giao hàng khi hàng vẫn ở trên phương tiện vận tải của người bán và sẵn sàng để dỡ cho người chuyên chở.
+👉 **Đáp án đúng:** **[A] - DAP.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + Tài liệu *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần "Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải" — Mục DAP (trang 53) và Mục DPU (trang 61). - + Theo quy tắc DPU (Delivered at Place Unloaded - Giao tại nơi đến đã dỡ), người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được đặt dưới sự định đoạt của người mua và **đã dỡ xuống** khỏi phương tiện vận tải tại nơi đến quy định [1]. DPU là điều kiện duy nhất trong Incoterms® 2020 bắt buộc người bán phải chịu chi phí và rủi ro dỡ hàng tại điểm đến [1]. + Trong khi đó, theo quy tắc DAP (Delivered at Place - Giao tại nơi đến), người bán hoàn thành nghĩa vụ giao hàng khi hàng hóa được đặt dưới quyền định đoạt của người mua trên phương tiện vận tải chở đến và **sẵn sàng để dỡ** tại nơi đến chỉ định [2, 3]. Người bán chịu mọi chi phí và rủi ro đưa hàng đến nhà máy, nhưng không có nghĩa vụ dỡ hàng [2, 3]. + Trường hợp thực tế: Doanh nghiệp người mua đã có sẵn thiết bị dỡ hàng chuyên dụng và muốn tự dỡ hàng tại nhà máy của mình, việc áp dụng điều kiện **DAP** sẽ phù hợp hơn DPU vì tránh trùng lặp nghĩa vụ dỡ hàng và tối ưu hóa chi phí cho các bên [1, 3].
 
 ---
 
@@ -1465,8 +1465,8 @@
 - **C.** CFR Busan Port, Korea.
 - **D.** CIP Busan, Korea.
 
-👉 **Đáp án đúng:** **[A] - CIF Busan Port, Korea.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong EXW, người bán không có nghĩa vụ bốc hàng lên phương tiện vận tải do người mua cử đến (nếu người bán bốc hộ thì rủi ro và chi phí vẫn do người mua chịu, trừ khi có thỏa thuận khác).
+👉 **Đáp án đúng:** **[C] - CFR Busan Port, Korea.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + Tài liệu *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần "Các điều kiện áp dụng cho vận tải biển và vận tải thủy nội địa" — Mục CFR (trang 97). - + **Về phương thức vận tải**: Tuyến vận chuyển từ cảng Hải Phòng đến cảng Busan được thực hiện bằng đường biển từ cảng đến cảng [4]. Incoterms® 2020 quy định CFR (Cost and Freight) là quy tắc truyền thống chuyên áp dụng cho phương thức vận tải biển và thủy nội địa [4]. + **Về nghĩa vụ cước phí**: Theo điều kiện CFR, người bán có trách nhiệm ký hợp đồng vận tải và thanh toán toàn bộ cước phí cần thiết để đưa hàng hóa đến cảng đích quy định (Cảng Busan, Hàn Quốc) [5, 6]. + **Về nghĩa vụ bảo hiểm**: Quy tắc CFR quy định rõ người bán **không có nghĩa vụ** mua bảo hiểm cho hàng hóa (trách nhiệm mua bảo hiểm thuộc về người mua nếu thấy cần thiết) [7]. Điều này phân biệt CFR với CIF hay CIP (vốn là các điều kiện bắt buộc người bán phải mua bảo hiểm) [8, 9]. + Do đó, cách ghi chuẩn xác và phù hợp nhất cho hợp đồng xuất khẩu đường biển này là **CFR Busan Port, Korea** [4, 6].
 
 ---
 
@@ -1478,8 +1478,8 @@
 - **C.** DAP.
 - **D.** FAS.
 
-👉 **Đáp án đúng:** **[B] - EXW.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong DDP, người bán chịu mức nghĩa vụ và rủi ro cao nhất: vận chuyển hàng tới nơi đến quy định, làm thủ tục thông quan xuất khẩu, trả cước vận tải quốc tế, làm thủ tục hải quan nhập khẩu và nộp toàn bộ các loại thuế nhập khẩu.
+👉 **Đáp án đúng:** **[C] - DAP.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Mục DDP - Hướng dẫn sử dụng, điểm 5) [1] và *Giáo trình giao dịch ngoại thương.pdf* (Chương II, Mục 2.1.7 - DDP [2] & Mục 3.h - Tiêu chí lựa chọn quy tắc Incoterms [3]). - Theo quy tắc DDP (Delivered Duty Paid), người bán chịu nghĩa vụ tối đa khi phải chịu mọi chi phí và rủi ro để đưa hàng hóa đến địa điểm chỉ định tại nước nhập khẩu, bao gồm cả việc trực tiếp hoặc gián tiếp làm thủ tục thông quan nhập khẩu và nộp các khoản thuế, lệ phí [2, 4]. Tuy nhiên, trong trường hợp người bán không có khả năng thực hiện thủ tục thông quan nhập khẩu tại nước người mua, hướng dẫn chính thức của ICC và giáo trình khẳng định không nên sử dụng DDP mà nên chuyển sang điều kiện DAP (Delivered at Place) [1-3]. Theo quy tắc DAP, người bán chịu trách nhiệm và rủi ro vận chuyển hàng đến địa điểm thỏa thuận tại nước nhập khẩu (sẵn sàng dỡ hàng), trong khi người mua sẽ tự thực hiện thủ tục thông quan nhập khẩu cũng như nộp thuế nhập khẩu [1, 5, 6].
 
 ---
 
@@ -1491,8 +1491,8 @@
 - **C.** DDP.
 - **D.** DAP.
 
-👉 **Đáp án đúng:** **[D] - DAP.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** DAP và DDP đều là các điều kiện thuộc nhóm D áp dụng cho mọi phương thức vận tải, trong đó người bán chịu chi phí và rủi ro đưa hàng tới phương tiện vận tải đến tại điểm đích quy định, sẵn sàng để dỡ.
+👉 **Đáp án đúng:** **[A] - DPU.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt.pdf* (Phần Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải - Quy tắc DPU: Delivered at Place Unloaded, Mục Hướng dẫn sử dụng [7-9] và Chi tiết nghĩa vụ A2/B2 [10, 11], A7/B7 [12, 13]). - DPU (Giao hàng đã dỡ tại nơi đến) là điều kiện duy nhất trong bộ quy tắc Incoterms® 2020 quy định người bán hoàn thành nghĩa vụ giao hàng và chuyển giao rủi ro sau khi hàng hóa đã được **dỡ xuống khỏi phương tiện vận tải** chở tới tại địa điểm đến chỉ định (chẳng hạn như kho của người mua) [8]. Đồng thời, về nghĩa vụ hải quan, quy tắc DPU chỉ yêu cầu người bán thông quan xuất khẩu, còn thủ tục thông quan nhập khẩu thuộc về trách nhiệm và chi phí của người mua [9, 13]. - Phân biệt với các phương án còn lại: + **DAP**: Người bán chỉ đặt hàng hóa dưới quyền định đoạt của người mua trên phương tiện vận tải *sẵn sàng dỡ* (chưa dỡ hàng khỏi phương tiện) [5, 14]. + **DDP**: Người bán bắt buộc phải thực hiện và chịu chi phí thông quan nhập khẩu [1, 4, 15]. + **CPT**: Rủi ro chuyển giao cho người mua ngay khi người bán giao hàng cho người chuyên chở tại nước xuất khẩu, không phải sau khi hàng đã dỡ tại kho người mua ở nước nhập khẩu [16-18].
 
 ---
 
@@ -1504,8 +1504,8 @@
 - **C.** Điều kiện CIP không được áp dụng khi có nhiều người chuyên chở.
 - **D.** Người mua phải trực tiếp lựa chọn người chuyên chở cuối cùng.
 
-👉 **Đáp án đúng:** **[B] - Người bán phải chịu rủi ro về hàng hóa cho đến khi hàng đến Hamburg.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Incoterms® 2020 quy định rõ mức bảo hiểm mặc định cho CIF là ICC (C) - bảo hiểm tổn thất rủi ro cơ bản, còn CIP là ICC (A) - bảo hiểm mọi rủi ro.
+👉 **Đáp án đúng:** **[A] - Các bên có thể phát sinh tranh chấp về thời điểm và địa điểm chuyển rủi ro từ người bán sang người mua.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần quy tắc **CIP (Carriage and Insurance Paid To)** – Mục Hướng dẫn sử dụng (điểm 2) và Điều khoản CIP Incoterms® 2020 [1]. - - Quy tắc CIP Incoterms® 2020 là quy tắc áp dụng cho mọi phương thức vận tải và có **hai điểm tới hạn** (rủi ro và chi phí được chuyển giao tại hai địa điểm khác nhau) [1, 2]. Người bán hoàn thành nghĩa vụ giao hàng và chuyển rủi ro cho người mua khi giao hàng cho người chuyên chở chứ không phải khi hàng tới địa điểm đến [1, 2]. - Khi có nhiều người chuyên chở tham gia vào quá trình vận tải mà các bên **không thỏa thuận một điểm giao hàng cụ thể**, quy tắc mặc định rằng rủi ro chuyển giao từ người bán sang người mua ngay khi hàng hóa được giao cho **người chuyên chở đầu tiên** tại địa điểm hoàn toàn do người bán lựa chọn và nằm ngoài sự kiểm soát của người mua [1, 2]. Chính việc không quy định rõ điểm giao hàng này dễ dẫn đến bất đồng và **tranh chấp về thời điểm, địa điểm chuyển rủi ro** khi hàng hóa phát sinh tổn thất trong chặng vận tải nội địa hoặc chặng đầu tiên [1, 2]. - **Phân tích các đáp án khác:** - **B sai:** Trong điều kiện CIP, người bán chỉ chịu chi phí vận chuyển đến đích (Hamburg), không chịu rủi ro đối với hàng hóa cho đến tận Hamburg [1, 2]. - **C sai:** Điều kiện CIP áp dụng cho mọi phương thức vận tải và hoàn toàn cho phép sử dụng khi có nhiều người chuyên chở tham gia [1, 2]. - **D sai:** Người bán có nghĩa vụ ký hợp đồng vận tải đưa hàng đến nơi đến quy định, người mua không trực tiếp chọn người chuyên chở cuối cùng [1, 2].
 
 ---
 
@@ -1517,8 +1517,8 @@
 - **C.** Điều kiện DPU chỉ được áp dụng khi hàng hóa vận chuyển bằng đường biển.
 - **D.** Người bán không được phép ký hợp đồng vận tải đến kho của người mua.
 
-👉 **Đáp án đúng:** **[D] - Người bán không được phép ký hợp đồng vận tải đến kho của người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Incoterms 2020, việc tự ý thay đổi chữ cái mà không dẫn chiếu rõ ràng sẽ gây nhầm lẫn; quy tắc chuẩn khuyến cáo sử dụng đúng 11 điều kiện chuẩn của ICC kèm theo phiên bản Incoterms 2020.
+👉 **Đáp án đúng:** **[A] - Người bán có thể gặp khó khăn hoặc không thể hoàn thành nghĩa vụ dỡ hàng tại địa điểm đến đã thỏa thuận.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Incoterm - ebook - bản Tiếng Việt.pdf' / Phần "Các điều kiện sử dụng cho một hoặc nhiều phương thức vận tải" / Quy tắc DPU (Delivered at Place Unloaded) - Mục 2 "Chuyển giao hàng hóa và rủi ro", Mục A2 "Giao hàng" và Mục A7 "Thông quan xuất khẩu/nhập khẩu". - + **Bản chất của DPU:** Theo Incoterms® 2020, DPU (Delivered at Place Unloaded) quy định người bán chỉ hoàn thành nghĩa vụ giao hàng khi hàng hóa đã được **dỡ xuống** khỏi phương tiện vận tải chở tới và đặt dưới sự định đoạt của người mua tại địa điểm đến chỉ định [1, 2]. DPU là quy tắc duy nhất yêu cầu người bán phải thực hiện và chịu mọi rủi ro, chi phí liên quan đến việc dỡ hàng tại nơi đến [1, 3]. + **Vấn đề quan trọng nhất:** Nếu kho của người mua không có thiết bị phù hợp để dỡ hàng, người bán sẽ gặp khó khăn hoặc không thể hoàn thành nghĩa vụ dỡ hàng theo đúng quy tắc. Hướng dẫn sử dụng DPU trong tài liệu nêu rõ: *"DPU là điều kiện duy nhất mà yêu cầu người bán dỡ hàng xuống tại nơi đến. Người bán nên chắc chắn rằng mình có đủ khả năng để có thể tổ chức việc dỡ hàng tại nơi đến, hoặc nếu không thì nên cân nhắc sử dụng điều kiện DAP."* [1] + **Phân tích các đáp án còn lại:** * **B sai:** Theo Mục A7(a) điều kiện DPU, người bán có nghĩa vụ thông quan xuất khẩu, không phải người mua [4]. * **C sai:** DPU thuộc nhóm các quy tắc áp dụng cho mọi phương thức vận tải (vận tải đa phương thức), không chỉ riêng đường biển [5]. * **D sai:** Theo Mục A4 điều kiện DPU, người bán bắt buộc phải ký hợp đồng vận tải để chở hàng hóa tới nơi đến quy định (kho của người mua) [6].
 
 ---
 
@@ -1530,8 +1530,8 @@
 - **C.** Ngân hàng phát hành L/C đồng thời phát hành vận đơn cho người bán.
 - **D.** Điều kiện FCA tự động được chuyển thành FOB khi L/C yêu cầu vận đơn có xác nhận hàng đã xếp lên tàu.
 
-👉 **Đáp án đúng:** **[A] - Người bán tự lập và phát hành vận đơn sau khi giao hàng cho người chuyên chở.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều kiện DPU (Delivered at Place Unloaded) thay thế cho điều kiện DAT (Delivered at Terminal) của Incoterms 2010 để nhấn mạnh địa điểm đến có thể là bất kỳ nơi nào chứ không nhất thiết phải là nhà ga/bến bãi (terminal).
+👉 **Đáp án đúng:** **[B] - Người mua chỉ thị cho người chuyên chở phát hành vận đơn có xác nhận hàng đã xếp lên tàu cho người bán sau khi hàng được xếp lên tàu.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: `Incoterm - ebook - bản Tiếng Việt.pdf` / Lời giới thiệu (Mục 6: Một số điểm khác biệt chính giữa Incoterms 2020 so với 2010) [1] & Quy tắc FCA (Mục 5: "Vận đơn với dấu On-board trong mua bán FCA", Điều khoản A6/B6) [2-4]. - Incoterms® 2020 đã bổ sung một cơ chế đặc thù cho quy tắc **FCA** để giải quyết vướng mắc khi thanh toán bằng **L/C (Thư tín dụng)** [1, 2]. Trong giao dịch FCA, người bán hoàn thành nghĩa vụ giao hàng khi giao cho người chuyên chở tại điểm nội địa hoặc cảng đi, do đó thông thường người bán chỉ nhận được chứng từ nhận hàng để chở (Received for shipment B/L) chứ không có vận đơn đã xếp hàng lên tàu (On-board B/L) [2]. Tuy nhiên, ngân hàng phát hành L/C lại thường yêu cầu vận đơn phải có xác nhận "On-board" mới chấp nhận thanh toán [2]. Để khắc phục điều này, Incoterms® 2020 quy định: Nếu hai bên đã thỏa thuận trong hợp đồng, **người mua phải chịu chi phí và rủi ro để chỉ thị cho người chuyên chở do mình thuê phát hành cho người bán một vận đơn có ghi chú đã xếp hàng lên tàu (On-board Bill of Lading)** sau khi hàng hóa đã được xếp an toàn lên tàu [3, 4]. Sau đó, người bán sẽ xuất trình vận đơn này cho ngân hàng để thanh toán L/C [3]. Do đó, **đáp án B** là đáp án chuẩn xác nhất [3].
 
 ---
 
@@ -1544,7 +1544,7 @@
 - **D.** Chưa xác định cụ thể cảng xếp hàng liên quan đến việc giao hàng.
 
 👉 **Đáp án đúng:** **[D] - Chưa xác định cụ thể cảng xếp hàng liên quan đến việc giao hàng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Ghi 'FOB Vietnam' là quá mơ hồ và sai chuẩn thực tiễn logistics, vì Việt Nam có rất nhiều cảng biển khác nhau (Hải Phòng, Đà Nẵng, Cát Lái...); hợp đồng bắt buộc phải chỉ định cụ thể tên cảng xếp hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: `Incoterm - ebook - bản Tiếng Việt.pdf` / Lời giới thiệu (Mục III.2: "Quy định địa điểm hoặc cảng càng chính xác càng tốt") [5] & Quy tắc FOB [6]; `Giáo trình giao dịch ngoại thương.pdf` / Chương II (Mục 2.2.2: "FOB - Giao hàng trên tàu" và Mục 4.d: "Một số lưu ý khi sử dụng Incoterms") [7, 8]. - Theo quy định chuẩn mực của Incoterms® 2020, cách ghi chuẩn của điều kiện **FOB** là: **FOB [Cảng bốc hàng quy định / Named port of shipment] Incoterms® 2020** [6, 7]. Quy tắc FOB chỉ sử dụng cho vận tải đường biển và đường thủy nội địa, trong đó rủi ro và chi phí được chuyển giao từ người bán sang người mua ngay khi hàng hóa được đặt an toàn lên con tàu do người mua chỉ định tại cảng bốc hàng [7, 9]. Khi ghi “FOB Vietnam, Incoterms® 2020”, hợp đồng mới chỉ nêu tên quốc gia mà **chưa xác định cụ thể cảng xếp hàng/cảng bốc hàng liên quan đến việc giao hàng** (ví dụ: Cảng Hải Phòng, Cảng Cát Lái, Cảng Đà Nẵng...) [5, 7]. Vì Việt Nam có rất nhiều cảng biển, việc không xác định cụ thể cảng bốc hàng sẽ dẫn đến: 1. Không xác định được chính xác điểm chuyển giao rủi ro và chi phí giữa hai bên [5]. 2. Phát sinh tranh chấp về chi phí vận chuyển nội địa ra cảng, chi phí điều tàu và nghĩa vụ tập kết hàng hóa của người bán [8, 10]. Do đó, điểm yếu quan trọng nhất chính là **chưa xác định cụ thể cảng xếp hàng** (Đáp án D) [5, 7].
 
 ---
 
@@ -1557,7 +1557,7 @@
 - **D.** Người mua chỉ thị người chuyên chở phát hành vận đơn có xác nhận hàng đã được xếp lên tàu cho người bán sau khi hàng đã được xếp lên tàu.
 
 👉 **Đáp án đúng:** **[D] - Người mua chỉ thị người chuyên chở phát hành vận đơn có xác nhận hàng đã được xếp lên tàu cho người bán sau khi hàng đã được xếp lên tàu.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Quy định cơ chế xuất trình On-board B/L trong FCA của Incoterms 2020 cho phép người mua chỉ thị hãng tàu cấp vận đơn có xác nhận xếp hàng lên tàu cho người bán để thanh toán ngân hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Incoterm - ebook - bản Tiếng Việt.pdf' / Quy tắc FCA (Mục Hướng dẫn sử dụng - Điểm 5 "Vận đơn với dấu On-board trong mua bán FCA" và Điều khoản B6 "Bằng chứng của việc giao hàng") [1, 2]. - Trong thực tiễn thương mại, khi giao hàng container theo điều kiện FCA, người bán hoàn thành nghĩa vụ giao hàng khi giao cho người chuyên chở tại điểm tập kết nội địa hoặc cơ sở của mình, nên hãng tàu thường chỉ phát hành chứng từ nhận hàng để chở (Received for shipment B/L) chứ chưa có xác nhận đã xếp hàng lên tàu (On-board B/L) [1, 3]. Tuy nhiên, phương thức thanh toán L/C lại thường bắt buộc phải có vận đơn On-board mới đủ điều kiện thanh toán [1]. Để giải quyết vướng mắc này, Incoterms® 2020 quy định thêm rằng: Nếu hai bên thỏa thuận trong hợp đồng, người mua phải chỉ định người chuyên chở của mình phát hành cho người bán một vận đơn có xác nhận hàng đã được xếp lên tàu (On-board B/L) sau khi hàng hóa đã được bốc lên tàu an toàn [1, 2, 4].
 
 ---
 
@@ -1570,7 +1570,7 @@
 - **D.** CIF không cho phép giao tại Việt Nam.
 
 👉 **Đáp án đúng:** **[B] - CIF không phù hợp với phương thức vận tải hàng không theo phạm vi áp dụng của điều kiện.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** CIF chỉ áp dụng cho vận tải đường biển và đường thủy nội địa. Đối với vận tải hàng không đến sân bay Nội Bài, điều kiện tương đương chuẩn phải sử dụng là CIP Nội Bài Airport.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Incoterm - ebook - bản Tiếng Việt.pdf' (Quy tắc CIF Incoterms® 2020 - Mục 1 Hướng dẫn sử dụng) [5] và 'Giáo trình giao dịch ngoại thương.pdf' (Chương II - Mục 1.3.1 Phân loại quy tắc theo phương thức vận tải & Mục 3.a Tiêu chí lựa chọn quy tắc Incoterms) [6, 7]. - Theo quy định chuẩn mực của Incoterms (cả bản 2010 và 2020), CIF (Cost, Insurance and Freight) thuộc nhóm các quy tắc chỉ sử dụng riêng cho phương thức vận tải đường biển và đường thủy nội địa, trong đó rủi ro chuyển giao khi hàng đã nằm an toàn trên con tàu chuyên chở tại cảng bốc [6, 8-10]. Khi lô hàng được vận chuyển bằng máy bay (đường hàng không), việc sử dụng điều kiện CIF là không phù hợp với phạm vi áp dụng quy tắc [5, 7]. Trong trường hợp vận chuyển bằng đường hàng không, các bên bắt buộc/được hướng dẫn chuyển sang sử dụng điều kiện CIP (Carriage and Insurance Paid To) tương ứng [5, 7, 11].
 
 ---
 
@@ -1583,7 +1583,7 @@
 - **D.** Xác định càng cụ thể càng tốt địa điểm và điểm giao hàng trong điểm giao hàng.
 
 👉 **Đáp án đúng:** **[D] - Xác định càng cụ thể càng tốt địa điểm và điểm giao hàng trong điểm giao hàng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi giao hàng FCA ngoài cơ sở người bán, việc xác định chính xác địa chỉ bãi container (CY) hoặc kho CFS cụ thể là vô cùng quan trọng để xác định thời điểm chuyển rủi ro và chi phí dỡ hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf*: Phần III - Lời giới thiệu (Mục 2: "Quy định địa điểm hoặc cảng càng chính xác càng tốt") và Quy tắc FCA (Mục 3: "Nơi giao hàng hoặc địa điểm giao hàng cụ thể") [1, 2]. - - Bản chất học thuật: Trong quy tắc FCA (Free Carrier), rủi ro về mất mát, hư hỏng hàng hóa cũng như toàn bộ chi phí phát sinh được chuyển giao từ người bán sang người mua ngay tại địa điểm giao hàng đã thỏa thuận [2, 3]. - Trích dẫn chuẩn xác: - Tài liệu *Incoterm - ebook - bản Tiếng Việt.pdf* chỉ rõ: *"Các bên nên quy định càng rõ càng tốt địa điểm giao hàng tại nơi giao hàng chỉ định. Điều này sẽ giúp các bên xác định rõ được khi nào và tại đâu thì hàng hóa và rủi ro đối với hàng hóa được chuyển giao từ người bán sang cho người mua, cũng đồng thời là điểm mà từ đó mọi chi phí liên quan đến việc vận chuyển hàng sẽ do người mua chịu."* [2] - Tài liệu *Giáo trình giao dịch ngoại thương.pdf* nhấn mạnh: *"Các bên nên quy định càng rõ ràng càng tốt địa điểm tại nơi giao hàng quy định, vì rủi ro chuyển sang người mua tại điểm đó. Nếu các bên có ý định giao hàng tại cơ sở của người bán, cần chỉ rõ địa chỉ của cơ sở đó... Mặt khác, nếu các bên có ý định giao hàng tại một nơi khác, phải chỉ rõ nơi giao hàng cụ thể đó."* [3] - Do đó, việc xác định càng cụ thể càng tốt địa điểm và điểm giao hàng trong điểm giao hàng là quan trọng nhất để tránh tranh chấp về thời điểm chuyển giao rủi ro và chi phí [2, 3]. Các phương án A, B, C đều quá chung chung hoặc thiếu chính xác.
 
 ---
 
@@ -1596,7 +1596,7 @@
 - **D.** Vì phạm vi chi phí người bán phải gánh tăng lên, trong đó có vận tải và bảo hiểm theo CIP.
 
 👉 **Đáp án đúng:** **[D] - Vì phạm vi chi phí người bán phải gánh tăng lên, trong đó có vận tải và bảo hiểm theo CIP.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi chuyển từ EXW sang CIP, cơ cấu chi phí tăng thêm rất lớn: phí vận tải nội địa, phí hải quan xuất khẩu, cước vận tải quốc tế và phí bảo hiểm mọi rủi ro loại A.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Mục 2.1.1 (EXW - Giao tại xưởng), Mục 2.1.4 (CIP - Cước phí và phí bảo hiểm trả tới) và Chương IV - Mục 3.2 (Cơ cấu giá hàng xuất khẩu) [5-8]. - - Bản chất học thuật: - Giá **EXW (Ex Works)** là giá giao tại xưởng, đại diện cho nghĩa vụ và phạm vi chi phí tối thiểu của người bán [6, 10]. Người bán chỉ cần đặt hàng hóa sẵn sàng dưới quyền định đoạt của người mua tại cơ sở của mình mà không chịu chi phí bốc hàng, thông quan xuất khẩu hay vận chuyển [5, 9, 13]. - Giá **CIP (Carriage and Insurance Paid To)** là giá cước phí và phí bảo hiểm trả tới nơi đến quy định (Paris) [7, 11]. Khi chuyển sang CIP, người bán phải gánh thêm các chi phí mà ở EXW mình không phải chịu, bao gồm: chi phí thông quan xuất khẩu, cước phí vận tải chặng chính đưa hàng tới Paris, và phí mua bảo hiểm hàng hóa [7, 11, 12, 14]. - Trích dẫn chuẩn xác: - *Giáo trình giao dịch ngoại thương.pdf*: *"Trong 11 quy tắc Incoterms® 2010, EXW thể hiện nghĩa vụ tối thiểu cho người bán"* [6], còn CIP *"có nghĩa người bán giao hàng cho người chuyên chở... và người bán phải ký hợp đồng và trả mọi chi phí vận chuyển cần thiết để đưa hàng hóa tới nơi đến quy định. Người bán còn phải ký hợp đồng bảo hiểm để bảo hiểm những rủi ro..."* [7]. - *Incoterm - ebook - bản Tiếng Việt.pdf*: *"EXW là điều kiện Incoterms mà nghĩa vụ của người bán là ít nhất"* [10], trong khi CIP đòi hỏi *"người bán phải ký hợp đồng và trả chi phí vận tải cần thiết để đưa hàng hóa đến địa điểm được chỉ định. Ngoài ra người bán sẽ phải mua bảo hiểm cho hàng hóa"* [11]. - Như vậy, người bán bắt buộc phải tính toán lại và cộng thêm các chi phí vận tải, bảo hiểm và thông quan xuất khẩu vào đơn giá EXW ban đầu (100.000 USD) để lập giá chào CIP Paris [7, 8, 11].
 
 ---
 
@@ -1609,7 +1609,7 @@
 - **D.** Khả năng thực tế của người mua trong việc nhận hàng và thực hiện thủ tục xuất khẩu tại nước người bán.
 
 👉 **Đáp án đúng:** **[D] - Khả năng thực tế của người mua trong việc nhận hàng và thực hiện thủ tục xuất khẩu tại nước người bán.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi người bán chọn EXW, cần phải cân nhắc năng lực thực tế của người mua nước ngoài có thể trực tiếp làm thủ tục xuất khẩu và xin giấy phép xuất khẩu tại nước người bán hay không.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Mục 2.1.1 (*EXW - Giao tại xưởng*) [1, 2] và Mục 3.h (*Quy định về thủ tục, thông quan xuất nhập khẩu tại thị trường mua hoặc bán*) [3]. - - **Bản chất quy tắc:** Theo quy tắc EXW, người bán hoàn thành nghĩa vụ giao hàng khi đặt hàng hóa dưới quyền định đoạt của người mua tại cơ sở của người bán (kho, xưởng...) mà không phải bốc hàng lên phương tiện vận tải đến nhận và không có nghĩa vụ làm thủ tục thông quan xuất khẩu [1, 4, 6]. - **Lý giải đáp án:** Mặc dù EXW thể hiện nghĩa vụ tối thiểu cho người bán [7, 8], nhưng nếu người mua không thể thực hiện thủ tục thông quan xuất khẩu (trực tiếp hoặc gián tiếp) tại nước người bán thì không nên áp dụng điều kiện này [2, 3, 5]. Giáo trình và ebook hướng dẫn nêu rõ: *"Người mua không nên sử dụng quy tắc EXW nếu không thể trực tiếp hay gián tiếp thông quan xuất khẩu. Trong trường hợp này, người mua nên sử dụng điều kiện FCA ghi kèm cơ sở của người bán"* [2, 3, 5, 7]. Do đó, **khả năng thực tế của người mua trong việc nhận hàng và thực hiện thủ tục xuất khẩu tại nước người bán** là yếu tố cốt lõi phải xem xét [2, 3, 5].
 
 ---
 
@@ -1622,7 +1622,7 @@
 - **D.** Nhóm D.
 
 👉 **Đáp án đúng:** **[B] - Nhóm C.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nhóm C (CPT, CIP, CFR, CIF) phản ánh chính xác logic: người bán trả chi phí vận tải chính đến nơi đến nhưng rủi ro hàng hóa chuyển giao cho người mua ngay tại nơi gửi hàng ở nước xuất khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Mục 1.3.2 (*Theo quyền vận tải và nơi giao hàng*) [9] và Mục 3.c (*Phân chia rủi ro và chi phí giữa người bán và người mua*) [10]. - - **Bản chất quy tắc Nhóm C:** Các điều kiện Nhóm C (CPT, CIP, CFR, CIF) mang đặc tính cơ bản là có hai điểm tới hạn riêng biệt: điểm chuyển giao rủi ro diễn ra tại nơi xuất phát/cảng bốc hàng, còn điểm phân chia chi phí vận tải kéo dài đến nơi đến/cảng đích quy định [9, 11-14]. - **Lý giải đáp án:** Trong Nhóm C, người bán chịu trách nhiệm khống chế, ký hợp đồng vận tải và trả chi phí vận tải chính để đưa hàng đến địa điểm đích [9, 11, 12, 15]; tuy nhiên, người bán không chịu rủi ro mất mát hay hư hỏng hàng hóa trong quá trình vận chuyển sau khi hàng đã được giao lên phương tiện vận tải tại điểm xuất phát [9, 12, 14, 15]. Giáo trình khẳng định tiêu chí lựa chọn: *"Trong trường hợp người bán chấp nhận chịu chi phí nhưng không muốn chịu rủi ro liên quan đến hàng hóa trong quá trình chuyên chở, nhóm C là thích hợp"* [10].
 
 ---
 
@@ -1635,7 +1635,7 @@
 - **D.** DAP.
 
 👉 **Đáp án đúng:** **[B] - CFR.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Vận chuyển đường biển, người bán trả cước đến cảng đích, rủi ro chuyển giao khi hàng xếp lên tàu tại cảng đi và không bắt buộc mua bảo hiểm là điều kiện CFR (Cost and Freight).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Mục 2.2.3 (*CFR - Tiền hàng và cước phí*) [14, 16, 17]. - - **Bản chất quy tắc CFR:** CFR (*Cost and Freight - Tiền hàng và Cước phí*) là quy tắc dành riêng cho phương thức vận tải đường biển và đường thủy nội địa [18, 21, 22]. - **Lý giải đáp án:** - **Chuyển giao rủi ro:** Rủi ro về mất mát hoặc hư hỏng hàng hóa chuyển sang người mua ngay khi người bán giao hàng lên tàu tại cảng bốc hàng (cảng đi) [16, 19]. - **Phân chia chi phí:** Người bán có nghĩa vụ ký hợp đồng vận tải và trả toàn bộ chi phí, cước phí cần thiết để đưa hàng hóa tới cảng đến quy định [16, 19, 23]. - **Phân biệt với CIF:** Đề bài chỉ đề cập người bán chịu cước phí vận tải chính đến cảng đích mà không nhắc đến nghĩa vụ mua bảo hiểm, do đó điều kiện CFR đáp ứng chính xác nhất các tiêu chí đề ra [16, 24, 25].
 
 ---
 
@@ -1648,7 +1648,7 @@
 - **D.** CPT.
 
 👉 **Đáp án đúng:** **[D] - CPT.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Vận tải đa phương thức, người bán trả cước đến đích, rủi ro chuyển ngay khi giao cho người chuyên chở đầu tiên, không bắt buộc mua bảo hiểm là điều kiện CPT (Carriage Paid To).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên): Chương II - Incoterms, Mục 2.1.3 "CPT - Cước phí trả tới" [1, 2]. - + **Bản chất điều kiện CPT (Carriage Paid To - Cước phí trả tới)**: Áp dụng cho mọi phương thức vận tải, kể cả vận tải đa phương thức [1, 3]. Điều kiện này có hai điểm tới hạn riêng biệt giữa di chuyển rủi ro và phân chia chi phí [2, 4]. + **Địa điểm chuyển rủi ro**: Người bán hoàn thành nghĩa vụ giao hàng và chuyển giao mọi rủi ro về mất mát hay hư hỏng hàng hóa cho người mua kể từ khi hàng hóa được giao cho người chuyên chở (hoặc người chuyên chở đầu tiên) tại nước xuất khẩu [1-3, 5]. + **Địa điểm phân chia chi phí**: Người bán chịu trách nhiệm ký hợp đồng vận tải và trả toàn bộ cước phí vận tải cần thiết để đưa hàng hóa đến địa điểm đích quy định [1, 3]. + **Loại trừ các phương án khác**: Các điều kiện DAP, DDP, DPU thuộc Nhóm D ("Đến nơi") là các "hợp đồng hàng đến", theo đó người bán phải chịu mọi chi phí lẫn rủi ro cho đến khi hàng hóa được đặt dưới sự định đoạt của người mua tại địa điểm đích ở nước nhập khẩu, nên không đáp ứng yêu cầu người mua chịu rủi ro từ nước xuất khẩu [6-11].
 
 ---
 
@@ -1661,7 +1661,7 @@
 - **D.** CFR tự động trở thành CIF.
 
 👉 **Đáp án đúng:** **[A] - Nghĩa vụ bổ sung không nhất thiết làm thay đổi điều kiện CFR nếu hợp đồng vẫn quy định CFR và xác định rõ thỏa thuận bổ sung.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nếu người bán trong CFR tự nguyện mua bảo hiểm cho lô hàng theo thỏa thuận riêng thì hợp đồng vẫn giữ nguyên điều kiện CFR và không làm thay đổi bản chất điểm chuyển rủi ro của CFR.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên): Chương II - Incoterms, Mục 2.2.3 "CFR - Tiền hàng và cước phí" [12, 13] và Mục 4.g "Không bổ sung thuật ngữ vào Incoterms" / "Qui định về nghĩa vụ mua bảo hiểm cho hàng hóa" [14-16]. - + **Mối quan hệ giữa Incoterms và Hợp đồng mua bán**: Incoterms là bộ quy tắc tập quán thương mại quy định các nghĩa vụ tối thiểu/cơ bản và không thay thế toàn bộ hợp đồng [17, 18]. Các bên hoàn toàn có quyền thỏa thuận bổ sung các nghĩa vụ riêng (như việc người bán CFR tự nguyện hoặc thỏa thuận mua thêm bảo hiểm cho lô hàng) trong hợp đồng mua bán mà không bắt buộc phải làm thay đổi tên gọi hay bản chất pháp lý của điều kiện cơ sở giao hàng CFR đã chọn, miễn là điều khoản bổ sung được ghi rõ [15, 16]. + **Phân tích loại trừ các đáp án sai**: * *B sai*: Trong CFR, nghĩa vụ thông quan nhập khẩu và nộp thuế nhập khẩu thuộc về người mua (tiểu mục B7), người bán chỉ làm thủ tục thông quan xuất khẩu (tiểu mục A7) [13, 21, 22]. * *C sai*: Theo quy tắc CFR, rủi ro chuyển sang cho người mua ngay khi hàng hóa được giao an toàn trên tàu tại cảng bốc hàng (nước xuất khẩu), rủi ro không tự động chuyển hay kéo dài tới cảng đích [12, 20, 23]. * *D sai*: Quy tắc CFR và CIF là hai điều kiện thương mại độc lập trong hệ thống Incoterms [24, 25]. Việc người bán CFR tự nguyện mua thêm bảo hiểm theo thỏa thuận riêng không làm điều kiện CFR "tự động" biến thành CIF, vì CIF đòi hỏi quy định bắt buộc về nghĩa vụ bảo hiểm A5 của người bán theo chuẩn Incoterms [26-28].
 
 ---
 
@@ -1674,7 +1674,7 @@
 - **D.** Có nếu vận chuyển đường biển.
 
 👉 **Đáp án đúng:** **[B] - Không, nếu các bên chỉ bổ sung nghĩa vụ bảo hiểm mà không thay đổi điều kiện giao hàng đã thỏa thuận.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Việc thỏa thuận người bán mua hộ bảo hiểm không tự động biến FOB thành CIF nếu các bên không sửa đổi tên điều kiện cơ sở giao hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Mục 4.g ("Không bổ sung thuật ngữ vào Incoterms") và Mục 4.h ("Sử dụng đúng ký hiệu viết tắt trong Incoterms") [1, 2]. - Incoterms quy định sự phân chia nghĩa vụ, chi phí và rủi ro cốt lõi giữa người bán và người mua [5]. Theo quy tắc FOB (Free On Board), nghĩa vụ chính của người bán là giao hàng an toàn lên tàu do người mua chỉ định tại cảng bốc hàng [6]; người bán không có nghĩa vụ bắt buộc phải mua bảo hiểm cho lô hàng [7]. Nếu các bên có thỏa thuận riêng hoặc bổ sung điều khoản người bán hỗ trợ mua bảo hiểm giúp người mua (thường được gọi trong thực tiễn là FOB + Insurance hoặc biến thể C&I), việc này chỉ bổ sung nghĩa vụ mua bảo hiểm theo ủy thác/thỏa thuận phụ mà **không làm thay đổi điều kiện cơ sở giao hàng FOB đã thỏa thuận** [2]. Lô hàng vẫn giữ nguyên bản chất FOB về mốc chuyển giao rủi ro (tại cảng bốc) và nghĩa vụ thuê phương tiện vận tải chính thuộc về người mua [6]. Để trở thành CIF, các bên phải đồng ý thay đổi toàn bộ điều kiện thương mại sang CIF (bao gồm cả nghĩa vụ bắt buộc người bán phải ký hợp đồng vận tải biển trả cước đến cảng đích) [8]. Do đó, việc thỏa thuận mua thêm bảo hiểm không tự động biến hợp đồng FOB thành CIF [2].
 
 ---
 
@@ -1687,7 +1687,7 @@
 - **D.** Người mua đúng vì CIF thuộc nhóm D.
 
 👉 **Đáp án đúng:** **[B] - Nhận định đó không đúng vì trong CIF điểm chuyển rủi ro không phải cảng đích.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nhận định của người mua là sai lầm phổ biến nhất trong thực tế thương mại; trong CIF, điểm chuyển rủi ro là tại cảng bốc hàng (cảng đi) chứ không phải tại cảng đích.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương.pdf*: Chương II - Mục 1.3.2 (Phân loại theo quyền vận tải và nơi giao hàng) [9], Mục 2.2.4 (Quy tắc CIF) [8, 10] và Mục 4.f ("Hợp đồng theo nhóm C là 'hợp đồng gửi hàng'") [11]. - Nhận định của người mua là **sai về bản chất học thuật của Incoterms**. Các quy tắc thuộc Nhóm C (bao gồm CIF - Cost, Insurance and Freight) có đặc trưng cơ bản là có **hai điểm tới hạn khác nhau** (hai mốc tách biệt về rủi ro và chi phí) [10, 14]: 1. *Mốc chuyển giao rủi ro:* Rủi ro về mất mát hoặc hư hỏng hàng hóa được chuyển từ người bán sang người mua ngay khi hàng hóa được đặt an toàn trên con tàu chuyên chở **tại cảng bốc hàng (cảng đi)** [8, 13]. 2. *Mốc phân chia chi phí:* Người bán chịu chi phí cước vận tải biển và phí bảo hiểm đưa hàng **đến cảng đích quy định** [8, 13]. Do đó, các hợp đồng Nhóm C (như CIF) bản chất là **"hợp đồng gửi hàng" (shipment contract)** chứ không phải "hợp đồng hàng đến" (arrival contract - Nhóm D) [11]. Địa điểm ghi kèm theo CIF (cảng đích) chỉ là mốc phân chia chi phí, **không bao giờ là địa điểm chuyển giao rủi ro** [12]. Mọi rủi ro phát sinh trong quá trình vận chuyển trên biển từ cảng bốc đến cảng đích đều do người mua chịu [8, 11].
 
 ---
 
@@ -1700,7 +1700,7 @@
 - **D.** Điểm giao hàng, thời điểm chuyển rủi ro và trách nhiệm tổ chức vận tải.
 
 👉 **Đáp án đúng:** **[D] - Điểm giao hàng, thời điểm chuyển rủi ro và trách nhiệm tổ chức vận tải.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Sau khi xác định phương thức vận tải và địa điểm, bước tiếp theo là xác định chính xác điểm giao hàng, thời điểm chuyển rủi ro và phân định rõ ai chịu trách nhiệm tổ chức vận tải.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *'Incoterm - ebook - bản Tiếng Việt.pdf'* (Quy tắc ICC Incoterms 2020 – Lời giới thiệu: Mục I "Incoterms có tác dụng gì?", Mục II "Incoterms không có tác dụng gì?" và Mục III.3 "Nghĩa vụ giao hàng, rủi ro và chi phí trong Incoterms 2020") [1-4]. - Incoterms là bộ quy tắc thương mại dùng để phân định 3 nội dung chính giữa người bán và người mua: nghĩa vụ (trách nhiệm tổ chức vận tải, bảo hiểm, thủ tục hải quan), mốc di chuyển rủi ro và sự phân chia chi phí liên quan [1, 2, 5]. Do đó, sau khi xác định phương thức vận tải và địa điểm giao hàng dự kiến, yếu tố cốt lõi cần phân tích tiếp theo là xác định điểm giao hàng cụ thể, thời điểm chuyển giao rủi ro và trách nhiệm tổ chức vận tải (Đáp án D) [4]. Ngược lại, Incoterms **không điều chỉnh** các vấn đề thuộc phạm vi điều khoản khác của hợp đồng mua bán như: cơ chế giải quyết tranh chấp (thuộc điều khoản trọng tài/tòa án - phương án A) [3, 6], phương thức và thời hạn thanh toán (thuộc điều khoản thanh toán - phương án B) [3, 6], hay thời điểm chuyển quyền sở hữu hàng hóa (thuộc điều khoản chuyển quyền sở hữu và luật áp dụng - phương án C) [3, 6].
 
 ---
 
@@ -1713,7 +1713,7 @@
 - **D.** Cảng đích.
 
 👉 **Đáp án đúng:** **[A] - Người mua.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong CFR, rủi ro đã chuyển sang người mua ngay khi hàng được giao lên tàu tại cảng bốc; do đó khi tàu gặp sự cố tổn thất trên biển thì người mua là bên gánh chịu rủi ro và tổn thất đó.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *'Incoterm - ebook - bản Tiếng Việt.pdf'* (Quy tắc ICC Incoterms 2020 – Phần quy tắc CFR: Hướng dẫn sử dụng – Mục 2 "Chuyển giao hàng hóa và rủi ro", Mục A2/A3 & B2/B3) [7, 8]. - Theo quy tắc CFR (Cost and Freight), có hai điểm tới hạn (hai mốc chuyển giao) riêng biệt [8, 10]: 1. Mốc chuyển giao rủi ro: Rủi ro về mất mát hoặc hư hỏng đối với hàng hóa chuyển từ người bán sang người mua ngay khi người bán hoàn thành nghĩa vụ đặt hàng an toàn lên trên tàu chuyên chở tại cảng bốc hàng (cảng đi) [7, 9]. 2. Mốc phân chia chi phí: Người bán chịu chi phí và cước phí vận tải cần thiết để đưa hàng hóa đến cảng đích quy định [7, 9]. Bản chất của các hợp đồng nhóm C (bao gồm CFR) là "hợp đồng gửi hàng" (shipment contract) chứ không phải "hợp đồng hàng đến" (arrival contract) [11]. Người bán hoàn thành nghĩa vụ giao hàng tại nước xuất phát (cảng đi) và không chịu rủi ro phát sinh trong hành trình chuyên chở trên biển [7, 9, 11]. Do đó, khi hàng đã được giao lên tàu đúng quy định tại cảng đi và sau đó xảy ra tổn thất trên biển, rủi ro hoàn toàn thuộc về **Người mua** (Đáp án A) [7, 9, 11].
 
 ---
 
@@ -1726,7 +1726,7 @@
 - **D.** Người bán luôn chịu rủi ro đến nơi đích.
 
 👉 **Đáp án đúng:** **[C] - Nghĩa vụ bảo hiểm của người bán không được đồng nhất với điểm chuyển rủi ro.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nghĩa vụ mua bảo hiểm của người bán theo CIP chỉ nhằm bồi hoàn tài chính cho người mua khi rủi ro xảy ra; rủi ro thực tế đối với hàng hóa đã chuyển cho người mua ngay từ khi giao cho người chuyên chở đầu tiên.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf*: Điều kiện CIP (Cước phí và phí bảo hiểm trả tới) – Mục "Hướng dẫn sử dụng" (điểm 2 & 3) và các mục A2/A3/A5, B2/B3/B5. - + Bản chất học thuật của điều kiện CIP (thuộc nhóm C) là quy tắc có **hai điểm tới hạn** (two critical points): điểm chuyển giao rủi ro và điểm phân chia chi phí/nghĩa vụ bảo hiểm nằm ở hai địa điểm hoàn toàn khác nhau. + Rủi ro về mất mát hoặc hư hỏng hàng hóa được chuyển từ người bán sang người mua ngay khi người bán giao hàng cho người chuyên chở (Carrier) tại địa điểm giao hàng thỏa thuận ở nước xuất khẩu (Mục A2/A3). + Trong khi đó, người bán có nghĩa vụ ký hợp đồng bảo hiểm và trả phí bảo hiểm để bảo vệ lợi ích cho người mua đối với các rủi ro trong suốt hành trình vận chuyển đến địa điểm đích quy định ở nước nhập khẩu (Mục A4/A5). + Do đó, nghĩa vụ mua bảo hiểm của người bán kéo dài tới nơi đích nhưng điểm chuyển rủi ro cho người mua lại xảy ra ngay tại nơi xuất phát (khi giao cho người chuyên chở). Hai mốc này không đồng nhất với nhau. + *Các đáp án còn lại sai vì:* (A) và (D) sai do rủi ro đã chuyển sang người mua từ khi giao hàng cho người chuyên chở đầu tiên; (B) sai vì Incoterms chỉ điều chỉnh nghĩa vụ, chi phí và rủi ro giao nhận hàng hóa, không điều chỉnh việc chuyển giao quyền sở hữu.
 
 ---
 
@@ -1739,7 +1739,7 @@
 - **D.** Chuyển thời điểm chuyển rủi ro sang khi hàng được xếp lên tàu.
 
 👉 **Đáp án đúng:** **[B] - Tạo điều kiện để người bán có được chứng từ xác nhận hàng đã xếp lên tàu nhằm đáp ứng yêu cầu thanh toán, đặc biệt khi sử dụng L/C.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mục đích duy nhất của điều khoản On-Board B/L trong FCA Incoterms 2020 là gỡ rối cho người bán xuất khẩu khi thanh toán bằng L/C yêu cầu xuất trình vận đơn đường biển đã xếp hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Incoterm - ebook - bản Tiếng Việt.pdf*: Lời giới thiệu – Mục 6 "Một số điểm khác biệt chính giữa Incoterms 2020 so với bản 2010"; Điều kiện FCA (Free Carrier) – Mục "Hướng dẫn sử dụng" (điểm 5: "Vận đơn với dấu On-board trong mua bán FCA") và Mục A6/B6. - + Theo tập quán thương mại, quy tắc FCA áp dụng cho mọi phương thức vận tải. Người bán hoàn thành nghĩa vụ giao hàng khi giao hàng cho người chuyên chở do người mua chỉ định tại cơ sở người bán hoặc tại một điểm tập kết (như CFS, CY) trước khi hàng được xếp lên tàu biển. + Khi thanh toán bằng phương thức Tín dụng thư (L/C), các ngân hàng thường bắt buộc người xuất khẩu phải xuất trình Vận đơn đường biển có xác nhận hàng đã xếp lên tàu (*On-board Bill of Lading*) thì mới giải ngân thanh toán. Điều này gây khó khăn lớn cho người bán theo FCA vì họ đã hoàn thành giao hàng từ trước khi hàng lên tàu và người chuyên chở không có nghĩa vụ cấp vận đơn *On-board* cho người bán. + Để khắc phục bất cập này, Incoterms® 2020 đã bổ sung tùy chọn tại điều kiện FCA (Mục A6/B6): Nếu các bên thỏa thuận trong hợp đồng, người mua phải chỉ định người chuyên chở của mình phát hành cho người bán một vận đơn có ghi chú đã xếp hàng lên tàu (*On-board notation*) sau khi hàng đã bốc lên tàu. + Mục đích cốt lõi của quy định mới này là hỗ trợ người bán có được chứng từ vận tải *On-board* phù hợp nhằm đáp ứng các điều kiện thanh toán nghiêm ngặt của ngân hàng khi áp dụng L/C. + *Các đáp án còn lại sai vì:* (A) FCA vẫn là quy tắc áp dụng cho mọi phương thức vận tải; (C) Nghĩa vụ thuê phương tiện vận tải chính vẫn thuộc về người mua; (D) Mốc chuyển giao rủi ro của FCA vẫn giữ nguyên tại thời điểm giao hàng cho người chuyên chở, không bị dời sang lúc xếp xong hàng lên tàu.
 
 ---
 
@@ -1752,7 +1752,7 @@
 - **D.** FAS.
 
 👉 **Đáp án đúng:** **[C] - DAP.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Người mua có khả năng làm thủ tục nhập khẩu, còn người bán chịu chi phí và rủi ro vận tải tới kho người mua thì điều kiện chuẩn xác nhất là DAP (Delivered At Place).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf* (Mục DAP – Delivered at Place, Hướng dẫn sử dụng & Mục A2/B2, B7) [1-3]. - - Theo quy tắc **DAP (Delivered at Place - Giao tại nơi đến)**, người bán hoàn thành nghĩa vụ giao hàng và chuyển giao rủi ro khi hàng hóa được đặt dưới sự định đoạt của người mua trên phương tiện vận tải chở đến, sẵn sàng để dỡ tại nơi đến chỉ định (kho người mua) [1, 4]. - Về thủ tục hải quan: Theo quy tắc DAP, người mua chịu trách nhiệm và chi phí làm thủ tục thông quan nhập khẩu, nộp thuế và lệ phí nhập khẩu [2, 3, 5]. - Vì người mua có khả năng tự thông quan nhập khẩu, trong khi người bán vẫn muốn gánh chi phí và rủi ro vận chuyển hàng đến tận kho người mua mà không muốn gánh trách nhiệm thông quan nhập khẩu (nếu dùng DDP người bán sẽ bắt buộc phải thông quan nhập khẩu), nên **DAP** là điều kiện phù hợp nhất [2, 5, 6].
 
 ---
 
@@ -1765,7 +1765,7 @@
 - **D.** FCA yêu cầu người bán chịu rủi ro đến đích.
 
 👉 **Đáp án đúng:** **[A] - FCA có thể làm cho điểm giao hàng/chuyển rủi ro phù hợp hơn với quy trình logistics thực tế.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hàng container nên dùng FCA vì điểm giao hàng và chuyển rủi ro tại bến CY/kho CFS phù hợp hoàn hảo với quy trình giao nhận thực tế của các hãng tàu container hiện đại.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf* (Mục FCA – Free Carrier, Hướng dẫn sử dụng) [7-9]. - - Trong vận tải container, người bán thường giao hàng cho người chuyên chở tại các điểm tập kết bến bãi (CY - Bãi container hoặc CFS - Trạm đóng hàng lẻ) trước khi hàng được dỡ/xếp lên tàu [7, 9, 10, 12]. - Nếu dùng các điều kiện truyền thống đường biển như FOB hay FAS, rủi ro chỉ chuyển giao khi hàng đã xếp lên tàu hoặc đặt dọc mạn tàu, gây ra sự bất hợp lý vì người bán đã mất quyền kiểm soát hàng từ khi giao tại CY/CFS nhưng vẫn phải chịu rủi ro đến khi hàng lên tàu [10-12]. - Sử dụng **FCA (Free Carrier)** giúp mốc chuyển giao hàng hóa và rủi ro phù hợp hoàn toàn với quy trình logistics thực tế (hoàn thành giao hàng ngay khi hàng được đặt dưới sự kiểm soát của người chuyên chở tại điểm tập kết) [7, 8, 12].
 
 ---
 
@@ -1778,7 +1778,7 @@
 - **D.** CFR.
 
 👉 **Đáp án đúng:** **[B] - CIF.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đường biển, người bán trả cước đến cảng đích, rủi ro chuyển tại cảng đi và người bán có nghĩa vụ mua bảo hiểm theo quy tắc Incoterms là điều kiện CIF (Cost, Insurance and Freight).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Incoterm - ebook - bản Tiếng Việt.pdf* (Mục CIF – Cost, Insurance and Freight, Hướng dẫn sử dụng & Mục A2, A4, A5) [13-16]. - - Quy tắc **CIF (Cost, Insurance and Freight - Tiền hàng, Phí bảo hiểm và Cước phí)** áp dụng cho phương thức vận tải biển và thủy nội địa [13, 17]. - Mốc chuyển giao rủi ro về tổn thất hoặc hư hỏng hàng hóa được thực hiện ngay khi hàng hóa đã được đặt an toàn **lên tàu** tại cảng bốc hàng (cảng đi) [13, 15, 17]. - Mặc dù rủi ro đã chuyển sang cho người mua tại cảng đi, người bán vẫn có nghĩa vụ trả cước phí vận chuyển đến cảng đích và **phải mua bảo hiểm** đường biển để bảo vệ cho quyền lợi của người mua trong suốt hành trình [13, 15-17].
 
 ---
 
@@ -1795,7 +1795,7 @@
 - **D.** Vận đơn đường biển (Bill of Lading - B/L)
 
 👉 **Đáp án đúng:** **[D] - Vận đơn đường biển (Bill of Lading - B/L)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 27 Luật Thương mại 2005, mua bán hàng hóa quốc tế phải được thực hiện trên cơ sở hợp đồng bằng văn bản hoặc các hình thức khác có giá trị pháp lý tương đương (điện báo, telex, fax, thông điệp dữ liệu điện tử).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.7 (Điều khoản thanh toán) - c. Các chứng từ vận tải (Vận đơn đường biển - B/L) [1]. - Vận đơn đường biển (\\(B/L\\) - Bill of Lading) là chứng từ vận tải quan trọng nhất trong vận tải đường biển. Theo Công ước Hague 1924, \\(B/L\\) có 3 chức năng chính cốt lõi: 1. **Là bằng chứng nhận hàng để chở** [1]. 2. **Là bằng chứng của hợp đồng thuê tàu** (vận chuyển) [1]. 3. **Là bằng chứng về quyền sở hữu hàng hóa** (chứng từ sở hữu): Người nắm giữ vận đơn gốc có quyền định đoạt hàng hóa như nhận hàng từ tàu, bán lại hàng hoặc cầm cố vay nợ [1]. Các chứng từ khác như Giấy chứng nhận xuất xứ (C/O) dùng để xác định nguồn gốc hưởng ưu đãi thuế quan [2], Hóa đơn thương mại (Commercial Invoice) phản ánh trị giá/yêu cầu thanh toán [3], Phiếu đóng gói (Packing List) kê khai chi tiết đóng gói [4] đều không có chức năng là chứng từ sở hữu hàng hóa. do đó, đáp án đúng nhất là **D**.
 
 ---
 
@@ -1808,7 +1808,7 @@
 - **D.** Hợp đồng theo đó bên nhận quyền tự do tổ chức sản xuất rồi bán sản phẩm dưới nhãn hiệu của bên giao quyền thương mại
 
 👉 **Đáp án đúng:** **[B] - Hợp đồng sản xuất sản phẩm theo hướng dẫn của bên giao quyền thương mại**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phán quyết của Trọng tài thương mại quốc tế có giá trị chung thẩm (final and binding), không thể kháng cáo lên cấp cao hơn và được công nhận, thi hành tại hơn 160 quốc gia theo Công ước New York 1958 về công nhận và thi hành phán quyết trọng tài nước ngoài.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương (PGS.TS. Phạm Duy Liên) / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.8.4: Hợp đồng nhượng quyền thương mại (Trang 155 – 156) [1, 2]. - + Theo Giáo trình giao dịch ngoại thương, hợp đồng nhượng quyền thương mại (Franchise) thường bao gồm 3 loại hình chủ yếu [1, 2]: 1. *Hợp đồng sản xuất sản phẩm theo hướng dẫn của bên giao quyền thương mại* [2]; 2. *Hợp đồng theo đó bên nhận quyền tự tổ chức sản xuất rồi bán sản phẩm dưới nhãn hiệu của bên giao quyền thương mại* [2]; 3. *Hợp đồng phân phối sản phẩm theo đó bên nhận quyền tự giới hạn việc bán các sản phẩm nhất định trong các cửa hàng mang nhãn hiệu của bên giao quyền thương mại* [2]. + Trong tình huống cụ thể: Tập đoàn B chuyển giao quy trình công nghệ và yêu cầu Công ty A phải tiến hành sản xuất, đóng chai sản phẩm đúng theo các chỉ dẫn và tiêu chuẩn kỹ thuật nghiêm ngặt do Tập đoàn B đưa ra trước khi bán ra thị trường dưới nhãn hiệu của B. Bản chất của giao dịch này thể hiện sự tuân thủ tuyệt đối chỉ dẫn và quy trình kỹ thuật do bên giao quyền đưa ra, hoàn toàn trùng khớp với loại hình **"Hợp đồng sản xuất sản phẩm theo hướng dẫn của bên giao quyền thương mại"** [2]. + Phân tích loại trừ các đáp án khác: - **Đáp án A**: "Hợp đồng ủy thác xuất nhập khẩu sản phẩm độc quyền" không thuộc phân loại các dạng hợp đồng nhượng quyền thương mại trong giáo trình [2]. - **Đáp án C**: Hợp đồng phân phối sản phẩm mang tính chất của hợp đồng đại lý kinh tiêu (bán hàng tại cửa hàng mang nhãn hiệu bên giao quyền), không liên quan đến khâu nhận chuyển giao công nghệ để sản xuất đóng chai [2]. - **Đáp án D**: Nêu "bên nhận quyền tự do tổ chức sản xuất", trái ngược với dữ kiện Công ty A bị bắt buộc sản xuất "đúng theo các chỉ dẫn và tiêu chuẩn kỹ thuật nghiêm ngặt do Tập đoàn B đưa ra" [2].
 
 ---
 
@@ -1821,7 +1821,7 @@
 - **D.** Đúng, vì khi phát hiện vi phạm thì bên mua có quyền khởi kiện ngay lập tức.
 
 👉 **Đáp án đúng:** **[B] - Sai, vì trước hết các bên phải gặp gỡ, thương lượng để giải quyết; nếu không thành công mới kiện ra Trọng tài hoặc Tòa án.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nghiệp vụ hàng đổi hàng (Barter) là hình thức mua bán đối lưu cổ điển nhất, trong đó hai bên trao đổi trực tiếp lượng hàng hóa có giá trị tương đương nhau mà không sử dụng tiền mặt để thanh toán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương* (PGS.TS. Phạm Duy Liên, NXB Thống kê) – Chương III, Mục 2.1.11 ("Điều kiện khiếu nại") & Mục 2.1.12 ("Điều khoản trọng tài"); Chương IV, Mục 6.10 ("Giải quyết tranh chấp phát sinh"); Chương V, Mục 6.7 ("Giải quyết tranh chấp trong nhập khẩu hàng hóa") [1-3]. - - Trong nghiệp vụ giao dịch thương mại quốc tế, quy trình giải quyết tranh chấp phát sinh giữa các bên tuân theo trình tự ưu tiên thương lượng/hòa giải trước, sau đó mới đến cơ quan tài xách (Trọng tài hoặc Tòa án) [1-3]. - Theo *Giáo trình giao dịch ngoại thương*: - *"Khiếu nại (Claim) là việc giải quyết tranh chấp phát sinh bằng con đường thương lượng hoặc hòa giải, trong đó một bên yêu cầu bên đối tác giải quyết những tổn thất, vướng mắc phát sinh do họ gây ra trong quá trình thực thi hợp đồng"* [1]. - *"Khi có tranh chấp xảy ra, người nhập khẩu trước hết phải khiếu nại. Khi khiếu nại không thành công thì có thể kiện ra tòa án hoặc trọng tài, tùy hợp đồng quy định"* [3]. - *"Trong trường hợp giải quyết khiếu nại bằng con đường thương lượng không thành công, hai bên đưa nhau ra trọng tài, tòa án kinh tế..."* [2]. - Việc Công ty M (Đức) lập tức nộp đơn kiện ra Trung tâm Trọng tài Quốc tế mà không hề trao đổi, liên hệ hay tiến hành thương lượng/khiếu nại trước với Công ty Z (Việt Nam) là **trái với quy trình giải quyết tranh chấp thông thường** [1-3]. Do đó, đáp án **B** là đáp án đúng duy nhất.
 
 ---
 
@@ -1834,7 +1834,7 @@
 - **D.** Thời hạn giao hàng không định kỳ
 
 👉 **Đáp án đúng:** **[C] - Thời hạn giao hàng có định kỳ (bằng một khoảng thời gian nhất định tùy theo sự lựa chọn của người mua)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản thời hạn giao hàng theo quyền lựa chọn của người mua quy định người mua có quyền chọn ngày giao hàng cụ thể trong một khoảng thời gian nhất định và phải thông báo trước cho người bán một thời gian hợp lý.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf** / Chương 3: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.6.1. Thời hạn giao hàng. - Theo Giáo trình giao dịch ngoại thương, trong buôn bán quốc tế có 3 kiểu quy định thời hạn giao hàng chủ yếu bao gồm: **Thời hạn giao hàng có định kỳ**, **Thời hạn giao hàng theo các thuật ngữ** (*giao nhanh, giao ngay lập tức, giao gấp...*), và **Thời hạn giao hàng không định kỳ** (*giao cho chuyến tàu đầu tiên, giao khi có khoang tàu, giao sau khi nhận L/C...*) [1, 2]. Trong đó, kiểu **Thời hạn giao hàng có định kỳ** bao gồm các cách thể hiện: giao vào một ngày cố định; giao vào ngày cuối cùng của thời hạn; giao bằng một khoảng thời gian (như quý, tháng); hoặc **bằng một khoảng thời gian nhất định tùy theo sự lựa chọn của một trong hai bên** [1]. Ở hợp đồng của Công ty X và Công ty Y, khoảng thời gian giao hàng được ấn định từ tháng 2/2026 đến tháng 7/2026 và thời điểm cụ thể do Bên mua lựa chọn thông báo trước 15 ngày. Đây chính là cách xác định thời hạn giao hàng có định kỳ bằng một khoảng thời gian nhất định tùy thuộc vào sự lựa chọn của người mua [1].
 
 ---
 
@@ -1847,7 +1847,7 @@
 - **D.** Các bên có cùng quốc tịch nhưng trụ sở nằm ở hai tỉnh khác nhau
 
 👉 **Đáp án đúng:** **[B] - Các bên có quốc tịch khác nhau và có trụ sở ở các nước khác nhau**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Công ước Viên 1980 (CISG - Điều 1) và thông lệ thương mại quốc tế, đặc điểm cơ bản nhất xác định tính chất quốc tế của hợp đồng ngoại thương là các bên tham gia có trụ sở thương mại (place of business) đặt tại các quốc gia khác nhau.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf** / Chương 1: Tổng quan về giao dịch thương mại quốc tế (Mục 1.2 & Mục 2.1) và Chương 3: Hợp đồng trong giao dịch thương mại quốc tế (Mục 1.1). - Theo Giáo trình giao dịch ngoại thương, đặc điểm cơ bản đầu tiên của giao dịch thương mại quốc tế là **chủ thể tham gia vào các hoạt động giao dịch ở các nước khác nhau** [3]. Dưới góc độ pháp lý dân sự và thương mại: 1. Theo **Luật Thương mại Việt Nam 2005**, hợp đồng mua bán hàng hóa quốc tế được thực hiện giữa một bên là thương nhân Việt Nam và một bên là thương nhân nước ngoài (**các bên có quốc tịch khác nhau**) [4]. 2. Theo **Công ước Viên 1980 (CISG)** và **Công ước La Haye 1964** được dẫn chiếu trong giáo trình, yếu tố cốt lõi xác định tính chất quốc tế của hợp đồng là **các bên ký kết có trụ sở thương mại ở các quốc gia khác nhau** [4]. Về mặt chủ thể, các bên tham gia phổ biến nhất là các doanh nghiệp (lớn, vừa hoặc nhỏ) [5], không bắt buộc phải là công ty đa quốc gia (loại trừ A) hay tổ chức chính phủ (loại trừ C). Nếu các bên cùng quốc tịch và trụ sở ở hai tỉnh trong cùng một quốc gia thì chỉ là giao dịch thương mại nội địa (loại trừ D). Vì vậy, **đáp án B** là đáp án chuẩn xác nhất phản ánh đặc điểm về chủ thể của hợp đồng ngoại thương [3, 4].
 
 ---
 
@@ -1860,7 +1860,7 @@
 - **D.** Sử dụng L/C giáp lưng, đồng thời thu xếp sao cho việc trả tiền hợp đồng nhập khẩu chậm hơn so với thời hạn thanh toán trong hợp đồng xuất khẩu và bắt buộc thanh toán qua ngân hàng thương mại hợp lệ.
 
 👉 **Đáp án đúng:** **[D] - Sử dụng L/C giáp lưng, đồng thời thu xếp sao cho việc trả tiền hợp đồng nhập khẩu chậm hơn so với thời hạn thanh toán trong hợp đồng xuất khẩu và bắt buộc thanh toán qua ngân hàng thương mại hợp lệ.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong kinh doanh tạm nhập - tái xuất, để tránh chôn vốn và bảo đảm đồng bộ, doanh nghiệp trung gian thường sử dụng L/C giáp lưng (Back-to-Back L/C), thu xếp thời hạn thanh toán tiền nhập khẩu chậm hơn tiền xuất khẩu và bắt buộc thanh toán qua ngân hàng để đáp ứng quy định hoàn thuế của Hải quan.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên, ĐH Ngoại thương) — Chương 1 (Mục 4.2.2.2 "Giao dịch tái xuất") và Chương 3 (Mục 2.4 "Hợp đồng tái xuất"). - + Trong kinh doanh tạm nhập - tái xuất (giao dịch tái xuất), nhà kinh doanh đóng vai trò trung gian thực hiện hai hợp đồng mua bán riêng biệt: hợp đồng nhập khẩu (tạm nhập) và hợp đồng xuất khẩu (tái xuất) [1, 2]. + **Về nghiệp vụ thanh toán L/C giáp lưng và quản lý dòng vốn**: Giáo trình nêu rõ tại Chương 3, Mục 2.4: *"Điều khoản thanh toán: để lợi dụng vốn người kinh doanh tái xuất người ta sẽ sử dụng L/C giáp lưng (back to back L/C), đồng thời họ sẽ dàn xếp sao cho việc trả tiền của hợp đồng nhập khẩu chậm hơn so với thời hạn thanh toán trong hợp đồng xuất khẩu"* [3]. Phương thức này cho phép nhà kinh doanh tái xuất tận dụng nguồn tiền thanh toán từ người mua ở hợp đồng xuất khẩu để chi trả cho người bán ở hợp đồng nhập khẩu, giải quyết triệt để bài toán chôn vốn và giảm thiểu rủi ro bất đồng bộ chứng từ giữa hai đầu hợp đồng [3, 4]. + **Về điều kiện miễn/hoàn thuế Hải quan**: Hoạt động tạm nhập - tái xuất đòi hỏi khắt khe về tính hợp lệ của chứng từ dòng tiền. Việc thanh toán bắt buộc phải qua ngân hàng thương mại hợp lệ mới đảm bảo tính minh bạch về quản lý ngoại hối, tạo cơ sở pháp lý cho cơ quan Hải quan đối chiếu bộ chứng từ xuất - nhập và xét miễn hoặc hoàn thuế theo đúng quy định. + **Lý giải các phương án sai**: * **A sai** vì nếu trả trước 100% T/T cho hợp đồng tạm nhập mà lại cho người mua tái xuất trả chậm bằng D/A sẽ đẩy doanh nghiệp trung gian vào rủi ro chôn vốn nặng nề và nguy cơ mất vốn nếu bên mua không thanh toán. * **B sai** vì thanh toán tiền mặt qua biên giới hoặc tự bù trừ không qua tài khoản ngân hàng vi phạm quy định quản lý ngoại hối và hải quan, dẫn đến không đủ điều kiện được hoàn/miễn thuế. * **C sai** vì nếu cho người mua tái xuất trả tiền trực tiếp cho người bán tạm nhập sẽ làm lộ thông tin khách hàng/nguồn hàng (bí mật kinh doanh của bên trung gian) và vi phạm nguyên tắc hai hợp đồng độc lập trong kinh doanh tái xuất [1, 2].
 
 ---
 
@@ -1873,7 +1873,7 @@
 - **D.** Xảy ra sự kiện khách quan, không thể lường trước và không thể khắc phục dù đã cố gắng.
 
 👉 **Đáp án đúng:** **[D] - Xảy ra sự kiện khách quan, không thể lường trước và không thể khắc phục dù đã cố gắng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản Bất khả kháng (Force Majeure) giải phóng nghĩa vụ thực hiện hợp đồng khi xảy ra sự kiện hội đủ 3 điều kiện: mang tính khách quan, không thể lường trước được tại thời điểm ký kết và không thể khắc phục được dù đã áp dụng mọi biện pháp cần thiết.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.10. Điều khoản miễn trách (tiểu mục 2.1.10.1: Cách quy định một trường hợp được xem là bất khả kháng) [1, 2]. - - Trong giao dịch thương mại quốc tế, Bất khả kháng (Force Majeure) hay trường hợp miễn trách là các sự kiện xảy ra sau khi hợp đồng được ký kết, mang tính chất bất ngờ, khách quan, không lường trước được và không thể khắc phục được dù các bên đã nỗ lực áp dụng mọi biện pháp [1, 2]. Khi xảy ra sự kiện này, bên bị ảnh hưởng sẽ được miễn trừ trách nhiệm bồi thường thiệt hại hoặc được kéo dài thời hạn / giải thoát trách nhiệm thực hiện hợp đồng [1, 3]. - Các phương án A, B và C (giá nguyên vật liệu tăng, biến động tỷ giá, đối tác phá sản) thuộc về rủi ro thị trường và rủi ro kinh doanh thông thường mà thương nhân phải tự lường trước và gánh chịu trong hoạt động thương mại, không đáp ứng các tiêu chí pháp lý của sự kiện Bất khả kháng [1, 2].
 
 ---
 
@@ -1886,7 +1886,7 @@
 - **D.** Cho phép giao chênh lệch tăng/giảm một tỷ lệ % nhất định so với số lượng hợp đồng.
 
 👉 **Đáp án đúng:** **[D] - Cho phép giao chênh lệch tăng/giảm một tỷ lệ % nhất định so với số lượng hợp đồng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản dung sai số lượng (More or less clause / Tolerance clause) cho phép người bán giao hàng thừa hoặc thiếu một tỷ lệ phần trăm nhất định (thường +/- 5% hoặc 10%) so với số lượng quy định trong hợp đồng để phù hợp với đặc thù vận chuyển hàng rời hoặc phương tiện chuyên chở.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.2. Điều khoản số lượng (tiểu mục 2.1.2.2: Phương pháp quy định số lượng - điểm b: Bên bán và bên mua quy định phỏng chừng về số lượng hàng hóa giao dịch) [4]. - - Trong mua bán quốc tế (đặc biệt là với các hàng hóa khối lượng lớn, hàng rời như ngũ cốc, quặng, xăng dầu...), việc giao chính xác 100% số lượng là rất khó khăn do đặc tính tự nhiên và phương thức vận tải [4, 5]. Vì vậy, các bên thường áp dụng phương pháp quy định phỏng chừng, cho phép giao nhận hàng trong một khoảng chênh lệch nhất định [4]. Khoảng chênh lệch tăng/giảm này được gọi là **dung sai** (tolerance / more or less clause) [4]. - **Phân tích các phương án sai:** - **A sai:** Giao chính xác 100% là phương pháp quy định cụ thể, không áp dụng điều khoản dung sai [5]. - **B sai:** Dung sai do hai bên thỏa thuận trong hợp đồng (hoặc theo tập quán ngành hàng), không phải do bên vận chuyển tự ý quyết định [6]. - **C sai:** Nếu lượng hàng giao nằm trong phạm vi dung sai đã thỏa thuận thì người mua có nghĩa vụ tiếp nhận và thanh toán, không có quyền từ chối hay trả lại hàng [4, 7].
 
 ---
 
@@ -1899,7 +1899,7 @@
 - **D.** Nêu Mã HS (HS Code) của hàng hóa
 
 👉 **Đáp án đúng:** **[B] - Nêu họ tên người đại diện pháp luật bên bán**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Tên hàng (Commodity) trong hợp đồng thương mại mô tả đặc tính của sản phẩm (tên thương mại, tên khoa học, nhãn hiệu thương hiệu, mã HS, quy cách phẩm chất), tuyệt đối không nêu họ tên cá nhân người đại diện pháp luật của bên bán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.1. Điều khoản tên hàng (trang 97–98) [1, 2]. - Trong thương mại quốc tế, điều khoản Tên hàng (Commodity) xác định đối tượng mua bán và thường được mô tả bằng các phương pháp sau: 1. Ghi tên thương mại của hàng hóa kèm tên thông thường và tên khoa học [1] (khớp với phương án A). 2. Ghi tên hàng kèm tên địa phương sản xuất, tên nhà sản xuất, hoặc nhãn hiệu/thương hiệu đã đăng ký (Bordeaux, Honda...) [1, 3] (khớp với phương án C). 3. Ghi tên hàng kèm quy cách chính hoặc công dụng của hàng hóa [2]. 4. Ghi tên hàng kèm số hiệu hạng mục trong Bảng phân loại và mã hóa hàng hóa – Mã HS (Harmonized System) [2] (khớp với phương án D). Việc "Nêu họ tên người đại diện pháp luật bên bán" nằm ở **Phần mở đầu** của hợp đồng (dùng để xác định chủ thể ký kết hợp đồng) [4], hoàn toàn KHÔNG PHẢI là phương pháp mô tả đối tượng hàng hóa trong điều khoản Tên hàng. Do đó, B là phương pháp KHÔNG được sử dụng.
 
 ---
 
@@ -1912,7 +1912,7 @@
 - **D.** Phải có vốn điều lệ tối thiểu 10 tỷ đồng
 
 👉 **Đáp án đúng:** **[C] - Được đăng ký kinh doanh hợp pháp theo quy định pháp luật**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Nghị định 69/2018/NĐ-CP hướng dẫn Luật Quản lý ngoại thương, mọi thương nhân Việt Nam có đăng ký kinh doanh hợp pháp đều có quyền kinh doanh xuất nhập khẩu các mặt hàng thông thường mà không cần phải xin giấy phép xuất nhập khẩu riêng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 1.1 & Mục 1.2 (trang 95–96); Chương IV & Chương V (trang 205, 229, 246) [5-9]. - Theo quy định của Luật Thương mại 2005 và các văn bản quản lý hoạt động ngoại thương (Nghị định 12/2006/NĐ-CP) được dẫn chiếu trong Giáo trình: 1. Về điều kiện chủ thể: Chủ thể ký kết hợp đồng mua bán hàng hóa quốc tế phải có tư cách pháp lý [6], tức là thương nhân được thành lập và đăng ký kinh doanh hợp pháp theo quy định của pháp luật [5]. 2. Về quyền kinh doanh xuất nhập khẩu: Các thương nhân hoạt động hợp pháp đều được phép xuất khẩu/nhập khẩu các mặt hàng thông thường [9]. Đối với hàng hóa thông thường (không thuộc danh mục cấm hoặc xuất nhập khẩu có điều kiện), doanh nghiệp không cần phải xin giấy phép xuất nhập khẩu riêng do Bộ Công Thương cấp [7, 8]. 3. Pháp luật hiện hành không phân biệt thành phần kinh tế (không bắt buộc phải là doanh nghiệp nhà nước) và không quy định mức vốn điều lệ tối thiểu 10 tỷ đồng đối với hoạt động xuất nhập khẩu hàng hóa thông thường. Do đó, thương nhân Việt Nam chỉ cần **được đăng ký kinh doanh hợp pháp theo quy định pháp luật** là có đủ điều kiện ký kết hợp đồng xuất nhập khẩu hàng hóa thông thường [5, 6, 9].
 
 ---
 
@@ -1925,7 +1925,7 @@
 - **D.** Phí nhượng quyền ban đầu (Initial Fee) tính theo % doanh thu hàng tháng; phí quyền kinh doanh hàng tháng (Royalty Fee) là khoản tiền cố định trả 1 lần.
 
 👉 **Đáp án đúng:** **[A] - Phí nhượng quyền ban đầu (Initial Fee) trả 1 lần khi ký hợp đồng để mua quyền sử dụng thương hiệu và nhận chuyển giao ban đầu; Phí quyền kinh doanh hàng tháng (Royalty Fee) trả định kỳ để duy trì quyền sử dụng và sự hỗ trợ liên tục.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong hợp đồng nhượng quyền thương mại (Franchising), Phí nhượng quyền ban đầu (Initial Fee) trả 1 lần để mua quyền kinh doanh và công nghệ ban đầu; còn Phí quyền kinh doanh hàng tháng (Royalty Fee) là khoản phí định kỳ (thường theo % doanh thu) để duy trì quyền sử dụng thương hiệu và nhận hỗ trợ liên tục.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* — Chương 1, Mục 4.2.2.7 "Nhượng quyền mua bán hàng hóa" (trang 26–27) và Chương 3, Mục 2.8.4 "Hợp đồng nhượng quyền thương mại" (trang 154–155) [1-5]. - - Trong phương thức nhượng quyền thương mại (Franchise), bên nhượng quyền (*Franchisor*) trao cho bên nhận nhượng quyền (*Franchisee*) quyền sử dụng nhãn hiệu, tên thương mại, bí quyết kỹ thuật, kinh nghiệm quản lý và hệ thống phân phối để kinh doanh hàng hóa/dịch vụ [1-5]. - **Phí nhượng quyền ban đầu (Initial Franchise Fee / Initial Fee):** Là khoản phí bên nhận nhượng quyền trả **1 lần** ngay khi ký hợp đồng để mua quyền gia nhập hệ thống, quyền sử dụng thương hiệu và chi trả cho công tác tư vấn, đào tạo, chuyển giao mô hình ban đầu [1, 3, 5]. - **Phí quyền kinh doanh hàng tháng (Royalty Fee):** Là khoản phí duy trì trả **định kỳ** (hàng tháng hoặc hàng năm, thường tính theo tỷ lệ % doanh thu), nhằm đảm bảo quyền tiếp tục khai thác thương hiệu và nhận được sự hỗ trợ, kiểm soát chất lượng, quảng cáo liên tục từ bên nhượng quyền trong suốt thời hạn hợp đồng [1, 3, 5]. - Các phương án B, C, D sai vì: Cả 2 khoản phí đều do Bên nhượng quyền thu và không hoàn lại khi kết thúc hợp đồng (loại B, C); phương án D bị đảo ngược định nghĩa của hai loại phí.
 
 ---
 
@@ -1938,7 +1938,7 @@
 - **D.** Tất cả các đáp án đều đúng
 
 👉 **Đáp án đúng:** **[B] - Thư tín dụng (L/C)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thư tín dụng (L/C - Letter of Credit) là phương thức thanh toán kèm chứng từ chặt chẽ nhất, trong đó ngân hàng phát hành cam kết thanh toán vô điều kiện cho người bán khi nhận được bộ chứng từ hoàn toàn phù hợp với các điều kiện của L/C.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.7.3: Phương thức thanh toán [1, 2]. - Theo Giáo trình giao dịch ngoại thương, các phương thức thanh toán trong thương mại quốc tế được phân loại chi tiết như sau: + **Phương thức thanh toán không kèm chứng từ**: Bao gồm phương thức chuyển tiền (T/T, M/T) và nhờ thu hối phiếu trơn (Clean Collection), trong đó việc giao hàng và thanh toán tách biệt nhau, ngân hàng chỉ đóng vai trò thu hộ hoặc chuyển tiền theo lệnh [1, 3]. + **Phương thức thanh toán kèm chứng từ**: Được định nghĩa chính là **Phương thức tín dụng chứng từ (Documentary Credit)**, trong đó ngân hàng cam kết thanh toán cho bên bán (người hưởng lợi) khi xuất trình đầy đủ bộ chứng từ hợp lệ theo đúng các yêu cầu quy định trong **Thư tín dụng (L/C - Letter of Credit)** [2]. Do đó, Thư tín dụng (L/C) là phương thức thanh toán kèm chứng từ [2].
 
 ---
 
@@ -1951,7 +1951,7 @@
 - **D.** Mét
 
 👉 **Đáp án đúng:** **[D] - Mét**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mét (meter) thuộc hệ đo lường thập phân quốc tế (Hệ SI/Metric system). Pound, Inch, Ounce thuộc hệ đo lường Anh - Mỹ (Imperial / US Customary system).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.2.1: Đơn vị tính số lượng [4-6]. - Theo Mục 2.1.2.1 của Giáo trình giao dịch ngoại thương, trong thương mại quốc tế tồn tại hai hệ thống đo lường chính [4]: + **Hệ đo lường mét hệ**: Dùng các đơn vị đo chiều dài như mm, cm, **mét (m)**, km... và đơn vị đo khối lượng như g, kg, tạ, tấn... [5]. + **Hệ đo lường Anh – Mỹ**: Dùng các đơn vị đo chiều dài như **inch** (= 2,54 cm), foot, yard, mile... và các đơn vị đo khối lượng như Grain, Dram, **Ounce**, Short ton, Long ton, **Pound** (= 453,59 g) [6]. Vì vậy, đơn vị **Mét** thuộc hệ đo lường mét hệ, KHÔNG thuộc hệ đo lường Anh – Mỹ [5, 6].
 
 ---
 
@@ -1964,7 +1964,7 @@
 - **D.** Xác định trọng lượng tịnh của lô hàng
 
 👉 **Đáp án đúng:** **[A] - Xác định nguồn gốc xuất xứ để hưởng ưu đãi thuế quan (FTA) hoặc quản lý ngạch**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Giấy chứng nhận xuất xứ hàng hóa (C/O) là chứng từ quan trọng xác định quốc gia xuất xứ của sản phẩm, làm căn cứ áp dụng thuế quan ưu đãi đặc biệt theo các hiệp định thương mại tự do (FTA) hoặc kiểm soát hạn ngạch nhập khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương IV: Xuất khẩu hàng hóa / Mục 6.9: Xin giấy chứng nhận xuất xứ hàng hóa [7, 8]. - Theo Mục 6.9 của Giáo trình giao dịch ngoại thương, Giấy chứng nhận xuất xứ hàng hóa (Certificate of Origin - C/O) là văn bản do cơ quan có thẩm quyền ở nước xuất khẩu cấp nhằm chứng minh nguồn gốc hàng hóa, phục vụ cho việc áp dụng các chế độ **ưu đãi thuế quan** (như các Mẫu Form A, Form D, Form E, Form S,...) tại nước nhập khẩu cũng như phục vụ quản lý ngạch thương mại [7, 8]. C/O không có chức năng thay thế vận đơn đường biển (chứng từ vận tải) [9], không chứng nhận chất lượng sản phẩm đạt ISO (thuộc Giấy chứng nhận phẩm chất) [10] và không dùng để xác định trọng lượng tịnh (thuộc Giấy chứng nhận khối lượng/Phiếu đóng gói) [10, 11].
 
 ---
 
@@ -1977,7 +1977,7 @@
 - **D.** Giữa người xuất khẩu và cơ quan quản lý hải quan
 
 👉 **Đáp án đúng:** **[B] - Giữa chủ hàng và công ty kinh doanh kho hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hợp đồng lưu kho (Warehousing contract) là thỏa thuận pháp lý giữa chủ sở hữu hàng hóa (chủ hàng) và doanh nghiệp cung cấp dịch vụ kho bãi, quy định điều kiện gửi giữ, bảo quản và trả lại hàng hóa.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* (PGS.TS Phạm Duy Liên) / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 3.4: Hợp đồng thuê kho [1]. - Trong giao dịch thương mại quốc tế, hàng hóa xuất nhập khẩu do nhiều nguyên nhân khác nhau (như chờ thông quan, chờ phương tiện vận tải, lưu kho ngoại quan hoặc nợ thuế) phải lưu giữ tại bãi kho [1]. Giáo trình quy định rõ về chủ thể ký kết: *"Chủ hàng phải ký với các công ty kinh doanh kho hàng một hợp đồng lưu kho: Hợp đồng lưu kho bãi cảng, hợp đồng thuê kho ngoại quan, kho nợ thuế..."* [1]. Văn bản thỏa thuận này xác định cụ thể chi tiết hàng lưu kho, mức phí, thời hạn lưu kho cũng như phân định trách nhiệm bảo quản, bồi thường tổn thất giữa bên gửi hàng (chủ hàng) và bên kinh doanh kho hàng [1-3]. Do đó, đáp án B là hoàn toàn chính xác.
 
 ---
 
@@ -1990,7 +1990,7 @@
 - **D.** Dễ nhận dạng lô hàng, hướng dẫn bảo quản hàng hóa, phân biệt và hướng dẫn thao tác bốc xếp, vận chuyển
 
 👉 **Đáp án đúng:** **[D] - Dễ nhận dạng lô hàng, hướng dẫn bảo quản hàng hóa, phân biệt và hướng dẫn thao tác bốc xếp, vận chuyển**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Ký mã hiệu hàng hóa (Shipping marks) ghi ngoài bao bì nhằm mục đích giúp các bên dễ dàng nhận biết, phân loại kiện hàng, hướng dẫn công nhân cảng bốc dỡ an toàn và điều kiện bảo quản trong quá trình vận chuyển.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* (PGS.TS Phạm Duy Liên) / Chương III: Mục 2.1.4 (Điều khoản bao bì), Mục 2.6 (Điều khoản đóng gói và ký mã hiệu) [4, 5] & *Incoterm - ebook - bản Tiếng Việt.pdf* (Quy tắc ICC Incoterms 2020) / Điều khoản A8 (Kiểm tra – Đóng gói, bao bì – Ký mã hiệu) [6, 7]. - Ký mã hiệu hàng hóa (Shipping Marks) là các ký hiệu, chữ, số hoặc hình vẽ biểu tượng được ghi/in trên bao bì ngoài của kiện hàng [5, 6]. Trong nghiệp vụ ngoại thương và logistics quốc tế, nghĩa vụ ghi ký mã hiệu của người bán (mục A8 trong Incoterms 2020) nhằm phục vụ các mục đích nghiệp vụ cốt lõi: giúp các bên giao nhận, hãng vận tải và hải quan dễ dàng nhận dạng lô hàng, phân biệt các kiện hàng trong cùng hợp đồng; đồng thời cung cấp các thông tin chỉ dẫn bảo quản và ký hiệu cảnh báo chuyên dụng (như hàng dễ vỡ, hướng quay lên, tránh mưa ẩm...) để hướng dẫn thao tác bốc xếp và vận chuyển an toàn [5, 7]. Do đó, đáp án D là đúng nhất.
 
 ---
 
@@ -2003,7 +2003,7 @@
 - **D.** Khai báo hải quan chuyển mục đích sử dụng sang tiêu thụ nội địa và nộp đủ thuế
 
 👉 **Đáp án đúng:** **[D] - Khai báo hải quan chuyển mục đích sử dụng sang tiêu thụ nội địa và nộp đủ thuế**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hàng hóa tạm nhập tái xuất để sửa chữa thuộc diện chịu sự giám sát hải quan và tạm miễn thuế; nếu muốn giữ lại tiêu thụ nội địa, doanh nghiệp bắt buộc phải đăng ký tờ khai chuyển đổi mục đích sử dụng với cơ quan Hải quan và nộp đầy đủ các loại thuế phát sinh.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Giáo trình giao dịch ngoại thương.pdf'* / Chương I (Mục 4.2.2.2 - Giao dịch tái xuất) [1] & Chương V (Mục 6.3 - Làm thủ tục hải quan) [2]. - Hàng hóa tiếp nhận theo hình thức tạm nhập tái xuất để sửa chữa thuộc chế độ quản lý hải quan giám sát riêng biệt và chưa nộp các khoản thuế nhập khẩu tiêu thụ trong nước [1]. Khi doanh nghiệp không tái xuất mà quyết định giữ lại để tiêu thụ/bán tại thị trường Việt Nam, bản chất thương mại và pháp lý của lô hàng đã thay đổi [1, 2]. Theo quy định làm thủ tục hải quan và quản lý hàng hóa nhập khẩu, doanh nghiệp không được tự ý xuất hóa đơn hay thanh lý nội địa khi chưa làm thủ tục với cơ quan quản lý [2]. Doanh nghiệp bắt buộc phải thực hiện **khai báo hải quan chuyển mục đích sử dụng sang tiêu thụ nội địa và nộp đủ các khoản thuế** (thuế nhập khẩu, thuế GTGT,...) theo quy định hiện hành trước khi đưa hàng hóa vào giao dịch nội địa [2].
 
 ---
 
@@ -2016,7 +2016,7 @@
 - **D.** Để xác định nguồn gốc xuất xứ hàng hóa
 
 👉 **Đáp án đúng:** **[A] - Bảng phân loại và mã hóa hàng hóa giúp chuẩn hóa tên gọi và phục vụ khai báo hải quan**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mã HS (Harmonized Commodity Description and Coding System) do WCO ban hành là hệ thống phân loại và mã hóa hàng hóa quốc tế chuẩn hóa, giúp cơ quan hải quan các nước áp mã số thống nhất để tính thuế và quản lý chuyên ngành.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Giáo trình giao dịch ngoại thương.pdf'* / Chương III (Hợp đồng trong giao dịch thương mại quốc tế) / Mục 2.1.1 (Điều khoản tên hàng) [3]. - Tài liệu quy định về việc ghi tên hàng trong hợp đồng mua bán hàng hóa quốc tế như sau: *"Ghi tên hàng kèm theo số hiệu hạng mục của hàng đó trong danh mục của Bảng phân loại và mã hóa hàng hóa – HS (Harmonized system). Bảng phân loại và mã hóa hàng hóa của Tổ chức Hải quan thế giới được xây dựng năm 1988 và là cơ sở để các nước thành viên xây dựng danh mục hàng hóa và biểu thuế xuất nhập khẩu."* [3]. Việc đưa mã HS vào hợp đồng giúp chuẩn hóa tên gọi mặt hàng trên phạm vi toàn cầu (tránh bất đồng ngôn ngữ hay mô tả thương mại khác nhau giữa người mua và người bán) và là căn cứ kỹ thuật bắt buộc để phục vụ việc phân loại, áp thuế và khai báo hải quan [3]. Do đó, **đáp án A** phản ánh chính xác nhất mục đích học thuật và thực tiễn của quy định này.
 
 ---
 
@@ -2029,7 +2029,7 @@
 - **D.** Tập quán thương mại (như Incoterms, UCP 600) và Án lệ
 
 👉 **Đáp án đúng:** **[C] - Quyết định nội bộ đơn phương của người bán hoặc người mua**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nguồn luật điều chỉnh hợp đồng thương mại quốc tế gồm: Điều ước quốc tế (CISG), Luật quốc gia, Tập quán thương mại quốc tế (Incoterms, UCP) và Tiền lệ án lệ. Quyết định nội bộ đơn phương của một bên không có giá trị pháp lý làm nguồn luật điều chỉnh hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS Phạm Duy Liên - ĐH Ngoại thương) / Chương 3: Hợp đồng trong giao dịch thương mại quốc tế (Mục 1 & Mục 2.1.12.4) [1, 2] và Chương 5: Nhập khẩu hàng hóa (Mục 1) [3]. - - Nguồn luật điều chỉnh hợp đồng ngoại thương (hợp đồng mua bán hàng hóa quốc tế) bao gồm các nguồn pháp lý có giá trị bắt buộc hoặc được các bên thỏa thuận dẫn chiếu để giải thích quyền, nghĩa vụ và giải quyết tranh chấp [2-4]: 1. **Luật quốc gia:** Bao gồm luật cơ bản hoặc văn kiện dưới luật của nước xuất khẩu, nước nhập khẩu hoặc quốc gia được các bên thỏa thuận lựa chọn/trọng tài áp dụng (ví dụ: Luật Thương mại 2005, Bộ luật Dân sự 2005 của Việt Nam) [1, 2, 5]. 2. **Điều ước quốc tế, công ước, hiệp định quốc tế:** Các văn bản pháp lý đa phương hoặc song phương điều chỉnh thương mại quốc tế (ví dụ: Công ước Viên 1980 của Liên Hợp Quốc - CISG, Công ước La Haye 1964) [1, 2, 6]. 3. **Tập quán thương mại quốc tế và Án lệ:** Các quy tắc thương mại được thừa nhận rộng rãi (như Incoterms, UCP 600 do ICC ban hành) và các phán quyết/án lệ [6-8]. - Trong khi đó, **Quyết định nội bộ đơn phương của người bán hoặc người mua** chỉ thể hiện ý chí chủ quan nội bộ của một bên chủ thể, không mang tính quy phạm pháp luật hay tập quán pháp lý bắt buộc đối với phía đối tác, do đó **KHÔNG** thuộc nguồn luật điều chỉnh hợp đồng ngoại thương [1, 4].
 
 ---
 
@@ -2042,7 +2042,7 @@
 - **D.** Giao nhận về số lượng là việc kiểm tra tính năng, công dụng, hiệu suất và hình dáng của hàng hóa.
 
 👉 **Đáp án đúng:** **[B] - Giao nhận về số lượng xác định số lượng thực tế bằng các phương pháp cân, đo, đong, đếm; còn kiểm tra chất lượng có thể tiến hành bằng phương pháp cảm quan hoặc phân tích.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mẫu hợp đồng Gencon (Uniform General Charter) do BIMCO ban hành là mẫu hợp đồng thuê tàu chuyến (Voyage Charter Party) phổ biến và chuẩn mực nhất trên thế giới.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) - Chương III: Hợp đồng trong giao dịch thương mại quốc tế (Mục 2.1.2 "Điều khoản số lượng" và Mục 2.1.3 "Điều khoản phẩm chất"). - - **Đáp án B ĐÚNG** vì phản ánh chính xác bản chất nghiệp vụ giao nhận hàng hóa trong thương mại quốc tế: - *Giao nhận về số lượng* liên quan đến mặt lượng của hàng hóa, được xác định cụ thể thông qua các phương pháp đo lường cơ học/thực tế như **cân, đo, đong, đếm** (hoặc xác định khối lượng tịnh, khối lượng cả bì, dung trọng...). [1-4] - *Kiểm tra chất lượng (phẩm chất)* liên quan đến mặt chất, tính năng lý - hóa - cơ tính của hàng hóa, có thể thực hiện bằng **phương pháp cảm quan** (đánh giá bằng các giác quan như hình dáng, màu sắc, mùi vị, trạng thái bên ngoài) hoặc **phương pháp phân tích** (kiểm nghiệm lý - hóa, vi sinh, thử nghiệm kỹ thuật tại phòng thí nghiệm/cơ quan giám định). [1, 5-7] - **Lý do các phương án còn lại SAI:** - **A SAI:** Phương pháp cảm quan được áp dụng chủ yếu trong việc kiểm tra, đánh giá chất lượng/phẩm chất hàng hóa (như hàng may mặc, nông sản, thực phẩm...), không phải chỉ áp dụng cho giao nhận số lượng. [5, 8] - **C SAI:** Trong thương mại quốc tế, kiểm tra chất lượng không bắt buộc phải tiến hành 100% lô hàng. Với các lô hàng lớn, hàng rời, nông sản, quặng..., người ta thường áp dụng phương pháp kiểm tra điển hình (rút mẫu đại diện / sampling) để đánh giá phẩm chất cho cả lô hàng. [5, 7, 9] - **D SAI:** Việc kiểm tra tính năng, công dụng, hiệu suất, quy cách và hình dáng của hàng hóa là nội dung thuộc điều khoản **phẩm chất (chất lượng)** hàng hóa, không phải điều khoản số lượng. [5]
 
 ---
 
@@ -2055,7 +2055,7 @@
 - **D.** Người đại lý không có quyền tạm ngưng hoặc đơn phương chấm dứt hợp đồng trong bất kỳ trường hợp nào.
 
 👉 **Đáp án đúng:** **[B] - Bên ủy thác có nghĩa vụ cung cấp các thông tin giấy tờ cần thiết, bảo vệ quyền lợi của đại lý và không vi phạm quyền sở hữu trí tuệ.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 15 CISG 1980: Người chào hàng có quyền rút lại (thu hồi) chào hàng nếu thông báo rút lại đến tay người được chào hàng trước hoặc cùng thời điểm với bức chào hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch ngoại thương / Mục 3.5. Hợp đồng đại lý thủ tục hải quan [1]. - Theo quy định về hợp đồng đại lý thủ tục hải quan, nghĩa vụ của bên ủy thác được xác định rõ: *"cung cấp các thông tin giấy tờ cần thiết, bảo vệ quyền lợi của đại lý, không vi phạm quyền sở hữu trí tuệ..."* [1]. Các phương án còn lại chưa chính xác vì: + **A sai:** Người đại lý có nghĩa vụ phải giữ bí mật thông tin cho bên ủy thác và bảo vệ quyền lợi của bên ủy thác [1]. + **C sai:** Thù lao đại lý do các bên thỏa thuận, được xác định trên cơ sở: quyền và trách nhiệm của các bên, thời gian thực hiện, tính chất hàng hóa, chi phí gánh chịu, uy tín và khả năng chuyên môn của đại lý... chứ không do cơ quan Hải quan ấn định cố định [1]. + **D sai:** Quyền và nghĩa vụ chấm dứt hay tạm ngưng hợp đồng được điều chỉnh theo thỏa thuận hợp đồng và quy định pháp luật thương mại/dân sự hiện hành khi có vi phạm hoặc điều kiện phát sinh.
 
 ---
 
@@ -2067,8 +2067,8 @@
 - **C.** Khối lượng hàng hóa
 - **D.** Tên người nhận hàng
 
-👉 **Đáp án đúng:** **[D] - Tên người nhận hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đơn giá CFR = Giá xuất kho (3,000 USD) + Chi phí vận tải nội địa (10 USD) + Cước vận tải quốc tế (150 USD) = 3,160.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020.
+👉 **Đáp án đúng:** **[A] - Đơn giá hàng hóa**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch ngoại thương / Mục 2.1.7.c. Các chứng từ vận tải - Vận đơn đường biển (B/L) [2, 3]. - Vận đơn đường biển (Bill of Lading - B/L) là chứng từ vận tải do người chuyên chở (hoặc thuyền trưởng) cấp, có 3 chức năng chính: (1) Là bằng chứng nhận hàng để chở; (2) Là bằng chứng của hợp đồng vận tải; (3) Là chứng từ xác nhận quyền sở hữu hàng hóa [2, 3]. Mặt trước của vận đơn bắt buộc phải ghi rõ các thông tin thương vụ vận tải như: tên người gửi hàng, tên người nhận hàng, tên tàu, cảng xếp hàng, cảng dỡ hàng, số lượng/khối lượng/kiện hàng, tình trạng bên ngoài của hàng hóa [2, 3]. **Đơn giá hàng hóa** là chi tiết tài chính thuộc điều khoản giá cả trên Hóa đơn thương mại (Commercial Invoice) và Hợp đồng mua bán ngoại thương, không phải nội dung bắt buộc phải khai báo trên Vận đơn đường biển [2-4].
 
 ---
 
@@ -2081,7 +2081,7 @@
 - **D.** Đơn vị thầu phụ của bên bán giao hàng chậm trễ dẫn đến chậm lịch giao hàng
 
 👉 **Đáp án đúng:** **[A] - Thiên tai, động đất, sóng thần, chiến tranh, dịch bệnh bị phong tỏa hoàn toàn**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Để hạn chế rủi ro người bán chậm giao hàng hoặc người mua chậm thanh toán, hợp đồng ngoại thương thường quy định rõ Điều khoản phạt vi phạm hợp đồng (Penalty / Liquidated damages) với mức phạt theo tỷ lệ % giá trị vi phạm cho mỗi ngày/tuần chậm trễ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên), Chương III: Hợp đồng trong giao dịch thương mại quốc tế, Mục 2.1.10 "Điều khoản miễn trách" (tr. 126–127) [1-3]. - Bất khả kháng (Force majeure) hay trường hợp miễn trách được định nghĩa là những sự kiện xảy ra sau khi ký kết hợp đồng, có tính chất không lường trước được, bất ngờ và không thể khắc phục được [1, 3]. Các sự kiện như **thiên tai, động đất, sóng thần, chiến tranh, dịch bệnh bị phong tỏa hoàn toàn** thuộc loại sự kiện khách quan ngoài tầm kiểm soát của các bên, thỏa mãn trọn vẹn các tiêu chí của một sự kiện bất khả kháng [2, 3]. Ngược lại, các phương án B, C, D chỉ là các rủi ro biến động thị trường tài chính, tranh chấp lao động nội bộ do chậm trả lương, hoặc chậm trễ từ nhà thầu phụ; đây là các rủi ro thương mại và quản trị thuộc trách nhiệm chủ quan của doanh nghiệp chứ không được công nhận là sự kiện bất khả kháng.
 
 ---
 
@@ -2094,7 +2094,7 @@
 - **D.** Hàng hóa bắt buộc phải vận chuyển bằng đường biển
 
 👉 **Đáp án đúng:** **[B] - Các bên ký kết có trụ sở thương mại ở các nước khác nhau và hàng hóa được chuyển từ nước này sang nước khác, hoăc việc trao đổi ý chí được lập ở các nước khác nhau.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Rủi ro lớn nhất của phương pháp Giá cố định (Fixed price) là khi giá thị trường thế giới biến động mạnh trong thời gian thực hiện hợp đồng, bên chịu biến động bất lợi sẽ bị thua lỗ nặng nề.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên), Chương III: Hợp đồng trong giao dịch thương mại quốc tế, Mục 1.1 "Các khái niệm có liên quan" (tr. 95–96) [4]. - Theo *Giáo trình giao dịch thương mại quốc tế*, Công ước La Haye năm 1964 về mua bán các sản phẩm hữu hình quy định chuẩn xác rằng: *"Tất cả các hợp đồng mua bán trong đó các bên ký kết có trụ sở thương mại ở các nước khác nhau và hàng hóa được chuyển từ nước này sang nước khác, hoặc là việc trao đổi ý chí ký kết hợp đồng giữa các bên được lập ở những nước khác nhau"* [4]. Do đó, phương án **B** phản ánh chính xác từng từ ngữ và bản chất pháp lý học thuật của hợp đồng mua bán ngoại thương theo Công ước La Haye 1964.
 
 ---
 
@@ -2107,7 +2107,7 @@
 - **D.** Lời nói trực tiếp
 
 👉 **Đáp án đúng:** **[B] - Điện báo, telex, fax, thông điệp dữ liệu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thời hạn khiếu nại (Claim period) là khoảng thời gian thỏa thuận trong hợp đồng mà bên mua có quyền thông báo cho bên bán về các khiếm khuyết, sai lệch của hàng hóa kèm theo các biên bản giám định chứng cứ hợp lệ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Giáo trình giao dịch ngoại thương.pdf'** (Chương III: Hợp đồng trong giao dịch thương mại quốc tế - Mục 1.1 "Các khái niệm có liên quan" & Điều 3 Khoản 15 Luật Thương mại 2005 [1, 2]). - Theo Điểm 15 Điều 3 Luật Thương mại Việt Nam 2005 (văn bản pháp luật nền tảng được dẫn chiếu điều chỉnh hình thức hợp đồng thương mại quốc tế trong giáo trình), các hình thức có giá trị tương đương văn bản bao gồm **điện báo, telex, fax, thông điệp dữ liệu** và các hình thức khác theo quy định của pháp luật [1, 3]. Các hình thức như thỏa thuận ngầm, bắt tay hay lời nói trực tiếp không được xem là có giá trị tương đương văn bản [3].
 
 ---
 
@@ -2120,7 +2120,7 @@
 - **D.** Khi giá trị của bao bì cao hơn rất nhiều so với bản thân hàng hóa và trọng lượng bao bì chiếm tỷ trọng lớn.
 
 👉 **Đáp án đúng:** **[A] - Khi giá 1 đơn vị bao bì tương đương với giá 1 đơn vị hàng hóa, hoặc khối lượng bao bì không đáng kể so với khối lượng hàng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo pháp luật thuế và hải quan Việt Nam, nguyên liệu và vật tư nhập khẩu để thực hiện hợp đồng gia công cho thương nhân nước ngoài được miễn thuế nhập khẩu và được miễn thuế xuất khẩu đối với sản phẩm gia công xuất khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Giáo trình giao dịch ngoại thương.pdf'** (Chương III: Hợp đồng trong giao dịch thương mại quốc tế - Mục 2.1.2.3 "Phương pháp xác định khối lượng", Tiểu mục a "Khối lượng cả bì (gross weight)", trang 101 [4]). - Theo giáo trình, khối lượng cả bì (Gross weight) là khối lượng hàng hóa và bao bì được tính là một [4]. Phương pháp này được áp dụng **khi giá một đơn vị bao bì tương đương với giá một đơn vị hàng hóa, hoặc khối lượng bao bì không đáng kể so với khối lượng hàng** [4].
 
 ---
 
@@ -2133,7 +2133,7 @@
 - **D.** Bên giao gia công (chịu trách nhiệm về tính hợp pháp của quyền Sở hữu trí tuệ đối với hàng hóa gia công, máy móc, nhãn hiệu cung cấp).
 
 👉 **Đáp án đúng:** **[D] - Bên giao gia công (chịu trách nhiệm về tính hợp pháp của quyền Sở hữu trí tuệ đối với hàng hóa gia công, máy móc, nhãn hiệu cung cấp).**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Cảng chuyển tải/thông qua (Transhipment port) là cảng trung gian nơi hàng hóa được dỡ xuống từ phương tiện vận tải chặng trước để xếp lên phương tiện vận tải chặng tiếp theo trong hành trình đa chặng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* (PGS. TS Phạm Duy Liên) — Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.3: Hợp đồng gia công (Mục 2.3.6: Vấn đề liên quan đến quyền sở hữu công nghiệp) [1, 2]. - - **Bản chất học thuật:** Trong hợp đồng gia công thương mại, bên giao gia công (bên đặt gia công) là bên trực tiếp đưa ra các yêu cầu về nhãn mác, kiểu dáng, công nghệ, máy móc thiết bị hoặc tiêu chuẩn kỹ thuật cho bên nhận gia công thực hiện [3, 4]. Do đó, theo quy định của Luật Thương mại Việt Nam và chuẩn mực nghiệp vụ ngoại thương, bên giao gia công phải hoàn toàn chịu trách nhiệm về tính hợp pháp của quyền sở hữu trí tuệ và sở hữu công nghiệp đối với các sản phẩm, nhãn hiệu, kiểu dáng hay công nghệ cung cấp, nhằm tránh rủi ro vi phạm bản quyền và hành vi xâm phạm quyền sở hữu công nghiệp [2]. - **Trích dẫn từ tài liệu:** *Giáo trình giao dịch ngoại thương.pdf* (Chương III, Mục 2.3.6) nêu rõ: *"Tránh trường hợp vi phạm quyền sở hữu công nghiệp, tiếp tay cho hoạt động làm giả, nhái nhãn mác, trong hợp đồng gia công các bên phải quy định rõ trách nhiệm của bên đặt gia công đối với nhãn mác sản phẩm đặt bên nhận gia công sản xuất: cung cấp giấy chứng nhận quyền sở hữu, đăng ký bản quyền tại nước nhận gia công..."* [2].
 
 ---
 
@@ -2146,7 +2146,7 @@
 - **D.** Chịu trách nhiệm khi hàng lưu kho quá lâu bị biến đổi phẩm chất.
 
 👉 **Đáp án đúng:** **[C] - Hoàn thành thủ tục nhận hàng, bảo quản hàng hóa, bồi thường nếu hỏng hóc, mất mát.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phương pháp xác định số lượng theo trọng lượng thương mại (Commercial weight) được áp dụng riêng cho các mặt hàng có độ co giãn ẩm lớn (như bông, tơ tằm, sợi, len), tính bằng công thức: Trọng lượng thực tế x (100 + Độ ẩm tiêu chuẩn) / (100 + Độ ẩm thực tế).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 3.4. Hợp đồng thuê kho - Theo quy định tại Điều 3 (Trách nhiệm của các bên) trong Hợp đồng thuê kho [1]: + **Trách nhiệm của Bên cho thuê kho** bao gồm: *"Hoàn thành các thủ tục để nhận hàng lưu kho hay xuất hàng"* và *"Bảo quản hàng hóa, nếu có hư hỏng mất mát phải bồi thường cho chủ hàng"* [1]. Do đó, đáp án **C** là đáp án chính xác. + Trong khi đó, các nghĩa vụ ở phương án A (*"Thực hiện đầy đủ các nội dung trong giấy yêu cầu lưu kho"*), phương án B (*"Cung cấp các giấy tờ cần thiết trước khi hàng đến kho"*), và phương án D (*"Hàng lưu kho quá lâu bị biến đổi phẩm chất chủ hàng phải chịu trách nhiệm"*) đều thuộc về trách nhiệm của Bên gửi hàng (chủ hàng) [2].
 
 ---
 
@@ -2159,7 +2159,7 @@
 - **D.** Chịu trách nhiệm về thủ tục hải quan và bồi thường thiệt hại nếu có
 
 👉 **Đáp án đúng:** **[B] - Chịu trách nhiệm về tính pháp lý của lô hàng, chuẩn bị kho bãi và mua bảo hiểm hàng hóa**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Xác định phẩm chất theo mẫu hàng (Sale by sample) đòi hỏi hàng thực giao phải hoàn toàn phù hợp và giống hệt với mẫu đã được hai bên đối chiếu, niêm phong và lưu giữ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 3.1. Hợp đồng giao nhận hàng hóa - Theo quy định tại Điều 3 (Trách nhiệm của các bên) trong Hợp đồng giao nhận hàng hóa [3]: + **Trách nhiệm của Bên ủy thác** được xác định rõ: *"Cung cấp thông tin đầy đủ về hàng hóa và các chứng từ cần thiết, chịu trách nhiệm về tính chất pháp lý của lô hàng và đảm nhiệm kiểm tra giám định hàng hóa, chuẩn bị kho bãi đảm bảo cho tiện chuyên chở ra vào thuận tiện, chịu mọi chi phí phát sinh nếu thay đổi địa điểm, thời gian mà không báo trước cho bên nhận ủy thác, mua bảo hiểm cho hàng hóa, thanh toán đầy đủ chi phí đúng thời hạn"* [3]. Do đó, đáp án **B** tổng hợp chính xác các trách nhiệm của Bên ủy thác. + Các phương án A (*"Giao nhận hàng hóa đúng quy định"*) và D (*"Chịu toàn bộ trách nhiệm làm thủ tục hải quan, bồi thường thiệt hại đối với mất mát, hư hỏng hàng hóa nếu do lỗi của mình"*) thuộc về trách nhiệm của Bên nhận ủy thác [4]. Phương án C liên quan đến các khoản chi phí do Bên nhận ủy thác thực hiện theo phân định thanh toán tại Điều 4 [4].
 
 ---
 
@@ -2172,7 +2172,7 @@
 - **D.** Đóng gói theo tiêu chuẩn xuất khẩu thông thường phù hợp với phương thức vận tải
 
 👉 **Đáp án đúng:** **[D] - Đóng gói theo tiêu chuẩn xuất khẩu thông thường phù hợp với phương thức vận tải**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản bảo hành (Warranty clause) quy định cam kết của người bán về việc bảo đảm chất lượng hoạt động của máy móc thiết bị trong một thời hạn nhất định, cam kết sửa chữa hoặc thay thế miễn phí linh kiện nếu lỗi thuộc về nhà sản xuất.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) – Chương III: Hợp đồng trong giao dịch thương mại quốc tế – Mục 2.1.4: Điều khoản bao bì (Mục 2.1.4.1: Phương pháp quy định chất lượng của bao bì) [1]. - + **Bản chất học thuật trong giao dịch ngoại thương:** Thuật ngữ "Export Standard Packaging" (Bao bì/Đóng gói theo tiêu chuẩn xuất khẩu) thuộc phương pháp quy định chung chung về chất lượng bao bì trong hợp đồng mua bán quốc tế [1]. Theo Giáo trình (Chương III, Mục 2.1.4.1), cách quy định này yêu cầu người bán có nghĩa vụ đóng gói hàng hóa theo tiêu chuẩn xuất khẩu thông thường, phù hợp với tính chất của hàng hóa và đáp ứng đòi hỏi của phương thức vận tải được sử dụng (ví dụ: vận chuyển đường biển, đường sắt, đường hàng không...) [1, 4]. + **Chuẩn mực theo Incoterms 2020:** Nghĩa vụ A8 quy định người bán phải đóng gói hàng hóa và chịu chi phí cho việc đó (trừ khi tập quán ngành hàng quy định hàng gửi đi không cần đóng gói) [2]. Người bán có nghĩa vụ đóng gói và ký mã hiệu hàng hóa phù hợp với phương thức vận tải được lựa chọn [2, 3]. + **Loại trừ các phương án sai:** + Option A sai vì tiêu chuẩn xuất khẩu thông thường do tập quán thương mại và phương thức vận tải quy định, không phải chuẩn riêng của cơ quan hải quan nước nhập khẩu [1]. + Option B sai vì hàng để trần không bao bì (bare/in bulk) là trường hợp miễn đóng gói theo tập quán ngành hàng, trái ngược với yêu cầu đóng gói [2]. + Option C sai vì đóng gói bằng thùng gỗ bọc thép bảo vệ là yêu cầu đóng gói cụ thể, đặc biệt riêng biệt chứ không phải quy chuẩn đóng gói xuất khẩu thông thường [5].
 
 ---
 
@@ -2185,7 +2185,7 @@
 - **D.** Quy định bắt buộc về điều khoản thanh toán áp dụng cho tất cả các hợp đồng xuất nhập khẩu giao hàng bằng đường biển.
 
 👉 **Đáp án đúng:** **[B] - Lô hàng được sản xuất/gia công theo đơn đặt hàng riêng (hàng đặc thù khó bán cho bên thứ ba), người mua là đối tác mới chưa có lịch sử tín dụng rõ ràng, hoặc thị trường nước người mua có rủi ro cao về tài chính/chính trị.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hợp đồng đại lý ngoại thương quy định phạm vi ủy quyền, quyền và nghĩa vụ của bên đại lý nhân danh chính mình hoặc nhân danh người ủy thác thực hiện việc mua bán hàng hóa cho bên giao đại lý để hưởng thù lao.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương* (PGS.TS. Phạm Duy Liên - NXB Đại học Quốc gia / ĐH Ngoại thương), **Chương III: Hợp đồng trong giao dịch thương mại quốc tế**, Mục 2.1.7 *"Điều khoản thanh toán"*, tiểu mục 2.1.7.2 *"Thời hạn thanh toán"* (trang 116). - - **Bản chất học thuật**: Theo *Giáo trình giao dịch ngoại thương* (Mục 2.1.7.2, trang 116), thanh toán trả trước (Advance Payment / Prepayment) là việc người mua thanh toán tiền hàng trước khi người bán tiến hành giao hàng. Về mặt bản chất kinh tế, đây là hình thức người mua cấp tín dụng cho người bán. Phương thức này đẩy toàn bộ rủi ro thanh toán và rủi ro thực hiện hợp đồng về phía người mua, đồng thời bảo vệ tuyệt đối lợi ích tài chính cho người bán. - **Lý giải đáp án đúng (B)**: Người bán thường đề xuất và bắt buộc áp dụng điều khoản trả trước trong các trường hợp: 1. **Hàng hóa đặc thù / Sản xuất theo đơn đặt hàng riêng**: Hàng được gia công, chế tạo theo tiêu chuẩn, quy cách kỹ thuật riêng biệt của người mua (Mục 2.1.17 & 4.2.2.3). Nếu người mua hủy đơn hoặc không nhận hàng, người bán sẽ rất khó hoặc không thể tiêu thụ lô hàng đó cho bên thứ ba. 2. **Đối tác mới, thiếu lịch sử tín dụng**: Khi người bán chưa kiểm tra được uy tín, năng lực tài chính hay lịch sử tín dụng của đối tác (Mục 5.1.1, trang 178). 3. **Rủi ro quốc gia/thị trường cao**: Thị trường nước người mua bất ổn về chính trị, kinh tế hoặc có kiểm soát ngoại hối ngặt nghèo. - **Phân tích loại trừ các phương án sai**: - **A sai**: Khi người mua nắm thế chủ động đàm phán (thị trường thuộc về bên mua), người mua sẽ yêu cầu các điều kiện thanh toán có lợi cho mình như trả sau (Deferred Payment), ghi sổ (Open Account) hoặc L/C trả chậm, chứ không chấp nhận trả trước. - **C sai**: Khi hai bên là đối tác lâu năm, tin tưởng tuyệt đối và muốn tối giản hóa thủ tục chứng từ ngân hàng, họ thường chọn phương thức chuyển tiền sau (T/T after delivery) hoặc ghi sổ (Open Account). - **D sai**: Trong giao dịch thương mại quốc tế, điều khoản thanh toán tuân theo nguyên tắc tự do thỏa thuận giữa các bên, không có quy định pháp lý nào bắt buộc giao hàng bằng đường biển phải dùng thanh toán trả trước.
 
 ---
 
@@ -2198,7 +2198,7 @@
 - **D.** Giá đã được xác định trong lúc ký hợp đồng, nhưng có thể được xem xét lại nếu sau này, vào lúc giao hàng, giá thị trường của hàng hóa đó có sự biến động với một mức nhất định.
 
 👉 **Đáp án đúng:** **[D] - Giá đã được xác định trong lúc ký hợp đồng, nhưng có thể được xem xét lại nếu sau này, vào lúc giao hàng, giá thị trường của hàng hóa đó có sự biến động với một mức nhất định.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Vận đơn hoàn hảo (Clean Bill of Lading) là vận đơn không có bất kỳ ghi chú xấu nào của thuyền trưởng về tình trạng khuyết tật của hàng hóa hoặc bao bì đóng gói bên ngoài.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf** / **Chương III: Hợp đồng trong giao dịch thương mại quốc tế** / **Mục 2.1.5.2: Phương pháp quy định giá** (trang 108). - - **Đáp án D đúng** vì theo giáo trình, **Giá linh hoạt (Flexible price)** (còn gọi là giá có thể chỉnh lại - Revisable price) *"là giá đã được xác định trong lúc ký kết hợp đồng, nhưng có thể được xem xét lại sau này, vào lúc giao hàng... Phương pháp này được áp dụng khi giá thị trường của hàng hoá đó có sự biến động tới một mức nhất định"* [1]. - **Các phương án còn lại chưa chính xác** do mô tả các phương pháp định giá khác: - **Phương án A** là khái niệm của **Giá quy định sau** [1]. - **Phương án B** là khái niệm của **Giá cố định (Fixed price)** [2]. - **Phương án C** là khái niệm của **Giá di động (Sliding scale price)** [3].
 
 ---
 
@@ -2211,7 +2211,7 @@
 - **D.** Người nhận khẩu đã hoàn tất thủ tục kiểm tra chất lượng hàng hóa tại cảng đến
 
 👉 **Đáp án đúng:** **[B] - Người nhập khẩu đã hoàn tất việc thanh toán cho lô hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản trọng tài (Arbitration clause) chuẩn mực phải quy định rõ: Tổ chức trọng tài giải quyết tranh chấp (như VIAC, SIAC, ICC), địa điểm xét xử trọng tài, quy tắc tố tụng áp dụng, luật nội dung điều chỉnh và ngôn ngữ dùng trong tố tụng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.7.3: Phương thức thanh toán - Điểm b: Phương thức thanh toán không kèm chứng từ (Nhờ thu kèm chứng từ) [1]. - Theo giáo trình, phương thức Nhờ thu kèm chứng từ (Documentary collection) phân chia thành hai loại chính [1]: 1. **D/P (Documents against Payment - Trả tiền khi nhận chứng từ)**: Người bán gửi bộ chứng từ và hối phiếu qua ngân hàng. Ngân hàng thu hộ (Collecting Bank) chỉ được phép giao bộ chứng từ thương mại cho người nhập khẩu khi người nhập khẩu đã thực hiện thanh toán xong tiền hối phiếu/lô hàng [1]. 2. **D/A (Documents against Acceptance - Chấp nhận trả tiền khi nhận chứng từ)**: Ngân hàng giao chứng từ khi người nhập khẩu ký chấp nhận thanh toán hối phiếu trả chậm [1]. Do đó, đối với điều kiện D/P, ngân hàng thu hộ chỉ giao chứng từ khi người nhập khẩu đã hoàn tất việc thanh toán [1].
 
 ---
 
@@ -2224,7 +2224,7 @@
 - **D.** Khi giao dịch thực hiện theo phương thức thanh toán L/C trả trước
 
 👉 **Đáp án đúng:** **[C] - Cấp theo hợp đồng bảo hiểm dài hạn**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thư tín dụng không thể hủy ngang (Irrevocable L/C - theo UCP 600) là cam kết chắc chắn của ngân hàng phát hành, không thể bị hủy bỏ hoặc sửa đổi nếu không có sự đồng ý bằng văn bản của cả ngân hàng phát hành, ngân hàng xác nhận (nếu có) và người thụ hưởng (người bán).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.7.4: Chứng từ thanh toán - Điểm d: Các chứng từ bảo hiểm [2]. - Theo quy định về chứng từ bảo hiểm trong thương mại quốc tế [2]: - **Bảo hiểm đơn (Insurance Policy)**: Thường dùng trong các giao dịch đơn lẻ, khi các bên ít quen biết và không ký hợp đồng bảo hiểm dài hạn [2]. - **Giấy chứng nhận bảo hiểm (Insurance Certificate)**: Là chứng từ do tổ chức bảo hiểm cấp cho người được bảo hiểm khi giữa các bên đã ký kết một **Hợp đồng bảo hiểm dài hạn** (hợp đồng bao chuyến/khung) [2]. Giấy chứng nhận bảo hiểm chỉ bao gồm các điều khoản chi tiết về đối tượng bảo hiểm của lô hàng cụ thể phát sinh theo hợp đồng dài hạn đó [2]. Do đó, Giấy chứng nhận bảo hiểm được cấp trong trường hợp thực hiện theo hợp đồng bảo hiểm dài hạn [2].
 
 ---
 
@@ -2237,7 +2237,7 @@
 - **D.** Giá trên hợp đồng thương mại không có giá trị pháp lý, Hải quan luôn tự ấn định giá cho mọi lô hàng.
 
 👉 **Đáp án đúng:** **[B] - Doanh nghiệp được tự do thỏa thuận giá mua bán, nhưng mức giá tính thuế sẽ được tính toán trên cơ sở trị giá hải quan phù hợp với Hiệp định trị giá hải quan.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hối phiếu thương mại (Bill of Exchange) là một chứng từ có giá, thể hiện lệnh đòi tiền vô điều kiện của người ký phát (người bán) gửi cho người bị ký phát (người mua hoặc ngân hàng mở L/C) yêu cầu trả một số tiền nhất định cho người thụ hưởng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương V: Nhập khẩu hàng hóa / Mục 3.3 "Xác định giá nhập khẩu" [1]. - Theo *Giáo trình giao dịch ngoại thương*, trong quá trình đàm phán giao kết hợp đồng thương mại quốc tế, các bên được **tự do thỏa thuận và quy định mức giá mua bán** [1]. Tuy nhiên, về mặt quản lý nhà nước khi làm thủ tục thông quan nhập khẩu, mức giá dùng để tính thuế hải quan sẽ được tính toán trên cơ sở **trị giá hải quan** phù hợp với các phương pháp quy định tại **Hiệp định trị giá hải quan** [1]. Các phương án A, C, D là sai do hải quan không bắt buộc chấp nhận mọi giá hợp đồng, không phụ thuộc vào chứng thực của Phòng Thương mại và giá hợp đồng vẫn là cơ sở pháp lý ban đầu giữa hai bên chứ hải quan không tự ý ấn định tùy tiện [1].
 
 ---
 
@@ -2250,7 +2250,7 @@
 - **D.** Đúng. Hợp đồng thương mại bắt buộc phải có chữ ký đầy đủ của hai bên mới phát sinh hiệu lực pháp lý.
 
 👉 **Đáp án đúng:** **[A] - Sai. Hợp đồng đã xác lập và có hiệu lực ràng buộc hai bên, vì hành vi chuyển tiền cọc của Công ty B được tính là hành vi chấp nhận đề nghị giao kết hợp đồng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hóa đơn thương mại (Commercial Invoice) là chứng từ kế toán cơ bản do người bán phát hành, thể hiện số tiền người mua phải thanh toán, chi tiết đơn giá, tổng trị giá, điều kiện giao hàng và phương thức thanh toán của lô hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) / Chương I: Tổng quan về giao dịch thương mại quốc tế / Mục 3.2 (Chào bán hàng - Offer) [1] và Mục 3.5 (Chấp nhận - Acceptance) [2]; Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 1.1 (Các khái niệm có liên quan) [3]. - - **Bản chất pháp lý của việc gửi hợp đồng dự thảo**: Việc Công ty A (bên bán) soạn thảo, ký tên, đóng dấu và gửi bản mềm hợp đồng (PDF) qua email cho Công ty B thể hiện ý chí muốn bán hàng theo các điều kiện xác định, về mặt pháp lý đây chính là một **Chào bán hàng (Offer) / Đề nghị giao kết hợp đồng** [1]. - **Chấp nhận đề nghị giao kết hợp đồng bằng hành vi**: Theo nguyên tắc giao kết hợp đồng trong thương mại quốc tế (Công ước Viên 1980 - CISG), Luật Thương mại và Bộ luật Dân sự Việt Nam, **Chấp nhận (Acceptance)** là sự đồng ý hoàn toàn với đề nghị giao kết hợp đồng [2]. Sự chấp nhận này không bắt buộc phải thể hiện bằng văn bản có chữ ký trực tiếp, mà có thể được xác lập thông qua **hành vi thực hiện hợp đồng** (hành vi cụ thể) [2]. - **Thời điểm hợp đồng phát sinh hiệu lực**: Việc Công ty B căn cứ vào thông tin tài khoản trên bản hợp đồng dự thảo để chuyển khoản 20.000 USD tiền đặt cọc cho Công ty A được pháp luật công nhận là hành vi thực hiện chấp nhận đề nghị giao kết hợp đồng [2, 4]. Ngay khi hành vi chấp nhận này được thực hiện và Công ty A nhận được tiền cọc, hợp đồng thương mại quốc tế đã chính thức **được thành lập và phát sinh hiệu lực pháp lý ràng buộc cả hai bên** [2]. - Do đó, lập luận của Công ty B cho rằng hợp đồng chưa có hiệu lực vì chưa đặt bút ký là **SAI**. Công ty B không thể lấy lý do này để đơn phương hủy hợp đồng và đòi lại 100% tiền đặt cọc [2].
 
 ---
 
@@ -2263,7 +2263,7 @@
 - **D.** Công ty A phải tự chịu chi phí đền bù lượng nguyên liệu/nhiên liệu vượt định mức cho Công ty B, đồng thời phải kê khai nộp thuế nhập khẩu và phạt vi phạm (nếu có) cho phần vượt định mức này đối với cơ quan Hải quan.
 
 👉 **Đáp án đúng:** **[D] - Công ty A phải tự chịu chi phí đền bù lượng nguyên liệu/nhiên liệu vượt định mức cho Công ty B, đồng thời phải kê khai nộp thuế nhập khẩu và phạt vi phạm (nếu có) cho phần vượt định mức này đối với cơ quan Hải quan.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phiếu đóng gói (Packing List) là bảng kê chi tiết nội dung đóng gói của lô hàng, thể hiện số lượng kiện hàng, phương thức đóng gói, kích thước, trọng lượng tịnh (Net Weight) và trọng lượng cả bì (Gross Weight) của từng kiện.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.3. Hợp đồng gia công (Mục 2.3.3. Điều khoản về định mức tiêu hao nguyên vật liệu) [1]. - - **Về mặt pháp lý và quản lý hải quan**: Định mức tiêu hao nguyên vật liệu là tỷ lệ nguyên vật liệu tính trên một đơn vị sản phẩm [1]. Đây là chỉ tiêu cốt lõi để cơ quan Hải quan quản lý việc thực hiện chế độ ưu đãi thuế quan (miễn thuế nhập khẩu nguyên liệu gia công xuất khẩu), xác định nghĩa vụ thuế cũng như kiểm soát gian lận thương mại [1]. - **Trách nhiệm đối với bên đặt gia công (Công ty B)**: Định mức thỏa thuận trong hợp đồng (1,05 kg thép/sản phẩm) đã bao gồm tỷ lệ hao hụt cho phép (5%). Việc phát sinh chi phí tiêu hao thực tế lên 1,12 kg thép/sản phẩm (vượt 0,07 kg/sản phẩm) do tay nghề công nhân yếu và sự cố kỹ thuật máy móc hoàn toàn thuộc về lỗi vận hành và rủi ro sản xuất của bên nhận gia công (Công ty A). Do đó, Công ty A phải tự chịu chi phí đền bù lượng nguyên liệu thiếu hụt này cho Công ty B; Công ty B không có nghĩa vụ phải cung cấp bổ sung miễn phí (*bác bỏ phương án A*). - **Trách nhiệm đối với cơ quan Hải quan**: Doanh nghiệp nhận gia công phải đăng ký và tuân thủ định mức tiêu hao đã cam kết với cơ quan Hải quan [1]. Khi lượng tiêu hao vượt định mức do lỗi nội bộ của bên nhận gia công, Công ty A không có quyền tự động điều chỉnh tăng định mức (*bác bỏ phương án B*), và cơ quan Hải quan cũng không tự động miễn thuế cho phần vượt định mức này (*bác bỏ phương án C*). Công ty A bắt buộc phải kê khai nộp thuế nhập khẩu cho phần nguyên liệu tiêu hao vượt định mức (0,07 kg thép/sản phẩm) và chịu phạt vi phạm hành chính (nếu có) theo quy định của pháp luật về quản lý hải quan.
 
 ---
 
@@ -2276,7 +2276,7 @@
 - **D.** Công ty A bắt buộc phải chờ Công ty B giao nốt 10% số máy còn lại rồi ngân hàng mới được tiến hành bất kỳ thủ tục bù trừ nào.
 
 👉 **Đáp án đúng:** **[B] - Ngân hàng thực hiện bù trừ giá trị tương đương giữa 100% nông sản của A và 90% số máy thực giao của B, đồng thời tính toán khoản tiền phạt (giao chậm + giao thiếu) áp lên B để buộc B phải thanh toán chênh lệch bằng tiền cho A.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong hợp đồng trao đổi hàng hóa thanh toán qua tài khoản bù trừ ngân hàng (Clearing Account), khi một bên giao thiếu hoặc chậm, ngân hàng sẽ ghi nhận đối trừ phần giá trị thực giao và áp dụng điều khoản phạt vi phạm để thu phần chênh lệch bằng tiền từ bên vi phạm.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 'Giáo trình giao dịch ngoại thương.pdf' (PGS.TS Phạm Duy Liên) / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.2: Hợp đồng trao đổi hàng hóa (Mục 2.2.5 "Điều khoản thanh toán" & Mục 2.2.6 "Điều khoản đảm bảo thực hiện hợp đồng") và Chương I / Mục 4.2.2.1: Mua bán đối lưu [1-3]. - 1. **Bản chất của giao dịch trao đổi hàng hóa (buôn bán đối lưu):** Hàng hóa trao đổi mang tính chất bù trừ trị giá tương đương [1]. Trong điều khoản thanh toán, hai bên quy định một ngân hàng đứng ra làm nhiệm vụ mở tài khoản bù trừ giá trị giao dịch giữa hai bên [1, 3]. 2. **Các biện pháp đảm bảo thực hiện hợp đồng:** Để khống chế lẫn nhau và ngăn ngừa vi phạm, hợp đồng trao đổi hàng hóa cho phép áp dụng các biện pháp đảm bảo như sử dụng tài khoản đặc biệt tại ngân hàng, L/C đối ứng, hoặc **"phạt khi giao hàng thiếu hoặc chậm giao hàng"** (phạt bằng ngoại tệ mạnh) [2, 3]. 3. **Xử lý tài chính trong tình huống thực tế:** - Công ty A đã hoàn tất 100% nghĩa vụ giao nông sản đúng thời hạn, còn Công ty B giao thiếu 10% số lượng máy và giao chậm 20 ngày [3]. - Ngân hàng bù trừ sẽ tiến hành **ghi nhận bù trừ giá trị tương đương giữa 100% nông sản của A và 90% số máy thực giao của B** [1, 3]. - Đối với phần nghĩa vụ vi phạm của B (giao thiếu 10% số máy và giao chậm 20 ngày), ngân hàng và hai bên sẽ căn cứ vào điều khoản phạt đã thỏa thuận trong hợp đồng để **tính khoản tiền phạt và buộc B phải thanh toán khoản tiền chênh lệch trị giá cùng tiền phạt cho A** [2, 3]. 4. **Loại trừ các phương án sai:** - **A sai:** Hợp đồng trao đổi hàng hóa hoàn toàn cho phép quy định điều khoản phạt bằng tiền/ngoại tệ mạnh và ngân hàng có căn cứ hợp đồng để tính toán, xử lý [2, 3]. - **C sai:** Ngân hàng không có quyền tự ý hủy bỏ toàn bộ hợp đồng khi một bên đã giao đủ và bên kia đã giao phần lớn hàng hóa; xử lý tài chính qua bù trừ và tiền phạt là giải pháp chuẩn mực [3]. - **D sai:** Ngân hàng bù trừ dựa trên giá trị hàng hóa thực giao từng đợt/đến hạn, không bắt buộc bên đã giao đủ phải chờ đợi vô thời hạn mới được tiến hành bù trừ [3].
 
 ---
 
@@ -2289,7 +2289,7 @@
 - **D.** Bắt buộc hãng tàu phải miễn toàn bộ chi phí lưu kho bãi (DEM/DET) tại cảng đến.
 
 👉 **Đáp án đúng:** **[C] - Giúp các bên chủ động trong việc kiểm tra, giám sát trong quá trình giao nhận hàng hóa**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Quy định chi tiết cảng bốc, cảng dỡ và cảng chuyển tải giúp các bên chủ động theo dõi hải trình, phối hợp giám sát hàng hóa tại các điểm trung chuyển và kịp thời xử lý các tình huống rủi ro phát sinh trong quá trình vận tải.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương 3: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.6. Điều khoản giao hàng / Mục 2.1.6.2. Địa điểm giao hàng (Điểm a: "Qui định ga - cảng giao hàng, cảng ga đến, cảng ga thông qua") [1]. - - Theo tài liệu *Giáo trình giao dịch ngoại thương.pdf* (Chương 3, Mục 2.1.6.2a), việc quy định ga/cảng giao hàng, cảng/ga đến, và cảng/ga thông qua *"chủ yếu giúp cho các bên chủ động trong kiểm tra giám sát trong quá trình giao nhận hàng, tìm hàng thất lạc..."* [1]. - **Lý giải bản chất học thuật:** Khi nêu rõ các điểm nút hành trình (cảng đi Cát Lái, cảng trung chuyển Singapore, cảng đích Rotterdam), hai bên mua và bán có cơ sở pháp lý và thực tiễn để chủ động theo dõi tuyến đường vận chuyển, phối hợp kiểm tra, giám sát hàng hóa tại từng chặng, đồng thời nhanh chóng xác định vị trí tổn thất hoặc truy tìm khi hàng hóa bị thất lạc [1]. - **Phân tích loại trừ các đáp án sai:** - **A sai:** Việc quy định rõ tên cảng không tự động chuyển giao toàn bộ rủi ro cho bên vận tải; mốc chuyển giao rủi ro giữa mua và bán được điều chỉnh bởi quy tắc Incoterms được chọn và các điều khoản trong hợp đồng vận tải [1-3]. - **B sai:** Thủ tục hải quan xuất/nhập khẩu là nghĩa vụ pháp lý bắt buộc do pháp luật hải quan quy định và được phân định theo điều kiện Incoterms, không thể được miễn trừ chỉ nhờ việc liệt kê tên cảng [1, 4]. - **D sai:** Chi phí lưu kho bãi (DEM/DET) phụ thuộc vào thỏa thuận thương lượng riêng giữa chủ hàng và hãng tàu/cảng biển, việc ghi tên cảng trong hợp đồng mua bán không bắt buộc hãng tàu phải miễn phí lưu kho bãi [1, 5].
 
 ---
 
@@ -2302,7 +2302,7 @@
 - **D.** 3,010.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020
 
 👉 **Đáp án đúng:** **[C] - 3,160.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Giá CFR Vancouver = Giá xuất khẩu cơ sở (3,000 USD) + Chi phí vận chuyển nội địa (10 USD) + Cước vận tải quốc tế (150 USD) = 3,160.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: 1. *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) – Chương IV: Xuất khẩu hàng hóa, Mục 3.3 & Bảng 4.1 "Cơ cấu giá hàng xuất khẩu theo điều kiện FOB, CFR, CIF" [1]; Chương II: Incoterms, Mục 2.2.3 "CFR - Tiền hàng và cước phí" [2-4]. - 1. **Công thức tính đơn giá CFR (Incoterms 2020):** Theo cơ cấu giá hàng xuất khẩu, đơn giá CFR bao gồm giá bán ban đầu (giá tại xưởng/cơ sở) cộng chi phí vận tải nội địa đưa hàng ra cảng bốc (cảng đi) và cước phí vận tải quốc tế từ cảng bốc đến cảng dỡ (cảng đến) [1, 11]. \\[\text{Đơn giá CFR} = \text{Giá gốc} + \text{Chi phí vận tải nội địa (kho } \rightarrow \text{ Cát Lái)} + \text{Cước vận tải quốc tế (Cát Lái } \rightarrow \text{ Vancouver)}\\] \\[\text{Đơn giá CFR} = 3,000.00\,\text{USD/MT} + 10.00\,\text{USD/MT} + 150.00\,\text{USD/MT} = 3,160.00\,\text{USD/MT}\\] 2. **Quy tắc ghi địa điểm kèm theo điều kiện CFR (Incoterms 2020):** CFR (Cost and Freight - Tiền hàng và cước phí) là quy tắc thuộc nhóm C dành riêng cho vận tải biển và thủy nội địa [8]. Địa điểm bắt buộc phải ghi kèm theo ba chữ cái "CFR" là **Cảng đến quy định (Port of Destination)** [5, 7, 8], tức là **Vancouver Port, Canada** (không phải cảng đi Cát Lái, Việt Nam) [9, 10]. Do đó, cách thể hiện đơn giá chuẩn xác trong hợp đồng thương mại là: **3,160.00 USD/MT CFR Vancouver Port, Canada, Incoterms 2020** [5]. 3. **Phân tích các đáp án khác:** - **A (Sai địa điểm):** Ghi cảng đi *Cat Lai Port, Vietnam* thay vì cảng đến *Vancouver Port, Canada* [5, 10]. - **B (Sai mức giá):** Mới chỉ cộng cước biển (\\(3,000 + 150 = 3,150\\)), bỏ sót chi phí vận chuyển nội địa ra cảng bốc (\\(10\text{ USD/MT}\\)) [1]. - **D (Sai mức giá):** Mới chỉ tính giá FOB Cát Lái (\\(3,000 + 10 = 3,010\\)), chưa cộng cước vận tải biển quốc tế (\\(150\text{ USD/MT}\\)) [1, 12].
 
 ---
 
@@ -2315,7 +2315,7 @@
 - **D.** Công ty B phải chịu trách nhiệm bồi thường vì thời hạn hiệu lực của hợp đồng (Điều 5) vẫn còn.
 
 👉 **Đáp án đúng:** **[B] - Công ty A (chủ hàng) phải tự chịu trách nhiệm vì hàng hóa bị biến đổi phẩm chất do để lưu kho quá thời hạn thỏa thuận.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy tắc lưu kho, thời hạn thỏa thuận là 30 ngày (hết hạn ngày 31/10); Công ty A để hàng lưu kho quá hạn 15 ngày mới đến nhận mà không có thỏa thuận gia hạn, nên sự biến đổi phẩm chất (ẩm mốc) do lưu kho quá hạn thuộc trách nhiệm tự gánh chịu của chủ hàng A.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 3.4: Hợp đồng thuê kho (Điều 3: Trách nhiệm của các bên) [1] và Phụ lục 5: Mẫu hợp đồng thuê kho ngoại quan (Điều III, Mục 2) [2]. - Theo quy định về phân định trách nhiệm trong hợp đồng thuê kho bãi, bên cho thuê kho có trách nhiệm hoàn thành thủ tục giao nhận và bảo quản hàng hóa trong thời hạn lưu kho [1]. Tuy nhiên, đối với chủ hàng (bên gửi hàng - Công ty A), tài liệu học thuật quy định rõ nghĩa vụ: *"Hàng lưu kho quá lâu bị biến đổi phẩm chất chủ hàng phải chịu trách nhiệm"* [1] (đồng thời tại Phụ lục 5 cũng khẳng định: *"Khi hàng bị mất phẩm chất do lưu kho quá lâu thì chủ hàng phải chịu trách nhiệm"* [2]). Trong tình huống này, thời hạn lưu kho thỏa thuận giữa hai bên cho lô hàng thực phẩm khô là 30 ngày (từ ngày 01/10 đến hết ngày 31/10). Việc Công ty A để hàng lưu kho đến ngày 15/11 (quá thời hạn thỏa thuận 15 ngày) mới đến nhận dẫn đến hàng hóa bị ẩm mốc là thuộc trường hợp hàng hóa bị biến đổi phẩm chất do để lưu kho quá lâu, do đó Công ty A phải tự chịu trách nhiệm đối với tổn thất này [1, 2].
 
 ---
 
@@ -2328,7 +2328,7 @@
 - **D.** Quy định bên nhận ủy thác không được phép chi ứng trước bất kỳ khoản tiền nào, bắt buộc bên ủy thác phải trực tiếp thanh toán tiền mặt tại cảng cho hãng tàu.
 
 👉 **Đáp án đúng:** **[A] - Quy định chi tiết danh mục các khoản chi phí phát sinh thực tế, đi kèm quy định về phương thức, đồng tiền và thời hạn thanh toán/hoàn trả cho bên nhận ủy thác.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Để tránh tranh chấp phụ phí cảng (D/O, THC, nâng hạ, lưu cont/xe), hợp đồng giao nhận dịch vụ cần liệt kê chi tiết danh mục các chi phí ứng trước thực tế có chứng từ hợp lệ, đồng thời quy định rõ thời hạn và đồng tiền bên ủy thác phải hoàn trả cho bên giao nhận.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: `Giáo trình giao dịch ngoại thương.pdf` (PGS.TS Phạm Duy Liên, NXB Lao Động - Xã Hội) – Chương III: Hợp đồng trong giao dịch thương mại quốc tế – Mục 3.1: Hợp đồng dịch vụ giao nhận [1]. - + **Bản chất học thuật:** Hợp đồng dịch vụ giao nhận (Forwarding Service Contract) là hợp đồng thương mại dịch vụ mà bên nhận ủy thác (Forwarder) đại diện cho bên ủy thác thực hiện các nghiệp vụ giao nhận, làm thủ tục hải quan và vận tải [2]. Trong quá trình tác nghiệp tại cảng, bên nhận ủy thác thường phải chi ứng trước các khoản phụ phí và phí dịch vụ phát sinh thực tế (phí D/O, nâng hạ container, lưu xe, giám định...) [1]. Để đảm bảo quyền lợi tài chính, tính minh bạch và tránh tranh chấp sau khi hoàn thành dịch vụ, Điều khoản Thanh toán trong hợp đồng giao nhận bắt buộc phải quy định cụ thể danh mục các khoản chi phí phát sinh này, đồng thời xác định rõ phương thức thanh toán, đồng tiền tính giá/thanh toán và thời hạn hoàn trả chi phí cho bên nhận ủy thác [1, 3]. + **Trích dẫn chính xác từ tài liệu:** Tại Mục 3.1 (*Hợp đồng dịch vụ giao nhận*), Chương III của *Giáo trình giao dịch ngoại thương.pdf*, nội dung chuẩn mực của Điều khoản Thanh toán được quy định rõ [1]: > *"Điều 4: Thanh toán* > *Điều khoản này cần làm rõ:* > *- Chi phí: Cước phí vận chuyển, chi phí bốc, dỡ hàng, chi phí lưu xe, chi phí nâng hạ tại cảng, phụ phí xếp dỡ, phí D/O, phí giám định...* > *- Phương thức, đồng tiền, thời gian thanh toán."* [1] + Các phương án B, C, D đều sai do vi phạm nguyên tắc quản lý chi phí thực chi thực thanh trong nghiệp vụ ủy thác giao nhận ngoại thương (phương án B gánh ép chi phí sai bản chất đại lý [4], phương án C thiếu căn cứ pháp lý văn bản dễ dẫn đến tranh chấp [5, 6], phương án D làm vô hiệu hóa vai trò ứng phó linh hoạt của Forwarder tại cảng [2]).
 
 ---
 
@@ -2341,7 +2341,7 @@
 - **D.** Có cơ sở, vì hai bên bắt buộc phải chuyển sang phương pháp Giá quy định sau khi thị trường có biến động lớn.
 
 👉 **Đáp án đúng:** **[B] - Không có cơ sở, vì hợp đồng áp dụng Giá cố định (đã khẳng định lúc ký và không đổi trong suốt quá trình thực hiện), Công ty M phải tự chịu rủi ro chi phí.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hợp đồng ghi 'Đơn giá: 15 USD/sản phẩm' mà không kèm theo công thức trượt giá là Hợp đồng áp dụng Giá cố định (Fixed price). Người bán chịu rủi ro biến động giá nguyên vật liệu và không có quyền đơn phương đòi tăng giá hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.5.2: Phương pháp quy định giá (trang 108) [1]. - - Trong hợp đồng mua bán, hai bên chỉ ghi nhận ngắn gọn: *"Đơn giá: 15 USD/sản phẩm"* mà không đi kèm bất kỳ công thức điều chỉnh, biên độ dung sai giá hay điều khoản xem xét lại giá nào [1]. - Theo *Giáo trình giao dịch ngoại thương*, **Giá cố định (Fixed price)** *"là giá cả được quy định vào lúc ký kết hợp đồng và không được sửa đổi nếu không có sự thoả thuận khác"* [1]. Vì hợp đồng đã chốt giá cố định, Công ty M có nghĩa vụ phải thực hiện giao hàng theo đúng mức giá đã cam kết và phải tự chịu mọi rủi ro khi chi phí sản xuất hay giá nguyên liệu đầu vào (sợi bông) biến động [1]. Việc Công ty M đơn phương yêu cầu tăng giá lên 18 USD/sản phẩm hoặc dọa dừng giao hàng là hoàn toàn **không có cơ sở pháp lý** [1]. - **Lý do loại trừ các đáp án khác:** - *Đáp án A sai:* Phương pháp Giá di động (Sliding scale price) đòi hỏi hợp đồng phải quy định sẵn giá cơ sở cùng công thức tính toán trượt giá chi tiết dựa trên tỷ trọng biến động của nguyên vật liệu và nhân công tại thời điểm thanh toán (\\(P_1 = P_0(A + B\frac{b_1}{b_0} + C\frac{c_1}{c_0})\\)) [2, 3]. Hợp đồng ở đây không có điều khoản này nên giá không tự động điều chỉnh [1, 2]. - *Đáp án C sai:* Phương pháp Giá linh hoạt (Flexible price) bắt buộc trong hợp đồng các bên phải thỏa thuận trước giá gốc, tỷ lệ biến động kích hoạt xem xét lại giá, thời điểm định giá và nguồn tài liệu tham khảo [4]. - *Đáp án D sai:* Giá quy định sau là phương pháp được các bên thỏa thuận ngay khi ký hợp đồng (trong đó chưa xác định ngay giá cố định mà thỏa thuận cách xác định trong quá trình thực hiện), chứ không phải là một cơ chế tự động bắt buộc chuyển đổi khi thị trường có biến động [4].
 
 ---
 
@@ -2354,7 +2354,7 @@
 - **D.** Công ty M tự chịu rủi ro vì linh kiện điện tử là hàng hóa giá trị cao, dễ mất cắp.
 
 👉 **Đáp án đúng:** **[A] - Công ty Logistics T phải chịu trách nhiệm bồi thường vì để xảy ra hỏng hóc, mất mát trong quá trình bảo quản.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Bên lưu kho (Logistics T) có nghĩa vụ bảo quản an toàn hàng hóa trong suốt thời gian gửi giữ; việc để hỏng hàng rào khiến kẻ gian đột nhập trộm cắp là lỗi bảo quản của bên lưu kho, do đó bên lưu kho phải chịu trách nhiệm bồi thường thiệt hại.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: + **'Giáo trình giao dịch ngoại thương.pdf'**: Chương III - Hợp đồng trong giao dịch ngoại thương, Mục 3.4 - Hợp đồng thuê kho, *Điều 3: Trách nhiệm của các bên (Bên cho thuê kho)* [1]. - + Theo quy định về pháp lý và học thuật trong hợp đồng thuê kho bãi / lưu giữ hàng hóa thương mại, sau khi hai bên đã hoàn tất thủ tục bàn giao và đối soát số lượng kiện hàng đúng theo thỏa thuận, quyền chiếm hữu thực tế và **nghĩa vụ bảo quản an toàn hàng hóa** được chuyển sang bên cho thuê kho [1-3]. + Cả hai tài liệu chuẩn mực đều quy định rõ nghĩa vụ cốt lõi của Chủ kho / Bên cho thuê kho là: *"Bảo quản hàng hóa, nếu có hư hỏng mất mát phải bồi thường cho chủ hàng"* [1] và *"Trong thời gian lưu kho, nếu Chủ kho bảo quản không tốt để hàng hóa hư hỏng mất mát thì phải bồi thường"* [2]. + Trong tình huống này, việc hàng rào bảo vệ bị hỏng nhưng Công ty Logistics T không tiến hành sửa chữa kịp thời là hành vi thiếu trách nhiệm trong công tác bảo quản an toàn kho bãi, tạo điều kiện cho kẻ gian đột nhập lấy trộm 15 kiện hàng. Do đó, **Công ty Logistics T hoàn toàn chịu trách nhiệm bồi thường thiệt hại** cho Công ty M [1, 2]. Đơn vị vận tải (đã bàn giao xong) và Hải quan không có lỗi hay nghĩa vụ bảo quản trong chặng lưu kho này [1, 3].
 
 ---
 
@@ -2367,7 +2367,7 @@
 - **D.** Không vi phạm, chỉ cần Công ty V gộp số tiền bán vải vào doanh thu khi làm Báo cáo quyết toán cuối năm.
 
 👉 **Đáp án đúng:** **[A] - Vi phạm do tự ý chuyển mục đích sử dụng (tiêu thụ nội địa) nguyên liệu được miễn thuế khi chưa đăng ký với Hải quan.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hàng nông sản tươi sống, dễ biến đổi phẩm chất thường áp dụng phương pháp xác định phẩm chất tại nơi gửi hàng theo hiện trạng thực tế (Tale quale) hoặc người mua trực tiếp xem hàng và chấp nhận trước khi bốc hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: - *Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên) – **Chương 1**, Mục 4.2.2.3 "Gia công quốc tế" [1]; **Chương 3**, Mục 2.3 "Hợp đồng gia công", chi tiết tại Mục 2.3.3 "Điều khoản về định mức tiêu hao nguyên vật liệu" và Mục 2.3.5 "Điều khoản về máy móc thiết bị, nguyên vật liệu thừa" [2, 3]. - - **Bản chất học thuật của Nhập nguyên liệu gia công:** Gia công quốc tế là phương thức giao dịch đặc biệt, trong đó bên nhận gia công nhập khẩu nguyên liệu từ bên đặt gia công để chế biến ra thành phẩm, giao lại cho bên đặt gia công và nhận thù lao [1]. Do nguyên liệu nhập khẩu chỉ phục vụ mục đích sản xuất hàng xuất khẩu, số nguyên liệu này thuộc diện được hưởng chế độ ưu đãi về thuế (miễn thuế nhập khẩu) dưới sự quản lý, giám sát của cơ quan Hải quan [2]. - **Nghĩa vụ đối với nguyên phụ liệu dư thừa:** Theo giáo trình, khi đăng ký hợp đồng gia công, doanh nghiệp phải đăng ký định mức tiêu hao nguyên vật liệu với cơ quan Hải quan làm cơ sở xác định nghĩa vụ thuế và quản lý chống gian lận thương mại [2]. Khi kết thúc hợp đồng gia công, lượng nguyên liệu thừa (500 mét vải) vẫn chịu sự quản lý hải quan và phải được xử lý theo đúng quy định (như xuất trả lại, tái xuất, chuyển sang hợp đồng gia công khác, hoặc tiêu hủy/tiêu thụ nội địa sau khi đã làm thủ tục) [2, 3]. - **Lý do đáp án A đúng:** Việc Công ty V tự ý xé lẻ 500m vải dư thừa mang bán cho các tiệm may trong nước khi chưa khai báo, chưa đăng ký chuyển đổi mục đích sử dụng với cơ quan Hải quan và chưa hoàn thành nghĩa vụ thuế nhập khẩu bổ sung chính là hành vi tự ý chuyển mục đích sử dụng (tiêu thụ nội địa) nguyên liệu được miễn thuế trái quy định pháp luật hải quan. - **Lý do các phương án khác sai:** - *Phương án B sai:* Hành vi vi phạm cốt lõi ở đây là vi phạm pháp luật hải quan và quản lý thuế đối với hàng hóa gia công nhập khẩu miễn thuế, không phải là vi phạm về bảo hộ thương hiệu. - *Phương án C sai:* Dù là vải dư thừa sau khi đã hoàn thành đủ số lượng sản phẩm xuất khẩu, doanh nghiệp vẫn không có quyền tự ý tiêu thụ nội địa nếu chưa làm thủ tục thanh lý/chuyển đổi mục đích sử dụng với Hải quan. - *Phương án D sai:* Việc gộp tiền bán vải vào Báo cáo quyết toán cuối năm không thay thế được nghĩa vụ phải đăng ký chuyển mục đích sử dụng và nộp thuế nhập khẩu với cơ quan Hải quan trước khi đưa hàng ra tiêu thụ nội địa.
 
 ---
 
@@ -2380,7 +2380,7 @@
 - **D.** Tất cả các đáp án đều sai.
 
 👉 **Đáp án đúng:** **[A] - Hợp lệ vì đồng tiền tính giá và thanh toán trong hợp đồng ngoại thương có thể là ngoại tệ đối với cả hai bên.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hao hụt tự nhiên là sự giảm sút khối lượng do tính chất lý hóa tự nhiên của hàng hóa (bay hơi, khô hao); hợp đồng thường quy định tỷ lệ hao hụt miễn trách (Franchise), người bán không phải bồi thường nếu mức hao hụt nằm trong giới hạn này.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên - ĐH Ngoại thương) / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.5.1 "Đồng tiền tính giá" và Mục 2.1.7.1 "Đồng tiền thanh toán". - - Theo *Giáo trình giao dịch ngoại thương* (Chương III), quyền lựa chọn đồng tiền trong thương mại quốc tế tuân theo sự thỏa thuận tự do của các bên giao dịch: - Về đồng tiền tính giá: *"Giá cả trong mua bán quốc tế có thể được thể hiện bằng đồng tiền của nước xuất khẩu hoặc của nước nhập khẩu, hoặc của một nước thứ ba"* [1]. - Về đồng tiền thanh toán: *"Trong thương mại quốc tế đồng tiền thanh toán có thể là đồng tiền của nước xuất khẩu, nước nhập khẩu hoặc của nước thứ ba tùy theo sự thỏa thuận của các bên liên quan"* [2]. - Áp dụng vào trường hợp Công ty X (Việt Nam - nước xuất khẩu) và Công ty Y (Hàn Quốc - nước nhập khẩu): Đồng Euro (EUR) là đồng tiền của nước thứ ba, đóng vai trò là ngoại tệ đối với cả hai bên. Thỏa thuận chọn EUR làm đồng tiền tính giá và đồng tiền thanh toán là hoàn toàn **hợp lệ** [1, 2]. - Đáp án B sai vì thương mại quốc tế không bắt buộc phải dùng đồng nội tệ của hai nước hay duy nhất USD. Đáp án C sai vì đồng EUR là một ngoại tệ tự do chuyển đổi phổ biến, được phép sử dụng làm đồng tiền định giá và thanh toán trong các giao dịch thương mại trên toàn cầu chứ không giới hạn trong nội bộ EU.
 
 ---
 
@@ -2393,7 +2393,7 @@
 - **D.** Mua hợp đồng tương lai cà phê (Long Futures)
 
 👉 **Đáp án đúng:** **[B] - Bán hợp đồng tương lai cà phê (Short Futures)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản giám định hàng hóa quy định rõ địa điểm kiểm tra (tại xưởng, tại cảng bốc hoặc tại cảng đến) và cơ quan giám định độc lập (như SGS, Vinacontrol) có chứng thư giám định làm căn cứ quyết định.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương* (PGS.TS Phạm Duy Liên - ĐH Ngoại thương) — Chương 1, Mục 4.2.2.6 "Mua bán hàng hóa tại sở giao dịch" [1, 2] và Chương 3, Mục 2.7 "Hợp đồng ở Sở giao dịch hàng hóa" (Mục 2.7.1 Hợp đồng kỳ hạn) [3, 4]. - - **Bản chất rủi ro của nhà xuất khẩu**: Công ty A chuẩn bị xuất khẩu 1.000 tấn cà phê Robusta sau 3 tháng nữa [3]. Rủi ro lớn nhất mà nhà xuất khẩu/người bán phải đối mặt là giá cà phê trên thị trường thế giới sụt giảm tại thời điểm giao bán hàng thực tế [2, 4]. - **Cơ chế Nghiệp vụ Tự bảo hiểm (Hedging)**: Theo giáo trình, nghiệp vụ tự bảo hiểm (hedging) là hoạt động giao dịch thường được các nhà sản xuất, nhà buôn nguyên liệu sử dụng nhằm tránh những rủi ro do biến động giá cả làm thiệt hại tới lãi dự tính bằng cách thực hiện giao dịch đối ứng tại sở giao dịch hàng hóa [2]. - **Lựa chọn Bán hợp đồng tương lai (Short Futures)**: Để phòng ngừa rủi ro giá giảm, Công ty A cần tham gia vị thế **Bán hợp đồng tương lai cà phê (Short Futures)** trên Sở giao dịch (như ICE / London) [1-4]. - Nếu sau 3 tháng giá cà phê trên thị trường thế giới giảm: Công ty A bán hàng thực tế thu về giá thấp (lỗ/giảm doanh thu trên thị trường giao ngay), nhưng trên thị trường tương lai, vị thế Bán (Short Futures) sinh lời do mua lại hợp đồng với mức giá thấp hơn [4, 5]. Khoản lãi trên sở giao dịch sẽ bù đắp cho phần thiệt hại ở thị trường thực tế, giúp công ty cố định được mức giá bán dự tính [2]. - **Lý do loại trừ các đáp án khác**: - *A. Bán quyền chọn bán (Sell Put Option)*: Bên bán Put Option có nghĩa vụ phải mua hàng khi bên mua thực hiện quyền [6]. Nếu giá cà phê giảm, bên mua quyền sẽ thực hiện quyền bán, buộc Công ty A phải mua vào ở giá cao hơn thị trường, làm gia tăng thua lỗ. - *C. Mua quyền chọn mua (Buy Call Option)*: Quyền chọn mua dùng để bảo hiểm rủi ro giá TĂNG [6], thường dành cho nhà nhập khẩu/người mua thực tế. - *D. Mua hợp đồng tương lai (Long Futures)*: Dành cho người mua/nhà nhập khẩu muốn cố định giá mua để phòng ngừa rủi ro giá TĂNG trong tương lai [4, 5].
 
 ---
 
@@ -2406,7 +2406,7 @@
 - **D.** Áp dụng "Khối lượng lý thuyết" (Theoretical weight) tính theo kích thước bao bì mà không cần thực hiện cân thực tế lô hàng tại cảng dỡ.
 
 👉 **Đáp án đúng:** **[C] - Quy định "Cả bì coi như tịnh" (Gross weight for net), chấp nhận lấy tổng khối lượng cả bì làm căn cứ tính giá trị thanh toán tiền hàng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong thương mại quốc tế, quyền sở hữu hàng hóa thường được chuyển giao đồng thời với việc chuyển giao chứng từ sở hữu hàng hóa (vận đơn đường biển gốc B/L có thể chuyển nhượng) sau khi người mua đã thanh toán hoặc chấp nhận thanh toán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* (PGS.TS. Phạm Duy Liên chủ biên) — Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.1.2: Điều khoản số lượng / Mục 2.1.2.3: Phương pháp xác định khối lượng (kết hợp Mục 2.1.4.3: Phương thức xác định giá cả của bao bì). - - Theo Giáo trình Giao dịch thương mại quốc tế (Chương III, Mục 2.1.2.3), khi xác định khối lượng hàng hóa mua bán, *"Đối với một số mặt hàng mà khối lượng của bao bì rất nhỏ, không đáng kể, hoặc đơn giá của bao bì không chênh lệch bao nhiêu so với đơn giá hàng hoá, nhiều khi người ta còn có thể thoả thuận với nhau tính giá cả bao bì theo cách thức 'cả bì coi như tịnh' (gross weight for net)"*. - Trong tình huống nghiệp vụ thực tế nêu trên, lô hàng xuất khẩu 500 tấn cà phê nhân sử dụng bao Jute tiêu chuẩn với khối lượng vỏ bao chỉ chiếm 0,5% tổng khối lượng lô hàng (tỷ lệ rất nhỏ và không đáng kể). Nếu trút cà phê ra cân riêng từng đợt để trừ bì (Actual tare) sẽ gây tốn kém chi phí, thời gian và nguy cơ làm hư hỏng hàng hóa tại cảng. Do đó, quy định **"Cả bì coi như tịnh" (Gross weight for net)** — chấp nhận lấy tổng khối lượng cả bì làm căn cứ tính giá trị thanh toán tiền hàng — là phương án tối ưu, phù hợp nhất với tập quán và thực tế nghiệp vụ thương mại quốc tế.
 
 ---
 
@@ -2418,8 +2418,8 @@
 - **C.** Công ty Y có quyền yêu cầu Công ty X (bên giao gia công) bồi toàn bộ thiệt hại và chi phí xử lý phát sinh do Công ty X vi phạm cam kết về tính hợp pháp của quyền Sở hữu trí tuệ.
 - **D.** Cơ quan nhà nước sẽ tịch thu máy móc của Công ty Y và cấm Công ty X kinh doanh tại Việt Nam.
 
-👉 **Đáp án đúng:** **[D] - Cơ quan nhà nước sẽ tịch thu máy móc của Công ty Y và cấm Công ty X kinh doanh tại Việt Nam.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Giá di động (Sliding scale price) là phương pháp xác định giá dựa trên công thức toán học tính toán lại giá tại thời điểm giao hàng dựa trên sự biến động của các chỉ số chi phí nguyên liệu và chi phí nhân công theo thống kê chính thức.
+👉 **Đáp án đúng:** **[C] - Công ty Y có quyền yêu cầu Công ty X (bên giao gia công) bồi toàn bộ thiệt hại và chi phí xử lý phát sinh do Công ty X vi phạm cam kết về tính hợp pháp của quyền Sở hữu trí tuệ.**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương III: Hợp đồng trong giao dịch thương mại quốc tế / Mục 2.3: Hợp đồng gia công (Tiểu mục 2.3.6: Vấn đề liên quan đến quyền sở hữu công nghiệp) [1]. - + Trong hoạt động gia công quốc tế, bên đặt gia công có nghĩa vụ bảo đảm tính hợp pháp về quyền sở hữu công nghiệp đối với nhãn hiệu, nhãn mác sản phẩm mà mình giao hoặc chỉ định cho bên nhận gia công sản xuất [1]. Theo Giáo trình Giao dịch thương mại quốc tế (Chương III, Mục 2.3.6), để tránh trường hợp vi phạm quyền sở hữu công nghiệp, trong hợp đồng gia công các bên phải quy định rõ trách nhiệm của bên đặt gia công đối với nhãn mác sản phẩm, bao gồm việc cung cấp giấy chứng nhận quyền sở hữu và đăng ký bản quyền/nhãn hiệu tại nước nhận gia công [1]. + Bên đặt gia công (Công ty X) đã cam kết bằng văn bản về quyền sở hữu hợp pháp đối với nhãn hiệu "SUN", nhưng thực tế nhãn hiệu này đã được Công ty Z đăng ký bảo hộ độc quyền trước đó tại Việt Nam. Hành vi này của Công ty X cấu thành vi phạm cam kết hợp đồng và vi phạm nghĩa vụ bảo đảm quyền sở hữu trí tuệ đối với sản phẩm gia công [1, 2]. + Do Công ty Y chỉ thực hiện sản xuất theo đúng chỉ định và trên cơ sở cam kết hợp pháp của bên đặt gia công, nên Công ty Y có quyền yêu cầu Công ty X bồi thường toàn bộ thiệt hại và chi phí xử lý phát sinh do vi phạm của Công ty X gây ra [1, 2].
 
 ---
 
@@ -2432,7 +2432,7 @@
 - **D.** Công ty A chỉ chịu rủi ro từ Công ty C do cho trả chậm 30 ngày, còn đối với Công ty B thì việc T/T trả trước giúp A hoàn toàn khống chế được nghĩa vụ giao hàng của B.
 
 👉 **Đáp án đúng:** **[B] - Công ty A đối mặt với rủi ro kép rất lớn: vừa bị chôn vốn/đứt gãy dòng tiền, vừa chịu rủi ro bị B giao hàng kém chất lượng/trễ hạn (khi đã trả tiền trước) và rủi ro bị từ chối thanh toán L/C nếu bộ chứng từ xuất trình cho C có bất hợp lệ.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hợp đồng mua bán hàng hóa quốc tế có hiệu lực pháp lý kể từ thời điểm các bên có thẩm quyền ký kết vào văn bản hợp đồng hoặc vào thời điểm xác định được ghi rõ trong điều khoản hiệu lực của hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương.pdf* / Chương I (Mục 4.2.2.2 - Giao dịch tái xuất, trang 19–21) [1, 2] và Chương III (Mục 2.1.7.2 - Thời hạn thanh toán, Mục 2.1.7.3 - Phương thức thanh toán, trang 115–118 [3-5]; Mục 2.4 - Hợp đồng tái xuất, trang 136 [6]). - 1. **Rủi ro ở hợp đồng nhập khẩu (Đầu mua từ Công ty B):** Việc Công ty A thanh toán bằng phương thức **Chuyển tiền T/T trả trước 100%** thực chất là người mua (A) cấp tín dụng cho người bán (B) khi chưa nhận được hàng [3]. Phương thức này khiến A đối mặt với rủi ro chôn vốn/đứt gãy dòng tiền nghiêm trọng và nguy cơ mất trắng hoặc gặp khó khăn khi B giao hàng trễ hạn, không giao hàng, hoặc giao hàng kém chất lượng do A đã chuyển toàn bộ tiền trước [3, 4]. 2. **Rủi ro ở hợp đồng xuất khẩu (Đầu bán cho Công ty C):** Phương thức **Thư tín dụng (L/C) trả chậm 30 ngày** chỉ bảo đảm thanh toán khi người bán xuất trình bộ chứng từ hoàn toàn phù hợp với các điều khoản của L/C ("cho một xuất trình phù hợp" theo Điều 2 UCP-600) [5]. Nếu bộ chứng từ xuất trình cho C có bất kỳ điểm bất hợp lệ nào, ngân hàng phát hành có quyền từ chối thanh toán [5, 7]. Bên cạnh đó, việc cho C trả chậm 30 ngày càng làm tăng nguy cơ đứt gãy dòng tiền của A [6, 8]. 3. **Rủi ro kép trong giao dịch tái xuất:** Trong nghiệp vụ kinh doanh tái xuất, người tái xuất phải vận hành hai hợp đồng riêng biệt nhưng có mối quan hệ chặt chẽ và cần dàn xếp điều khoản thanh toán sao cho tiền thu từ hợp đồng xuất khẩu có thể bù đắp/trả cho hợp đồng nhập khẩu (như sử dụng L/C giáp lưng) [2, 6, 9]. Việc A ứng trả trước 100% tiền mặt cho B nhưng lại cho C trả chậm 30 ngày dưới hình thức L/C khiến A rơi vào thế **rủi ro kép**: vừa chôn vốn/đứt gãy thanh khoản, vừa chịu rủi ro chất lượng/giao hàng ở đầu mua và rủi ro bị từ chối thanh toán chứng từ ở đầu bán [1, 3, 5, 6]. *(Các phương án A, C, D sai vì L/C không thanh toán vô điều kiện, không loại bỏ rủi ro chứng từ hay chất lượng [5, 10], và trả trước T/T không giúp A khống chế được B mà ngược lại khiến A rơi vào thế bất lợi [3]).
 
 ---
 
@@ -2445,7 +2445,7 @@
 - **D.** Các đáp án đều sai
 
 👉 **Đáp án đúng:** **[A] - Nhờ thu kèm chứng từ trả ngay (D/P)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi hợp đồng ngoại thương được soạn thảo bằng nhiều thứ tiếng (ví dụ tiếng Việt và tiếng Anh), điều khoản ngôn ngữ bắt buộc phải xác định bản ngôn ngữ nào có giá trị ưu tiên áp dụng (prevailing language) khi phát sinh sự khác biệt về giải thích câu chữ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế* (PGS.TS. Phạm Duy Liên chủ biên, ĐH Ngoại thương) – Chương III: Hợp đồng trong giao dịch thương mại quốc tế – Mục 2.1.7.3: Phương thức thanh toán (Trang 117–118) [1, 2]. - 1. **Bản chất của Nhờ thu kèm chứng từ trả ngay (D/P - Documents against Payment):** Trong phương thức D/P, sau khi giao hàng, người bán lập bộ chứng từ thanh toán kèm hối phiếu và ủy thác cho ngân hàng thu hộ tiền từ người mua [2, 3]. Ngân hàng tại nước người mua chỉ trao bộ chứng từ gốc (để nhận hàng) khi người mua đã thanh toán tiền ngay [2]. Như vậy, Công ty X vừa giữ được quyền khống chế chứng từ gốc qua ngân hàng, vừa đảm bảo người mua phải trả tiền trước khi lấy hàng [2]. 2. **Đáp ứng điều kiện thực tế của thương vụ:** - *Uy tín đối tác:* Hai bên đã giao dịch uy tín 3 năm, có sự tin cậy lẫn nhau nên việc áp dụng nhờ thu kèm chứng từ là hoàn toàn phù hợp [2]. - *Tiết kiệm chi phí:* So với Phương thức Tín dụng chứng từ (L/C) đòi hỏi chi phí mở/xác nhận L/C và thủ tục ngân hàng phức tạp [4, 5], phương thức nhờ thu giúp giảm đáng kể chi phí ngân hàng cho các bên [2, 6]. 3. **Lý do loại trừ các đáp án khác:** - **B (Ghi sổ / Open Account):** Người bán giao chứng từ và hàng hóa trực tiếp cho người mua rồi mới ghi sổ đòi tiền sau [3, 7]. Phương thức này tách rời việc giao hàng và thanh toán, người bán hoàn toàn mất quyền khống chế chứng từ gốc và chịu rủi ro rất lớn [7]. - **C (Nhờ thu kèm chứng từ trả chậm - D/A):** Ngân hàng sẽ giao bộ chứng từ gốc cho người mua ngay khi người mua ký chấp nhận thanh toán hối phiếu trả chậm (chưa phải trả tiền ngay) [2]. Do đó, người mua nhận được chứng từ và lấy hàng trước khi thanh toán, Công ty X không giữ được quyền khống chế chứng từ gốc cho đến khi thực thu được tiền [2].
 
 ---
 
@@ -2458,7 +2458,7 @@
 - **D.** Ngân hàng tự động gia hạn thời hạn L/C
 
 👉 **Đáp án đúng:** **[C] - Ngân hàng từ chối thanh toán bộ chứng từ**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mọi sửa đổi, bổ sung đối với hợp đồng ngoại thương chỉ có hiệu lực pháp lý khi được các bên thỏa thuận thống nhất và lập thành văn bản phụ lục hợp đồng (Addendum / Amendment) có chữ ký của người đại diện có thẩm quyền.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương (PGS.TS Phạm Duy Liên) - Chương III, Mục 2.1.7.3 (c) Phương thức thanh toán kèm chứng từ - Tín dụng chứng từ; Chương IV, Mục 6.2.2 Kiểm tra L/C và Mục 6.8.1 Thanh toán bằng L/C. - - **Nguyên tắc cam kết độc lập của Thư tín dụng (L/C)**: Theo UCP 600 được dẫn chiếu trong giáo trình, tín dụng chứng từ là một thỏa thuận không thể hủy bỏ, cấu thành cam kết chắc chắn của ngân hàng phát hành về việc thanh toán khi xuất trình bộ chứng từ phù hợp [1]. L/C hoàn toàn độc lập với hợp đồng mua bán ngoại thương; ngân hàng chỉ kiểm tra và thanh toán dựa trên sự phù hợp của bộ chứng từ so với các điều khoản trong L/C chứ không căn cứ vào hợp đồng cơ sở [1]. - **Trách nhiệm kiểm tra và tuân thủ L/C của người xuất khẩu**: Giáo trình nêu rõ khi nhận L/C, nếu phát hiện điều khoản trong L/C không phù hợp với hợp đồng (L/C ghi ngày giao hàng muộn nhất là 10/10, trong khi hợp đồng quy định 15/10), người xuất khẩu phải thông báo cho người nhập khẩu để họ làm đơn xin ngân hàng điều chỉnh L/C trước khi tiến hành giao hàng [2]. Trong trường hợp quy định của L/C không được sửa đổi, người xuất khẩu "phải đặt ưu tiên thu tiền lên hàng đầu, tức là phải làm đúng yêu cầu của L/C" [3]. - **Quyết định xử lý của ngân hàng**: Công ty X hoàn thành giao hàng ngày 12/10 và xuất trình vận đơn ghi ngày 12/10 (sau thời hạn giao hàng muộn nhất 10/10 quy định trong L/C). Việc này dẫn đến lỗi bất hợp lệ về thời hạn giao hàng của bộ chứng từ. Vì ngân hàng chỉ thanh toán khi bộ chứng từ đáp ứng đầy đủ và chính xác các điều kiện của L/C, ngân hàng sẽ **từ chối thanh toán bộ chứng từ** [1, 4]. Ngân hàng không có chức năng phạt tiền doanh nghiệp xuất khẩu, cũng không có quyền tự động gia hạn thời hạn L/C khi chưa có thủ tục tu chỉnh từ người yêu cầu mở L/C.
 
 ---
 
@@ -2471,7 +2471,7 @@
 - **D.** Công ty A sẽ bỏ (không thực hiện) quyền chọn Bán và bán theo giá thị trường 2.500 USD/tấn để không bị mất khoản phí quyền chọn 100 USD/tấn.
 
 👉 **Đáp án đúng:** **[B] - Công ty A sẽ thực hiện quyền chọn Bán; giá thực nhận cuối cùng là 2.900 USD/tấn, giúp công ty bảo vệ được mức giá bán cao hơn 400 USD/tấn so với giá thị trường do đã phòng ngừa rủi ro thành công.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 25 CISG 1980: Một sự vi phạm hợp đồng do một bên gây ra là vi phạm cơ bản nếu sự vi phạm đó làm cho bên kia bị thiệt hại mà tước đoạt đáng kể những gì mà bên kia có quyền kỳ vọng từ hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch ngoại thương* (PGS.TS. Phạm Duy Liên, ĐH Ngoại thương) / Chương I: Tổng quan về giao dịch thương mại quốc tế (Mục 4.2.2.6 - Mua bán hàng hóa tại sở giao dịch [1]) và Chương III: Hợp đồng trong giao dịch thương mại quốc tế (Mục 2.7.2 - Hợp đồng quyền chọn [2]). - - **Bản chất học thuật của Hợp đồng quyền chọn Bán (Put Option) và Nghiệp vụ tự bảo hiểm (Hedging):** - Theo *Giáo trình giao dịch ngoại thương*, hợp đồng quyền chọn bán là thỏa thuận mà theo đó người mua quyền có quyền (không phải nghĩa vụ) được bán một loại hàng hóa xác định với mức giá định trước (giá thực hiện/giá giao kết) và phải trả một khoản tiền nhất định để mua quyền (tiền mua quyền/phí quyền chọn) [1, 2]. Bên mua quyền có quyền chọn thực hiện hoặc không thực hiện việc bán hàng hóa đó nếu thấy giá cả trên thị trường biến động bất lợi [1, 2]. - Nghiệp vụ tự bảo hiểm (hedging) là hoạt động giao dịch tại sở giao dịch hàng hóa nhằm giúp các nhà sản xuất/xuất khẩu tránh rủi ro do biến động giá cả làm thiệt hại tới lợi nhuận dự tính [1]. - **Quyết định của Công ty A và hiệu quả tài chính:** - Sau 3 tháng, giá cà phê trên thị trường giảm xuống còn 2.500 USD/tấn, thấp hơn mức Giá thực hiện (Strike Price) là 3.000 USD/tấn. Do đó, Công ty A chọn **thực hiện quyền chọn Bán** để được bán với giá 3.000 USD/tấn thay vì giá thị trường [1, 2]. - Phí quyền chọn (Option Premium) là 100 USD/tấn là khoản chi phí mua quyền đã trả và không được hoàn lại [1, 2]. - Mức giá thực nhận cuối cùng của Công ty A = Giá thực hiện - Phí quyền chọn = \\(3.000 - 100 = 2.900\text{ USD/tấn}\\). - So với giá thị trường hiện tại (2.500 USD/tấn), giá thực nhận 2.900 USD/tấn giúp công ty bảo vệ được mức giá bán cao hơn \\(400\text{ USD/tấn}\\) (\\(2.900 - 2.500 = 400\text{ USD/tấn}\\)), thực hiện thành công mục tiêu phòng ngừa rủi ro sụt giảm giá [1]. - **Loại trừ các phương án còn lại:** - *Phương án A sai* vì hợp đồng quyền chọn trao quyền chứ không bắt buộc người mua quyền phải bán theo giá thị trường, và không có quy định phạt vi phạm từ Sở giao dịch do dự báo sai [1, 2]. - *Phương án C sai* vì phí quyền chọn là khoản chi phí trả trước cho người bán quyền để sở hữu quyền chọn và không được Sở giao dịch hoàn trả khi thực hiện hợp đồng [1, 2]. - *Phương án D sai* vì nếu bỏ quyền chọn bán và bán theo giá thị trường 2.500 USD/tấn, công ty vẫn mất 100 USD/tấn phí quyền chọn (thực nhận chỉ còn 2.400 USD/tấn), gây tổn thất lớn hơn so với việc thực hiện quyền chọn [1, 2].
 
 ---
 
@@ -2484,7 +2484,7 @@
 - **D.** Thuộc diện không chịu thuế hoặc được miễn thuế nếu tuân thủ đúng giám sát hải quan
 
 👉 **Đáp án đúng:** **[D] - Thuộc diện không chịu thuế hoặc được miễn thuế nếu tuân thủ đúng giám sát hải quan**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 77 CISG 1980: Bên yêu cầu bồi thường thiệt hại do đối tác vi phạm hợp đồng phải áp dụng các biện pháp hợp lý để hạn chế tổn thất; nếu không thực hiện nghĩa vụ giảm thiểu tổn thất thì bên vi phạm có quyền yêu cầu giảm bớt khoản tiền bồi thường.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 4.2.2.2 (Giao dịch tái xuất) & Luật Thuế XNK Việt Nam - Hàng hóa kinh doanh tạm nhập tái xuất lưu giữ tại khu vực chịu sự giám sát của cơ quan hải quan (không tiêu thụ tại thị trường nội địa Việt Nam) thuộc đối tượng không chịu thuế hoặc được miễn thuế xuất nhập khẩu theo quy định quản lý hải quan.
 
 ---
 
@@ -2497,7 +2497,7 @@
 - **D.** Thanh toán Nhờ thu chấp nhận chứng từ trả chậm (D/A) 30 ngày
 
 👉 **Đáp án đúng:** **[C] - Thanh toán bằng Thư tín dụng không hủy ngang trả ngay (Irrevocable L/C at sight)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 319 Luật Thương mại 2005: Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là 02 năm, kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.6.3 (Phương thức tín dụng chứng từ) - Trong quan hệ đối tác mới lần đầu hợp tác, phương thức Thư tín dụng không hủy ngang trả ngay (Irrevocable L/C at sight) là giải pháp cân bằng rủi ro tối ưu nhất: người bán được ngân hàng cam kết thanh toán độc lập khi xuất trình chứng từ hợp lệ, người mua yên tâm hàng đã được giao mới phải trả tiền.
 
 ---
 
@@ -2510,7 +2510,7 @@
 - **D.** Ngân hàng thu hộ tự ý giữ lại chứng từ mà không giao cho người nhập khẩu
 
 👉 **Đáp án đúng:** **[B] - Người nhập khẩu đã nhận hàng nhưng đến thời hạn 60 ngày không chịu thanh toán**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo tập quán UCP 600 và Incoterms, chứng từ bảo hiểm phải phát hành bằng đồng tiền của L/C/hợp đồng, ngày phát hành không muộn hơn ngày giao hàng và số tiền bảo hiểm tối thiểu phải bằng 110% giá trị CIF hoặc CIP của lô hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.6.2 (Phương thức nhờ thu) - Trong nhờ thu D/A (Documents against Acceptance), người mua chỉ cần ký chấp nhận thanh toán hối phiếu là nhận được bộ chứng từ đi nhận hàng. Rủi ro lớn nhất của người bán là đến hạn thanh toán (60 ngày sau), người mua mất khả năng thanh toán hoặc cố tình không chịu trả tiền.
 
 ---
 
@@ -2523,7 +2523,7 @@
 - **D.** Đúng, vì Bên bán có nghĩa vụ đảm bảo chất lượng hàng hóa an toàn cho đến khi cập cảng Hải Phòng.
 
 👉 **Đáp án đúng:** **[A] - Sai, vì trong điều kiện CIF, rủi ro tổn thất do bão trên biển đã chuyển sang Bên mua ngay khi hàng xếp xong lên tàu tại cảng đi; đồng thời thanh toán L/C độc lập với tình trạng thực tế của hàng hóa (chỉ căn cứ vào tính hợp lệ của bộ chứng từ).**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Ưu điểm vượt trội của Trọng tài thương mại quốc tế so với Tòa án quốc gia: Tính bảo mật thông tin kinh doanh, các bên được quyền chọn trọng tài viên am hiểu chuyên môn, thủ tục nhanh gọn và phán quyết có hiệu lực thi hành toàn cầu theo Công ước New York 1958.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterm - ebook - bản Tiếng Việt / Quy tắc CIF (Incoterms 2020) & UCP 600 Điều 4, Điều 5 - Quyết định từ chối thanh toán là SAI. Trong điều kiện CIF, rủi ro mất mát/hư hỏng hàng hóa trên biển chuyển sang người mua ngay khi hàng xếp xong lên tàu tại cảng đi (người mua phải đòi công ty bảo hiểm). Đồng thời theo UCP 600, cam kết thanh toán của ngân hàng trong L/C là độc lập với hợp đồng mua bán và tình trạng thực tế của hàng hóa, chỉ căn cứ vào tính hợp lệ của bộ chứng từ.
 
 ---
 
@@ -2536,7 +2536,7 @@
 - **D.** Tối thiểu phải giao 10,500 MT
 
 👉 **Đáp án đúng:** **[A] - Trong khoảng từ 9,500 MT đến 10,500 MT**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy chuẩn hợp đồng gia công quốc tế, bên nhận gia công chỉ được phép chuyển giao một phần hoặc toàn bộ công việc gia công cho bên thứ ba (gia công lại / sub-contracting) nếu có sự đồng ý trước bằng văn bản của bên đặt gia công.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.2.2 (Điều khoản số lượng - Điều khoản dung sai) - Điều khoản '10,000 MT 5% more or less at seller's option' cho phép người bán quyền lựa chọn dung sai giao hàng cộng trừ 5%, tức là được phép giao hàng trong phạm vi từ 9,500 MT (10,000 - 5%) đến 10,500 MT (10,000 + 5%).
 
 ---
 
@@ -2549,7 +2549,7 @@
 - **D.** Tiêu hủy tại Việt Nam dưới sự giám sát của Hải quan và cơ quan môi trường.
 
 👉 **Đáp án đúng:** **[C] - Tự do phân phối, tiêu thụ ngay vào thị trường nội địa, không cần đăng ký hải quan.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi một bên chậm thanh toán tiền hàng, bên bán có quyền đòi tiền lãi trên số tiền chậm trả theo mức lãi suất nợ quá hạn bình quân trên thị trường hoặc theo mức lãi suất đã thỏa thuận cụ thể trong hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 4.2.2.3 (Gia công quốc tế) & Điều 64 Thông tư 38/2015/TT-BTC - Khi hợp đồng gia công kết thúc, nguyên phụ liệu dư thừa chỉ được xử lý hợp pháp qua 4 hình thức có khai báo hải quan: tái xuất, chuyển sang HĐ gia công khác, tiêu hủy dưới sự giám sát hải quan, hoặc chuyển mục đích sử dụng sang tiêu thụ nội địa sau khi đã làm thủ tục kê khai nộp thuế nhập khẩu. Tự do tiêu thụ nội địa không đăng ký hải quan là hành vi buôn lậu/trốn thuế trái pháp luật.
 
 ---
 
@@ -2562,7 +2562,7 @@
 - **D.** Để bên đặt gia công có thể tự động thay đổi giá thuê gia công tùy thuộc vào biến động giá nguyên vật liệu trên thị trường thế giới.
 
 👉 **Đáp án đúng:** **[B] - Để làm căn cứ kiểm soát việc sử dụng nguyên liệu, xác định tỷ lệ hao hụt hợp lý, làm cơ sở quyết toán vật tư dư thừa và thực hiện thủ tục Hải quan/thuế**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản Hoàn cảnh thay đổi cơ bản (Hardship clause) cho phép các bên yêu cầu đàm phán lại các điều kiện hợp đồng khi xảy ra những biến động kinh tế - chính trị nghiêm trọng làm thay đổi căn bản sự cân bằng ban đầu của hợp đồng, vượt ra ngoài sự dự liệu của các bên.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 4.2.2.3 (Gia công quốc tế) & Điều 55 Thông tư 39/2018/TT-BTC - Xây dựng định mức sử dụng nguyên vật liệu và tỷ lệ hao hụt thực tế là căn cứ kỹ thuật và pháp lý bắt buộc để kiểm soát lượng nguyên liệu đưa vào sản xuất, làm cơ sở quyết toán vật tư dư thừa và thực hiện nghĩa vụ giải trình với cơ quan Hải quan.
 
 ---
 
@@ -2575,7 +2575,7 @@
 - **D.** Chậm nhất ngày thứ 90 kể từ ngày kết thúc năm tài chính
 
 👉 **Đáp án đúng:** **[D] - Chậm nhất ngày thứ 90 kể từ ngày kết thúc năm tài chính**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Thông tư 39/2018/TT-BTC sửa đổi Thông tư 38/2015/TT-BTC của Bộ Tài chính, doanh nghiệp gia công xuất khẩu phải nộp báo cáo quyết toán tình hình sử dụng nguyên liệu, vật tư nhập khẩu cho cơ quan Hải quan chậm nhất là ngày thứ 90 kể từ ngày kết thúc năm tài chính.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Điều 60 Thông tư 38/2015/TT-BTC (sửa đổi bởi Thông tư 39/2018/TT-BTC) & Giáo trình Giao dịch thương mại quốc tế - Theo quy định quản lý hải quan đối với loại hình gia công và sản xuất xuất khẩu, thời hạn nộp Báo cáo quyết toán tình hình sử dụng nguyên liệu, vật tư (Mẫu số 15/BCQT) chậm nhất là ngày thứ 90 kể từ ngày kết thúc năm tài chính.
 
 ---
 
@@ -2588,7 +2588,7 @@
 - **D.** Các điều kiện về chất lượng, quy cách đóng gói trong Hợp đồng Xuất khẩu phải trùng khớp hoặc không được khắt khe hơn Hợp đồng Nhập khẩu.
 
 👉 **Đáp án đúng:** **[D] - Các điều kiện về chất lượng, quy cách đóng gói trong Hợp đồng Xuất khẩu phải trùng khớp hoặc không được khắt khe hơn Hợp đồng Nhập khẩu.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong kinh doanh tái xuất, nguyên tắc cốt lõi là các điều kiện về chất lượng, bao bì, nhãn mác trong hợp đồng bán ra (xuất khẩu) phải tương thích hoặc không được khắt khe hơn hợp đồng mua vào (nhập khẩu) để bảo đảm việc chuyển giao hàng hóa diễn ra suôn sẻ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 4.2.2.2 (Giao dịch tái xuất - Nguyên tắc đồng bộ hợp đồng) - Trong giao dịch tái xuất, thương nhân trung gian mua hàng của bên xuất khẩu để bán lại cho bên nhập khẩu thứ ba. Để tránh rủi ro vi phạm hợp đồng, các điều kiện về chất lượng, số lượng, bao bì đóng gói trong Hợp đồng xuất khẩu phải trùng khớp hoặc không được khắt khe hơn Hợp đồng nhập khẩu.
 
 ---
 
@@ -2601,7 +2601,7 @@
 - **D.** Cơ quan/tổ chức giám định chuyên môn độc lập và Hãng tàu vận chuyển.
 
 👉 **Đáp án đúng:** **[C] - Cơ quan/tổ chức giám định chuyên môn độc lập và bên có nhu cầu giám định (người mua, người bán, người vận tải hoặc công ty bảo hiểm).**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hợp đồng dịch vụ giám định thương mại được ký kết giữa tổ chức giám định độc lập được cấp phép với tổ chức hoặc cá nhân có nhu cầu giám định (người mua, người bán, người thuê tàu, hoặc công ty bảo hiểm).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.3.2.B & Luật Thương mại 2005 (Điều 254) - Hợp đồng dịch vụ giám định thương mại là hợp đồng dịch vụ được xác lập giữa cơ quan/tổ chức giám định độc lập được cấp phép với người có nhu cầu giám định (người mua, người bán, người chuyên chở hoặc công ty bảo hiểm) nhằm xác định hiện trạng thực tế của hàng hóa.
 
 ---
 
@@ -2614,7 +2614,7 @@
 - **D.** AWB là chứng từ có giá chuyển nhượng bằng cách ký hậu (Endorsement), cho phép người bán nắm giữ bản gốc để khống chế quyền sở hữu hàng hóa cho đến khi người mua thanh toán xong.
 
 👉 **Đáp án đúng:** **[B] - AWB không phải là chứng từ sở hữu hàng hóa (non-negotiable document of title); người nhận hàng (Consignee) có tên trên AWB có thể nhận hàng từ hãng hàng không mà không nhất thiết phải xuất trình bản gốc AWB.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Vận đơn hàng không (Air Waybill - AWB) là biên lai nhận hàng và bằng chứng hợp đồng vận chuyển, không phải là chứng từ sở hữu hàng hóa (Non-negotiable). Hãng hàng không sẽ giao hàng cho đúng người nhận hàng (Consignee) có tên trên AWB khi đến nơi mà không cần người đó phải xuất trình AWB bản gốc.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.4.2 (Vận đơn hàng không - Air Waybill) - Khác với Vận đơn đường biển có thể chuyển nhượng (Negotiable Ocean B/L) là chứng từ sở hữu hàng hóa (document of title), Vận đơn hàng không (AWB) chỉ là biên lai nhận hàng và bằng chứng hợp đồng vận chuyển (non-negotiable). Hãng hàng không sẽ giao hàng cho người nhận (Consignee) có tên trên AWB khi xuất trình giấy tờ tùy thân hợp lệ mà không đòi hỏi phải nộp bản gốc AWB.
 
 ---
 
@@ -2627,7 +2627,7 @@
 - **D.** Khi lô hàng có giá trị nhỏ, cần rút ngắn thời gian xử lý chứng từ và ưu tiên tiết kiệm tối đa chi phí giao dịch ngân hàng.
 
 👉 **Đáp án đúng:** **[B] - Khi hai bên là đối tác mới hợp tác (chưa đủ độ tin cậy), hợp đồng có giá trị lớn và hai bên muốn có sự cam kết độc lập từ ngân hàng.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phương thức thanh toán Thư tín dụng (L/C) được áp dụng tối ưu khi các bên là đối tác mới, chưa có bề dày quan hệ tin tưởng, giá trị hợp đồng lớn và cần sự cam kết bảo lãnh thanh toán độc lập từ phía ngân hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.6.3 (Phương thức tín dụng chứng từ) - Phương thức thanh toán Thư tín dụng (L/C) có chi phí cao và thủ tục chứng từ phức tạp, nên chủ yếu được các bên thỏa thuận áp dụng khi đối tác mới hợp tác (chưa đủ độ tin cậy lẫn nhau), hợp đồng có giá trị lớn và các bên cần cam kết trả tiền độc lập, không hủy ngang từ ngân hàng uy tín.
 
 ---
 
@@ -2640,7 +2640,7 @@
 - **D.** Bắt buộc phải bán hàng hóa tại giá thực hiện (Strike Price).
 
 👉 **Đáp án đúng:** **[B] - Có quyền (nhưng không bắt buộc) bán hàng hóa tại giá thực hiện và phải trả phí quyền chọn (Option Premium).**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trong Hợp đồng quyền chọn bán (Put Option), người mua quyền chọn trả một khoản phí (Option Premium) để mua quyền (nhưng không bắt buộc) được bán một lượng hàng hóa xác định tại mức giá thực hiện (Strike Price) trước hoặc tại ngày đáo hạn.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 4.2.2.6 (Hợp đồng quyền chọn) - Trong Hợp đồng quyền chọn bán (Put Option), người mua quyền chọn trả một khoản phí quyền chọn (Option Premium) để mua quyền (nhưng không bắt buộc) được bán một lượng hàng hóa nhất định tại mức giá thực hiện (Strike Price) đã thỏa thuận trước.
 
 ---
 
@@ -2653,7 +2653,7 @@
 - **D.** Từ chối trách nhiệm đối với lỗi do chủ hàng (Công ty X) cung cấp sai thông tin.
 
 👉 **Đáp án đúng:** **[D] - Từ chối trách nhiệm đối với lỗi do chủ hàng (Công ty X) cung cấp sai thông tin.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy định pháp luật hải quan, đại lý làm thủ tục hải quan khai báo dựa trên chứng từ do chủ hàng cung cấp; nếu chủ hàng cung cấp sai thông tin dẫn đến vi phạm hành chính, đại lý hải quan có quyền từ chối trách nhiệm và yêu cầu chủ hàng chịu trách nhiệm trước pháp luật.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Luật Hải quan 2014 & Điều 5 Thông tư 38/2015/TT-BTC - Theo pháp luật hải quan, đại lý làm thủ tục hải quan khai báo dựa trên chứng từ hợp pháp do chủ hàng cung cấp. Trường hợp cơ quan hải quan xử phạt vi phạm hành chính do nguyên nhân chủ hàng cung cấp sai lệch thông tin về mã số HS và trị giá tính thuế, đại lý hải quan có quyền từ chối trách nhiệm đối với lỗi do chủ hàng gây ra.
 
 ---
 
@@ -2666,7 +2666,7 @@
 - **D.** Chọn 1 trọng tài thứ 3 làm chủ tịch trọng tài
 
 👉 **Đáp án đúng:** **[D] - Chọn 1 trọng tài thứ 3 làm chủ tịch trọng tài**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Luật Trọng tài thương mại 2010 và quy tắc của các trung tâm trọng tài (VIAC, SIAC), trường hợp mỗi bên chọn 1 trọng tài viên, hai trọng tài viên này sẽ tiến hành bầu trọng tài viên thứ 3 để làm Chủ tịch Hội đồng trọng tài.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.8.2 & Luật Trọng tài thương mại 2010 (Điều 40) - Trong thủ tục trọng tài thương mại quy định thành lập Hội đồng trọng tài gồm 3 trọng tài viên, mỗi bên chọn 1 trọng tài viên và hai trọng tài viên này sẽ tiến hành bầu trọng tài viên thứ ba làm Chủ tịch Hội đồng trọng tài. Nếu bất đồng hoặc không bầu được, quyết định sẽ do Chủ tịch Trung tâm trọng tài chỉ định.
 
 ---
 
@@ -2679,7 +2679,7 @@
 - **D.** Giá di động (Sliding scale price)
 
 👉 **Đáp án đúng:** **[C] - Giá quy định sau**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Xác định giá dựa trên mức giá thị trường thực tế trong tương lai (giá Platts Singapore trung bình 5 ngày trước ngày giao hàng) là phương pháp Giá quy định sau (Deferred pricing / To be fixed price).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.4.2 (Các phương pháp quy định giá trong ngoại thương) - Khi ký kết hợp đồng, hai bên không ghi mức giá cụ thể bằng con số mà chỉ quy định nguyên tắc và phương pháp xác định giá tại thời điểm giao hàng trong tương lai (ví dụ: lấy giá bình quân Platts Singapore 5 ngày trước giao hàng), phương pháp này được gọi là Giá quy định sau.
 
 ---
 
@@ -2692,7 +2692,7 @@
 - **D.** Doanh nghiệp tự xác định, quản lý, lưu giữ hồ sơ/chứng từ kỹ thuật và chịu trách nhiệm trước pháp luật khi Hải quan kiểm tra.
 
 👉 **Đáp án đúng:** **[D] - Doanh nghiệp tự xác định, quản lý, lưu giữ hồ sơ/chứng từ kỹ thuật và chịu trách nhiệm trước pháp luật khi Hải quan kiểm tra.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy định hải quan hiện hành (Nghị định 08/2015/NĐ-CP và Thông tư 39/2018/TT-BTC), doanh nghiệp gia công tự xây dựng định mức thực tế, tự quản lý, lưu giữ hồ sơ tài liệu kỹ thuật tại doanh nghiệp và chịu trách nhiệm giải trình chính xác khi cơ quan Hải quan kiểm tra sau thông quan.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Nghị định 08/2015/NĐ-CP & Điều 55 Thông tư 39/2018/TT-BTC - Theo cơ chế quản lý hải quan hiện đại, cơ quan hải quan bãi bỏ thủ tục nộp và phê duyệt định mức gia công trước khi sản xuất. Doanh nghiệp tự xây dựng, quản lý định mức sử dụng thực tế và tỷ lệ hao hụt, lưu giữ hồ sơ kỹ thuật tại nhà máy và chịu trách nhiệm trước pháp luật khi cơ quan hải quan tiến hành kiểm tra sau thông quan.
 
 ---
 
@@ -2709,7 +2709,7 @@
 - **D.** Tính chất nguồn hàng
 
 👉 **Đáp án đúng:** **[A] - Đơn vị địa lý**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phân chia nguồn hàng xuất khẩu thành 'Hàng trong địa phương' (trong tỉnh/thành phố) và 'Hàng ngoài địa phương' (từ các tỉnh/vùng khác) là cách phân loại căn cứ theo ranh giới đơn vị địa lý hành chính.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.2 (Nghiên cứu và phân loại nguồn hàng xuất khẩu) - Cách phân chia nguồn hàng xuất khẩu thành 'Hàng trong địa phương' (nguồn hàng thu mua ngay tại tỉnh/thành phố đặt trụ sở doanh nghiệp) và 'Hàng ngoài địa phương' (nguồn hàng thu mua từ các địa phương, tỉnh thành khác) là cách phân loại căn cứ theo Đơn vị địa lý.
 
 ---
 
@@ -2722,7 +2722,7 @@
 - **D.** (1) sai, (2) đúng
 
 👉 **Đáp án đúng:** **[C] - (1) đúng, (2) sai**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nhận định (1) đúng vì đàm phán bằng thư tín truyền thống có độ trễ lớn; nhận định (2) sai vì ngày nay thư điện tử (email), thông điệp dữ liệu điện tử vẫn là phương thức văn bản chủ đạo để đàm phán và giao kết hợp đồng ngoại thương.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.1 (Các hình thức đàm phán trong thương mại quốc tế) - Nhận định (1) ĐÚNG vì đàm phán bằng thư từ truyền thống chậm, dễ mất thời cơ nên ngày nay chuyển dịch sang các công cụ TMĐT. Nhận định (2) SAI vì thư từ (bao gồm thư điện tử - email có giá trị pháp lý) vẫn là công cụ phổ biến hàng đầu trong giao dịch ký kết hợp đồng quốc tế.
 
 ---
 
@@ -2734,8 +2734,8 @@
 - **C.** (1) sai, (2) đúng
 - **D.** (1) đúng, (2) sai
 
-👉 **Đáp án đúng:** **[B] - Cả (1) và (2) đều sai**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Cả hai nhận định đều sai: Trong huy động hàng nội địa, các bên dùng chuyển khoản, bảo lãnh ngân hàng hoặc thanh toán trả trước/trả sau; thư tín dụng L/C chủ yếu dùng trong thanh toán quốc tế; ủy nhiệm chi (chuyển tiền) áp dụng cho mọi quy mô lô hàng khi có sự tin cậy.
+👉 **Đáp án đúng:** **[D] - (1) đúng, (2) sai**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.3 & Chương III / Mục 3.6 - Nhận định (1) ĐÚNG vì trong huy động hàng xuất khẩu trong nước, L/C có chi phí ngân hàng cao và thủ tục phức tạp nên chỉ áp dụng khi các bên chưa tin tưởng vào khả năng thanh toán của nhau. Nhận định (2) SAI vì ủy nhiệm chi phù hợp với các lô hàng nhỏ/vừa hoặc thanh toán tiền cọc, không phải là phương thức bảo đảm cho các lô hàng có trị giá lớn.
 
 ---
 
@@ -2748,7 +2748,7 @@
 - **D.** (1) tiền kiểm; (2) hậu kiểm; (3) chất lượng
 
 👉 **Đáp án đúng:** **[C] - (1) tiền kiểm; (2) hậu kiểm; (3) rủi ro**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Chiến lược hiện đại hóa hải quan chuyển dịch căn bản từ phương thức 'tiền kiểm' (kiểm tra trước khi thông quan) sang 'hậu kiểm' (kiểm tra sau thông quan), kết hợp với kỹ thuật 'quản lý rủi ro' phân luồng tờ khai (Xanh, Vàng, Đỏ).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.3.4 (Làm thủ tục hải quan) & Luật Hải quan 2014 - Quy trình thủ tục hải quan hiện đại chuyển dịch cơ bản từ 'tiền kiểm' (kiểm tra trước khi thông quan) sang 'hậu kiểm' (kiểm tra sau thông quan) dựa trên kỹ thuật 'quản lý rủi ro' (phân luồng xanh, vàng, đỏ).
 
 ---
 
@@ -2761,7 +2761,7 @@
 - **D.** Chiến thuật thể hiện tính nhất quán, tính tổng thể của chủ thể.
 
 👉 **Đáp án đúng:** **[C] - Chiến thuật mang tính đối phó, luôn thay đổi theo các tình huống đột biến trong từng thời điểm.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Chiến lược là kế hoạch hành động tổng thể, dài hạn nhằm đạt mục tiêu then chốt; trong khi chiến thuật mang tính ngắn hạn, ứng biến, linh hoạt đối phó với các tình huống đột xuất nảy sinh tại bàn đàm phán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.3 (Chiến lược và chiến thuật đàm phán) - Chiến lược là kế hoạch hành động tổng thể, dài hạn nhằm đạt mục tiêu then chốt; trong khi chiến thuật mang tính đối phó, linh hoạt và luôn thay đổi tùy theo tình huống phát sinh cụ thể trong từng thời điểm đàm phán.
 
 ---
 
@@ -2774,7 +2774,7 @@
 - **D.** Hình thức tổ chức của đối tác; khả năng tài chính; uy tín của đối tác; lĩnh vực, ngành nghề kinh doanh; thiện chí của đối tác.
 
 👉 **Đáp án đúng:** **[D] - Hình thức tổ chức của đối tác; khả năng tài chính; uy tín của đối tác; lĩnh vực, ngành nghề kinh doanh; thiện chí của đối tác.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nghiên cứu lựa chọn đối tác thương mại quốc tế đòi hỏi đánh giá toàn diện 5 yếu tố trọng yếu: Tư cách pháp lý và hình thức tổ chức; Năng lực tài chính; Uy tín thương trường; Lĩnh vực ngành nghề kinh doanh; và Thiện chí hợp tác của đối tác.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 1.2 (Nghiên cứu thương nhân - lựa chọn đối tác) - Khi nghiên cứu lựa chọn đối tác ngoại thương, doanh nghiệp cần tập trung vào 5 yếu tố cơ bản: Hình thức tổ chức của đối tác; khả năng tài chính; uy tín của đối tác; lĩnh vực, ngành nghề kinh doanh; và thiện chí của đối tác.
 
 ---
 
@@ -2787,7 +2787,7 @@
 - **D.** Đặt hàng chỉ áp dụng cho hàng nông sản, còn gia công chỉ áp dụng cho hàng công nghiệp.
 
 👉 **Đáp án đúng:** **[A] - Đặt hàng: người xuất khẩu cung cấp bản vẽ, tiêu chuẩn kỹ thuật cho hàng có yêu cầu đặc biệt. Gia công: người xuất khẩu đảm trách vốn, nguyên liệu khi người sản xuất thiếu.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khác biệt cốt lõi: 'Đặt hàng' là người mua cung cấp bản vẽ, quy cách kỹ thuật đặt nhà sản xuất làm hàng theo yêu cầu đặc biệt; 'Gia công' là bên đặt gia công trực tiếp cung cấp hoặc chịu trách nhiệm về nguyên vật liệu cho bên sản xuất khi họ thiếu vốn/vật tư.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.3 (Các phương thức tạo nguồn hàng xuất khẩu) - Điểm khác biệt cốt lõi: Trong phương thức 'Đặt hàng', người xuất khẩu cung cấp bản vẽ thiết kế, tiêu chuẩn kỹ thuật đối với hàng có yêu cầu đặc biệt. Còn trong phương thức 'Gia công', người đặt gia công đảm trách việc cung ứng nguyên vật liệu hoặc máy móc thiết bị khi người sản xuất thiếu thốn.
 
 ---
 
@@ -2800,7 +2800,7 @@
 - **D.** Các Bộ chuyên ngành
 
 👉 **Đáp án đúng:** **[D] - Các Bộ chuyên ngành**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đối với hàng hóa xuất khẩu có điều kiện (thuộc danh mục quản lý chuyên ngành), doanh nghiệp xuất khẩu phải làm thủ tục xin cấp giấy phép xuất khẩu tại Các Bộ chuyên ngành quản lý mặt hàng đó (như Bộ Nông nghiệp, Bộ Y tế, Bộ Công Thương).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.2.1 (Xin giấy phép xuất khẩu) & Nghị định 69/2018/NĐ-CP - Đối với hàng hóa xuất khẩu có điều kiện (thuộc danh mục quản lý chuyên ngành), thương nhân phải nộp hồ sơ xin cấp giấy phép xuất khẩu tại Các Bộ chuyên ngành quản lý mặt hàng đó (ví dụ Bộ Công Thương, Bộ Y tế, Bộ Nông nghiệp & PTNT).
 
 ---
 
@@ -2813,7 +2813,7 @@
 - **D.** Chứng nhận chất lượng hàng hóa phù hợp với hợp đồng
 
 👉 **Đáp án đúng:** **[B] - Chứng minh nguồn gốc hàng hóa, phục vụ việc áp dụng các chế độ ưu đãi tại nước nhập khẩu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mục đích quan trọng nhất của Giấy chứng nhận xuất xứ hàng hóa (C/O) là chứng minh xuất xứ hợp pháp của lô hàng để cơ quan hải quan nước nhập khẩu áp dụng các ưu đãi thuế quan theo hiệp định thương mại (FTA) hoặc áp thuế phòng vệ thương mại.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.4.2 (Giấy chứng nhận xuất xứ - C/O) - Mục đích quan trọng nhất của Giấy chứng nhận xuất xứ hàng hóa (C/O) là chứng minh xuất xứ hợp pháp của lô hàng tại một quốc gia cụ thể để người nhập khẩu được hưởng các ưu đãi thuế quan (như C/O form D, E, EUR.1, CPTPP) tại nước nhập khẩu.
 
 ---
 
@@ -2825,8 +2825,8 @@
 - **C.** Khiếu nại, trọng tài
 - **D.** Thông báo ngày tàu đến cảng nước nhập khẩu
 
-👉 **Đáp án đúng:** **[A] - Giá cả, giao hàng, thanh toán**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hợp đồng thu mua/huy động hàng xuất khẩu trong nước bao gồm các điều khoản thương mại cốt lõi: Tên hàng, số lượng, chất lượng, giá cả, thời hạn và địa điểm giao hàng, phương thức thanh toán và trách nhiệm do vi phạm hợp đồng.
+👉 **Đáp án đúng:** **[B] - Tên hàng, số lượng, chất lượng**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.3 (Ký kết hợp đồng huy động hàng xuất khẩu) - Hợp đồng thu mua/huy động hàng xuất khẩu từ các cơ sở sản xuất trong nước tập trung vào các điều khoản thương mại cốt lõi: Tên hàng, số lượng, chất lượng (các nội dung như thời hạn, địa điểm giao nhận và phương thức thanh toán là các điều khoản đi kèm).
 
 ---
 
@@ -2839,7 +2839,7 @@
 - **D.** Ký hợp đồng thuê kho
 
 👉 **Đáp án đúng:** **[C] - Lập thẻ kho**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Lập thẻ kho và ghi chép sổ sách lưu kho là nghiệp vụ chuyên môn nội bộ thuộc trách nhiệm của thủ kho/doanh nghiệp kinh doanh dịch vụ kho bãi, không thuộc công việc của chủ hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.2.2 (Bảo quản và gửi hàng vào kho) - Lập thẻ kho và ghi chép sổ sách theo dõi hàng hóa lưu kho là nghiệp vụ chuyên môn nội bộ thuộc trách nhiệm của thủ kho/doanh nghiệp kinh doanh kho bãi, không thuộc trách nhiệm của chủ hàng gửi.
 
 ---
 
@@ -2851,8 +2851,8 @@
 - **C.** Vẫn cấp giấy chứng nhận phẩm chất nhưng ghi chú lỗi
 - **D.** Thông báo cho người nhập khẩu để hủy hợp đồng
 
-👉 **Đáp án đúng:** **[B] - Yêu cầu người xuất khẩu sửa chữa, tái chế hoặc thay thế bằng hàng mới**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi giám định trước khi giao hàng phát hiện phẩm chất không đạt chuẩn hợp đồng, công ty giám định sẽ lập biên bản và thông báo yêu cầu người xuất khẩu phải tiến hành tái chế, sửa chữa hoặc thay thế bằng hàng mới đạt chuẩn trước khi đóng hàng xuất khẩu.
+👉 **Đáp án đúng:** **[C] - Vẫn cấp giấy chứng nhận phẩm chất nhưng ghi chú lỗi**
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.3.3 & Chương III / Mục 3.3.2 - Công ty giám định là đơn vị cung cấp dịch vụ độc lập có chức năng kiểm tra và phản ánh trung thực, khách quan thực trạng lô hàng. Khi phát hiện phẩm chất không đúng hợp đồng, công ty giám định vẫn cấp Giấy chứng nhận phẩm chất (Chứng thư giám định) nhưng ghi chú rõ các lỗi và sai lệch phát hiện được.
 
 ---
 
@@ -2865,7 +2865,7 @@
 - **D.** Chi phí marketing
 
 👉 **Đáp án đúng:** **[A] - Chi phí dỡ hàng tại cảng đến**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Giá FOB (Free On Board) bao gồm giá thành sản phẩm, chi phí vận chuyển nội địa ra cảng bốc, phí thông quan xuất khẩu và phí bốc hàng lên tàu tại cảng xếp hàng. Chi phí dỡ hàng tại cảng đến thuộc trách nhiệm của người mua và nằm trong giá nhóm D hoặc hợp đồng thuê tàu chặng biển.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterms 2020 (Quy tắc FOB) & Giáo trình Giao dịch thương mại quốc tế / Chương II - Giá FOB (Free On Board) bao gồm giá thành sản phẩm, chi phí vận chuyển nội địa ra cảng bốc, chi phí thông quan xuất khẩu và chi phí bốc hàng lên tàu tại cảng đi. Chi phí dỡ hàng tại cảng đến thuộc nghĩa vụ và chi phí của người mua, không nằm trong giá FOB.
 
 ---
 
@@ -2878,7 +2878,7 @@
 - **D.** Loại giấy này không được dùng để miễn/giảm thuế nhập khẩu.
 
 👉 **Đáp án đúng:** **[D] - Loại giấy này không được dùng để miễn/giảm thuế nhập khẩu.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Giấy chứng nhận phẩm chất (C/Q) do bộ phận kiểm tra chất lượng của nhà máy cấp chỉ có giá trị chứng minh nội bộ về chất lượng sản phẩm xuất xưởng, hoàn toàn không có giá trị pháp lý để xin miễn, giảm thuế nhập khẩu (chỉ có C/O mới dùng để hưởng ưu đãi thuế).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.4.2 & Luật Hải quan - Giấy chứng nhận phẩm chất do bộ phận KCS nhà máy cấp chỉ có giá trị xác nhận nội bộ của nhà sản xuất, không phải là chứng từ xuất xứ hàng hóa (C/O) nên hoàn toàn không được dùng để miễn/giảm thuế nhập khẩu.
 
 ---
 
@@ -2891,7 +2891,7 @@
 - **D.** Chỉ các công ty lớn ở những nước phát triển mới có bộ phận quảng cáo chuyên trách.
 
 👉 **Đáp án đúng:** **[C] - Ở cả các nước phát triển lẫn các nước đang và chậm phát triển, các công ty lớn đều có bộ phận quảng cáo chuyên trách hoặc thành lập công ty chuyên làm quảng cáo.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi người mua muốn nhận hàng, kiểm tra thực tế phẩm chất rồi mới trả tiền, phương thức an toàn cho người mua là Chuyển tiền trả sau (T/T after receipt of goods) hoặc Nhờ thu trả chậm (D/A) / Ghi sổ (Open Account).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 1.3 (Quảng cáo trong thương mại quốc tế) - Giáo trình nêu rõ: Do tầm quan trọng của xúc tiến thương mại, ở cả các nước phát triển lẫn các nước đang phát triển, các tập đoàn và công ty lớn đều thành lập bộ phận quảng cáo chuyên trách hoặc thành lập các công ty chuyên làm dịch vụ quảng cáo.
 
 ---
 
@@ -2904,7 +2904,7 @@
 - **D.** Doanh nghiệp có thể bỏ qua bước thu thập thông tin nếu đã có quan hệ lâu năm với đối tác.
 
 👉 **Đáp án đúng:** **[C] - Thông tin có thể được thu thập qua điều tra riêng, qua các công ty chuyên môn, sách báo, người quen hoặc bạn bè đồng nghiệp.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hối phiếu đòi nợ (Draft / Commercial Bill of Exchange) là chứng từ đòi tiền vô điều kiện do người bán (người ký phát) phát hành gửi cho người mua hoặc ngân hàng mở L/C để yêu cầu thanh toán số tiền ghi trên hối phiếu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 1.1 & 1.2 (Chuẩn bị giao dịch đàm phán) - Thu thập thông tin thương nhân và thị trường có thể được tiến hành linh hoạt qua nhiều kênh: tự điều tra riêng, mua thông tin từ công ty chuyên môn, qua ấn phẩm sách báo thương mại, hoặc qua người quen, đối tác và bạn bè đồng nghiệp.
 
 ---
 
@@ -2917,7 +2917,7 @@
 - **D.** Chiến lược kinh doanh dài hạn của doanh nghiệp trên thị trường quốc tế
 
 👉 **Đáp án đúng:** **[A] - Kế hoạch hành động của doanh nghiệp nhằm đạt đến mục tiêu đã xác định**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo thông lệ hàng hải quốc tế, một bộ vận đơn đường biển gốc (Full set of original Bills of Lading) phát hành cho chủ hàng thường gồm 3 bản gốc giống hệt nhau (3/3 originals) kèm theo các bản sao (non-negotiable copies).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.1 (Lập phương án kinh doanh xuất khẩu) - Theo định nghĩa trong giáo trình, Phương án kinh doanh xuất khẩu là kế hoạch hành động cụ thể của doanh nghiệp nhằm khai thác các cơ hội thị trường và đạt được các mục tiêu kinh tế - tài chính đã xác định.
 
 ---
 
@@ -2930,7 +2930,7 @@
 - **D.** Người có tiếng nói quyết định trong đoàn đàm phán
 
 👉 **Đáp án đúng:** **[C] - Nhu cầu nhập khẩu hằng năm của công ty đối tác**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 28 UCP 600, ngày phát hành của chứng từ bảo hiểm (Insurance Policy/Certificate) không được muộn hơn ngày giao hàng ghi trên vận đơn (B/L date), trừ khi chứng từ bảo hiểm nêu rõ bảo hiểm có hiệu lực hồi tố từ trước ngày giao hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.2 (Chuẩn bị nhân sự đàm phán) - Thông tin nhân sự đàm phán bao gồm: năng lực, sở trường, tính cách, tiểu sử và người có tiếng nói quyết định trong đoàn. Thông tin 'Nhu cầu nhập khẩu hằng năm của công ty đối tác' thuộc nhóm thông tin về dung lượng thị trường và năng lực kinh doanh của thương nhân.
 
 ---
 
@@ -2943,7 +2943,7 @@
 - **D.** Một loại đại lý hoa hồng: bên nhận ủy thác tự chịu mọi chi phí xuất khẩu
 
 👉 **Đáp án đúng:** **[A] - Một loại đại lý hoa hồng: bên nhận ủy thác xuất khẩu hàng hóa bằng danh nghĩa của mình, với chi phí của người ủy thác**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hóa đơn lãnh sự (Consular Invoice) là hóa đơn thương mại được cơ quan lãnh sự của nước nhập khẩu đặt tại nước xuất khẩu thị thực và đóng dấu xác nhận nhằm kiểm soát xuất xứ và chống trốn thuế.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 4.1.2 & Điều 155 Luật Thương mại 2005 - Ủy thác xuất khẩu bản chất là một loại hình đại lý hoa hồng: Bên nhận ủy thác thực hiện việc xuất khẩu hàng hóa bằng danh nghĩa của chính mình, nhưng mọi chi phí và rủi ro kinh doanh do bên ủy thác gánh chịu, bên nhận ủy thác hưởng thù lao ủy thác (hoa hồng).
 
 ---
 
@@ -2956,7 +2956,7 @@
 - **D.** Vì có chi phí thấp nhất trong các hình thức đàm phán
 
 👉 **Đáp án đúng:** **[A] - Vì đòi hỏi người tham gia phải có nghiệp vụ, phản ứng tốt và nhanh nhạy**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hóa đơn tạm tính (Proforma Invoice - P/I) là bản báo giá chi tiết dưới dạng hóa đơn do người bán phát hành, dùng để làm thủ tục xin giấy phép nhập khẩu, xin hạn mức tín dụng hoặc mở L/C tại ngân hàng; P/I không phải là chứng từ đòi tiền chính thức.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.1 (Đàm phán bằng gặp gỡ trực tiếp) - Đàm phán gặp gỡ trực tiếp là hình thức khó khăn và phức tạp nhất vì diễn ra theo thời gian thực tại bàn đàm phán, đòi hỏi thành viên tham gia phải có trình độ nghiệp vụ vững vàng, tâm lý bản lĩnh và khả năng phản ứng linh hoạt, nhanh nhạy trước các lập luận của đối phương.
 
 ---
 
@@ -2969,7 +2969,7 @@
 - **D.** Thông tin thu thập được khi nghiên cứu thị trường EU và chiến lược kinh doanh của đối thủ cạnh tranh
 
 👉 **Đáp án đúng:** **[A] - Thông tin thu thập được khi nghiên cứu thị trường, thương nhân EU và chiến lược kinh doanh của công ty**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo phương thức Nhờ thu kèm chứng từ trả tiền ngay (D/P - Documents Against Payment), ngân hàng thu hộ chỉ trao bộ chứng từ hàng hóa cho người mua sau khi người mua đã thanh toán 100% tiền hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.1 (Xây dựng phương án kinh doanh) - Hai cơ sở chủ yếu để xây dựng phương án kinh doanh xuất khẩu là: (1) Kết quả nghiên cứu thị trường, khách hàng và đối tác; và (2) Chiến lược, định hướng kinh doanh cùng nguồn lực nội tại của chính công ty.
 
 ---
 
@@ -2982,7 +2982,7 @@
 - **D.** Đàm phán bằng gặp gỡ trực tiếp
 
 👉 **Đáp án đúng:** **[D] - Đàm phán bằng gặp gỡ trực tiếp**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo phương thức Nhờ thu kèm chứng từ chấp nhận thanh toán (D/A - Documents Against Acceptance), người mua được ngân hàng trao chứng từ để nhận hàng sau khi người mua ký chấp nhận thanh toán trên hối phiếu có kỳ hạn.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.1 (Lựa chọn hình thức đàm phán) - Đối với các hợp đồng có giá trị rất lớn, công nghệ và điều khoản kỹ thuật phức tạp mà trao đổi qua thư từ nhiều tuần không đạt được sự đồng thuận, hình thức phù hợp và hiệu quả nhất là tổ chức đàm phán bằng gặp gỡ trực tiếp để giải quyết dứt điểm các vướng mắc.
 
 ---
 
@@ -2995,7 +2995,7 @@
 - **D.** Séc định mức
 
 👉 **Đáp án đúng:** **[A] - Thanh toán bằng tiền mặt**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thư tín dụng tuần hoàn (Revolving L/C) là loại L/C sau khi đã sử dụng hết kim ngạch hoặc hết thời hạn thì tự động có giá trị trở lại cho các lô hàng tiếp theo mà không cần phải làm thủ tục tu chỉnh mở mới L/C.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.3 (Phương thức thu mua hàng xuất khẩu) - Đối với các giao dịch thu mua nông sản khối lượng nhỏ từ hộ nông dân cá thể (3 tạ quế), giá trị thấp, phương thức thanh toán thuận tiện, tiết kiệm chi phí và phù hợp nhất với tập quán là thanh toán bằng tiền mặt ngay khi giao nhận.
 
 ---
 
@@ -3008,7 +3008,7 @@
 - **D.** Giấy chứng nhận xuất xứ (C/O)
 
 👉 **Đáp án đúng:** **[C] - Giấy chứng nhận kiểm tra vệ sinh (sanitary certificate), do cơ quan thuộc Bộ Y tế cấp**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thư tín dụng chuyển nhượng (Transferable L/C) cho phép người thụ hưởng thứ nhất (thương nhân trung gian) yêu cầu ngân hàng chuyển nhượng một phần hoặc toàn bộ giá trị L/C cho một hoặc nhiều người thụ hưởng thứ hai (nhà sản xuất thực tế).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.2.2 (Kiểm tra chất lượng và vệ sinh an toàn thực phẩm) - Mặt hàng bánh kẹo là thực phẩm chế biến sẵn, bắt buộc phải có Giấy chứng nhận kiểm tra vệ sinh (Sanitary certificate) do cơ quan chuyên trách thuộc Bộ Y tế (Cục An toàn thực phẩm) cấp để chứng minh đáp ứng tiêu chuẩn vệ sinh an toàn thực phẩm.
 
 ---
 
@@ -3021,7 +3021,7 @@
 - **D.** Phân loại nguồn hàng theo tính chất
 
 👉 **Đáp án đúng:** **[B] - Lấy đơn vị cung cấp hàng làm cơ sở**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phân loại nguồn hàng theo người cung cấp (nhà cung ứng) lấy tư cách pháp lý và loại hình doanh nghiệp của đơn vị cung cấp hàng làm cơ sở phân chia (hàng từ doanh nghiệp nhà nước, doanh nghiệp tư nhân, hợp tác xã, hộ nông dân).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.2 (Phương pháp nghiên cứu nguồn hàng) - Khi doanh nghiệp muốn đánh giá chi tiết năng lực, điểm mạnh, điểm yếu của từng hợp tác xã để quyết định đầu tư máy móc, phương pháp nghiên cứu nguồn hàng phù hợp là 'Lấy đơn vị cung cấp hàng làm cơ sở'.
 
 ---
 
@@ -3034,7 +3034,7 @@
 - **D.** Không thu thập đủ thông tin về đối tác trước khi đàm phán
 
 👉 **Đáp án đúng:** **[A] - Không lập văn bản xác nhận kết quả đã trao đổi qua điện thoại**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Sai sót nghiêm trọng trong đàm phán thương mại quốc tế là thỏa thuận miệng qua điện thoại mà không lập biên bản xác nhận bằng văn bản (Writing confirmation / Email / Fax) gửi cho đối tác xác nhận lại, dẫn đến mất căn cứ pháp lý khi phát sinh tranh chấp.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.1 (Đàm phán qua điện thoại) - Đàm phán qua điện thoại có ưu điểm nhanh chóng nhưng nhược điểm lớn là không để lại văn bản làm bằng chứng pháp lý. Do đó, sai sót chủ yếu của doanh nghiệp là không lập văn bản/email xác nhận ngay nội dung đã thỏa thuận qua điện thoại.
 
 ---
 
@@ -3047,7 +3047,7 @@
 - **D.** Ủy thác xuất khẩu
 
 👉 **Đáp án đúng:** **[D] - Ủy thác xuất khẩu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 155 Luật Thương mại 2005: Ủy thác xuất khẩu là việc bên ủy thác (Hợp tác xã Bát Tràng) giao cho bên nhận ủy thác (Công ty T) nhân danh chính mình ký hợp đồng mua bán với đối tác nước ngoài để xuất khẩu hàng hóa và nhận phí ủy thác (hoa hồng).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.3 & Điều 155 Luật Thương mại 2005 - Hợp tác xã Bát Tràng không có chức năng xuất khẩu nên giao lô hàng cho Công ty T đứng tên xuất khẩu, chi phí do HTX chịu và Công ty T hưởng hoa hồng – đây chính là phương thức Ủy thác xuất khẩu.
 
 ---
 
@@ -3060,7 +3060,7 @@
 - **D.** Vì biên lai thuyền phó có ghi chú thì không thể đổi lấy bất kỳ loại vận đơn nào
 
 👉 **Đáp án đúng:** **[C] - Vì vận đơn phải là vận đơn hoàn hảo (clean B/L) thì mới đáp ứng yêu cầu thanh toán tiền hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Biên lai thuyền phó (Mate's Receipt) có ghi chú xấu sẽ khiến hãng tàu phát hành Vận đơn có ghi chú (Unclean B/L); vận đơn không hoàn hảo này sẽ bị ngân hàng từ chối thanh toán theo phương thức L/C.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.3.5 (Giao hàng cho tàu biển) & UCP 600 - Biên lai thuyền phó (Mate's Receipt) có ghi chú xấu về tình trạng bao bì sẽ dẫn đến việc hãng tàu phát hành Vận đơn có ghi chú (Unclean B/L). Ngân hàng thanh toán và người mua sẽ từ chối thanh toán vì theo quy định chứng từ vận tải phải là Vận đơn hoàn hảo (Clean B/L).
 
 ---
 
@@ -3073,7 +3073,7 @@
 - **D.** Giấy chứng nhận chất lượng (Certificate of quality)
 
 👉 **Đáp án đúng:** **[C] - Giấy chứng nhận kiểm dịch thực vật (Phytosanitary certificate)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hạt tiêu là mặt hàng nông sản có nguồn gốc thực vật, bắt buộc phải có Giấy chứng nhận kiểm dịch thực vật (Phytosanitary Certificate) do cơ quan kiểm dịch thực vật có thẩm quyền cấp để hoàn thành thủ tục hải quan xuất khẩu và nhập khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.2.2 & Luật Bảo vệ và kiểm dịch thực vật - Hạt tiêu là sản phẩm có nguồn gốc từ thực vật chưa qua chế biến sâu, bắt buộc phải có Giấy chứng nhận kiểm dịch thực vật (Phytosanitary certificate) do cơ quan kiểm dịch thực vật vùng cấp khi làm thủ tục hải quan xuất khẩu.
 
 ---
 
@@ -3086,7 +3086,7 @@
 - **D.** Ủy thác xuất khẩu
 
 👉 **Đáp án đúng:** **[B] - Huy động hàng thông qua các đại lý thu mua tại địa bàn**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đối với nông sản đặc sản vùng núi phân tán nhỏ lẻ, phương thức thu mua hiệu quả và tiết kiệm chi phí nhất là ký hợp đồng với các đại lý thu mua tại địa phương am hiểu địa bàn để thu gom tập trung.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.3 (Phương thức huy động hàng xuất khẩu) - Đối với nông sản đặc sản vùng cao sản xuất phân tán nhỏ lẻ tại các hộ gia đình, phương thức thu mua hiệu quả và tiết kiệm chi phí nhất là huy động hàng thông qua các đại lý thu mua đặt tại địa bàn.
 
 ---
 
@@ -3099,7 +3099,7 @@
 - **D.** Giao hàng lẻ (LCL), tại bãi container (CY)
 
 👉 **Đáp án đúng:** **[C] - Giao nguyên container (FCL), tại bãi container (CY)**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Lô hàng 24 m³ chiếm tới gần 75% dung tích của container 20ft (33 m³), do đó người xuất khẩu nên lựa chọn hình thức thuê nguyên container (FCL - Full Container Load) và giao hàng tại bãi container (CY - Container Yard) để tiết kiệm chi phí và an toàn cho hàng hóa.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.3.5 (Nghiệp vụ giao nhận hàng bằng container) - Lô hàng 24 m³ chiếm tới hơn 70% dung tích của container 20ft (33 m³), do đó người xuất khẩu nên lựa chọn hình thức gửi nguyên container (FCL - Full Container Load) và giao hàng trực tiếp tại bãi container (CY - Container Yard) để tối ưu chi phí và bảo đảm an toàn hàng hóa.
 
 ---
 
@@ -3112,7 +3112,7 @@
 - **D.** Ngày 15/3/2027
 
 👉 **Đáp án đúng:** **[A] - Ngày 15/3/2031**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 78 Luật Hải quan 2014, thời hạn cơ quan hải quan tiến hành kiểm tra sau thông quan là 05 năm kể từ ngày đăng ký tờ khai hải quan; đối với tờ khai thông quan ngày 15/3/2026 thì thời hạn kiểm tra kéo dài đến hết ngày 15/3/2031.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Điều 78 Luật Hải quan 2014 & Giáo trình Giao dịch thương mại quốc tế / Chương IV - Theo Điều 78 Luật Hải quan 2014, thời hạn cơ quan hải quan được quyền tiến hành kiểm tra sau thông quan là 05 năm kể từ ngày đăng ký tờ khai hải quan. Do đó lô hàng thông quan ngày 15/3/2026 có thể bị kiểm tra sau thông quan đến ngày 15/3/2031.
 
 ---
 
@@ -3125,7 +3125,7 @@
 - **D.** Thời gian hoàn vốn giảm, tỷ suất lợi nhuận tăng.
 
 👉 **Đáp án đúng:** **[B] - Thời gian hoàn vốn giảm, tỷ suất lợi nhuận giảm.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khấu hao hàng năm tăng làm tăng chi phí sản xuất, dẫn đến lợi nhuận ròng giảm; tuy nhiên dòng tiền thu hồi vốn hàng năm (Lợi nhuận sau thuế + Khấu hao) tăng lên, làm thời gian hoàn vốn đầu tư giảm xuống.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.1.1 (Đánh giá hiệu quả phương án kinh doanh) - Khấu hao tài sản tăng làm tăng dòng tiền thu hồi vốn đầu tư hàng năm, do đó thời gian thu hồi vốn đầu tư (thời gian hoàn vốn) sẽ giảm; tuy nhiên chi phí khấu hao tăng làm giảm lợi nhuận kế toán, dẫn đến tỷ suất lợi nhuận giảm.
 
 ---
 
@@ -3138,7 +3138,7 @@
 - **D.** Nhờ thu không cần chấp nhận
 
 👉 **Đáp án đúng:** **[C] - Nhờ thu chấp nhận trước**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phương thức Nhờ thu kèm chứng từ (Documentary Collection: D/P trả tiền trao chứng từ hoặc D/A chấp nhận trả tiền trao chứng từ) bảo đảm ngân hàng khống chế chứng từ, người mua chỉ lấy được chứng từ nhận hàng khi đã thanh toán hoặc đã ký chấp nhận hối phiếu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.6.2 (Phương thức nhờ thu kèm chứng từ) - Để đảm bảo người mua chỉ nhận được bộ chứng từ hàng hóa sau khi đã thanh toán (D/P) hoặc đã chấp nhận thanh toán hối phiếu (D/A), người bán lựa chọn phương thức Nhờ thu kèm chứng từ (Documentary Collection - Nhờ thu chấp nhận trước khi trao chứng từ).
 
 ---
 
@@ -3151,7 +3151,7 @@
 - **D.** Người nhập khẩu
 
 👉 **Đáp án đúng:** **[B] - Người xuất khẩu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo thông lệ ngân hàng quốc tế UCP 600, bên nào yêu cầu tu chỉnh (sửa đổi) L/C do lỗi hoặc nhu cầu của mình (người bán chậm tiến độ xin gia hạn) thì bên đó phải gánh chịu toàn bộ chi phí sửa đổi L/C phát sinh tại ngân hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.3.1 (Kiểm tra và tu chỉnh L/C) & UCP 600 - Theo tập quán ngân hàng quốc tế, bên nào đề nghị sửa đổi (tu chỉnh) L/C xuất phát từ nhu cầu hoặc lỗi của mình (người xuất khẩu giao hàng chậm) thì bên đó phải chịu toàn bộ chi phí tu chỉnh L/C phát sinh tại ngân hàng.
 
 ---
 
@@ -3164,7 +3164,7 @@
 - **D.** Kiểm tra kỹ L/C sửa đổi, chỉ giao hàng khi quyền lợi của mình thật sự được bảo đảm
 
 👉 **Đáp án đúng:** **[D] - Kiểm tra kỹ L/C sửa đổi, chỉ giao hàng khi quyền lợi của mình thật sự được bảo đảm**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi nhận được L/C sửa đổi, người xuất khẩu phải kiểm tra, đối chiếu cẩn thận từng câu chữ xem đã đúng với thỏa thuận chưa, bảo đảm không có điều kiện bất lợi mới nào được cài cắm, chỉ khi quyền lợi được bảo đảm chắc chắn mới tiến hành giao hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.3.1 (Nghiệp vụ xử lý L/C tu chỉnh) - Khi nhận được thông báo tu chỉnh L/C, người xuất khẩu phải tiến hành kiểm tra cẩn thận từng điều khoản sửa đổi đối chiếu với thỏa thuận, chỉ tiến hành giao hàng khi các điều khoản tu chỉnh thật sự bảo đảm quyền lợi và không chứa đựng các điều kiện bất lợi mới.
 
 ---
 
@@ -3177,7 +3177,7 @@
 - **D.** Kỹ thuật buộc đối phương phải đưa ra đề nghị trước
 
 👉 **Đáp án đúng:** **[D] - Kỹ thuật buộc đối phương phải đưa ra đề nghị trước**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Chiến thuật đặt câu hỏi dẫn dắt để đối phương phải là bên đưa ra mức giá chào và điều kiện trước nhằm thăm dò giới hạn và giữ thế chủ động mặc cả được gọi là Kỹ thuật buộc đối phương đưa ra đề nghị trước.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.3 (Nghệ thuật và kỹ thuật đàm phán giá cả) - Bên mua đặt câu hỏi gợi mở để người bán phải là bên chủ động phát giá chào trước nhằm thăm dò mức giá đáy của đối phương, sau đó mới tiến hành mặc cả – đây là Kỹ thuật buộc đối phương phải đưa ra đề nghị trước.
 
 ---
 
@@ -3190,7 +3190,7 @@
 - **D.** Thái độ đơn giản, thẳng thắn
 
 👉 **Đáp án đúng:** **[B] - Thái độ thúc bách, chèn ép**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hành vi liên tục đưa ra hạn chót, gây áp lực thời gian, đe dọa hủy đàm phán hoặc chuyển sang đối thủ cạnh tranh thể hiện chiến thuật đàm phán mang thái độ thúc bách, chèn ép (High-pressure tactics) nhằm buộc đối tác phải nhân nhượng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.3 (Nhận diện phong cách và thái độ đàm phán) - Hành vi liên tục đưa ra thời hạn chót (deadline), gây sức ép về giá và đe dọa chuyển sang nhà cung cấp đối thủ phản ánh rõ nét kiểu đàm phán với 'Thái độ thúc bách, chèn ép'.
 
 ---
 
@@ -3203,7 +3203,7 @@
 - **D.** Tạo điều kiện để suy nghĩ, cân nhắc trước khi trả lời đối tác
 
 👉 **Đáp án đúng:** **[D] - Tạo điều kiện để suy nghĩ, cân nhắc trước khi trả lời đối tác**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Sử dụng phiên dịch viên chuyên nghiệp ngoài việc bảo đảm dịch thuật chính xác thuật ngữ pháp lý còn tạo ra 'khoảng đệm thời gian' quý báu giúp trưởng đoàn đàm phán có thêm thời gian suy nghĩ, phân tích ý đồ của đối tác trước khi đưa ra câu trả lời chính thức.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 2.2 (Sử dụng phiên dịch trong đàm phán) - Trong đàm phán quốc tế, việc sử dụng phiên dịch ngay cả khi trưởng đoàn thông thạo ngoại ngữ là một chiến thuật đàm phán thông minh, nhằm tạo ra khoảng thời gian đệm quý báu để người đàm phán suy nghĩ, phân tích và cân nhắc kỹ trước khi đưa ra câu trả lời cho đối tác.
 
 ---
 
@@ -3216,7 +3216,7 @@
 - **D.** Công ty A (Việt Nam) bán lô vải cho Công ty B (Việt Nam). Sau đó, Công ty B tự tìm khách và xuất khẩu sang Hàn Quốc.
 
 👉 **Đáp án đúng:** **[B] - Công ty A (Việt Nam) giao lô vải cho Công ty B (Việt Nam) theo chỉ định của khách hàng Hàn Quốc, là bên đã ký hợp đồng mua lô vải đó với Công ty A.**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 86 Thông tư 38/2015/TT-BTC và Điều 35 Nghị định 08/2015/NĐ-CP, hàng hóa xuất nhập khẩu tại chỗ bao gồm: Hàng hóa do doanh nghiệp Việt Nam bán cho thương nhân nước ngoài nhưng giao hàng cho doanh nghiệp khác tại Việt Nam theo chỉ định của thương nhân nước ngoài.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Điều 86 Thông tư 38/2015/TT-BTC & Điều 35 Nghị định 08/2015/NĐ-CP - Theo pháp luật hải quan Việt Nam, hàng hóa xuất nhập khẩu tại chỗ bao gồm: Hàng hóa do doanh nghiệp Việt Nam xuất khẩu cho thương nhân nước ngoài nhưng được thương nhân nước ngoài chỉ định giao hàng cho một doanh nghiệp khác tại Việt Nam.
 
 ---
 
@@ -3233,7 +3233,7 @@
 - **D.** Người chào hàng không bị ràng buộc trách nhiệm trong thời hạn nhất định như chào hàng cố định
 
 👉 **Đáp án đúng:** **[D] - Người chào hàng không bị ràng buộc trách nhiệm trong thời hạn nhất định như chào hàng cố định**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Chào hàng tự do (Free offer) là loại chào hàng không có thời hạn ràng buộc người phát ra chào hàng, người bán có quyền chào hàng cùng lúc cho nhiều người và có quyền từ chối giao kết hoặc điều chỉnh nội dung mà không chịu trách nhiệm pháp lý, khác với chào hàng cố định (Firm offer) bị ràng buộc nghĩa vụ pháp lý trong thời hạn hiệu lực.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 3.2 (Phân loại chào hàng) - Điểm khác biệt căn bản giữa chào hàng tự do (Free offer) và chào hàng cố định (Firm offer) là: Chào hàng tự do không có thời hạn hiệu lực ràng buộc người phát ra chào hàng, người chào hàng có thể tự do chào cùng lúc cho nhiều người và có quyền thay đổi hoặc rút lại chào hàng bất kỳ lúc nào.
 
 ---
 
@@ -3246,7 +3246,7 @@
 - **D.** Chỉ nhằm mục đích tham khảo
 
 👉 **Đáp án đúng:** **[A] - Là căn cứ kiểm tra và đánh giá sự phù hợp của hàng hóa**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản chất lượng (Quality clause) quy định các chỉ tiêu kỹ thuật, phẩm chất hàng hóa làm cơ sở pháp lý để người mua kiểm tra, nghiệm thu và đánh giá sự phù hợp của hàng hóa khi nhận hàng, cũng như làm căn cứ pháp lý để khiếu nại nếu hàng không đạt chuẩn.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.3.1 (Điều khoản phẩm chất hàng hóa) - Điều khoản chất lượng trong hợp đồng nhập khẩu là căn cứ kỹ thuật và pháp lý then chốt để người mua tiến hành kiểm tra, giám định và đánh giá sự phù hợp của hàng hóa thực tế khi nhận hàng từ người bán.
 
 ---
 
@@ -3259,7 +3259,7 @@
 - **D.** Xác định thị trường tiêu thụ cuối cùng
 
 👉 **Đáp án đúng:** **[C] - Xác định rõ khối lượng hoặc số lượng hàng hóa giao nhận**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản số lượng (Quantity clause) xác định cụ thể khối lượng, số lượng hoặc số kiện hàng hóa giao nhận cùng đơn vị tính và dung sai cho phép (nếu có).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.2.1 (Điều khoản số lượng) - Điều khoản số lượng xác định cụ thể khối lượng, số lượng hoặc số kiện hàng hóa giao nhận cùng đơn vị đo lường và quy tắc dung sai (nếu có) giữa các bên.
 
 ---
 
@@ -3272,7 +3272,7 @@
 - **D.** Không cần trả phí cho trung gian
 
 👉 **Đáp án đúng:** **[A] - Mất mối quan hệ trực tiếp với thị trường nước ngoài**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nhập khẩu qua trung gian (đại lý, ủy thác, môi giới) khiến người mua bị ngăn cách thông tin với nhà sản xuất và thị trường nước ngoài, dễ bị phụ thuộc vào trung gian và mất đi mối liên kết kinh doanh trực tiếp.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.1 (Các phương thức nhập khẩu hàng hóa) - Hạn chế lớn nhất của phương thức nhập khẩu qua trung gian (ủy thác hoặc đại lý) là doanh nghiệp nhập khẩu bị ngăn cách thông tin, mất mối liên hệ giao dịch trực tiếp với nhà cung cấp gốc và thị trường nước ngoài.
 
 ---
 
@@ -3285,7 +3285,7 @@
 - **D.** Thay thế hoàn toàn thủ tục hải quan
 
 👉 **Đáp án đúng:** **[C] - Là cơ sở pháp lý xác định quyền và nghĩa vụ của các bên tham gia**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hợp đồng nhập khẩu là văn bản pháp lý cao nhất ghi nhận sự thỏa thuận, xác định rõ quyền và nghĩa vụ ràng buộc của người mua và người bán trong toàn bộ quá trình giao dịch.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 1.1 (Khái niệm và vai trò của hợp đồng ngoại thương) - Hợp đồng nhập khẩu là văn bản pháp lý cao nhất ghi nhận sự thỏa thuận của các bên, xác định rõ ràng quyền, nghĩa vụ và trách nhiệm pháp lý ràng buộc giữa người mua và người bán.
 
 ---
 
@@ -3298,7 +3298,7 @@
 - **D.** Hỏi hàng
 
 👉 **Đáp án đúng:** **[B] - Hoàn giá**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Điều 19 CISG 1980 và Luật Thương mại 2005, phản hồi chào hàng có chứa các điểm sửa đổi, bổ sung về giá cả hoặc các điều kiện giao dịch cơ bản cấu thành việc từ chối chào hàng ban đầu và trở thành một chào hàng mới (gọi là Hoàn giá - Counter-offer).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 3.4 (Hoàn giá - Counter-offer) & CISG Điều 19 - Khi nhận được chào hàng nhưng bên mua không chấp nhận toàn bộ mà đưa ra yêu cầu thay đổi giá cả hoặc các điều kiện giao dịch khác thì hành vi đó cấu thành một Hoàn giá (Counter-offer), làm chấm dứt hiệu lực của chào hàng ban đầu.
 
 ---
 
@@ -3311,7 +3311,7 @@
 - **D.** Điều khoản quảng cáo thương hiệu
 
 👉 **Đáp án đúng:** **[A] - Điều khoản hàng hóa, giá cả, giao hàng, thanh toán và giải quyết tranh chấp**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hàng hóa, giá cả, giao hàng, thanh toán và giải quyết tranh chấp là 5 điều khoản thương mại và pháp lý cốt lõi của hợp đồng ngoại thương, quyết định trực tiếp đến quyền lợi và hạn chế rủi ro cho doanh nghiệp.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 2 (Nội dung chủ yếu của hợp đồng thương mại quốc tế) - Khi đàm phán hợp đồng nhập khẩu, doanh nghiệp phải ưu tiên hàng đầu vào 5 nhóm điều khoản thương mại cốt lõi: Tên hàng hóa, Số lượng & Phẩm chất, Giá cả, Giao hàng, Phương thức thanh toán và Giải quyết tranh chấp/Bất khả kháng để hạn chế tối đa rủi ro.
 
 ---
 
@@ -3324,7 +3324,7 @@
 - **D.** Chỉ giá mua ban đầu
 
 👉 **Đáp án đúng:** **[A] - Tổng thể chi phí, lợi ích, rủi ro và khả năng tiêu thụ hàng hóa**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đánh giá hiệu quả thương vụ nhập khẩu đòi hỏi xem xét tổng thể: tổng chi phí nhập khẩu (giá mua, cước vận chuyển, bảo hiểm, thuế, chi phí logistics kho bãi), doanh thu, biên lợi nhuận, khả năng tiêu thụ hàng hóa và các rủi ro phát sinh.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.4 (Đánh giá hiệu quả thương vụ nhập khẩu) - Đánh giá hiệu quả của thương vụ nhập khẩu đòi hỏi phải xem xét toàn diện trên tổng thể: tổng chi phí nhập khẩu (giá mua, thuế, cước vận chuyển, bảo hiểm, phí cảng...), lợi ích biên, rủi ro phát sinh và khả năng tiêu thụ/thu hồi vốn tại thị trường nội địa.
 
 ---
 
@@ -3337,7 +3337,7 @@
 - **D.** Không cần giao dịch với đối tác nước ngoài
 
 👉 **Đáp án đúng:** **[B] - Nhập khẩu qua trung gian thương mại**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi doanh nghiệp chưa có nhiều kinh nghiệm trên thị trường quốc tế, nhập khẩu qua trung gian thương mại (như ủy thác nhập khẩu hoặc đại lý) giúp doanh nghiệp tận dụng chuyên môn, giảm thiểu sai sót thủ tục pháp lý, hải quan và logistics.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.1.2 (Nhập khẩu ủy thác qua trung gian) - Khi doanh nghiệp mới thành lập hoặc chưa có nhiều kinh nghiệm về thủ tục hải quan, vận tải và đàm phán quốc tế, giải pháp an toàn và hợp lý nhất là sử dụng phương thức nhập khẩu qua trung gian thương mại (Ủy thác nhập khẩu).
 
 ---
 
@@ -3350,7 +3350,7 @@
 - **D.** Xác định quyền sở hữu thương hiệu
 
 👉 **Đáp án đúng:** **[B] - Xác định trách nhiệm, chi phí và rủi ro giữa người mua và người bán**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mục đích cốt lõi của các điều kiện giao hàng (Incoterms) trong hợp đồng là phân định rõ ràng nghĩa vụ, phân chia chi phí và xác định điểm chuyển giao rủi ro mất mát hoặc hư hỏng hàng hóa giữa người bán và người mua.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterms 2020 & Giáo trình Giao dịch thương mại quốc tế / Chương II - Mục đích quan trọng nhất của việc lựa chọn điều kiện giao hàng (Incoterms) trong hợp đồng nhập khẩu là phân định rõ ràng nghĩa vụ, phân chia chi phí và xác định mốc chuyển giao rủi ro đối với hàng hóa giữa người mua và người bán.
 
 ---
 
@@ -3363,7 +3363,7 @@
 - **D.** Chỉ quảng cáo sản phẩm
 
 👉 **Đáp án đúng:** **[B] - Tìm kiếm đối tác, đàm phán và tổ chức thực hiện hợp đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Phương thức nhập khẩu trực tiếp đòi hỏi doanh nghiệp phải tự mình chủ động toàn bộ các khâu: nghiên cứu thị trường, tìm kiếm và thẩm định đối tác, đàm phán ký kết hợp đồng, mở L/C, thuê tàu, mua bảo hiểm và làm thủ tục thông quan nhận hàng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.1.1 (Nhập khẩu trực tiếp) - Trong phương thức nhập khẩu trực tiếp, doanh nghiệp không thông qua trung gian mà phải tự mình chủ động toàn bộ các khâu: nghiên cứu thị trường, tìm kiếm đối tác, đàm phán ký kết và tổ chức thực hiện hợp đồng.
 
 ---
 
@@ -3376,7 +3376,7 @@
 - **D.** Ngừng mọi giao dịch quốc tế
 
 👉 **Đáp án đúng:** **[A] - Kiểm tra, lập chứng cứ và thông báo cho bên liên quan theo quy định hợp đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi phát hiện hàng hóa không phù hợp với hợp đồng, bước đầu tiên mang tính bắt buộc là kiểm tra, lập biên bản chứng cứ (mời cơ quan giám định độc lập lập Giám định thư) và gửi thông báo khiếu nại (Claim notice) kịp thời theo thời hạn quy định trong hợp đồng hoặc luật áp dụng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3.3 (Kiểm tra hàng hóa và lập chứng cứ khiếu nại) - Khi phát hiện hàng hóa giao đến bị sai lệch hoặc hư hỏng so với hợp đồng, bước đầu tiên mang tính bắt buộc là kiểm tra, lập biên bản chứng cứ pháp lý (mời giám định) và gửi văn bản thông báo ngay cho các bên liên quan theo đúng thời hạn quy định trong hợp đồng.
 
 ---
 
@@ -3389,7 +3389,7 @@
 - **D.** Giảm chi phí nhập khẩu
 
 👉 **Đáp án đúng:** **[B] - Không đảm bảo tiến độ giao hàng và ảnh hưởng kế hoạch kinh doanh**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nếu chỉ chọn nhà cung cấp giá rẻ mà bỏ qua năng lực sản xuất và logistics, rủi ro lớn nhất là đối tác giao hàng chậm trễ, giao thiếu hoặc hủy giao hàng, làm đình trệ hoạt động sản xuất kinh doanh của doanh nghiệp nhập khẩu.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.2.1 (Lựa chọn nhà cung cấp nhập khẩu) - Nếu chỉ chọn nhà cung cấp giá rẻ mà bỏ qua việc thẩm định năng lực sản xuất và độ tin cậy logistics, rủi ro lớn nhất là đối tác giao hàng chậm trễ, sai quy cách hoặc bỏ dở đơn hàng, gây ảnh hưởng nghiêm trọng đến kế hoạch kinh doanh nội địa.
 
 ---
 
@@ -3402,7 +3402,7 @@
 - **D.** Đánh giá hiệu quả nhập khẩu không chỉ dựa trên giá mua
 
 👉 **Đáp án đúng:** **[D] - Đánh giá hiệu quả nhập khẩu không chỉ dựa trên giá mua**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Quyết định chọn nhà cung ứng giá cao hơn nhưng có uy tín và chất lượng ổn định thể hiện tư duy quản trị hiện đại: đánh giá hiệu quả thương vụ dựa trên tổng chi phí sở hữu (TCO) và mức độ an toàn chuỗi cung ứng, không mua hàng thuần túy theo giá rẻ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.2.1 (Tiêu chí lựa chọn nhà cung cấp) - Quyết định lựa chọn nhà cung cấp có mức giá cao hơn nhưng đổi lại có uy tín lâu năm và chất lượng ổn định thể hiện tư duy quản trị hiện đại: Đánh giá hiệu quả kinh doanh không chỉ thuần túy nhìn vào giá mua ban đầu mà căn cứ trên chi phí tổng thể và độ tin cậy dài hạn.
 
 ---
 
@@ -3415,7 +3415,7 @@
 - **D.** Tìm hiểu kỹ uy tín đối tác và khả năng thực hiện hợp đồng
 
 👉 **Đáp án đúng:** **[D] - Tìm hiểu kỹ uy tín đối tác và khả năng thực hiện hợp đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Với đối tác nước ngoài mới, biện pháp phòng ngừa rủi ro hàng đầu là tiến hành thẩm định kỹ lưỡng (Due Diligence) về tư cách pháp nhân, tình hình tài chính, uy tín thương mại và năng lực thực hiện hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 1.2 & Chương V / Mục 5.2 - Để hạn chế rủi ro khi giao dịch với đối tác nước ngoài mới, biện pháp căn bản và quan trọng nhất là tiến hành thẩm tra, xác minh kỹ lưỡng về tư cách pháp lý, khả năng tài chính và uy tín thực hiện hợp đồng của đối tác.
 
 ---
 
@@ -3428,7 +3428,7 @@
 - **D.** Chỉ phục vụ mục đích quảng cáo
 
 👉 **Đáp án đúng:** **[C] - Xác định phương thức xử lý khi các bên phát sinh bất đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản giải quyết tranh chấp (Dispute resolution clause) quy định cơ chế và trình tự xử lý (thương lượng, hòa giải, trọng tài thương mại hay tòa án) cùng luật áp dụng khi hai bên phát sinh mâu thuẫn trong quá trình thực hiện hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.8 (Điều khoản giải quyết tranh chấp) - Điều khoản giải quyết tranh chấp quy định trước về trình tự, phương thức xử lý (thương lượng, hòa giải, trọng tài thương mại hoặc tòa án) và luật áp dụng khi các bên phát sinh bất đồng hoặc vi phạm nghĩa vụ hợp đồng.
 
 ---
 
@@ -3441,7 +3441,7 @@
 - **D.** Sai lệch về thông tin hàng hóa, số lượng hoặc điều kiện giao nhận
 
 👉 **Đáp án đúng:** **[D] - Sai lệch về thông tin hàng hóa, số lượng hoặc điều kiện giao nhận**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Chứng từ hàng hóa (Hóa đơn, Vận đơn, Phiếu đóng gói, C/O...) đại diện cho hàng hóa và thông tin pháp lý; không kiểm tra kỹ sẽ dẫn đến sai lệch thông tin, gây ách tắc thủ tục hải quan hoặc nhận sai hàng hóa/số lượng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3.1 (Kiểm tra bộ chứng từ thanh toán) - Không kiểm tra kỹ bộ chứng từ trước khi nhận hàng sẽ dẫn đến rủi ro chứng từ bị sai lệch về số lượng, chủng loại hàng, mã HS hoặc điều kiện giao nhận, gây ách tắc khi làm thủ tục hải quan và phát sinh chi phí lưu kho bãi.
 
 ---
 
@@ -3454,7 +3454,7 @@
 - **D.** Doanh nghiệp trực tiếp tiến hành trao đổi hàng hóa với đối tác nước ngoài
 
 👉 **Đáp án đúng:** **[D] - Doanh nghiệp trực tiếp tiến hành trao đổi hàng hóa với đối tác nước ngoài**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nhập khẩu trực tiếp là phương thức giao dịch mà bên mua trong nước và bên bán nước ngoài trực tiếp thiết lập quan hệ, trao đổi, đàm phán và ký kết thực hiện hợp đồng mà không qua bên thứ ba trung gian.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.1.1 (Khái niệm nhập khẩu trực tiếp) - Nhập khẩu trực tiếp là phương thức mà doanh nghiệp nhập khẩu tự mình đứng tên trên hợp đồng, trực tiếp tiến hành đàm phán, giao dịch và thanh toán tiền hàng với đối tác nước ngoài mà không thông qua đơn vị trung gian nhận ủy thác.
 
 ---
 
@@ -3467,7 +3467,7 @@
 - **D.** Không được ký hợp đồng
 
 👉 **Đáp án đúng:** **[C] - Chi phí cao và có thể phát sinh nhiều rủi ro do khoảng cách giữa các bên**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nhược điểm của nhập khẩu trực tiếp là đòi hỏi chi phí giao dịch, nhân sự nghiệp vụ chuyên trách, đồng thời doanh nghiệp phải tự gánh chịu toàn bộ rủi ro về thị trường, khoảng cách địa lý, rủi ro vận tải và pháp lý quốc tế.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.1.1 (Đặc điểm nhập khẩu trực tiếp) - Nhược điểm của nhập khẩu trực tiếp là đòi hỏi chi phí ban đầu cao (chi phí nghiên cứu thị trường, đi lại, đàm phán) và có thể phát sinh nhiều rủi ro kinh doanh, pháp lý do khoảng cách địa lý, ngôn ngữ và tập quán thương mại khác biệt giữa hai nước.
 
 ---
 
@@ -3480,7 +3480,7 @@
 - **D.** Chỉ lựa chọn phương thức vận tải
 
 👉 **Đáp án đúng:** **[C] - Xác định loại hàng, số lượng, chất lượng và thời điểm cần nhập khẩu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Xác định nhu cầu nhập khẩu là bước tiền đề trong quy trình kinh doanh, nhằm xác định chính xác chủng loại hàng, thông số kỹ thuật, số lượng cần thiết và thời điểm hàng về phù hợp với nhu cầu sản xuất/tiêu thụ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.2 (Xác định nhu cầu nhập khẩu) - Mục đích chủ yếu của việc xác định nhu cầu nhập khẩu là làm rõ chính xác: loại hàng hóa, số lượng, quy chuẩn chất lượng kỹ thuật, mức giá dự kiến và thời điểm cần có hàng để lập kế hoạch mua sắm đồng bộ.
 
 ---
 
@@ -3493,7 +3493,7 @@
 - **D.** Thay thế điều khoản giao hàng
 
 👉 **Đáp án đúng:** **[A] - Quy định cách xử lý khi xảy ra những sự kiện ngoài khả năng kiểm soát của các bên**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản bất khả kháng (Force Majeure clause) quy định các trường hợp sự kiện khách quan, không thể lường trước và không thể khắc phục được (chiến tranh, thiên tai, dịch bệnh...) giúp miễn trừ trách nhiệm hợp đồng và xác định cách thức giải quyết tiếp theo.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.7.2 (Điều khoản bất khả kháng) - Điều khoản bất khả kháng (Force Majeure) quy định các sự kiện bất khả kháng (thiên tai, chiến tranh, dịch bệnh, cấm vận...), nghĩa vụ thông báo và cung cấp chứng thực của bên bị ảnh hưởng, cùng nguyên tắc miễn trách nhiệm hoặc kéo dài thời hạn thực hiện hợp đồng.
 
 ---
 
@@ -3506,7 +3506,7 @@
 - **D.** Phương thức thanh toán, thời hạn thanh toán và các điều kiện liên quan
 
 👉 **Đáp án đúng:** **[D] - Phương thức thanh toán, thời hạn thanh toán và các điều kiện liên quan**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản thanh toán cần quy định cụ thể phương thức thanh toán (L/C, T/T, D/P, D/A), đồng tiền thanh toán, thời hạn thanh toán và bộ chứng từ xuất trình làm căn cứ thanh toán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.6 (Điều khoản thanh toán) - Điều khoản thanh toán trong hợp đồng nhập khẩu cần quy định minh bạch: Phương thức thanh toán (L/C, T/T, D/P, D/A), đồng tiền thanh toán, thời hạn thanh toán và bộ chứng từ xuất trình bắt buộc.
 
 ---
 
@@ -3519,7 +3519,7 @@
 - **D.** Chấp nhận chào hàng
 
 👉 **Đáp án đúng:** **[C] - Hỏi hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hỏi hàng (Inquiry) là hành động của người mua chủ động tiếp cận người bán để yêu cầu cung cấp thông tin chi tiết về sản phẩm, giá cả, thời gian giao hàng và các điều kiện mua bán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 3.1 (Hỏi hàng - Inquiry) - Hành vi bên mua chủ động tiếp cận bên bán để yêu cầu cung cấp thông tin chi tiết về sản phẩm, giá cả, quy cách kỹ thuật và điều kiện giao hàng được gọi là hoạt động Hỏi hàng (Inquiry).
 
 ---
 
@@ -3532,7 +3532,7 @@
 - **D.** Quy mô văn phòng của doanh nghiệp xuất khẩu
 
 👉 **Đáp án đúng:** **[A] - Năng lực tài chính, kinh nghiệm, mục tiêu kinh doanh và điều kiện thị trường**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Việc lựa chọn phương thức nhập khẩu (trực tiếp hay gián tiếp qua ủy thác) phải căn cứ vào năng lực tài chính, trình độ nghiệp vụ ngoại thương của nhân sự, mục tiêu chiến lược và mức độ phức tạp của thị trường.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.1 (Lựa chọn phương thức nhập khẩu) - Việc lựa chọn phương thức nhập khẩu (trực tiếp hay ủy thác) căn cứ chủ yếu vào: Năng lực tài chính, kinh nghiệm nghiệp vụ ngoại thương, mục tiêu kinh doanh và điều kiện biến động của thị trường hàng hóa.
 
 ---
 
@@ -3545,7 +3545,7 @@
 - **D.** Không cần thực hiện nghĩa vụ thanh toán
 
 👉 **Đáp án đúng:** **[B] - Hạn chế sai sót về thông tin hàng hóa và thủ tục nhập khẩu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Kiểm tra kỹ bộ chứng từ trước khi nhận hàng giúp phát hiện sớm các điểm bất hợp lệ, sai sót thông tin để kịp thời yêu cầu bên bán chỉnh sửa, tránh phát sinh chi phí lưu kho bãi (DEM/DET) và đảm bảo thông quan thuận lợi.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3.1 (Kiểm tra chứng từ) - Kiểm tra kỹ bộ chứng từ trước khi nhận hàng giúp doanh nghiệp phát hiện sớm các sai sót, bất đồng chứng từ để kịp thời yêu cầu bên bán chỉnh sửa, hạn chế sai sót về thông tin hàng hóa và ách tắc thủ tục hải quan.
 
 ---
 
@@ -3558,7 +3558,7 @@
 - **D.** Thay đổi giá mua hàng hóa
 
 👉 **Đáp án đúng:** **[C] - Phát hiện sự phù hợp hoặc sai lệch so với hợp đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Mục đích của việc kiểm tra hàng hóa trước khi nhận là nhằm xác định sự phù hợp về số lượng, trọng lượng, phẩm chất, bao bì của hàng hóa thực tế so với các điều khoản đã thỏa thuận trong hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3.3 (Kiểm tra hàng hóa) - Mục đích quan trọng nhất của việc kiểm tra hàng hóa khi nhận hàng tại cảng/cửa khẩu là nhằm xác định sự phù hợp hoặc phát hiện kịp thời các sai lệch về số lượng, trọng lượng, phẩm chất và quy cách bao bì so với cam kết trong hợp đồng.
 
 ---
 
@@ -3571,7 +3571,7 @@
 - **D.** Thay đổi điều khoản hợp đồng
 
 👉 **Đáp án đúng:** **[C] - Đảm bảo quá trình vận chuyển hàng hóa đúng thời gian và điều kiện yêu cầu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thuê phương tiện vận tải thích hợp (đúng tuyến đường, đúng loại tàu, cước phí hợp lý) bảo đảm hàng hóa được chuyên chở an toàn, đúng thời gian và tuân thủ các điều kiện bảo quản kỹ thuật.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3.2 (Thuê phương tiện vận tải nhập khẩu) - Khi mua hàng theo các điều kiện nhóm E và F (EXW, FOB, FCA), người nhập khẩu phải tự thuê phương tiện vận tải thích hợp nhằm bảo đảm hàng hóa được vận chuyển an toàn, đúng hành trình và cập cảng đúng thời hạn yêu cầu.
 
 ---
 
@@ -3584,7 +3584,7 @@
 - **D.** Diện tích văn phòng nhà cung cấp
 
 👉 **Đáp án đúng:** **[C] - Nhu cầu và khả năng tiêu thụ trong nước**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trước khi nhập khẩu mặt hàng thương mại như máy pha cà phê, khảo sát nhu cầu thị trường và khả năng tiêu thụ trong nước là thông tin quan trọng nhất để tránh nguy cơ ế ẩm và chôn vốn.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.2.1 (Nghiên cứu thị trường nhập khẩu) - Trước khi nhập khẩu một lô hàng thương mại lớn, thông tin quan trọng nhất cần khảo sát là Nhu cầu thị trường, phân khúc khách hàng mục tiêu và khả năng tiêu thụ hàng hóa tại thị trường nội địa.
 
 ---
 
@@ -3597,7 +3597,7 @@
 - **D.** Tranh chấp về trách nhiệm, chi phí và rủi ro
 
 👉 **Đáp án đúng:** **[D] - Tranh chấp về trách nhiệm, chi phí và rủi ro**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo Incoterms 2020, điều kiện giao hàng luôn phải gắn liền với một địa điểm cụ thể (named place/port). Nếu không ghi rõ địa điểm giao hàng, các bên sẽ rơi vào tranh chấp gay gắt về điểm phân chia chi phí và chuyển giao rủi ro.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Incoterms 2020 & Giáo trình Giao dịch thương mại quốc tế / Chương II - Các điều kiện thương mại Incoterms luôn bắt buộc phải đi kèm với một địa điểm giao nhận cụ thể (named place/port). Nếu không quy định rõ địa điểm, tranh chấp rất dễ phát sinh giữa hai bên về phân chia chi phí vận tải và mốc chuyển giao rủi ro.
 
 ---
 
@@ -3610,7 +3610,7 @@
 - **D.** Chậm hoặc sai trong quá trình thực hiện hợp đồng
 
 👉 **Đáp án đúng:** **[D] - Chậm hoặc sai trong quá trình thực hiện hợp đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thiếu sự phối hợp đồng bộ giữa mua hàng, kế toán và logistics sẽ dẫn đến việc mở L/C chậm, không thu xếp kịp tàu xe, chậm trễ thông quan và gây đình trệ toàn bộ quá trình thực hiện hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3 (Tổ chức thực hiện hợp đồng nhập khẩu) - Thực hiện hợp đồng nhập khẩu là quy trình liên hoàn; việc các bộ phận mua hàng, kế toán tài chính và logistics thiếu sự phối hợp chặt chẽ sẽ gây ra hậu quả chậm mở L/C, chậm thuê tàu hoặc ách tắc thông quan hàng hóa.
 
 ---
 
@@ -3623,7 +3623,7 @@
 - **D.** Chỉ số lượng hợp đồng
 
 👉 **Đáp án đúng:** **[C] - Chi phí, lợi ích, rủi ro và khả năng tiêu thụ**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Sau khi hàng về, đánh giá hiệu quả thương vụ phải căn cứ trên tổng thể chi phí (Landed Cost), doanh thu lợi nhuận thực tế, các rủi ro tổn thất phát sinh và tốc độ giải phóng hàng hóa trên thị trường.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.4 (Đánh giá hiệu quả thương vụ) - Sau khi hàng về kho, việc đánh giá toàn diện hiệu quả thương vụ phải dựa trên 4 chỉ tiêu tổng hợp: Tổng chi phí thực tế (Landed Cost), Lợi ích kinh tế thu được, Rủi ro/tổn thất phát sinh và Tốc độ tiêu thụ hàng hóa.
 
 ---
 
@@ -3636,7 +3636,7 @@
 - **D.** Chỉ khoảng cách địa lý
 
 👉 **Đáp án đúng:** **[C] - Tổng lợi ích và ảnh hưởng của thời gian giao hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi thị trường đang cần hàng gấp, thời gian giao hàng quyết định cơ hội kinh doanh; do đó doanh nghiệp cần so sánh tổng lợi ích đem lại từ việc đáp ứng kịp thời thị trường so với chi phí chênh lệch giá mua.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.2.1 (Lựa chọn phương án mua hàng) - Khi thị trường nội địa đang khan hiếm và cần hàng gấp, thời gian giao hàng quyết định cơ hội bán hàng và doanh thu; do đó doanh nghiệp phải cân nhắc trên tổng lợi ích kinh tế thu được thay vì chỉ nhìn vào mức giá mua ban đầu.
 
 ---
 
@@ -3649,7 +3649,7 @@
 - **D.** Chỉ xem quảng cáo
 
 👉 **Đáp án đúng:** **[C] - Tìm hiểu quy định hoặc sử dụng tư vấn chuyên môn**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi chưa am hiểu quy định quản lý xuất nhập khẩu tại nước sở tại, doanh nghiệp phải chủ động tra cứu văn bản pháp luật, chính sách chuyên ngành hoặc thuê chuyên gia tư vấn pháp lý/hải quan để tránh vi phạm.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 1.1 & Chương V / Mục 5.2 - Khi chuẩn bị nhập khẩu một mặt hàng mới mà chưa am hiểu quy định pháp lý chuyên ngành tại nước mình, cách xử lý chuyên nghiệp và an toàn nhất là chủ động tra cứu văn bản pháp luật hoặc sử dụng dịch vụ tư vấn của các chuyên gia hải quan/logistics.
 
 ---
 
@@ -3662,7 +3662,7 @@
 - **D.** Có thể đổi giá tùy ý
 
 👉 **Đáp án đúng:** **[A] - Hai bên đã hình thành cam kết theo nội dung đã chấp nhận hay chưa**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi đã chấp nhận chào hàng vô điều kiện, hợp đồng đã có hiệu lực pháp lý ràng buộc. Doanh nghiệp không thể tự ý đổi giá mà phải xem xét các cam kết đã hình thành và chỉ có thể thay đổi nếu được đối tác đồng thuận sửa đổi hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 3.3 (Chấp nhận chào hàng) & CISG - Khi một bên đã phát ra chấp nhận chào hàng vô điều kiện trong thời hạn hiệu lực, hợp đồng mua bán ngoại thương đã chính thức được hình thành và có giá trị pháp lý ràng buộc. Doanh nghiệp không thể tùy tiện đòi thay đổi giá nếu không được bên kia đồng ý.
 
 ---
 
@@ -3675,7 +3675,7 @@
 - **D.** Tiêu chuẩn và phương thức kiểm tra
 
 👉 **Đáp án đúng:** **[D] - Tiêu chuẩn và phương thức kiểm tra**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Để tránh tranh chấp về chất lượng, hợp đồng cần quy định cụ thể tiêu chuẩn kỹ thuật (thông số, nhãn hiệu, quy cách kiểm định) và phương thức kiểm tra chất lượng (cơ quan giám định, thời điểm và địa điểm giám định).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.3.1 (Điều khoản phẩm chất) - Để tránh tranh chấp khi nhận hàng máy móc thiết bị, hợp đồng nhập khẩu bắt buộc phải quy định chi tiết: Tiêu chuẩn kỹ thuật, quy chuẩn chất lượng, dung sai cho phép và phương thức kiểm tra/giám định khi nhận hàng.
 
 ---
 
@@ -3688,7 +3688,7 @@
 - **D.** Chấp nhận vô điều kiện
 
 👉 **Đáp án đúng:** **[B] - Hoàn giá**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đề nghị thay đổi giá từ 100 USD xuống 92 USD là hành động Hoàn giá (Counter-offer). Theo luật quốc tế, hành động này hủy bỏ chào hàng ban đầu và trở thành một đề nghị giao kết hợp đồng mới từ phía người mua.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 3.4 (Hoàn giá) - Khi nhận được chào hàng với giá 100 USD/máy nhưng người mua đề nghị lại giá 92 USD/máy, hành động này về mặt pháp lý là một Hoàn giá (Counter-offer), làm mất hiệu lực của mức giá 100 USD trước đó.
 
 ---
 
@@ -3701,7 +3701,7 @@
 - **D.** Dự báo nhu cầu và lượng nhập
 
 👉 **Đáp án đúng:** **[D] - Dự báo nhu cầu và lượng nhập**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Nhập 2.000 máy nhưng chỉ tiêu thụ được 800 máy là hệ quả trực tiếp của việc dự báo nhu cầu thị trường thiếu chính xác dẫn đến quyết định quy mô lô hàng nhập khẩu không phù hợp.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.2.1 (Nghiên cứu dung lượng thị trường) - Nhập khẩu 2.000 máy nhưng chỉ bán được 800 máy là lỗi sai trong khâu nghiên cứu thị trường, dự báo nhu cầu tiêu thụ và xác định lượng đặt hàng không sát với thực tế, gây ứ đọng vốn và chi phí lưu kho cao.
 
 ---
 
@@ -3714,7 +3714,7 @@
 - **D.** Chi phí kho luôn giảm
 
 👉 **Đáp án đúng:** **[C] - Người bán không giao hoặc giao không đúng cam kết**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thanh toán trước 100% (Advance payment) cho một nhà cung cấp mới tiềm ẩn rủi ro cực lớn: người bán có thể lừa đảo, không giao hàng hoặc giao hàng không đúng chất lượng mà người mua không có công cụ bảo đảm để thu hồi tiền.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.6.1 (Thanh toán trả trước) - Thanh toán trước 100% cho một đối tác mới chưa được thẩm định uy tín tiềm ẩn rủi ro rất lớn: Người bán nhận tiền xong không giao hàng, giao hàng chậm trễ hoặc giao hàng không đúng chất lượng cam kết.
 
 ---
 
@@ -3727,7 +3727,7 @@
 - **D.** Màu sản phẩm
 
 👉 **Đáp án đúng:** **[B] - Phương thức và thời hạn thanh toán**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Quy định minh bạch phương thức thanh toán, thời hạn thanh toán và bộ chứng từ bắt buộc là biện pháp then chốt để hạn chế tranh chấp phát sinh trong quá trình chuyển giao tiền tệ.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.6 (Điều khoản thanh toán) - Để hạn chế tranh chấp về việc trả tiền hàng, hợp đồng mua bán ngoại thương cần ghi rõ: Phương thức thanh toán, thời hạn thanh toán cụ thể, điều kiện mở L/C hoặc chuyển tiền và bộ chứng từ xuất trình bắt buộc.
 
 ---
 
@@ -3740,7 +3740,7 @@
 - **D.** Tăng số lần đặt hàng
 
 👉 **Đáp án đúng:** **[A] - Rà soát lại lượng đặt hàng và tổ chức giao dịch**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Rà soát lại quy mô lô hàng đặt mua (áp dụng mô hình đặt hàng tối ưu EOQ) và tinh gọn quy trình giao dịch giúp giảm bớt chi phí vận chuyển, thủ tục hành chính và chi phí logistics trên mỗi đơn vị hàng hóa.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.4 (Tối ưu hóa chi phí nhập khẩu) - Để nâng cao hiệu quả cho các thương vụ tiếp theo khi chi phí giao dịch quá cao, biện pháp phù hợp là rà soát, tính toán lại quy mô mỗi lần đặt hàng (áp dụng mô hình EOQ) và tinh giản quy trình tổ chức giao dịch.
 
 ---
 
@@ -3753,7 +3753,7 @@
 - **D.** Không cần kiểm tra hàng
 
 👉 **Đáp án đúng:** **[C] - Tận dụng kinh nghiệm và mạng lưới của trung gian**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đối với doanh nghiệp nhỏ chưa có mạng lưới quốc tế, hợp tác với trung gian am hiểu thị trường giúp tận dụng mối quan hệ sẵn có, kinh nghiệm đàm phán và sự am hiểu nguồn hàng của trung gian.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.1.2 (Lợi ích của trung gian nhập khẩu) - Đối với doanh nghiệp nhỏ chưa có mạng lưới quốc tế và nhân sự chuyên trách, lợi ích quan trọng nhất khi hợp tác với trung gian nhập khẩu là tận dụng được kinh nghiệm đàm phán, nghiệp vụ hải quan và mạng lưới bạn hàng sẵn có của trung gian.
 
 ---
 
@@ -3766,7 +3766,7 @@
 - **D.** Chứng từ không phù hợp yêu cầu thanh toán
 
 👉 **Đáp án đúng:** **[D] - Chứng từ không phù hợp yêu cầu thanh toán**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo quy tắc UCP 600, ngân hàng chỉ kiểm tra sự phù hợp trên bề mặt của chứng từ. Nếu không rà soát kỹ các điều khoản chứng từ quy định trong L/C, bên mua có thể đối mặt với rủi ro chứng từ xuất trình không phù hợp và bị từ chối thanh toán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.3.1 & UCP 600 - Theo UCP 600, ngân hàng chỉ kiểm tra sự phù hợp trên bề mặt của chứng từ với các điều khoản của L/C. Nếu không kiểm tra kỹ các điều kiện chứng từ khi mở L/C, rủi ro là bên bán xuất trình chứng từ không phù hợp hoặc chứa đựng các điều kiện bất khả thi, dẫn đến bất đồng và tranh chấp thanh toán.
 
 ---
 
@@ -3779,7 +3779,7 @@
 - **D.** Căn cứ điều khoản hợp đồng và chứng cứ liên quan
 
 👉 **Đáp án đúng:** **[D] - Căn cứ điều khoản hợp đồng và chứng cứ liên quan**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi xảy ra tranh chấp tổn thất hàng hóa, căn cứ pháp lý cao nhất và duy nhất có giá trị giải quyết là các điều khoản của hợp đồng đã ký kết cùng các chứng cứ pháp lý độc lập (như Giám định thư, Biên bản kết toán hàng hóa ROROC, Kháng nghị hàng hải).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.8 & CISG - Khi xảy ra tranh chấp về hàng hóa hư hỏng, doanh nghiệp phải căn cứ trực tiếp vào các điều khoản giải quyết tranh chấp trong hợp đồng, mốc phân chia rủi ro theo Incoterms và các biên bản chứng cứ pháp lý (biên bản giám định, ROROC, COR).
 
 ---
 
@@ -3792,7 +3792,7 @@
 - **D.** Không cần xem lịch sử
 
 👉 **Đáp án đúng:** **[B] - Ưu tiên A sau khi đánh giá tổng thể**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi giá thành tương đương nhau, doanh nghiệp cần ưu tiên đối tác có lịch sử giao hàng ổn định và đúng hạn nhằm đảm bảo kế hoạch kinh doanh và giảm thiểu rủi ro gián đoạn chuỗi cung ứng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.2.1 (Đánh giá nhà cung cấp) - Khi mức giá chào ngang nhau, doanh nghiệp phải ưu tiên lựa chọn nhà cung cấp A sau khi đánh giá tổng thể độ tin cậy, uy tín và lịch sử giao hàng ổn định để bảo đảm an toàn cho chuỗi cung ứng sản xuất.
 
 ---
 
@@ -3805,7 +3805,7 @@
 - **D.** Thiếu quảng cáo
 
 👉 **Đáp án đúng:** **[B] - Thiếu căn cứ rõ ràng để đối chiếu chất lượng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Quy định chất lượng bằng từ ngữ định tính mơ hồ như 'loại tốt' mà không có tiêu chuẩn kỹ thuật cụ thể sẽ khiến người mua thiếu căn cứ khách quan để chứng minh hàng hóa không đạt yêu cầu khi khiếu nại.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.3.1 (Quy định phẩm chất) - Quy định chất lượng bằng các từ ngữ định tính mơ hồ như 'máy loại tốt' mà không có tiêu chuẩn kỹ thuật hoặc thông số cụ thể sẽ khiến người mua rơi vào thế yếu vì thiếu căn cứ pháp lý rõ ràng để đối chiếu và khiếu nại chất lượng.
 
 ---
 
@@ -3818,7 +3818,7 @@
 - **D.** Hủy toàn bộ hợp đồng
 
 👉 **Đáp án đúng:** **[C] - Kiểm tra chứng từ và lập chứng cứ về thiếu hụt**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Khi phát hiện giao thiếu hàng, bước đầu tiên là kiểm tra đối chiếu vận đơn, packing list và lập biên bản ghi nhận sự thiếu hụt có xác nhận của các bên liên quan (biên bản dỡ hàng COR/ROROC) để làm bằng chứng khiếu nại bên bán hoặc bên vận tải.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3.3 (Lập chứng cứ khiếu nại khi nhận hàng) - Khi phát hiện thiếu 20 máy so với hợp đồng, việc đầu tiên mang tính bắt buộc là kiểm tra đối chiếu kỹ bộ chứng từ vận tải (B/L, Packing List) và mời cơ quan giám định lập biên bản chứng cứ pháp lý ghi nhận sự thiếu hụt trước khi di chuyển hàng ra khỏi khu vực cảng/kho.
 
 ---
 
@@ -3831,7 +3831,7 @@
 - **D.** Quảng cáo của nhà cung cấp
 
 👉 **Đáp án đúng:** **[C] - Điều khoản chất lượng trong hợp đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Điều khoản chất lượng đã thỏa thuận trong hợp đồng là căn cứ pháp lý đầu tiên và quan trọng nhất để đối chiếu thông số kỹ thuật thực tế và quy kết trách nhiệm vi phạm hợp đồng của bên bán.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.3.1 (Điều khoản phẩm chất) - Căn cứ pháp lý đầu tiên và cao nhất để xem xét, đối chiếu và khiếu nại việc máy móc không đạt tiêu chuẩn kỹ thuật chính là các tiêu chuẩn và thông số kỹ thuật đã được hai bên cam kết trong Điều khoản chất lượng của hợp đồng.
 
 ---
 
@@ -3844,7 +3844,7 @@
 - **D.** Không cần tính chi phí
 
 👉 **Đáp án đúng:** **[C] - Cần xem cả hiệu quả kinh tế và khả năng tiêu thụ**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Hàng về đến kho mới chỉ là hoàn thành khâu tiếp nhận logistics; một thương vụ chỉ thực sự thành công khi hàng hóa được tiêu thụ thuận lợi, đạt mục tiêu doanh thu, chi phí hợp lý và sinh lời cho doanh nghiệp.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.4 (Đánh giá hiệu quả kinh doanh nhập khẩu) - Đánh giá thương vụ chỉ dựa trên việc 'hàng đã về' là thiển cận vì hàng về mới chỉ hoàn thành khâu giao nhận logistics; một thương vụ chỉ thực sự thành công khi xét trên cả hiệu quả kinh tế (doanh thu trừ chi phí) và khả năng tiêu thụ hết hàng hóa tại thị trường.
 
 ---
 
@@ -3857,7 +3857,7 @@
 - **D.** Ký hợp đồng → mới tìm hiểu hàng
 
 👉 **Đáp án đúng:** **[C] - Nghiên cứu nhu cầu → chọn nguồn/đối tác → đàm phán → ký và thực hiện hợp đồng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Quy trình nghiệp vụ nhập khẩu chuẩn mực bao gồm 4 bước tuần tự: Nghiên cứu nhu cầu thị trường → Lựa chọn nguồn hàng và đối tác → Đàm phán các điều khoản giao dịch → Ký kết và tổ chức thực hiện hợp đồng.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.2 & 5.3 (Trình tự nghiệp vụ nhập khẩu) - Trình tự nhập khẩu bài bản và chuẩn mực bao gồm 4 bước tuần tự: (1) Nghiên cứu nhu cầu thị trường -> (2) Tìm kiếm, lựa chọn nguồn hàng và đối tác -> (3) Đàm phán các điều kiện giao dịch -> (4) Ký kết và tổ chức thực hiện hợp đồng.
 
 ---
 
@@ -3870,7 +3870,7 @@
 - **D.** Nhà bán chịu mọi trách nhiệm
 
 👉 **Đáp án đúng:** **[A] - Hàng có thể không đáp ứng yêu cầu pháp lý**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Bỏ qua khâu kiểm tra chuyên ngành theo luật định (như kiểm dịch thực vật/động vật, kiểm tra an toàn thực phẩm, hợp chuẩn hợp quy) sẽ khiến lô hàng không đủ điều kiện thông quan và có thể bị phạt, tịch thu hoặc buộc tái xuất.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3.3 & Luật Hải quan - Nếu lô hàng thuộc diện kiểm tra chuyên ngành bắt buộc (kiểm dịch, kiểm tra chất lượng, an toàn thực phẩm) mà doanh nghiệp bỏ qua thì hàng hóa sẽ không đáp ứng yêu cầu pháp lý để thông quan và có thể bị phạt tiền, tịch thu hoặc buộc tái xuất.
 
 ---
 
@@ -3883,7 +3883,7 @@
 - **D.** Xác định thời gian bảo hành
 
 👉 **Đáp án đúng:** **[A] - Xác định khoảng thời gian chào hàng có tính ràng buộc theo nội dung đã nêu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thời hạn hiệu lực trong chào hàng cố định (Firm offer) xác định khoảng thời gian người chào hàng cam kết bị ràng buộc trách nhiệm pháp lý theo các nội dung đã chào nếu đối tác chấp nhận vô điều kiện trong thời hạn đó.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 3.2 (Chào hàng cố định) - Ý nghĩa pháp lý căn bản của thời hạn hiệu lực trong chào hàng cố định (Firm offer) là xác định khoảng thời gian người chào hàng bị ràng buộc trách nhiệm pháp lý đối với toàn bộ các điều kiện đã nêu trong chào hàng.
 
 ---
 
@@ -3896,7 +3896,7 @@
 - **D.** Hoàn giá
 
 👉 **Đáp án đúng:** **[D] - Hoàn giá**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Đề nghị thay đổi giá cấu thành một Hoàn giá (Counter-offer). Hành vi này làm chấm dứt hiệu lực của chào hàng ban đầu và biến bên mua thành bên đưa ra lời đề nghị giao kết hợp đồng mới.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương I / Mục 3.4 (Hoàn giá) - Khi nhận được chào hàng cố định nhưng người mua muốn thay đổi giá mua thì hành động này cấu thành một Hoàn giá (Counter-offer), làm chấm dứt hiệu lực ràng buộc của chào hàng ban đầu.
 
 ---
 
@@ -3909,7 +3909,7 @@
 - **D.** Thay đổi giá tùy ý
 
 👉 **Đáp án đúng:** **[C] - Chủ động xử lý chậm giao hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo dõi sát sao tiến độ sản xuất và hành trình phương tiện vận tải giúp doanh nghiệp kịp thời phát hiện nguy cơ chậm giao hàng để đôn đốc đối tác hoặc chủ động điều chỉnh kế hoạch kinh doanh nhằm hạn chế thiệt hại.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương V / Mục 5.3 (Theo dõi thực hiện hợp đồng) - Theo dõi sát sao tiến độ sản xuất và lịch trình vận tải giúp doanh nghiệp nhập khẩu chủ động nắm bắt nguy cơ chậm giao hàng để kịp thời đốc thúc đối tác hoặc lên phương án ứng phó, tránh gián đoạn chuỗi cung ứng.
 
 ---
 
@@ -3922,7 +3922,7 @@
 - **D.** Tiếp tục đàm phán điều kiện giao hàng
 
 👉 **Đáp án đúng:** **[D] - Tiếp tục đàm phán điều kiện giao hàng**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Thời hạn giao hàng là điều khoản chủ yếu (essential term) của hợp đồng mua bán ngoại thương. Khi chưa đạt được sự đồng thuận về điều khoản này, hai bên chưa thể ký kết hợp đồng mà phải tiếp tục đàm phán để tìm tiếng nói chung.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.5 (Điều khoản giao hàng) - Thời hạn giao hàng là điều khoản chủ yếu (essential term) của hợp đồng mua bán ngoại thương. Khi bên bán đồng ý giá nhưng chưa thống nhất về thời hạn giao hàng, công ty không được vội ký hợp đồng mà phải tiếp tục đàm phán điều kiện giao hàng cho đến khi hai bên hoàn toàn thống nhất.
 
 ---
 
@@ -3939,7 +3939,7 @@
 - **D.** Mức giá 1: Mức giá ưu đãi do đối tác giảm 15% vì hai bên có thỏa thuận tài trợ vốn vay ưu đãi dài hạn.
 
 👉 **Đáp án đúng:** **[A] - Mức giá 3: Mức giá chào trên thị trường quốc tế đối với các giao dịch mua bán thông thường, không kèm theo bất kỳ điều kiện ràng buộc đặc biệt nào và thanh toán bằng Đồng Đô la Mỹ (USD).**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Theo giáo trình Giao dịch Ngoại thương, một mức giá được coi là 'Giá quốc tế' khi thỏa mãn đầy đủ 3 thuộc tính cơ bản: (1) Tính chất thương mại thông thường, công khai, phổ biến trên thị trường tự do, không kèm theo các điều kiện ưu đãi hay ràng buộc cá biệt (như tài trợ tín dụng ở Mức giá 1 hoặc xả hàng thanh lý phá sản ở Mức giá 4); (2) Được thanh toán bằng đồng tiền tự do chuyển đổi mạnh (Freely Convertible Currency như USD, EUR...) chứ không phải đồng tiền thanh toán nội bộ hay bù trừ song phương (như Mức giá 2); (3) Đại diện cho khối lượng giao dịch mua bán lớn trên thị trường thế giới. Do đó, Mức giá 3 là phương án đáp ứng trọn vẹn nhất định nghĩa và thuộc tính của Giá quốc tế.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương III / Mục 3.4.1 (Bản chất và thuộc tính của giá quốc tế) - Theo giáo trình, một mức giá được coi là 'Giá quốc tế' khi thỏa mãn đầy đủ 3 thuộc tính cơ bản: (1) Là giá của các giao dịch thương mại thông thường; (2) Có tính chất đại diện trên thị trường thế giới (không kèm ràng buộc phi thương mại đặc biệt); và (3) Được thanh toán bằng đồng tiền tự do chuyển đổi (như USD).
 
 ---
 
@@ -3956,7 +3956,7 @@
 - **D.** Tên và địa chỉ của người thụ hưởng
 
 👉 **Đáp án đúng:** **[B] - Tên và địa chỉ của hãng vận tải/chủ tàu**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Trên Đơn yêu cầu mở L/C (Application for Opening Documentary Credit) gửi đến Ngân hàng phát hành (Issuing Bank), các chủ thể tham gia trực tiếp trong quan hệ thanh toán tín dụng chứng từ bắt buộc phải được kê khai gồm: Người yêu cầu mở L/C (Applicant - Bên mua), Người thụ hưởng (Beneficiary - Bên bán) và Ngân hàng thông báo (Advising Bank). Còn hãng vận tải/chủ tàu (Carrier) là bên phát hành Vận đơn (B/L) trong hợp đồng vận chuyển, tên của hãng tàu xuất hiện trên B/L chứ không phải là chủ thể tham gia trực tiếp ghi tên/địa chỉ cố định trên đơn mở L/C (tại thời điểm mở L/C, người nhập khẩu chưa ký hợp đồng thuê tàu hoặc chỉ quy định yêu cầu về chứng từ vận tải).
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Giáo trình giao dịch thương mại quốc tế (PGS.TS. Phạm Duy Liên) / Chương IV / Mục 4.3.1 (Quy trình mở L/C) & UCP 600 - Trên Đơn yêu cầu mở L/C gửi tới ngân hàng phát hành, các chủ thể tham gia trực tiếp bắt buộc phải ghi tên gồm: Người xin mở L/C (Applicant), Người thụ hưởng (Beneficiary) và Ngân hàng thông báo (Advising Bank). Hãng vận tải/chủ tàu (Carrier) là bên phát hành vận đơn B/L trong hợp đồng vận chuyển, tên hãng tàu không xuất hiện với tư cách là chủ thể tham gia trực tiếp cố định trên đơn mở L/C.
 
 ---
 
@@ -3973,6 +3973,6 @@
 - **D.** Ngay khi kiểm dịch viên hoàn thành việc lấy mẫu tại cảng mà không cần sự đồng ý của Cơ quan Hải quan
 
 👉 **Đáp án đúng:** **[A] - Cơ quan Hải quan chấp nhận quyết định cho phép đưa hàng về bảo quản sau khi đã lấy mẫu kiểm tra dịch hại và doanh nghiệp đáp ứng đủ điều kiện niêm phong/giám sát hải quan**
-💡 **Căn cứ pháp lý & Phân tích chuyên môn:** Căn cứ Điều 32 Luật Hải quan 2014 và Điều 32 Thông tư 38/2015/TT-BTC (sửa đổi bởi Thông tư 39/2018/TT-BTC) về việc đưa hàng về bảo quản: Đối với hàng hóa phải kiểm tra chuyên ngành (kiểm dịch thực vật), người khai hải quan chỉ được đưa hàng về địa điểm bảo quản (kho riêng) khi cơ quan hải quan chấp thuận bằng văn bản/quyết định phê duyệt trên hệ thống sau khi đã thực hiện lấy mẫu kiểm dịch và địa điểm bảo quản đáp ứng yêu cầu giám sát, niêm phong hải quan. Doanh nghiệp tuyệt đối không được tự ý đưa hàng ra khỏi cảng khi chưa có sự chấp thuận của cơ quan hải quan.
+💡 **Căn cứ & Giải thích từ Giáo trình:** Căn cứ: Điều 32 Luật Hải quan 2014 & Điều 32 Thông tư 38/2015/TT-BTC (sửa đổi bởi Thông tư 39/2018/TT-BTC) - Theo quy định hải quan về việc đưa hàng về bảo quản đối với hàng hóa thuộc diện kiểm dịch/kiểm tra chuyên ngành: Doanh nghiệp chỉ được đưa hàng ra khỏi cảng về kho riêng khi cơ quan hải quan ra quyết định/chấp thuận bằng văn bản trên hệ thống sau khi đã hoàn thành việc lấy mẫu kiểm tra và kho bảo quản đáp ứng đầy đủ điều kiện niêm phong, giám sát hải quan.
 
 ---

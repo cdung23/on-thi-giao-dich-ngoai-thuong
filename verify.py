@@ -30,7 +30,7 @@ def check_dataset_integrity():
     with open(js_path, "r", encoding="utf-8") as f:
         content = f.read()
     
-    match = re.search(r'const\s+QUESTIONS_DATA\s*=\s*(\[[\s\S]*?\]);', content)
+    match = re.search(r'const\s+QUESTIONS_DATA\s*=\s*(\[[\s\S]*?\n\]);', content)
     assert match, "Không tìm thấy biến QUESTIONS_DATA trong questions_data.js!"
     
     data = json.loads(match.group(1))

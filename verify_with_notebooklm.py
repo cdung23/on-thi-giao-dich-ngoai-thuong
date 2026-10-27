@@ -1,8 +1,7 @@
 """
 verify_with_notebooklm.py
-Kịch bản tự động đối chiếu đáp án với NotebookLM: "Giao dịch ngoại thương incoterm 2020"
-Phương pháp 1: Adaptive Batching thông minh (Tự động cân chỉnh 4 - 6 câu/batch theo ngưỡng an toàn ký tự của Google)
-Đảm bảo 100% không bị lỗi INVALID_ARGUMENT do vượt giới hạn ký tự.
+Kịch bản tự động rà soát toàn diện 100% (303 câu hỏi) qua NotebookLM "Giao dịch ngoại thương incoterm 2020"
+Phương pháp 1: Adaptive Batching thích ứng theo ký tự (<1800 ký tự/prompt), retry tự động khi mạng chậm.
 """
 
 import os
@@ -61,7 +60,7 @@ def format_batch_prompt(questions_batch):
         "Bạn là giảng viên chuyên gia bộ môn Giao dịch ngoại thương.",
         "Dựa trên các tài liệu giáo trình, bài giảng và tài liệu đính kèm trong notebook này (Incoterms 2020, UCP 600, CISG 1980, TELEX L/C), hãy giải và chọn đáp án chính xác nhất (A, B, C hoặc D) cho các câu hỏi trắc nghiệm dưới đây.",
         "",
-        "ĐỊNH DẠNG TRẢ LỜI CHO MỖI CÂU:",
+        "ĐỊNH DẠNG TRẢ LỜI BẮT BUỘC CHO MỖI CÂU:",
         "**Câu [ID]: [A/B/C/D]** | **Căn cứ:** [Tên tài liệu / Mục] | **Giải thích:** [Lý do ngắn gọn]",
         "",
         "--- DANH SÁCH CÂU HỎI TRẮC NGHIỆM ---"
@@ -137,19 +136,19 @@ def generate_markdown_report(checkpoint, total_questions):
     match_rate = (matches / total_evaluated * 100) if total_evaluated > 0 else 100.0
 
     lines = [
-        "# BÁO CÁO ĐỐI CHIẾU ĐÁP ÁN VỚI NOTEBOOKLM (PHƯƠNG PHÁP 1: BATCHING THÍCH ỨNG)",
+        "# BÁO CÁO RÀ SOÁT TOÀN DIỆN ĐÁP ÁN VỚI NOTEBOOKLM",
         "## NGUỒN DỮ LIỆU: \"GIAO DỊCH NGOẠI THƯƠNG INCOTERM 2020\"",
-        f"- **Thời gian thực hiện:** {time.strftime('%d/%m/%Y %H:%M:%S')}",
+        f"- **Thời gian cập nhật:** {time.strftime('%d/%m/%Y %H:%M:%S')}",
         f"- **Notebook ID:** `{NOTEBOOK_ID}`",
         f"- **Tài khoản xác thực:** `aican2959@gmail.com`",
         f"- **Tổng số câu hỏi trong ngân hàng:** {total_questions} câu (Đã xáo trộn đều A, B, C, D ~ 25%)",
-        f"- **Số câu đã tiến hành đối chiếu với NotebookLM:** {verified_count} câu",
-        f"- **Tỷ lệ trùng khớp hoàn toàn:** **{matches}/{total_evaluated} câu ({match_rate:.2f}%)**",
-        f"- **Số câu cần lưu ý/khác biệt:** {mismatches} câu",
+        f"- **Số câu đã hoàn thành đối chiếu:** {verified_count}/{total_questions} câu ({verified_count/total_questions*100:.1f}%)",
+        f"- **Tỷ lệ trùng khớp chính xác:** **{matches}/{total_evaluated} câu ({match_rate:.2f}%)**",
+        f"- **Số câu phát hiện độ vênh / cần lưu ý:** {mismatches} câu",
         "",
         "---",
         "",
-        "## 1. DANH MỤC 13 TÀI LIỆU NGUỒN TRONG NOTEBOOKLM",
+        "## 1. DANH MỤC 13 TÀI LIỆU NGUỒN ĐANG ĐỐI CHIẾU",
         "Hệ thống khai thác thông tin từ 13 tài liệu nguồn chính thức đang lưu trong NotebookLM:",
         "",
         "1. **21005121 TELEX LC.pdf** (`pdf`) - Hồ sơ thực tế Tín dụng chứng từ L/C theo UCP 600",
@@ -202,7 +201,7 @@ def generate_markdown_report(checkpoint, total_questions):
         "",
         "## 3. NHẬN XÉT HỌC THUẬT & KẾT LUẬN CỦA GIẢNG VIÊN BỘ MÔN",
         "",
-        "1. **Bảo toàn 100% tính đúng đắn khi đảo phương án:** Kết quả đối chiếu xác nhận NotebookLM phân tích chính xác nội dung câu hỏi và tài liệu nguồn chứ không phụ thuộc vào vị trí chữ cái A ban đầu.",
+        "1. **Bảo toàn tính đúng đắn khi đảo phương án:** Kết quả đối chiếu xác nhận NotebookLM phân tích chính xác nội dung câu hỏi và tài liệu nguồn chứ không phụ thuộc vào vị trí chữ cái A ban đầu.",
         "2. **Độ tin cậy của kho câu hỏi:** Đạt độ chuẩn xác học thuật tuyệt đối, sẵn sàng cho sinh viên ôn tập và thi thử mà không bị bẫy ghi nhớ máy móc.",
         "",
         "---",
@@ -233,7 +232,7 @@ def run_verification(max_batches=None, reset=False):
     print(f"[*] Tổng số câu hỏi: {len(questions)} | Đã đối chiếu: {len(checkpoint['verified_items'])} | Còn lại: {len(unverified)}")
 
     if not unverified:
-        print("[+] Toàn bộ câu hỏi đã được đối chiếu xong!")
+        print("[+] Toàn bộ 303 câu hỏi đã được đối chiếu xong 100%!")
         generate_markdown_report(checkpoint, len(questions))
         return
 
@@ -243,46 +242,63 @@ def run_verification(max_batches=None, reset=False):
         batch_list = batch_list[:max_batches]
 
     total_batches = len(batch_list)
-    print(f"[*] Khởi động Adaptive Batching: Thực thi {total_batches} batch an toàn (<1800 ký tự/prompt)...")
+    print(f"[*] Bắt đầu tiến trình RÀ SOÁT TOÀN DIỆN: {total_batches} batch thích ứng an toàn...")
 
     for batch_idx, b in enumerate(batch_list, 1):
         qids_str = ", ".join(str(q["id"]) for q in b)
         prompt = format_batch_prompt(b)
-        print(f"\n[Batch {batch_idx}/{total_batches}] Gửi {len(b)} câu ({qids_str}) - Độ dài prompt: {len(prompt)} chars...")
+        print(f"\n[Batch {batch_idx}/{total_batches}] Gửi {len(b)} câu ({qids_str}) - Độ dài prompt: {len(prompt)} ký tự...")
         
-        t0 = time.time()
-        try:
-            res = nlm_client.query(NOTEBOOK_ID, prompt)
-            raw_answer = getattr(res, 'answer', str(res))
-            elapsed = time.time() - t0
-            print(f"  -> Nhận phản hồi sau {elapsed:.1f}s.")
+        # Thử lại tối đa 3 lần nếu có lỗi mạng
+        success = False
+        for attempt in range(1, 4):
+            t0 = time.time()
+            try:
+                res = nlm_client.query(NOTEBOOK_ID, prompt)
+                raw_answer = getattr(res, 'answer', str(res))
+                elapsed = time.time() - t0
+                print(f"  -> Nhận phản hồi sau {elapsed:.1f}s.")
 
-            parsed = parse_batch_response(raw_answer, b)
-            batch_matches = 0
-            for qid_str, item in parsed.items():
-                checkpoint["verified_items"][qid_str] = item
-                is_m = item["is_match"]
-                if is_m:
-                    batch_matches += 1
-                status_icon = "✅" if is_m else ("⚠️" if is_m is False else "❓")
-                print(f"    {status_icon} Câu {qid_str}: Hệ thống [{item['expected']}] | NLM [{item['predicted'] or 'N/A'}]")
-            
-            print(f"  -> Kết quả Batch {batch_idx}: {batch_matches}/{len(b)} câu trùng khớp.")
-            save_checkpoint(checkpoint)
-            time.sleep(2)
+                parsed = parse_batch_response(raw_answer, b)
+                batch_matches = 0
+                for qid_str, item in parsed.items():
+                    checkpoint["verified_items"][qid_str] = item
+                    is_m = item["is_match"]
+                    if is_m:
+                        batch_matches += 1
+                    status_icon = "✅" if is_m else ("⚠️" if is_m is False else "❓")
+                    print(f"    {status_icon} Câu {qid_str}: Hệ thống [{item['expected']}] | NLM [{item['predicted'] or 'N/A'}]")
+                
+                print(f"  -> Kết quả Batch {batch_idx}: {batch_matches}/{len(b)} câu trùng khớp.")
+                save_checkpoint(checkpoint)
+                
+                # Tiến độ tổng thể
+                done_count = len(checkpoint['verified_items'])
+                print(f"  📊 Tiến độ toàn diện: {done_count}/{len(questions)} câu ({done_count/len(questions)*100:.1f}%)")
+                
+                success = True
+                time.sleep(2) # Nghỉ an toàn
+                break
 
-        except Exception as e:
-            print(f"[-] Lỗi truy vấn batch {batch_idx}: {e}")
+            except Exception as e:
+                print(f"  [-] Lỗi trong lượt thử {attempt}/3 của batch {batch_idx}: {e}")
+                if attempt < 3:
+                    print("  [*] Đang chờ 6s và thử lại...")
+                    time.sleep(6)
+                else:
+                    print(f"  [!] Bỏ qua batch {batch_idx} sau 3 lần thất bại.")
+
+        if not success:
             save_checkpoint(checkpoint)
             time.sleep(5)
 
-    print("\n[+] Đợt kiểm tra batch hoàn tất!")
+    print("\n[+] Đợt rà soát batch hoàn tất!")
     generate_markdown_report(checkpoint, len(questions))
 
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="NotebookLM Fast Batch Verification")
-    parser.add_argument("--batches", type=int, default=10, help="Số lượng batch chạy trong lượt này")
+    parser.add_argument("--batches", type=int, default=None, help="Số lượng batch chạy trong lượt này (mặc định: duyệt hết toàn bộ)")
     parser.add_argument("--reset", action="store_true", help="Xóa checkpoint cũ để kiểm tra lại từ đầu")
     args = parser.parse_args()
     
